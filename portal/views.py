@@ -16,6 +16,7 @@ def split_content_blocks(text):
     return blocks or [text]
 
 
+
 def get_language_code():
     return (translation.get_language() or settings.LANGUAGE_CODE)[:2]
 

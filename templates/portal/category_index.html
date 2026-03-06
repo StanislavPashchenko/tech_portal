@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% load portal_tags %}
+
+{% block content %}
+<section class="section-block">
+    <div class="section-heading">
+        <h1>{% ui 'categories' %}</h1>
+        <p>{{ meta_description }}</p>
+    </div>
+    <div class="category-grid">
+        {% for category in categories %}
+        <article class="card category-card">
+            <div class="card-body">
+                <span class="eyebrow">{{ category.slug }}</span>
+                <h2><a href="{{ category.get_absolute_url }}">{% category_label category %}</a></h2>
+                <p>{% category_description category %}</p>
+            </div>
+        </article>
+        {% endfor %}
+    </div>
+</section>
+{% endblock %}

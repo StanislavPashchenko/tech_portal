@@ -1,0 +1,93 @@
+{% extends "base.html" %}
+{% load portal_tags %}
+
+{% block content %}
+<section class="hero-grid">
+    <div class="hero-panel">
+        <span class="eyebrow">Django SEO Portal</span>
+        <h1>{{ page_heading }}</h1>
+        <p>{{ intro_text }}</p>
+        <div class="hero-actions">
+            <a class="button" href="{% url 'portal:category_index' %}">{% ui 'all_categories' %}</a>
+            <a class="button button--ghost" href="{% url 'portal:brand_list' %}">{% ui 'all_brands' %}</a>
+        </div>
+    </div>
+    <div class="hero-stack">
+        {% for article in hero_articles %}
+            {% include "includes/article_card.html" with article=article %}
+        {% endfor %}
+    </div>
+</section>
+
+<section class="content-with-sidebar">
+    <div>
+        <section class="section-block">
+            <div class="section-heading">
+                <h2>{% ui 'latest_articles' %}</h2>
+            </div>
+            <div class="card-grid">
+                {% for article in latest_articles %}
+                    {% include "includes/article_card.html" with article=article %}
+                {% empty %}
+                    <p class="empty-state">{% ui 'no_results' %}</p>
+                {% endfor %}
+            </div>
+        </section>
+
+        {% for section in category_sections %}
+        <section class="section-block">
+            <div class="section-heading">
+                <h2>{% category_label section.category %}</h2>
+                <a href="{{ section.category.get_absolute_url }}">{% ui 'read_more' %}</a>
+            </div>
+            <div class="card-grid">
+                {% for article in section.articles %}
+                    {% include "includes/article_card.html" with article=article %}
+                {% empty %}
+                    <p class="empty-state">{% ui 'no_results' %}</p>
+                {% endfor %}
+            </div>
+        </section>
+        {% endfor %}
+
+        <section class="section-block">
+            <div class="section-heading">
+                <h2>{% ui 'latest_error_codes' %}</h2>
+                <a href="{% url 'portal:error_list' %}">{% ui 'read_more' %}</a>
+            </div>
+            <div class="card-grid">
+                {% for error_code in latest_errors %}
+                    {% include "includes/error_card.html" with error_code=error_code %}
+                {% empty %}
+                    <p class="empty-state">{% ui 'no_results' %}</p>
+                {% endfor %}
+            </div>
+        </section>
+    </div>
+
+    <aside class="sidebar">
+        {% include "includes/ad_block.html" with key="ad_sidebar" %}
+        <section class="sidebar-panel">
+            <h3>{% ui 'popular_articles' %}</h3>
+            <div class="mini-list">
+                {% for article in global_popular_articles %}
+                <a href="{{ article.get_absolute_url }}">
+                    <strong>{{ article.display_title }}</strong>
+                    <span>{{ article.views }} {% ui 'views' %}</span>
+                </a>
+                {% empty %}
+                <p class="empty-state">{% ui 'no_results' %}</p>
+                {% endfor %}
+            </div>
+        </section>
+        <section class="sidebar-panel">
+            <h3>{% ui 'top_brands' %}</h3>
+            <div class="tag-cloud">
+                {% for brand in top_brands %}
+                <a href="{{ brand.get_absolute_url }}">{{ brand.name }}</a>
+                {% endfor %}
+            </div>
+        </section>
+    </aside>
+</section>
+{% endblock %}

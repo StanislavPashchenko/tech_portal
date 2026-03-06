@@ -1,0 +1,12 @@
+{% load portal_tags %}
+<article class="card error-card">
+    <div class="card-body">
+        <span class="eyebrow">{{ error_code.brand.display_name }} / {{ error_code.code }}</span>
+        <h3><a href="{{ error_code.get_absolute_url }}">{{ error_code.display_title }}</a></h3>
+        <p>{{ error_code.display_description }}</p>
+        <div class="card-meta">
+            <span>{{ request.LANGUAGE_CODE|upper }}</span>
+            <span>{{ error_code.views }} {% ui 'views' %}</span>
+        </div>
+    </div>
+</article>

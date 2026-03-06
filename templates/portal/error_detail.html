@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% load portal_tags %}
+
+{% block extra_schema %}
+<script type="application/ld+json">{{ error_schema|safe }}</script>
+{% endblock %}
+
+{% block content %}
+<section class="article-layout">
+    <article class="article-main">
+        <header class="article-header">
+            <span class="eyebrow">{{ error_code.brand.display_name }} / {{ error_code.code }}</span>
+            <h1>{{ error_code.display_title }}</h1>
+            <p class="article-excerpt">{{ error_code.display_description }}</p>
+            <div class="article-meta">
+                <span>{{ error_code.views }} {% ui 'views' %}</span>
+                <span>{{ request.LANGUAGE_CODE|upper }}</span>
+            </div>
+        </header>
+
+        <section class="detail-panel">
+            <h2>{% ui 'causes' %}</h2>
+            <div>{{ error_code.display_causes|linebreaks }}</div>
+        </section>
+        <section class="detail-panel">
+            <h2>{% ui 'solutions' %}</h2>
+            <div>{{ error_code.display_solutions|linebreaks }}</div>
+        </section>
+
+        <section class="section-block">
+            <div class="section-heading">
+                <h2>{% ui 'error_codes' %}</h2>
+            </div>
+            <div class="card-grid">
+                {% for error_code in related_error_codes %}
+                    {% include "includes/error_card.html" with error_code=error_code %}
+                {% empty %}
+                    <p class="empty-state">{% ui 'no_results' %}</p>
+                {% endfor %}
+            </div>
+        </section>
+    </article>
+    <aside class="sidebar">
+        {% include "includes/ad_block.html" with key="ad_sidebar" %}
+    </aside>
+</section>
+{% endblock %}

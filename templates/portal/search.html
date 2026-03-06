@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+{% load portal_tags %}
+
+{% block content %}
+<section class="section-block">
+    <div class="section-heading">
+        <h1>{% ui 'search_results' %}</h1>
+        <p>{{ results_total }} results{% if query %} for "{{ query }}"{% endif %}</p>
+    </div>
+    <form class="search-page-form" action="{% url 'portal:search' %}" method="get">
+        <input type="search" name="q" value="{{ query }}" placeholder="{% ui 'search_placeholder' %}">
+        <button type="submit">{% ui 'search' %}</button>
+    </form>
+</section>
+
+<section class="section-block">
+    <div class="section-heading">
+        <h2>{% ui 'latest_articles' %}</h2>
+    </div>
+    <div class="card-grid">
+        {% for article in article_results %}
+            {% include "includes/article_card.html" with article=article %}
+        {% empty %}
+            <p class="empty-state">{% ui 'no_results' %}</p>
+        {% endfor %}
+    </div>
+</section>
+
+<section class="section-block">
+    <div class="section-heading">
+        <h2>{% ui 'error_codes' %}</h2>
+    </div>
+    <div class="card-grid">
+        {% for error_code in error_results %}
+            {% include "includes/error_card.html" with error_code=error_code %}
+        {% empty %}
+            <p class="empty-state">{% ui 'no_results' %}</p>
+        {% endfor %}
+    </div>
+</section>
+{% endblock %}

@@ -1,0 +1,67 @@
+{% extends "base.html" %}
+{% load portal_tags %}
+
+{% block extra_schema %}
+<script type="application/ld+json">{{ article_schema|safe }}</script>
+{% endblock %}
+
+{% block content %}
+<section class="article-layout">
+    <article class="article-main">
+        <header class="article-header">
+            <span class="eyebrow">{% category_label article.category %}</span>
+            <h1>{{ article.display_title }}</h1>
+            <p class="article-excerpt">{{ article.display_excerpt }}</p>
+            <div class="article-meta">
+                <span>{% ui 'published' %}: {{ article.created_at|date:"d.m.Y" }}</span>
+                <span>{% ui 'updated' %}: {{ article.updated_at|date:"d.m.Y" }}</span>
+                <span>{{ article.views }} {% ui 'views' %}</span>
+            </div>
+            {% if article.image %}
+            <img class="article-cover" src="{{ article.image }}" alt="{{ article.display_title }}">
+            {% endif %}
+        </header>
+
+        {% include "includes/ad_block.html" with key="ad_start" %}
+
+        <div class="article-content">
+            {% for block in content_blocks %}
+            <div class="article-paragraph">{{ block|linebreaks }}</div>
+            {% if forloop.counter == midpoint_index %}
+                {% include "includes/ad_block.html" with key="ad_middle" %}
+            {% endif %}
+            {% endfor %}
+        </div>
+
+        {% include "includes/ad_block.html" with key="ad_end" %}
+
+        <section class="section-block">
+            <div class="section-heading">
+                <h2>{% ui 'related_articles' %}</h2>
+            </div>
+            <div class="card-grid">
+                {% for article in related_articles %}
+                    {% include "includes/article_card.html" with article=article %}
+                {% empty %}
+                    <p class="empty-state">{% ui 'no_results' %}</p>
+                {% endfor %}
+            </div>
+        </section>
+    </article>
+
+    <aside class="sidebar">
+        {% include "includes/ad_block.html" with key="ad_sidebar" %}
+        <section class="sidebar-panel">
+            <h3>{% ui 'popular_articles' %}</h3>
+            <div class="mini-list">
+                {% for article in global_popular_articles %}
+                <a href="{{ article.get_absolute_url }}">
+                    <strong>{{ article.display_title }}</strong>
+                    <span>{{ article.views }} {% ui 'views' %}</span>
+                </a>
+                {% endfor %}
+            </div>
+        </section>
+    </aside>
+</section>
+{% endblock %}

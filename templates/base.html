@@ -1,0 +1,97 @@
+{% load static portal_tags %}
+<!DOCTYPE html>
+<html lang="{{ request.LANGUAGE_CODE|default:'uk' }}">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page_title }}</title>
+    <meta name="description" content="{{ meta_description }}">
+    <meta name="robots" content="{{ meta_robots|default:'index,follow' }}">
+    <link rel="canonical" href="{{ canonical_url }}">
+    <meta property="og:site_name" content="{{ site_name }}">
+    <meta property="og:title" content="{{ page_title }}">
+    <meta property="og:description" content="{{ meta_description }}">
+    <meta property="og:type" content="{{ og_type|default:'website' }}">
+    <meta property="og:url" content="{{ canonical_url }}">
+    {% if og_image %}
+    <meta property="og:image" content="{{ og_image }}">
+    {% endif %}
+    <link rel="alternate" hreflang="en" href="{{ request.scheme }}://{{ request.get_host }}{% switch_lang_path 'en' %}">
+    <link rel="alternate" hreflang="ru" href="{{ request.scheme }}://{{ request.get_host }}{% switch_lang_path 'ru' %}">
+    <link rel="alternate" hreflang="uk" href="{{ request.scheme }}://{{ request.get_host }}{% switch_lang_path 'uk' %}">
+    <link rel="alternate" hreflang="x-default" href="{{ request.scheme }}://{{ request.get_host }}{% switch_lang_path 'uk' %}">
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+    {% if breadcrumb_schema %}
+    <script type="application/ld+json">{{ breadcrumb_schema|safe }}</script>
+    {% endif %}
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "name": "{{ site_name }}",
+            "url": "{{ request.scheme }}://{{ request.get_host }}",
+            "potentialAction": {
+                "@type": "SearchAction",
+                "target": "{{ request.scheme }}://{{ request.get_host }}{% url 'portal:search' %}?q={search_term_string}",
+                "query-input": "required name=search_term_string"
+            }
+        }
+    </script>
+    {% block extra_schema %}{% endblock %}
+</head>
+<body>
+    <div class="page-shell">
+        <header class="site-header">
+            <div class="brand-bar">
+                <a class="brand-mark" href="{% url 'portal:home' %}">
+                    <span class="brand-mark__tag">SEO</span>
+                    <span class="brand-mark__name">{% ui 'site_name' %}</span>
+                </a>
+                <p class="brand-copy">{% ui 'site_tagline' %}</p>
+                <div class="language-switcher" aria-label="Language switcher">
+                    <a href="{% switch_lang_path 'uk' %}" class="{% if request.LANGUAGE_CODE == 'uk' %}is-active{% endif %}">UK</a>
+                    <a href="{% switch_lang_path 'en' %}" class="{% if request.LANGUAGE_CODE == 'en' %}is-active{% endif %}">EN</a>
+                    <a href="{% switch_lang_path 'ru' %}" class="{% if request.LANGUAGE_CODE == 'ru' %}is-active{% endif %}">RU</a>
+                </div>
+            </div>
+            <div class="site-nav-wrap">
+                <nav class="site-nav" aria-label="Primary">
+                    <a href="{% url 'portal:home' %}">{% ui 'home' %}</a>
+                    {% for category in nav_categories %}
+                    <a href="{{ category.get_absolute_url }}">{% category_label category %}</a>
+                    {% endfor %}
+                    <a href="{% url 'portal:brand_list' %}">{% ui 'brands' %}</a>
+                </nav>
+                <form class="search-form" action="{% url 'portal:search' %}" method="get">
+                    <input type="search" name="q" value="{{ request.GET.q }}" placeholder="{% ui 'search_placeholder' %}">
+                    <button type="submit">{% ui 'search' %}</button>
+                </form>
+            </div>
+        </header>
+
+        {% if breadcrumbs %}
+        <nav class="breadcrumbs" aria-label="Breadcrumbs">
+            {% for crumb in breadcrumbs %}
+            <a href="{{ crumb.url }}">{{ crumb.label }}</a>
+            {% endfor %}
+        </nav>
+        {% endif %}
+
+        <main class="site-main">
+            {% block content %}{% endblock %}
+        </main>
+
+        <footer class="site-footer">
+            <div>
+                <strong>{% ui 'site_name' %}</strong>
+                <p>{% ui 'footer_note' %}</p>
+            </div>
+            <div class="footer-links">
+                <a href="{% url 'portal:category_index' %}">{% ui 'categories' %}</a>
+                <a href="{% url 'portal:brand_list' %}">{% ui 'brands' %}</a>
+                <a href="{% url 'portal:search' %}">{% ui 'search' %}</a>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>

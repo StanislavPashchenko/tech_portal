@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% load portal_tags %}
+
+{% block content %}
+<section class="content-with-sidebar">
+    <div>
+        <section class="section-block">
+            <div class="section-heading">
+                <h1>{{ page_heading }}</h1>
+                <p>{{ page_intro }}</p>
+            </div>
+            <div class="card-grid">
+                {% for article in articles %}
+                    {% include "includes/article_card.html" with article=article %}
+                {% empty %}
+                    <p class="empty-state">{% ui 'no_results' %}</p>
+                {% endfor %}
+            </div>
+            {% include "includes/pagination.html" %}
+        </section>
+    </div>
+    <aside class="sidebar">
+        <section class="sidebar-panel">
+            <h3>{% ui 'popular_articles' %}</h3>
+            <div class="mini-list">
+                {% for article in global_popular_articles %}
+                <a href="{{ article.get_absolute_url }}">
+                    <strong>{{ article.title }}</strong>
+                    <span>{{ article.views }} {% ui 'views' %}</span>
+                </a>
+                {% endfor %}
+            </div>
+        </section>
+    </aside>
+</section>
+{% endblock %}

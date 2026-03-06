@@ -1,0 +1,17 @@
+{% load portal_tags %}
+<article class="card article-card">
+    {% if article.image %}
+    <a href="{{ article.get_absolute_url }}" class="card-image">
+        <img src="{{ article.image }}" alt="{{ article.display_title }}" loading="lazy">
+    </a>
+    {% endif %}
+    <div class="card-body">
+        <span class="eyebrow">{% category_label article.category %}</span>
+        <h3><a href="{{ article.get_absolute_url }}">{{ article.display_title }}</a></h3>
+        <p>{{ article.display_excerpt }}</p>
+        <div class="card-meta">
+            <span>{{ article.created_at|date:"d.m.Y" }}</span>
+            <span>{{ article.views }} {% ui 'views' %}</span>
+        </div>
+    </div>
+</article>

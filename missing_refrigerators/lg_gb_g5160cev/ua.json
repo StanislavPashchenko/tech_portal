@@ -1,0 +1,147 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/LG-GB-G5160CEV.htm",
+    "actual_url": "https://ek.ua/ua/LG-GB-G5160CEV.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "LG",
+    "model": "GB-G5160CEV чорний",
+    "title": "Холодильник LG GB-G5160CEV чорний",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 349,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": false,
+    "hidden_door_handles": true,
+    "fresh_zone": false,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 195,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 110,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": 10
+  },
+  "general": {
+    "control": "сенсорне внутрішнє",
+    "energy_class_new": "C",
+    "annual_energy_consumption_kwh": 172,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 35,
+    "dimensions_cm": {
+      "height": 186.0,
+      "width": 59.5,
+      "depth": 67.6
+    },
+    "weight_kg": 102.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник LG GB-G5160CEV чорний за ціною від 71542 до 79862 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2859200.jpg",
+    "https://mzimg.com/big/c1/hz68151wec1.jpg",
+    "https://mzimg.com/big/x1/hz6815d1kx1.jpg",
+    "https://mzimg.com/big/o1/hz68152y6o1.jpg",
+    "https://mzimg.com/big/m1/hz6815dvzm1.jpg",
+    "https://mzimg.com/big/l1/hz6815n7vl1.jpg",
+    "https://mzimg.com/big/l1/hz6815pnal1.jpg",
+    "https://mzimg.com/big/61/hz68160vb61.jpg",
+    "https://mzimg.com/big/v1/hz68161j1v1.jpg",
+    "https://s.ek.ua/jpg/2859200.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 9": "79 862 грн.",
+      "Novateh.com.ua →": "79 862 грн.",
+      "Колір Загальний об'єм 349 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 Інверторний компресор No Frost морозильна / холодильна камери Функції та можливості Функції керування зі смартфона (Wi-Fi) LED дисплей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 195 л Полиць 3 шт Відсіки для зберігання зона свіжості зона вологості Зона свіжості (нульова камера) 44 л Швидкий доступ (міні-бар) / InstaView / Швидке охолодження Динамічне охолодження Автоматичне розморожування LED освітлення": "березень 2025",
+      "Загальний об'єм": "349 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "керування зі смартфона (Wi-Fi) LED дисплей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "195 л",
+      "Полиць": "3 шт",
+      "Відсіки для зберігання": "зона свіжості зона вологості",
+      "Зона свіжості (нульова камера)": "44 л",
+      "Швидкий доступ (міні-бар)": "/ InstaView /",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "110 л",
+      "Відділень морозильної камери": "3 шт",
+      "Потужність заморожування": "10 кг/добу",
+      "Управління": "сенсорне внутрішнє",
+      "Клас енергоспоживання (new)": "C",
+      "Споживання енергії в рік": "172 кВт*год",
+      "Кліматичний клас": "тропічний Т (+18...+43 °С)",
+      "Клас гучності": "B",
+      "Рівень шуму": "35 дБ",
+      "Габарити (ВхШхГ)": "186х59.5х67.6 см",
+      "Вага": "102 кг",
+      "Офіційний сайт": "lg.com",
+      "Дата додавання на E-Katalog": "березень 2025",
+      "Інверторний компресор": "так",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\lg_gb_g5160cev\\images\\01.jpg",
+    "missing_refrigerators\\lg_gb_g5160cev\\images\\02.jpg",
+    "missing_refrigerators\\lg_gb_g5160cev\\images\\03.jpg",
+    "missing_refrigerators\\lg_gb_g5160cev\\images\\04.jpg",
+    "missing_refrigerators\\lg_gb_g5160cev\\images\\05.jpg",
+    "missing_refrigerators\\lg_gb_g5160cev\\images\\06.jpg",
+    "missing_refrigerators\\lg_gb_g5160cev\\images\\07.jpg",
+    "missing_refrigerators\\lg_gb_g5160cev\\images\\08.jpg",
+    "missing_refrigerators\\lg_gb_g5160cev\\images\\09.jpg",
+    "missing_refrigerators\\lg_gb_g5160cev\\images\\10.jpg"
+  ]
+}

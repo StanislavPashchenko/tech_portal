@@ -9,6 +9,7 @@
                 <h1>{{ page_heading }}</h1>
                 <p>{{ page_intro }}</p>
             </div>
+            <p class="eyebrow">{{ repair_model.repair_brand.appliance_type.display_name }} / {{ repair_model.repair_brand.display_name }}</p>
             <div class="card-grid">
                 {% for error_code in error_codes %}
                     {% include "includes/error_card.html" with error_code=error_code %}

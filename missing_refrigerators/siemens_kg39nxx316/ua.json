@@ -1,0 +1,144 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/SIEMENS-KG39NXX316.htm",
+    "actual_url": "https://ek.ua/ua/SIEMENS-KG39NXX316.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Siemens",
+    "model": "KG39NXX316 графіт",
+    "title": "Холодильник Siemens KG39NXX316 графіт",
+    "category": "E-Katalog category 200",
+    "year": 2019,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 20
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 366,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": false,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 255,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 87,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 16,
+    "freezing_capacity_kg_per_day": 14
+  },
+  "general": {
+    "control": "сенсорне зовнішнє",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 273,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 60.0,
+      "depth": 66.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Красивий зовні і потужний всередині. Цьому холодильнику можна довірити зберігання улюблених продуктів і вишуканих страв. Система охолодження агрегату <b>MultiAirflow</b> використовує <b>багатопотоковий розподіл</b>. З такою технологією холод направляється до кожної полиці і кожного ящика окремо. Цікавою особливістю моделі є використання <b>скляних полиць EasyAccess</b>. Такі полки мають <b>висувний механізм</b>, даючи можливість легко пробиратися до тих продуктів, які знаходяться на задньому ряду. Холодильник Siemens KG39NXX316 дозволяє охолоджувати і заморожувати свіжі продукти в <b>інтенсивному режимі</b>. Функції <b>швидкого заморожування</b> і <b>швидкого охолодження</b> можна активувати натисканням відповідних кнопок. В цьому випадку продуктивність холодильної системи значно зросте, що дозволить зберегти холодними колишні продукти. Високий рівень енергоефективності добре поєднується з непоганою місткістю. Частка корисного простору холодильника досягає <b>366 л</b>, це за умови, що витрата електроенергії відповідає класу <b>а++</b>. Для даної моделі характерне споживання <b>273 кВт*год щорічно</b>. Це економічний агрегат з <b>підвищеною продуктивністю</b>. Морозильне відділення легко справляється з підготовкою <b>14 кг продуктів на добу</b>.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1683916.jpg",
+    "https://mzimg.com/big/k1/g8hmx8zyek1.jpg",
+    "https://mzimg.com/big/d1/g8hmx980rd1.jpg",
+    "https://mzimg.com/big/a1/g8hmx9fnda1.jpg",
+    "https://mzimg.com/big/31/g8hmx9mqc31.jpg",
+    "https://s.ek.ua/jpg/1683916.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 5": "35 857 грн.",
+      "Bosch-centre.com.ua →": "36 999 грн.",
+      "Bs-partner.com.ua →": "36 999 грн.",
+      "Click.ua →": "32 684 грн.",
+      "Xfrost.net.ua →": "36 999 грн.",
+      "Tendo.com.ua →": "35 857 грн.",
+      "Колір Загальний об'єм 366 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 No Frost морозильна / холодильна камери Функції та можливості Функції захист від дітей індикатор закриття дверцят перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 255 л Відсіки для зберігання зона свіжості зона вологості Зона свіжості (нульова камера) 24 л Швидке охолодження Динамічне охолодження Автоматичне розморожування LED освітлення": "жовтень 2019",
+      "Загальний об'єм": "366 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "захист від дітей індикатор закриття дверцят перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "255 л",
+      "Відсіки для зберігання": "зона свіжості зона вологості",
+      "Зона свіжості (нульова камера)": "24 л",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "87 л",
+      "Температура морозилки": "-24 °C",
+      "Час збереження холоду": "16 год",
+      "Потужність заморожування": "14 кг/добу",
+      "Управління": "сенсорне зовнішнє",
+      "Клас енергоспоживання": "A++",
+      "Споживання енергії в рік": "273 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Рівень шуму": "39 дБ",
+      "Габарити (ВхШхГ)": "203x60x66 см",
+      "Офіційний сайт": "siemens-home.bsh-group.com",
+      "Дата додавання на E-Katalog": "жовтень 2019",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\siemens_kg39nxx316\\images\\01.jpg",
+    "missing_refrigerators\\siemens_kg39nxx316\\images\\02.jpg",
+    "missing_refrigerators\\siemens_kg39nxx316\\images\\03.jpg",
+    "missing_refrigerators\\siemens_kg39nxx316\\images\\04.jpg",
+    "missing_refrigerators\\siemens_kg39nxx316\\images\\05.jpg",
+    "missing_refrigerators\\siemens_kg39nxx316\\images\\06.jpg"
+  ]
+}

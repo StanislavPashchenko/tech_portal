@@ -1,0 +1,135 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/KERNAU-KFSB-1793-B.htm",
+    "actual_url": "https://ek.ua/ua/KERNAU-KFSB-1793-B.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Kernau",
+    "model": "KFSB 1793 B чорний",
+    "title": "Холодильник Kernau KFSB 1793 B чорний",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "Side-by-side",
+    "total_volume_l": 442,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 291,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "збоку",
+    "volume_l": 151,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 10,
+    "freezing_capacity_kg_per_day": 11
+  },
+  "general": {
+    "control": "сенсорне зовнішнє",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 287,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 177.0,
+      "width": 90.0,
+      "depth": 59.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Kernau KFSB 1793 B чорний за ціною від 30929 до 32404 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2482540.jpg",
+    "https://mzimg.com/big/h1/hfeapnueyh1.jpg",
+    "https://mzimg.com/big/x1/hfeapnwyix1.jpg",
+    "https://s.ek.ua/jpg/2482540.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Tendo.com.ua →": "32 302 грн.",
+      "Колір Тип Side-by-side Загальний об'єм 442 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 No Frost морозильна / холодильна камери Функції та можливості Функції захист від дітей індикатор закриття дверцят Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 291 л Полиць 4 шт Швидке охолодження Динамічне охолодження Автоматичне розморожування LED освітлення": "червень 2023",
+      "Тип": "Side-by-side",
+      "Загальний об'єм": "442 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "захист від дітей індикатор закриття дверцят",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "291 л",
+      "Полиць": "4 шт",
+      "Морозильна камера": "збоку",
+      "Об'єм морозильної камери": "151 л",
+      "Температура морозилки": "-22 °C",
+      "Час збереження холоду": "10 год",
+      "Потужність заморожування": "11.2 кг/добу",
+      "Управління": "сенсорне зовнішнє",
+      "Клас енергоспоживання (new)": "E",
+      "Споживання енергії в рік": "287 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Рівень шуму": "39 дБ",
+      "Габарити (ВхШхГ)": "177x90x59 см",
+      "Офіційний сайт": "kernau.com",
+      "Дата додавання на E-Katalog": "червень 2023",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\kernau_kfsb_1793_b\\images\\01.jpg",
+    "missing_refrigerators\\kernau_kfsb_1793_b\\images\\02.jpg",
+    "missing_refrigerators\\kernau_kfsb_1793_b\\images\\03.jpg",
+    "missing_refrigerators\\kernau_kfsb_1793_b\\images\\04.jpg"
+  ]
+}

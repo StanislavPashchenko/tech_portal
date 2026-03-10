@@ -1,0 +1,143 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/HAIER-HB-18FGSAAA.htm",
+    "actual_url": "https://ek.ua/ua/HAIER-HB-18FGSAAA.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Haier",
+    "model": "HB-18FGSAAA нержавіюча сталь",
+    "title": "Холодильник Haier HB-18FGSAAA нержавіюча сталь",
+    "category": "E-Katalog category 200",
+    "year": 2018,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "French-door (розпашний)",
+    "total_volume_l": 508,
+    "cameras_count": 3,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 351,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "знизу (висувна)",
+    "volume_l": 157,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 20,
+    "freezing_capacity_kg_per_day": 14
+  },
+  "general": {
+    "control": "сенсорне зовнішнє",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 298,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 38,
+    "dimensions_cm": {
+      "height": 190.0,
+      "width": 83.0,
+      "depth": 68.0
+    },
+    "weight_kg": null,
+    "country_of_origin": "Китай"
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Haier HB-18FGSAAA нержавіюча сталь за ціною від 91057 до 91057 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1436175.jpg",
+    "https://mzimg.com/big/b1/fvgatofdfb1.jpg",
+    "https://mzimg.com/big/61/fvgatomm061.jpg",
+    "https://mzimg.com/big/q1/fvgatotu9q1.jpg",
+    "https://mzimg.com/big/b1/fvgatp0lsb1.jpg",
+    "https://s.ek.ua/jpg/1436175.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Відео 6 Фото 5": "від 91 057 грн. Купити! Haier HB18FGSAAA Free Frog Novateh.com.ua Менше року Доставка: у Дніпро з Новояворівська Поскаржитись в список мої списки додати до порівняння",
+      "Колір Тип French-door (розпашний) Загальний об'єм 508 л Кількість камер 3 Контурів охолодження 2 Компресорів 1 Інверторний компресор No Frost морозильна / холодильна камери Функції та можливості Функції режим відпустки захист від дітей LED дисплей індикатор закриття дверцят Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 351 л Відсіки для зберігання зона свіжості Швидке охолодження Динамічне охолодження Автоматичне розморожування Дезодоратор LED освітлення": "вересень 2018",
+      "Тип": "French-door (розпашний)",
+      "Загальний об'єм": "508 л",
+      "Кількість камер": "3",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "режим відпустки захист від дітей LED дисплей індикатор закриття дверцят",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "351 л",
+      "Відсіки для зберігання": "зона свіжості",
+      "Морозильна камера": "знизу (висувна)",
+      "Об'єм морозильної камери": "157 л",
+      "Температура морозилки": "-24 °C",
+      "Час збереження холоду": "20 год",
+      "Потужність заморожування": "14 кг/добу",
+      "Управління": "сенсорне зовнішнє",
+      "Клас енергоспоживання": "A++",
+      "Споживання енергії в рік": "298 кВт*год",
+      "Кліматичний клас": "SN, N, ST (+10...+38 °С)",
+      "Рівень шуму": "38 дБ",
+      "Габарити (ВхШхГ)": "190x83x68 см",
+      "Країна виробництва": "Китай",
+      "Офіційний сайт": "haier-europe.com",
+      "Дата додавання на E-Katalog": "вересень 2018",
+      "Відгук корисний? Так 2 Ні 13": "Вячеслав Гетманов Вячеслав 21 травня 2021, 13:48",
+      "Під гарною обгорткою повне Г.": "8 жовтня 2018",
+      "Інверторний компресор": "так",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так",
+      "Дезодоратор": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\haier_hb_18fgsaaa\\images\\01.jpg",
+    "missing_refrigerators\\haier_hb_18fgsaaa\\images\\02.jpg",
+    "missing_refrigerators\\haier_hb_18fgsaaa\\images\\03.jpg",
+    "missing_refrigerators\\haier_hb_18fgsaaa\\images\\04.jpg",
+    "missing_refrigerators\\haier_hb_18fgsaaa\\images\\05.jpg",
+    "missing_refrigerators\\haier_hb_18fgsaaa\\images\\06.jpg"
+  ]
+}

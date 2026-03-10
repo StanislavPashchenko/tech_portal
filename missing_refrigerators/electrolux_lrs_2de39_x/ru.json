@@ -1,0 +1,139 @@
+{
+  "source": {
+    "url": "https://ek.ua/ELECTROLUX-LRS-2DE39-X.htm",
+    "actual_url": "https://ek.ua/ELECTROLUX-LRS-2DE39-X.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Electrolux",
+    "model": "LRS 2DE39 X нержавейка (925 052 208)",
+    "title": "Холодильник Electrolux LRS 2DE39 X нержавейка (925 052 208)",
+    "category": "E-Katalog category 200",
+    "year": 2022,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 390,
+    "cameras_count": 1,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 390,
+    "shelves_count": 5
+  },
+  "freezer_compartment": {
+    "location": "отсутствует",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "сенсорное внутреннее",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 121,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 38,
+    "dimensions_cm": {
+      "height": 186.0,
+      "width": 59.5,
+      "depth": 63.5
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general",
+      "Цены на Electrolux LRS 2DE39 X"
+    ]
+  },
+  "description": "Холодильник Electrolux LRS 2DE39 X нержавейка (925 052 208) по цене от 29326 до 29326 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2331065.jpg",
+    "https://mzimg.com/big/f1/h8vwifhvgf1.jpg",
+    "https://mzimg.com/big/o1/h8vwififbo1.jpg",
+    "https://mzimg.com/big/c1/h8vwifqtfc1.jpg",
+    "https://mzimg.com/big/m1/h8vwiftljm1.jpg",
+    "https://mzimg.com/big/y1/h8vwig19uy1.jpg",
+    "https://mzimg.com/big/a1/h8vwig4ada1.jpg",
+    "https://mzimg.com/big/u1/h8vwigd2qu1.jpg",
+    "https://mzimg.com/big/71/h8vwigetv71.jpg",
+    "https://s.ek.ua/jpg/2331065.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 9": "29 326 грн. Купить! Холодильник Electrolux LRS2DE39X inSale.com.ua Менее года Доставка: в Днепр из Киева Гарантия: 12 мес. Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Общий объем 390 л Количество камер 1 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Функции режим отпуска LED дисплей индикатор закрытия дверцы перевешивание дверей Холодильное отделение Объем холодильной камеры 390 л Полок 5 шт Отсеки для хранения полка для бутылок Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "925 052 208",
+      "Общий объем": "390 л",
+      "Количество камер": "1",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Функции": "режим отпуска LED дисплей индикатор закрытия дверцы перевешивание дверей",
+      "Объем холодильной камеры": "390 л",
+      "Полок": "5 шт",
+      "Отсеки для хранения": "полка для бутылок",
+      "Морозильная камера": "отсутствует",
+      "Управление": "сенсорное внутреннее",
+      "Класс энергопотребления (new)": "E",
+      "Потребление энергии в год": "121 кВт*ч",
+      "Класс шумности": "C",
+      "Уровень шума": "38 дБ",
+      "Габариты (ВхШхГ)": "186x59.5x63.5 см",
+      "Официальный сайт": "electrolux.pl",
+      "Дата добавления на E-Katalog": "декабрь 2022",
+      "Маркировка производителя": "925 052 208",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    },
+    "Цены на Electrolux LRS 2DE39 X": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\electrolux_lrs_2de39_x\\images\\01.jpg",
+    "missing_refrigerators\\electrolux_lrs_2de39_x\\images\\02.jpg",
+    "missing_refrigerators\\electrolux_lrs_2de39_x\\images\\03.jpg",
+    "missing_refrigerators\\electrolux_lrs_2de39_x\\images\\04.jpg",
+    "missing_refrigerators\\electrolux_lrs_2de39_x\\images\\05.jpg",
+    "missing_refrigerators\\electrolux_lrs_2de39_x\\images\\06.jpg",
+    "missing_refrigerators\\electrolux_lrs_2de39_x\\images\\07.jpg",
+    "missing_refrigerators\\electrolux_lrs_2de39_x\\images\\08.jpg",
+    "missing_refrigerators\\electrolux_lrs_2de39_x\\images\\09.jpg",
+    "missing_refrigerators\\electrolux_lrs_2de39_x\\images\\10.jpg"
+  ]
+}

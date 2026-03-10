@@ -1,0 +1,113 @@
+{% extends "base.html" %}
+{% load portal_tags %}
+
+{% block content %}
+<section class="article-layout">
+    <article class="article-main">
+        <header class="article-header">
+            <span class="eyebrow">{{ product.display_appliance_type }} / {{ product.display_brand_name }}</span>
+            <h1>{{ product.display_name }}</h1>
+            <div class="article-meta">
+                <span>{% ui 'coverage' %}: {{ product.display_coverage }}</span>
+                <span>{{ product.views }} {% ui 'views' %}</span>
+                <span>{{ request.LANGUAGE_CODE|upper }}</span>
+            </div>
+            {% if product.primary_image %}
+            <img class="article-cover" src="{{ product.primary_image }}" alt="{{ product.display_name }}">
+            {% endif %}
+        </header>
+
+        {% if product.display_product_description %}
+        <section class="detail-panel">
+            <h2>{% ui 'description' %}</h2>
+            <p class="detail-copy">{{ product.display_product_description|linebreaksbr }}</p>
+        </section>
+        {% endif %}
+
+        {% if product.spec_items or product.faults.all or product.display_repair_tips %}
+        <section class="detail-panel">
+            <h2>{% ui 'short_specs' %}</h2>
+
+            {% if product.spec_items %}
+            <dl class="spec-list">
+                {% for label, value in product.spec_items %}
+                    <dt>{{ label }}</dt>
+                    <dd>{{ value }}</dd>
+                {% endfor %}
+            </dl>
+            {% endif %}
+
+            {% if product.faults.all %}
+            <h3>{% ui 'common_faults' %}</h3>
+            <div class="fault-list">
+                {% for fault in product.faults.all %}
+                <article class="fault-card">
+                    <h3>{{ fault.issue }}</h3>
+                    <p><strong>{% ui 'likely_causes' %}:</strong> {{ fault.likely_causes|linebreaksbr }}</p>
+                    <p><strong>{% ui 'first_checks' %}:</strong> {{ fault.first_checks|linebreaksbr }}</p>
+                </article>
+                {% endfor %}
+            </div>
+            {% endif %}
+
+            {% if product.display_repair_tips %}
+            <h3>{% ui 'repair_tips' %}</h3>
+            <ul class="plain-list">
+                {% for tip in product.display_repair_tips %}
+                    <li>{{ tip }}</li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+
+        </section>
+        {% endif %}
+
+        {% if product.images.all %}
+        <section class="detail-panel">
+            <h2>{% ui 'products' %}</h2>
+            <div class="gallery-grid">
+                {% for image in product.images.all %}
+                    <img src="{{ image.image_url }}" alt="{{ product.display_name }} {{ forloop.counter }}">
+                {% endfor %}
+            </div>
+        </section>
+        {% endif %}
+
+        {% if error_codes %}
+        <section class="section-block">
+            <div class="section-heading">
+                <h2>{% ui 'error_codes' %}</h2>
+            </div>
+            <div class="card-grid">
+                {% for error_code in error_codes %}
+                    {% include "includes/error_card.html" with error_code=error_code %}
+                {% endfor %}
+            </div>
+        </section>
+        {% endif %}
+
+        {% if related_products %}
+        <section class="section-block">
+            <div class="section-heading">
+                <h2>{% ui 'similar_products' %}</h2>
+            </div>
+            <div class="card-grid">
+                {% for product in related_products %}
+                    {% include "includes/product_card.html" with product=product %}
+                {% endfor %}
+            </div>
+        </section>
+        {% endif %}
+    </article>
+
+    <aside class="sidebar">
+        {% include "includes/ad_block.html" with key="ad_sidebar" %}
+        {% if product.display_source_url %}
+        <section class="sidebar-panel">
+            <h3>{% ui 'product_page' %}</h3>
+            <a class="button" href="{{ product.display_source_url }}" target="_blank" rel="noopener noreferrer">{{ product.display_name }}</a>
+        </section>
+        {% endif %}
+    </aside>
+</section>
+{% endblock %}

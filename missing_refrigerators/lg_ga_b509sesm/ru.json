@@ -1,0 +1,160 @@
+{
+  "source": {
+    "url": "https://ek.ua/LG-GA-B509SESM.htm",
+    "actual_url": "https://ek.ua/LG-GA-B509SESM.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "LG",
+    "model": "GA-B509SESM бежевый",
+    "title": "Холодильник LG GA-B509SESM бежевый",
+    "category": "E-Katalog category 200",
+    "year": 2021,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 384,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 277,
+    "shelves_count": 5
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 107,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 16,
+    "freezing_capacity_kg_per_day": 12
+  },
+  "general": {
+    "control": "сенсорное внешнее",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 268,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 36,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 59.5,
+      "depth": 68.2
+    },
+    "weight_kg": 74.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник LG GA-B509SESM бежевый по цене от 27154 до 27684 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1988050.jpg",
+    "https://mzimg.com/big/o1/gov4ssvdro1.jpg",
+    "https://mzimg.com/big/u1/gov4sswp7u1.jpg",
+    "https://mzimg.com/big/n1/gov4surhfn1.jpg",
+    "https://mzimg.com/big/h1/gov4sv6nbh1.jpg",
+    "https://mzimg.com/big/p1/gov4svjy2p1.jpg",
+    "https://mzimg.com/big/r1/gov4svlfgr1.jpg",
+    "https://mzimg.com/big/f1/gov4svx73f1.jpg",
+    "https://mzimg.com/big/k1/gov4st9mqk1.jpg",
+    "https://mzimg.com/big/g1/gov4stc9ug1.jpg",
+    "https://mzimg.com/big/o1/gov4stpilo1.jpg",
+    "https://mzimg.com/big/s1/gov4sttnds1.jpg",
+    "https://s.ek.ua/jpg/1988050.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Rozetka.ua →": "27 684 грн.",
+      "Цвет Общий объем 384 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 Инверторный компрессор No Frost морозильная / холодильная камеры Функции и возможности Функции защита от детей LED дисплей индикатор закрытия дверцы перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 277 л Полок 5 шт Складная полка Отсеки для хранения зона свежести Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "март 2021",
+      "Общий объем": "384 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "защита от детей LED дисплей индикатор закрытия дверцы перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "277 л",
+      "Полок": "5 шт",
+      "Отсеки для хранения": "зона свежести",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "107 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Температура морозилки": "-23 °C",
+      "Время сохранения холода": "16 ч",
+      "Мощность замораживания": "12 кг/сутки",
+      "Управление": "сенсорное внешнее",
+      "Класс энергопотребления": "A++",
+      "Потребление энергии в год": "268 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Уровень шума": "36 дБ",
+      "Габариты (ВхШхГ)": "203x59.5x68.2 см",
+      "Вес": "74 кг",
+      "Официальный сайт": "lg.com",
+      "Дата добавления на E-Katalog": "март 2021",
+      "Отзыв полезен? Да 2 Нет 0": "31 августа 2021",
+      "Холодильник стоит своих денег, плюс кухня стала лучше выглядить.": "31 августа 2021",
+      "Отзыв полезен? Да 0 Нет 0": "28 ноября 2022",
+      "Навіщо купувати холодильник що працює лише 2 місяці?": "28 ноября 2022",
+      "Инверторный компрессор": "да",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\lg_ga_b509sesm\\images\\01.jpg",
+    "missing_refrigerators\\lg_ga_b509sesm\\images\\02.jpg",
+    "missing_refrigerators\\lg_ga_b509sesm\\images\\03.jpg",
+    "missing_refrigerators\\lg_ga_b509sesm\\images\\04.jpg",
+    "missing_refrigerators\\lg_ga_b509sesm\\images\\05.jpg",
+    "missing_refrigerators\\lg_ga_b509sesm\\images\\06.jpg",
+    "missing_refrigerators\\lg_ga_b509sesm\\images\\07.jpg",
+    "missing_refrigerators\\lg_ga_b509sesm\\images\\08.jpg",
+    "missing_refrigerators\\lg_ga_b509sesm\\images\\09.jpg",
+    "missing_refrigerators\\lg_ga_b509sesm\\images\\10.jpg",
+    "missing_refrigerators\\lg_ga_b509sesm\\images\\11.jpg",
+    "missing_refrigerators\\lg_ga_b509sesm\\images\\12.jpg",
+    "missing_refrigerators\\lg_ga_b509sesm\\images\\13.jpg"
+  ]
+}

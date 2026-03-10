@@ -1,0 +1,160 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/SAMSUNG-GRANDPLUS-RB38C776CS9.htm",
+    "actual_url": "https://ek.ua/ua/SAMSUNG-GRANDPLUS-RB38C776CS9.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Samsung",
+    "model": "Grand+ RB38C776CS9 сріблястий (RB38C776CS9/EF)",
+    "title": "Холодильник Samsung Grand+ RB38C776CS9 сріблястий (RB38C776CS9/EF)",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 9
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 390,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 276,
+    "shelves_count": 5
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 114,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 9,
+    "freezing_capacity_kg_per_day": 8
+  },
+  "general": {
+    "control": "сенсорне зовнішнє",
+    "energy_class_new": "C",
+    "annual_energy_consumption_kwh": 169,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 35,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 59.5,
+      "depth": 65.8
+    },
+    "weight_kg": 76.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general",
+      "Ціни на Samsung Grand+ RB38C776CS9"
+    ]
+  },
+  "description": "Холодильник Samsung Grand+ RB38C776CS9 сріблястий (RB38C776CS9/EF) за ціною від 43544 до 43544 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2499233.jpg",
+    "https://mzimg.com/big/g1/hg4w0gab7g1.jpg",
+    "https://mzimg.com/big/41/hg4w0gdsk41.jpg",
+    "https://mzimg.com/big/k1/hg4w0gjsfk1.jpg",
+    "https://mzimg.com/big/w1/hg4w0goimw1.jpg",
+    "https://mzimg.com/big/i1/hg4w0gtvfi1.jpg",
+    "https://mzimg.com/big/b1/hg4w0h097b1.jpg",
+    "https://mzimg.com/big/91/hg4w0h5sv91.jpg",
+    "https://mzimg.com/big/n1/hg4w0haw9n1.jpg",
+    "https://mzimg.com/big/z1/hg4w0hg45z1.jpg",
+    "https://mzimg.com/big/71/hg4w0hmk671.jpg",
+    "https://mzimg.com/big/q1/hg4w0hrzfq1.jpg",
+    "https://s.ek.ua/jpg/2499233.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 12": "43 544 грн. Купити! Холодильник Samsung Grand+ RB38C776CS9 inSale.com.ua Менше року Доставка: у Дніпро з Києва Гарантія: 12 міс. Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 390 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 Інверторний компресор No Frost морозильна / холодильна камери Функції та можливості Функції режим відпустки керування зі смартфона (Wi-Fi) LED дисплей індикатор закриття дверцят перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 276 л Полиць 5 шт Складана полиця Відсіки для зберігання зона свіжості зона вологості полиця для пляшок Швидке охолодження Динамічне охолодження Автоматичне розморожування LED освітлення": "RB38C776CS9/EF",
+      "Загальний об'єм": "390 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "режим відпустки керування зі смартфона (Wi-Fi) LED дисплей індикатор закриття дверцят перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "276 л",
+      "Полиць": "5 шт",
+      "Відсіки для зберігання": "зона свіжості зона вологості полиця для пляшок",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "114 л",
+      "Відділень морозильної камери": "3 шт",
+      "Температура морозилки": "-23 °C",
+      "Час збереження холоду": "9 год",
+      "Потужність заморожування": "8 кг/добу",
+      "Управління": "сенсорне зовнішнє",
+      "Клас енергоспоживання (new)": "C",
+      "Споживання енергії в рік": "169 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Клас гучності": "B",
+      "Рівень шуму": "35 дБ",
+      "Габарити (ВхШхГ)": "203x59.5x65.8 см",
+      "Вага": "76 кг",
+      "Офіційний сайт": "samsung.com",
+      "Дата додавання на E-Katalog": "липень 2023",
+      "Маркування виробника": "RB38C776CS9/EF",
+      "Інверторний компресор": "так",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    },
+    "Ціни на Samsung Grand+ RB38C776CS9": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\samsung_grandplus_rb38c776cs9\\images\\01.jpg",
+    "missing_refrigerators\\samsung_grandplus_rb38c776cs9\\images\\02.jpg",
+    "missing_refrigerators\\samsung_grandplus_rb38c776cs9\\images\\03.jpg",
+    "missing_refrigerators\\samsung_grandplus_rb38c776cs9\\images\\04.jpg",
+    "missing_refrigerators\\samsung_grandplus_rb38c776cs9\\images\\05.jpg",
+    "missing_refrigerators\\samsung_grandplus_rb38c776cs9\\images\\06.jpg",
+    "missing_refrigerators\\samsung_grandplus_rb38c776cs9\\images\\07.jpg",
+    "missing_refrigerators\\samsung_grandplus_rb38c776cs9\\images\\08.jpg",
+    "missing_refrigerators\\samsung_grandplus_rb38c776cs9\\images\\09.jpg",
+    "missing_refrigerators\\samsung_grandplus_rb38c776cs9\\images\\10.jpg",
+    "missing_refrigerators\\samsung_grandplus_rb38c776cs9\\images\\11.jpg",
+    "missing_refrigerators\\samsung_grandplus_rb38c776cs9\\images\\12.jpg",
+    "missing_refrigerators\\samsung_grandplus_rb38c776cs9\\images\\13.jpg"
+  ]
+}

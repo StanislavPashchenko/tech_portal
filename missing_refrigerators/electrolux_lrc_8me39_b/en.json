@@ -1,0 +1,139 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/ELECTROLUX-LRC-8ME39-B.htm",
+    "actual_url": "https://ek.ua/en/ELECTROLUX-LRC-8ME39-B.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Electrolux",
+    "model": "LRC 8ME39 B black",
+    "title": "Electrolux LRC 8ME39 B black",
+    "category": "E-Katalog category 200",
+    "year": 121,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "in absent",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "internal push-buttons",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 121,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 186.0,
+      "width": 59.5,
+      "depth": 65.0
+    },
+    "weight_kg": 62.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Electrolux LRC 8ME39 B black at a price from 41619 to 46454 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2812672.jpg",
+    "https://mzimg.com/big/21/hwabm41fk21.jpg",
+    "https://mzimg.com/big/21/hwabm421621.jpg",
+    "https://mzimg.com/big/n1/hwabm4linn1.jpg",
+    "https://mzimg.com/big/c1/hwabm4phqc1.jpg",
+    "https://mzimg.com/big/81/hwabm4zo081.jpg",
+    "https://mzimg.com/big/l1/hwabm51hcl1.jpg",
+    "https://s.ek.ua/jpg/2812672.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 7": "46 454 ₴",
+      "Novateh.com.ua →": "46 454 ₴",
+      "Colour Total capacity 390 L Number of chambers 1 Number of cooling circuits 1 Number of compressors 1 Features Features reversible door Refrigeration chamber Refrigerator capacity 390 L Number of shelves 4 Storage compartments humidity zone bottle rack Dynamic air cooling Auto-defrost LED lighting": "December 2024",
+      "Total capacity": "390 L",
+      "Number of chambers": "1",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "Features": "reversible door",
+      "Refrigerator capacity": "390 L",
+      "Number of shelves": "4",
+      "Storage compartments": "humidity zone bottle rack",
+      "Freezer compartment": "in absent",
+      "Controls": "internal push-buttons",
+      "Energy class (new)": "E",
+      "Energy consumption per year": "121 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Noise class": "C",
+      "Noise level": "40 dB",
+      "Dimensions (HxWxD)": "186х59.5х65 cm",
+      "Weight": "62 kg",
+      "Official Website": "electrolux.lv",
+      "Added to E-Catalog": "December 2024",
+      "LED lighting": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\electrolux_lrc_8me39_b\\images\\01.jpg",
+    "missing_refrigerators\\electrolux_lrc_8me39_b\\images\\02.jpg",
+    "missing_refrigerators\\electrolux_lrc_8me39_b\\images\\03.jpg",
+    "missing_refrigerators\\electrolux_lrc_8me39_b\\images\\04.jpg",
+    "missing_refrigerators\\electrolux_lrc_8me39_b\\images\\05.jpg",
+    "missing_refrigerators\\electrolux_lrc_8me39_b\\images\\06.jpg",
+    "missing_refrigerators\\electrolux_lrc_8me39_b\\images\\07.jpg",
+    "missing_refrigerators\\electrolux_lrc_8me39_b\\images\\08.jpg"
+  ]
+}

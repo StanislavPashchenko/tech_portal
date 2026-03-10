@@ -1,0 +1,135 @@
+{
+  "source": {
+    "url": "https://ek.ua/RAVANSON-LKK-120ERB.htm",
+    "actual_url": "https://ek.ua/RAVANSON-LKK-120ERB.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Ravanson",
+    "model": "LKK-120ERB черный",
+    "title": "Холодильник Ravanson LKK-120ERB черный",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 118,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": false,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 106,
+    "shelves_count": 2
+  },
+  "freezer_compartment": {
+    "location": "сверху",
+    "volume_l": 12,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 14,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 136,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 41,
+    "dimensions_cm": {
+      "height": 86.0,
+      "width": 54.5,
+      "depth": 58.5
+    },
+    "weight_kg": 28.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general",
+      "Цены на Ravanson LKK-120ERB"
+    ]
+  },
+  "description": "Холодильник Ravanson LKK-120ERB черный по цене от 21453 до 21456 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2875492.jpg",
+    "https://mzimg.com/big/l1/i01gqr1p5l1.jpg",
+    "https://mzimg.com/big/61/i01gqr2az61.jpg",
+    "https://mzimg.com/big/q1/hz54iw4ygq1.jpg",
+    "https://mzimg.com/big/z1/hz54iw8d6z1.jpg",
+    "https://s.ek.ua/jpg/2875492.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 5": "21 456 грн.",
+      "Novateh.com.ua →": "21 456 грн.",
+      "Цвет Общий объем 118 л Количество камер 2 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Дополнительно ретро дизайн Холодильное отделение Объем холодильной камеры 106 л Полок 2 шт Автоматическая разморозка LED освещение": "апрель 2025",
+      "Общий объем": "118 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Дополнительно": "ретро дизайн",
+      "Объем холодильной камеры": "106 л",
+      "Полок": "2 шт",
+      "Морозильная камера": "сверху",
+      "Объем морозильной камеры": "12 л",
+      "Время сохранения холода": "14 ч",
+      "Управление": "поворотные переключатели",
+      "Класс энергопотребления (new)": "E",
+      "Потребление энергии в год": "136 кВт*ч",
+      "Климатический класс": "SN, N, ST (+10...+38 °С)",
+      "Класс шумности": "C",
+      "Уровень шума": "41 дБ",
+      "Габариты (ВхШхГ)": "86х54.5х58.5 см",
+      "Вес": "28 кг",
+      "Дата добавления на E-Katalog": "апрель 2025",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    },
+    "Цены на Ravanson LKK-120ERB": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\ravanson_lkk_120erb\\images\\01.jpg",
+    "missing_refrigerators\\ravanson_lkk_120erb\\images\\02.jpg",
+    "missing_refrigerators\\ravanson_lkk_120erb\\images\\03.jpg",
+    "missing_refrigerators\\ravanson_lkk_120erb\\images\\04.jpg",
+    "missing_refrigerators\\ravanson_lkk_120erb\\images\\05.jpg",
+    "missing_refrigerators\\ravanson_lkk_120erb\\images\\06.jpg"
+  ]
+}

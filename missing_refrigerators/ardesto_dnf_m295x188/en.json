@@ -1,0 +1,135 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/ARDESTO-DNF-M295X188.htm",
+    "actual_url": "https://ek.ua/en/ARDESTO-DNF-M295X188.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Ardesto",
+    "model": "DNF-M295X188 stainless steel",
+    "title": "Ardesto DNF-M295X188 stainless steel",
+    "category": "E-Katalog category 200",
+    "year": 286,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 2
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "internal push-buttons",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": 286,
+    "climate_class": [
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 40,
+    "dimensions_cm": {
+      "height": 188.0,
+      "width": 59.5,
+      "depth": 63.0
+    },
+    "weight_kg": 61.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general",
+      "Price for Ardesto DNF-M295X188"
+    ]
+  },
+  "description": "Fridge Ardesto DNF-M295X188 stainless steel at a price from 18499 to 18499 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://mzimg.com/big/i1/g6x1ksv4ui1.jpg",
+    "https://mzimg.com/big/t1/g6x1kshgjt1.jpg",
+    "https://mzimg.com/big/a1/g6x1kt4j2a1.jpg",
+    "https://mzimg.com/big/k1/g6x1ktemfk1.jpg",
+    "https://s.ek.ua/jpg/1943101.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Videos 1 Photos 4": "18 499 ₴ Buy! Холодильник ARDESTO з нижн. мороз., 188x59.5х63, холод.відд.-219л, мороз.відд.-76л, 2дв., А+, NF, сріблястий DNF-M295X188 Bt-coffee.com.ua 3 year with us Delivery: to Dnipro from Kyiv Warranty: manufacturer Report add to list my lists add to comparison",
+      "Colour Total capacity 295 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 No Frost freezer / refrigerator compartments Features Features reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 219 L Dynamic air cooling Auto-defrost LED lighting": "January 2021",
+      "Total capacity": "295 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "219 L",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "76 L",
+      "Freezer temperature": "-24 °C",
+      "Autonomy time": "15 h",
+      "Controls": "internal push-buttons",
+      "Energy class": "A+",
+      "Energy consumption per year": "286 kWh",
+      "Climate class": "N, ST, T (+16...+43 °С)",
+      "Noise level": "40 dB",
+      "Dimensions (HxWxD)": "188x59.5x63 cm",
+      "Weight": "61 kg",
+      "Official Website": "ardesto.com.ua",
+      "Added to E-Catalog": "January 2021",
+      "LED lighting": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    },
+    "Price for Ardesto DNF-M295X188": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\ardesto_dnf_m295x188\\images\\01.jpg",
+    "missing_refrigerators\\ardesto_dnf_m295x188\\images\\02.jpg",
+    "missing_refrigerators\\ardesto_dnf_m295x188\\images\\03.jpg",
+    "missing_refrigerators\\ardesto_dnf_m295x188\\images\\04.jpg",
+    "missing_refrigerators\\ardesto_dnf_m295x188\\images\\05.jpg"
+  ]
+}

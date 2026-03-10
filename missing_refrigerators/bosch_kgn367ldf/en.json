@@ -1,0 +1,138 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/BOSCH-KGN367LDF.htm",
+    "actual_url": "https://ek.ua/en/BOSCH-KGN367LDF.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Bosch",
+    "model": "KGN367LDF silver",
+    "title": "Bosch KGN367LDF silver",
+    "category": "E-Katalog category 200",
+    "year": 199,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "external touch controls",
+    "energy_class_new": "D",
+    "annual_energy_consumption_kwh": 199,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 186.0,
+      "width": 60.0,
+      "depth": 66.5
+    },
+    "weight_kg": 65.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Bosch KGN367LDF silver at a price from 34792 to 34792 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2304841.jpg",
+    "https://mzimg.com/big/51/h7r1oiig551.jpg",
+    "https://mzimg.com/big/a1/h7r1oil0ta1.jpg",
+    "https://mzimg.com/big/41/h7r1oivrr41.jpg",
+    "https://mzimg.com/big/41/h7r1oixa141.jpg",
+    "https://mzimg.com/big/o1/h7r1oj8o1o1.jpg",
+    "https://s.ek.ua/jpg/2304841.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 6": "from 34 792 ₴ Buy! Холодильник Bosch KGN367LDF inSale.com.ua Less than year Delivery: to Dnipro from Kyiv Warranty: 12 month Report add to list my lists add to comparison",
+      "Colour Total capacity 321 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 No Frost freezer / refrigerator compartments Features Features holiday mode door alarm reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 218 L Number of shelves 3 Storage compartments fresh zone bottle rack Fast cool Dynamic air cooling Auto-defrost LED lighting": "November 2022",
+      "Total capacity": "321 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "holiday mode door alarm reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "218 L",
+      "Number of shelves": "3",
+      "Storage compartments": "fresh zone bottle rack",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "103 L",
+      "Freezer drawers": "3",
+      "Freezer temperature": "-24 °C",
+      "Autonomy time": "14 h",
+      "Freeze capacity": "10 kg/day",
+      "Controls": "external touch controls",
+      "Energy class (new)": "D",
+      "Energy consumption per year": "199 kWh",
+      "Noise class": "B",
+      "Noise level": "35 dB",
+      "Dimensions (HxWxD)": "186x60x66.5 cm",
+      "Weight": "65 kg",
+      "Official Website": "bosch-home.co.uk",
+      "Added to E-Catalog": "November 2022",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\bosch_kgn367ldf\\images\\01.jpg",
+    "missing_refrigerators\\bosch_kgn367ldf\\images\\02.jpg",
+    "missing_refrigerators\\bosch_kgn367ldf\\images\\03.jpg",
+    "missing_refrigerators\\bosch_kgn367ldf\\images\\04.jpg",
+    "missing_refrigerators\\bosch_kgn367ldf\\images\\05.jpg",
+    "missing_refrigerators\\bosch_kgn367ldf\\images\\06.jpg",
+    "missing_refrigerators\\bosch_kgn367ldf\\images\\07.jpg"
+  ]
+}

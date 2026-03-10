@@ -1,0 +1,131 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/GORENJE-NRK-6181-PS4.htm",
+    "actual_url": "https://ek.ua/en/GORENJE-NRK-6181-PS4.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Gorenje",
+    "model": "NRK 6181 PS4 silver",
+    "title": "Gorenje NRK 6181 PS4 silver",
+    "category": "E-Katalog category 200",
+    "year": 293,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knobs",
+    "energy_class_new": "F",
+    "annual_energy_consumption_kwh": 293,
+    "climate_class": [
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 178.5,
+      "width": 59.5,
+      "depth": 59.0
+    },
+    "weight_kg": 57.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general",
+      "Price for Gorenje NRK 6181 PS4"
+    ]
+  },
+  "description": "The 2022 Gorenje two-chamber freestanding refrigerator is a representative of the middle price category. The model is notable for the presence of the No Frost system in two chambers, and this, in addition to dynamic cooling (and more uniform distribution of cold), makes it possible to do without manual defrosting of both the refrigerator compartment and the freezer. With case dimensions of 178.5x59.5x59 cm, the Gorenje NRK 6181 PS4 refrigerator has a total volume of 292 liters, of which 85 liters are in the freezer. It provides 3 transparent drawers, is characterized by a modest freezing capacity (up to 4 kg of food per day) and a short autonomous cold storage time (10 hours). The 207-liter refrigerator compartment is divided into 5 main compartments - four open shelves and one CRISPZONE container (convenient for fruits and vegetables). There are also three door pockets and LED lighting. The noise level in operation should not exceed 39 dB (noise class C), and the energy consumption corresponds to the F rating according to the new marking (similar to A + according to the more familiar classification). It is also worth noting that in addition to the silver version, there is a white one on sale.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2261136.jpg",
+    "https://mzimg.com/big/i1/h58oispqzi1.jpg",
+    "https://s.ek.ua/jpg/2261136.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Colour Total capacity 292 L Number of chambers 2 Number of cooling circuits 1 Number of compressors 1 No Frost freezer / refrigerator compartments Features Features reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 207 L Number of shelves 4 Dynamic air cooling Auto-defrost LED lighting": "August 2022",
+      "Total capacity": "292 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "207 L",
+      "Number of shelves": "4",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "85 L",
+      "Freezer drawers": "3",
+      "Autonomy time": "10 h",
+      "Freeze capacity": "4 kg/day",
+      "Controls": "rotary knobs",
+      "Energy class (new)": "F",
+      "Energy consumption per year": "293 kWh",
+      "Climate class": "N, ST, T (+16...+43 °С)",
+      "Noise level": "39 dB",
+      "Dimensions (HxWxD)": "178.5x59.5x59 cm",
+      "Weight": "57 kg",
+      "Added to E-Catalog": "August 2022",
+      "LED lighting": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    },
+    "Price for Gorenje NRK 6181 PS4": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\gorenje_nrk_6181_ps4\\images\\01.jpg",
+    "missing_refrigerators\\gorenje_nrk_6181_ps4\\images\\02.jpg",
+    "missing_refrigerators\\gorenje_nrk_6181_ps4\\images\\03.jpg"
+  ]
+}

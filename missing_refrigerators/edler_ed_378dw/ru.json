@@ -1,0 +1,137 @@
+{
+  "source": {
+    "url": "https://ek.ua/EDLER-ED-378DW.htm",
+    "actual_url": "https://ek.ua/EDLER-ED-378DW.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "EDLER",
+    "model": "ED-378DW белый",
+    "title": "Холодильник EDLER ED-378DW белый",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 20
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 260,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 166,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 94,
+    "sections_count": 4,
+    "sections_details": "4 шт",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": 270,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 40,
+    "dimensions_cm": {
+      "height": 178.0,
+      "width": 55.0,
+      "depth": 58.6
+    },
+    "weight_kg": 51.0,
+    "country_of_origin": "Китай"
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general",
+      "Цены на EDLER ED-378DW"
+    ]
+  },
+  "description": "Холодильник EDLER ED-378DW белый по цене от 10740 до 14174 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2892338.jpg",
+    "https://mzimg.com/big/01/i163waa6401.jpg",
+    "https://mzimg.com/big/k1/i163r7yd2k1.jpg",
+    "https://s.ek.ua/jpg/2892338.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 3": "11 300 грн.",
+      "Pro100market.com.ua →": "10 847 грн.",
+      "FOXTROT.UA →": "11 289 грн.",
+      "Vodogreyka.com.ua →": "12 599 грн.",
+      "Elmag.ua →": "12 599 грн.",
+      "Brain.com.ua →": "11 300 грн.",
+      "Цвет Общий объем 260 л Количество камер 2 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Функции перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 166 л Полок 3 шт Автоматическая разморозка LED освещение": "май 2025",
+      "Общий объем": "260 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Функции": "перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "166 л",
+      "Полок": "3 шт",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "94 л",
+      "Отделений морозильной камеры": "4 шт",
+      "Управление": "поворотные переключатели",
+      "Класс энергопотребления": "A+",
+      "Потребление энергии в год": "270 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Уровень шума": "40 дБ",
+      "Габариты (ВхШхГ)": "178х55х58.6 см",
+      "Вес": "51 кг",
+      "Страна производства": "Китай",
+      "Дата добавления на E-Katalog": "май 2025",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    },
+    "Цены на EDLER ED-378DW": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\edler_ed_378dw\\images\\01.jpg",
+    "missing_refrigerators\\edler_ed_378dw\\images\\02.jpg",
+    "missing_refrigerators\\edler_ed_378dw\\images\\03.jpg",
+    "missing_refrigerators\\edler_ed_378dw\\images\\04.jpg"
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "source": {
+    "url": "https://ek.ua/LIEBHERR-CBNEF-4835.htm",
+    "actual_url": "https://ek.ua/LIEBHERR-CBNEF-4835.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liebherr",
+    "model": "CBNef 4835 серебристый",
+    "title": "Холодильник Liebherr CBNef 4835 серебристый",
+    "category": "E-Katalog category 200",
+    "year": 2020,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 4835
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 343,
+    "cameras_count": 3,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": false,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 148,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 101,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 24,
+    "freezing_capacity_kg_per_day": 16
+  },
+  "general": {
+    "control": "сенсорное внутреннее",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 186,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 34,
+    "dimensions_cm": {
+      "height": 201.0,
+      "width": 60.0,
+      "depth": 67.0
+    },
+    "weight_kg": 81.0,
+    "country_of_origin": "Германия"
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general",
+      "Цены на Liebherr CBNef 4835"
+    ]
+  },
+  "description": "Холодильник Liebherr CBNef 4835 серебристый по цене от 95816 до 95816 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1748998.jpg",
+    "https://mzimg.com/big/21/gc7p5zhra21.jpg",
+    "https://mzimg.com/big/j1/gc7p5zxevj1.jpg",
+    "https://mzimg.com/big/g1/gc7p60bdfg1.jpg",
+    "https://mzimg.com/big/w1/gc7p60oz4w1.jpg",
+    "https://mzimg.com/big/f1/gc7p6157of1.jpg",
+    "https://mzimg.com/big/i1/gc7p61ioli1.jpg",
+    "https://s.ek.ua/jpg/1748998.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Видео 1 Фото 7": "95 816 грн. Купить! Холодильник Liebherr CBNef 4835 inSale.com.ua Менее года Доставка: в Днепр из Киева Гарантия: 12 мес. Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Общий объем 343 л Количество камер 3 Контуров охлаждения 2 Компрессоров 1 No Frost морозильная камера Функции и возможности Функции защита от детей LED дисплей индикатор закрытия дверцы перевешивание дверей Холодильное отделение Объем холодильной камеры 148 л Полок 4 шт Отсеки для хранения зона свежести Зона свежести (нулевая камера) 94 л Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка Дезодоратор LED освещение Телескопические направляющие": "февраль 2020",
+      "Общий объем": "343 л",
+      "Количество камер": "3",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная камера",
+      "Функции": "защита от детей LED дисплей индикатор закрытия дверцы перевешивание дверей",
+      "Объем холодильной камеры": "148 л",
+      "Полок": "4 шт",
+      "Отсеки для хранения": "зона свежести",
+      "Зона свежести (нулевая камера)": "94 л",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "101 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Температура морозилки": "-24 °C",
+      "Время сохранения холода": "24 ч",
+      "Мощность замораживания": "16 кг/сутки",
+      "Управление": "сенсорное внутреннее",
+      "Класс энергопотребления": "A++",
+      "Потребление энергии в год": "186 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Уровень шума": "34 дБ",
+      "Габариты (ВхШхГ)": "201x60x67 см",
+      "Вес": "81 кг",
+      "Страна производства": "Германия",
+      "Дата добавления на E-Katalog": "февраль 2020",
+      "Отзыв полезен? Да 3 Нет 0": "anonim 8 мая 2025, 17:08",
+      "Видимо время Liebherr прошло.": "10 февраля 2021",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да",
+      "Дезодоратор": "да"
+    },
+    "Цены на Liebherr CBNef 4835": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\liebherr_cbnef_4835\\images\\01.jpg",
+    "missing_refrigerators\\liebherr_cbnef_4835\\images\\02.jpg",
+    "missing_refrigerators\\liebherr_cbnef_4835\\images\\03.jpg",
+    "missing_refrigerators\\liebherr_cbnef_4835\\images\\04.jpg",
+    "missing_refrigerators\\liebherr_cbnef_4835\\images\\05.jpg",
+    "missing_refrigerators\\liebherr_cbnef_4835\\images\\06.jpg",
+    "missing_refrigerators\\liebherr_cbnef_4835\\images\\07.jpg",
+    "missing_refrigerators\\liebherr_cbnef_4835\\images\\08.jpg"
+  ]
+}

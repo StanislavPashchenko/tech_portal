@@ -1,0 +1,147 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/SMEG-FQ60XDAIE.htm",
+    "actual_url": "https://ek.ua/ua/SMEG-FQ60XDAIE.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Smeg",
+    "model": "FQ60XDAIE нержавіюча сталь",
+    "title": "Холодильник Smeg FQ60XDAIE нержавіюча сталь",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "French-door (розпашний)",
+    "total_volume_l": 572,
+    "cameras_count": 3,
+    "cooling_circuits": 3,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 376,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 196,
+    "sections_count": 5,
+    "sections_details": "5 шт / 3 шухляди, 2 полиці /",
+    "cold_storage_time_h": 10,
+    "freezing_capacity_kg_per_day": 5
+  },
+  "general": {
+    "control": "сенсорне зовнішнє",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 338,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 37,
+    "dimensions_cm": {
+      "height": 182.0,
+      "width": 90.8,
+      "depth": 75.0
+    },
+    "weight_kg": 128.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Smeg FQ60XDAIE нержавіюча сталь за ціною від 179650 до 179650 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2909748.jpg",
+    "https://mzimg.com/big/61/i25mr378r61.jpg",
+    "https://mzimg.com/big/n1/i25mr36nkn1.jpg",
+    "https://mzimg.com/big/01/i25mr3lyo01.jpg",
+    "https://mzimg.com/big/c1/i25mr3mjxc1.jpg",
+    "https://mzimg.com/big/r1/i25mr3yfyr1.jpg",
+    "https://mzimg.com/big/r1/i25mr432gr1.jpg",
+    "https://s.ek.ua/jpg/2909748.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 7": "179 650 грн. Купити! Холодильник FQ60XDAIE SMEG Viyar.ua Новий магазин Доставка: по Дніпру Гарантія: від виробника Поскаржитись в список мої списки додати до порівняння",
+      "Колір Тип French-door (розпашний) Загальний об'єм 572 л Кількість камер 3 Контурів охолодження 3 Компресорів 1 Інверторний компресор No Frost морозильна / холодильна камери Функції та можливості Функції режим відпустки захист від дітей LED дисплей індикатор закриття дверцят Холодильне відділення Об'єм холодильної камери 376 л Полиць 3 шт Відсіки для зберігання зона свіжості Швидке охолодження Динамічне охолодження Автоматичне розморожування LED освітлення": "червень 2025",
+      "Тип": "French-door (розпашний)",
+      "Загальний об'єм": "572 л",
+      "Кількість камер": "3",
+      "Контурів охолодження": "3",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "режим відпустки захист від дітей LED дисплей індикатор закриття дверцят",
+      "Об'єм холодильної камери": "376 л",
+      "Полиць": "3 шт",
+      "Відсіки для зберігання": "зона свіжості",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "196 л",
+      "Відділень морозильної камери": "5 шт / 3 шухляди, 2 полиці /",
+      "Час збереження холоду": "10 год",
+      "Потужність заморожування": "4.6 кг/добу",
+      "Льодогенератор": "внутрішній",
+      "Управління": "сенсорне зовнішнє",
+      "Клас енергоспоживання (new)": "E",
+      "Споживання енергії в рік": "338 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Клас гучності": "C",
+      "Рівень шуму": "37 дБ",
+      "Габарити (ВхШхГ)": "182x90.8x75 см",
+      "Вага": "128 кг",
+      "Офіційний сайт": "smeg.com",
+      "Дата додавання на E-Katalog": "червень 2025",
+      "Інверторний компресор": "так",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\smeg_fq60xdaie\\images\\01.jpg",
+    "missing_refrigerators\\smeg_fq60xdaie\\images\\02.jpg",
+    "missing_refrigerators\\smeg_fq60xdaie\\images\\03.jpg",
+    "missing_refrigerators\\smeg_fq60xdaie\\images\\04.jpg",
+    "missing_refrigerators\\smeg_fq60xdaie\\images\\05.jpg",
+    "missing_refrigerators\\smeg_fq60xdaie\\images\\06.jpg",
+    "missing_refrigerators\\smeg_fq60xdaie\\images\\07.jpg",
+    "missing_refrigerators\\smeg_fq60xdaie\\images\\08.jpg"
+  ]
+}

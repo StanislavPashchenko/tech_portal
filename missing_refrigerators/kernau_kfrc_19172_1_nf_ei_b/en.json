@@ -1,0 +1,140 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/KERNAU-KFRC-19172-1-NF-EI-B.htm",
+    "actual_url": "https://ek.ua/en/KERNAU-KFRC-19172-1-NF-EI-B.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Kernau",
+    "model": "KFRC 19172.1 NF EI B black",
+    "title": "Kernau KFRC 19172.1 NF EI B black",
+    "category": "E-Katalog category 200",
+    "year": 287,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "internal touch controls",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 287,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 192.0,
+      "width": 70.0,
+      "depth": 71.2
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Kernau KFRC 19172.1 NF EI B black at a price from 43129 to 47867 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2340701.jpg",
+    "https://mzimg.com/big/j1/i7frspwjkj1.jpg",
+    "https://mzimg.com/big/11/i7fs1vb0f11.jpg",
+    "https://s.ek.ua/jpg/2340701.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 3": "45 186 ₴",
+      "Tendo.com.ua →": "45 046 ₴",
+      "Rozetka.ua →": "45 186 ₴",
+      "Colour Total capacity 481 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 No Frost freezer / refrigerator compartments Features Features LED display reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 344 L Number of shelves 4 Storage compartments fresh zone humidity zone Fast cool Dynamic air cooling Auto-defrost LED lighting": "December 2022",
+      "Total capacity": "481 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "LED display reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "344 L",
+      "Number of shelves": "4",
+      "Storage compartments": "fresh zone humidity zone",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "137 L",
+      "Freezer drawers": "3",
+      "Freezer temperature": "-24 °C",
+      "Autonomy time": "14 h",
+      "Freeze capacity": "8 kg/day",
+      "Ice maker": "internal",
+      "Controls": "internal touch controls",
+      "Energy class (new)": "E",
+      "Energy consumption per year": "287 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Noise class": "C",
+      "Noise level": "41 dB",
+      "Dimensions (HxWxD)": "192x70x71.2 cm",
+      "Official Website": "kernau.com.ua",
+      "Added to E-Catalog": "December 2022",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\kernau_kfrc_19172_1_nf_ei_b\\images\\01.jpg",
+    "missing_refrigerators\\kernau_kfrc_19172_1_nf_ei_b\\images\\02.jpg",
+    "missing_refrigerators\\kernau_kfrc_19172_1_nf_ei_b\\images\\03.jpg",
+    "missing_refrigerators\\kernau_kfrc_19172_1_nf_ei_b\\images\\04.jpg"
+  ]
+}

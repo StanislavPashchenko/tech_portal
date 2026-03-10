@@ -1,0 +1,156 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/SAMSUNG-BESPOKE-RB38A6B6239.htm",
+    "actual_url": "https://ek.ua/ua/SAMSUNG-BESPOKE-RB38A6B6239.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Samsung",
+    "model": "BeSpoke RB38A6B6239 бежевий",
+    "title": "Холодильник Samsung BeSpoke RB38A6B6239 бежевий",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 6239
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 385,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 273,
+    "shelves_count": 5
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 112,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "сенсорне внутрішнє",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 245,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 35,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 59.5,
+      "depth": 65.8
+    },
+    "weight_kg": 75.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general",
+      "Ціни на Samsung BeSpoke RB38A6B6239"
+    ]
+  },
+  "description": "Холодильник Samsung BeSpoke RB38A6B6239 бежевий за ціною від 37715 до 37715 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2366405.jpg",
+    "https://mzimg.com/big/61/haac8g57661.jpg",
+    "https://mzimg.com/big/61/haac8g7lj61.jpg",
+    "https://mzimg.com/big/n1/haac8gge0n1.jpg",
+    "https://mzimg.com/big/11/haac8gjyo11.jpg",
+    "https://mzimg.com/big/s1/haac8gsd1s1.jpg",
+    "https://mzimg.com/big/e1/haac8gwwwe1.jpg",
+    "https://mzimg.com/big/x1/haac8h4wxx1.jpg",
+    "https://mzimg.com/big/w1/haac8halmw1.jpg",
+    "https://mzimg.com/big/f1/haac8hi9sf1.jpg",
+    "https://mzimg.com/big/41/haac8hmu541.jpg",
+    "https://mzimg.com/big/a1/haac8hv98a1.jpg",
+    "https://s.ek.ua/jpg/2366405.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 12": "37 715 грн. Купити! Холодильник Samsung BESPOKE RB38A6B6239 inSale.com.ua Менше року Доставка: у Дніпро з Києва Гарантія: 12 міс. Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 385 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 Інверторний компресор No Frost морозильна / холодильна камери Функції та можливості Функції режим відпустки LED дисплей індикатор закриття дверцят перевішування дверей Додатково приховані ручки дверей змінні декоративні панелі / BeSpoke / Холодильне відділення Об'єм холодильної камери 273 л Полиць 5 шт Складана полиця Відсіки для зберігання зона свіжості зона вологості полиця для пляшок Швидке охолодження Динамічне охолодження Автоматичне розморожування LED освітлення": "січень 2023",
+      "Загальний об'єм": "385 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "режим відпустки LED дисплей індикатор закриття дверцят перевішування дверей",
+      "Додатково": "приховані ручки дверей змінні декоративні панелі / BeSpoke /",
+      "Об'єм холодильної камери": "273 л",
+      "Полиць": "5 шт",
+      "Відсіки для зберігання": "зона свіжості зона вологості полиця для пляшок",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "112 л",
+      "Відділень морозильної камери": "3 шт",
+      "Температура морозилки": "-23 °C",
+      "Управління": "сенсорне внутрішнє",
+      "Клас енергоспоживання": "A++",
+      "Споживання енергії в рік": "245 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Рівень шуму": "35 дБ",
+      "Габарити (ВхШхГ)": "203x59.5x65.8 см",
+      "Вага": "75 кг",
+      "Офіційний сайт": "samsung.com",
+      "Дата додавання на E-Katalog": "січень 2023",
+      "Інверторний компресор": "так",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    },
+    "Ціни на Samsung BeSpoke RB38A6B6239": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\samsung_bespoke_rb38a6b6239\\images\\01.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb38a6b6239\\images\\02.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb38a6b6239\\images\\03.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb38a6b6239\\images\\04.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb38a6b6239\\images\\05.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb38a6b6239\\images\\06.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb38a6b6239\\images\\07.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb38a6b6239\\images\\08.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb38a6b6239\\images\\09.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb38a6b6239\\images\\10.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb38a6b6239\\images\\11.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb38a6b6239\\images\\12.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb38a6b6239\\images\\13.jpg"
+  ]
+}

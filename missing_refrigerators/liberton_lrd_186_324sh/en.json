@@ -1,0 +1,141 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/LIBERTON-LRD-186-324SH.htm",
+    "actual_url": "https://ek.ua/en/LIBERTON-LRD-186-324SH.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liberton",
+    "model": "LRD 186-324SH stainless steel",
+    "title": "Liberton LRD 186-324SH stainless steel",
+    "category": "E-Katalog category 200",
+    "year": 273,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 19
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knobs",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": 273,
+    "climate_class": [
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 42,
+    "dimensions_cm": {
+      "height": 186.0,
+      "width": 59.5,
+      "depth": 60.0
+    },
+    "weight_kg": 58.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general",
+      "Price for Liberton LRD 186-324SH"
+    ]
+  },
+  "description": "Fridge Liberton LRD 186-324SH stainless steel at a price from 15665 to 20328 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2989803.jpg",
+    "https://mzimg.com/big/q1/i6tj811gyq1.jpg",
+    "https://mzimg.com/big/91/i6tj812d891.jpg",
+    "https://mzimg.com/big/g1/i6tj29iy8g1.jpg",
+    "https://mzimg.com/big/81/i6tj29k8p81.jpg",
+    "https://s.ek.ua/jpg/2989803.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 5": "16 999 ₴",
+      "Pro100market.com.ua →": "16 999 ₴",
+      "Tendo.com.ua →": "16 951 ₴",
+      "Elmag.ua →": "16 351 ₴",
+      "АЛЛО →": "16 781 ₴",
+      "Comtrading.ua →": "16 999 ₴",
+      "Colour Total capacity 312 L Number of chambers 2 Number of cooling circuits 1 Number of compressors 1 Features Features reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 223 L Number of shelves 4 Auto-defrost LED lighting": "October 2025",
+      "Total capacity": "312 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "Features": "reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "223 L",
+      "Number of shelves": "4",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "89 L",
+      "Freezer drawers": "3",
+      "Autonomy time": "22 h",
+      "Freeze capacity": "4 kg/day",
+      "Controls": "rotary knobs",
+      "Energy class": "A+",
+      "Energy consumption per year": "273 kWh",
+      "Climate class": "N, ST (+16...+38 °С)",
+      "Noise level": "42 dB",
+      "Dimensions (HxWxD)": "186х59.5х60 cm",
+      "Weight": "58 kg",
+      "Official Website": "liberton.ua",
+      "Added to E-Catalog": "October 2025",
+      "LED lighting": "yes",
+      "Auto-defrost": "yes"
+    },
+    "Price for Liberton LRD 186-324SH": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\liberton_lrd_186_324sh\\images\\01.jpg",
+    "missing_refrigerators\\liberton_lrd_186_324sh\\images\\02.jpg",
+    "missing_refrigerators\\liberton_lrd_186_324sh\\images\\03.jpg",
+    "missing_refrigerators\\liberton_lrd_186_324sh\\images\\04.jpg",
+    "missing_refrigerators\\liberton_lrd_186_324sh\\images\\05.jpg",
+    "missing_refrigerators\\liberton_lrd_186_324sh\\images\\06.jpg"
+  ]
+}

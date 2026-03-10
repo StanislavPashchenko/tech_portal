@@ -1,0 +1,152 @@
+{
+  "source": {
+    "url": "https://ek.ua/BEKO-B3RCNA-344-HXB.htm",
+    "actual_url": "https://ek.ua/BEKO-B3RCNA-344-HXB.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Beko",
+    "model": "B3RCNA 344 HXB серебристый (7525010001)",
+    "title": "Холодильник Beko B3RCNA 344 HXB серебристый (7525010001)",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 5
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 301,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 209,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 92,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 11,
+    "freezing_capacity_kg_per_day": 4
+  },
+  "general": {
+    "control": "сенсорное внешнее",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 241,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 37,
+    "dimensions_cm": {
+      "height": 180.0,
+      "width": 59.5,
+      "depth": 66.5
+    },
+    "weight_kg": 64.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general",
+      "Цены на Beko B3RCNA 344 HXB"
+    ]
+  },
+  "description": "Холодильник Beko B3RCNA 344 HXB серебристый (7525010001) по цене от 24690 до 24690 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2438759.jpg",
+    "https://mzimg.com/big/11/hdi7qbk7511.jpg",
+    "https://mzimg.com/big/r1/hdi7qbktyr1.jpg",
+    "https://mzimg.com/big/n1/hdi7qbufmn1.jpg",
+    "https://mzimg.com/big/21/hdi7qbw1121.jpg",
+    "https://mzimg.com/big/d1/hdi7qc5kdd1.jpg",
+    "https://mzimg.com/big/k1/hdi7qc67ck1.jpg",
+    "https://mzimg.com/big/w1/hdi7qcg3lw1.jpg",
+    "https://mzimg.com/big/j1/hdi7qcisej1.jpg",
+    "https://s.ek.ua/jpg/2438759.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 9": "24 690 грн. Купить! Холодильник с морозильной камерой Beko B3RCNA344HXB Luxmedia.com.ua С нами 4 года Доставка: в Днепр из Луцка Под заказ Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Общий объем 301 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 No Frost морозильная / холодильная камеры Функции и возможности Функции режим отпуска индикатор закрытия дверцы перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 209 л Полок 4 шт Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "7525010001",
+      "Общий объем": "301 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "режим отпуска индикатор закрытия дверцы перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "209 л",
+      "Полок": "4 шт",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "92 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Температура морозилки": "-24 °C",
+      "Время сохранения холода": "11 ч",
+      "Мощность замораживания": "4.2 кг/сутки",
+      "Управление": "сенсорное внешнее",
+      "Класс энергопотребления (new)": "E",
+      "Потребление энергии в год": "241 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Класс шумности": "C",
+      "Уровень шума": "37 дБ",
+      "Габариты (ВхШхГ)": "180x59.5x66.5 см",
+      "Вес": "64 кг",
+      "Официальный сайт": "beko.com",
+      "Дата добавления на E-Katalog": "апрель 2023",
+      "Маркировка производителя": "7525010001",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    },
+    "Цены на Beko B3RCNA 344 HXB": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\beko_b3rcna_344_hxb\\images\\01.jpg",
+    "missing_refrigerators\\beko_b3rcna_344_hxb\\images\\02.jpg",
+    "missing_refrigerators\\beko_b3rcna_344_hxb\\images\\03.jpg",
+    "missing_refrigerators\\beko_b3rcna_344_hxb\\images\\04.jpg",
+    "missing_refrigerators\\beko_b3rcna_344_hxb\\images\\05.jpg",
+    "missing_refrigerators\\beko_b3rcna_344_hxb\\images\\06.jpg",
+    "missing_refrigerators\\beko_b3rcna_344_hxb\\images\\07.jpg",
+    "missing_refrigerators\\beko_b3rcna_344_hxb\\images\\08.jpg",
+    "missing_refrigerators\\beko_b3rcna_344_hxb\\images\\09.jpg",
+    "missing_refrigerators\\beko_b3rcna_344_hxb\\images\\10.jpg"
+  ]
+}

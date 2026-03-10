@@ -1,0 +1,145 @@
+{
+  "source": {
+    "url": "https://ek.ua/GORENJE-NRK-720-CAXL4.htm",
+    "actual_url": "https://ek.ua/GORENJE-NRK-720-CAXL4.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Gorenje",
+    "model": "NRK 720 CAXL4 нержавейка (20012965)",
+    "title": "Холодильник Gorenje NRK 720 CAXL4 нержавейка (20012965)",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 495,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 345,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 150,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 12,
+    "freezing_capacity_kg_per_day": 10
+  },
+  "general": {
+    "control": "сенсорное внешнее",
+    "energy_class_new": "C",
+    "annual_energy_consumption_kwh": 190,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 35,
+    "dimensions_cm": {
+      "height": 201.3,
+      "width": 70.4,
+      "depth": 69.4
+    },
+    "weight_kg": 88.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Gorenje NRK 720 CAXL4 нержавейка (20012965) по цене от 41292 до 43419 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2826483.jpg",
+    "https://mzimg.com/big/b1/hxciuq7dtb1.jpg",
+    "https://mzimg.com/big/01/hxciuq8vc01.jpg",
+    "https://mzimg.com/big/61/hxciuqige61.jpg",
+    "https://mzimg.com/big/a1/hxciuqp90a1.jpg",
+    "https://mzimg.com/big/u1/hxciuqyhju1.jpg",
+    "https://mzimg.com/big/t1/hxciur294t1.jpg",
+    "https://s.ek.ua/jpg/2826483.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 7": "41 292 грн.",
+      "Tendo.com.ua →": "41 292 грн.",
+      "Цвет Общий объем 495 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 Инверторный компрессор No Frost морозильная / холодильная камеры Функции и возможности Функции LED дисплей индикатор закрытия дверцы перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 345 л Полок 3 шт Динамическое охлаждение Автоматическая разморозка LED освещение": "20012965",
+      "Общий объем": "495 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "LED дисплей индикатор закрытия дверцы перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "345 л",
+      "Полок": "3 шт",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "150 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Время сохранения холода": "12 ч",
+      "Мощность замораживания": "10 кг/сутки",
+      "Управление": "сенсорное внешнее",
+      "Класс энергопотребления (new)": "C",
+      "Потребление энергии в год": "190 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Класс шумности": "B",
+      "Уровень шума": "35 дБ",
+      "Габариты (ВхШхГ)": "201.3х70.4х69.4 см",
+      "Вес": "88 кг",
+      "Дата добавления на E-Katalog": "январь 2025",
+      "Маркировка производителя": "20012965",
+      "Инверторный компрессор": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\gorenje_nrk_720_caxl4\\images\\01.jpg",
+    "missing_refrigerators\\gorenje_nrk_720_caxl4\\images\\02.jpg",
+    "missing_refrigerators\\gorenje_nrk_720_caxl4\\images\\03.jpg",
+    "missing_refrigerators\\gorenje_nrk_720_caxl4\\images\\04.jpg",
+    "missing_refrigerators\\gorenje_nrk_720_caxl4\\images\\05.jpg",
+    "missing_refrigerators\\gorenje_nrk_720_caxl4\\images\\06.jpg",
+    "missing_refrigerators\\gorenje_nrk_720_caxl4\\images\\07.jpg",
+    "missing_refrigerators\\gorenje_nrk_720_caxl4\\images\\08.jpg"
+  ]
+}

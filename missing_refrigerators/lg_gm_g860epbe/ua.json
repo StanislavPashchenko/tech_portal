@@ -1,0 +1,156 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/LG-GM-G860EPBE.htm",
+    "actual_url": "https://ek.ua/ua/LG-GM-G860EPBE.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "LG",
+    "model": "GM-G860EPBE графіт",
+    "title": "Холодильник LG GM-G860EPBE графіт",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "French-door (розпашний)",
+    "total_volume_l": 508,
+    "cameras_count": 3,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": false,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 288,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 220,
+    "sections_count": 6,
+    "sections_details": "6 шт / 2 полиці, 4 ящики /",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": 10
+  },
+  "general": {
+    "control": "сенсорне внутрішнє",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 314,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 40,
+    "dimensions_cm": {
+      "height": 178.7,
+      "width": 83.5,
+      "depth": 73.0
+    },
+    "weight_kg": 142.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник LG GM-G860EPBE графіт за ціною від 79295 до 91057 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2848357.jpg",
+    "https://mzimg.com/big/61/hynqyrprq61.jpg",
+    "https://mzimg.com/big/a1/hynqyrqd0a1.jpg",
+    "https://mzimg.com/big/n1/hynqys17sn1.jpg",
+    "https://mzimg.com/big/31/hynqys2bx31.jpg",
+    "https://mzimg.com/big/r1/hynqyse7qr1.jpg",
+    "https://mzimg.com/big/n1/hynqysg73n1.jpg",
+    "https://mzimg.com/big/u1/hynqysrc6u1.jpg",
+    "https://mzimg.com/big/i1/hynqysv9ei1.jpg",
+    "https://mzimg.com/big/b1/hynqyt52tb1.jpg",
+    "https://mzimg.com/big/p1/hynqyt99up1.jpg",
+    "https://mzimg.com/big/i1/hynqytlkni1.jpg",
+    "https://s.ek.ua/jpg/2848357.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 19": "81 120 грн.",
+      "Luxmedia.com.ua →": "82 000 грн.",
+      "Denika.ua →": "79 316 грн.",
+      "Novateh.com.ua →": "80 067 грн.",
+      "inSale.com.ua →": "81 120 грн.",
+      "Колір Тип French-door (розпашний) Загальний об'єм 508 л Кількість камер 3 Контурів охолодження 2 Компресорів 1 Інверторний компресор No Frost морозильна / холодильна камери Функції та можливості Функції керування зі смартфона (Wi-Fi) LED дисплей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 288 л Полиць 3 шт Складана полиця Диспенсер холодної води зовнішній Швидкий доступ (міні-бар) / InstaView / Динамічне охолодження Автоматичне розморожування LED освітлення": "лютий 2025",
+      "Тип": "French-door (розпашний)",
+      "Загальний об'єм": "508 л",
+      "Кількість камер": "3",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "керування зі смартфона (Wi-Fi) LED дисплей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "288 л",
+      "Полиць": "3 шт",
+      "Диспенсер холодної води": "зовнішній",
+      "Швидкий доступ (міні-бар)": "/ InstaView /",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "220 л",
+      "Відділень морозильної камери": "6 шт / 2 полиці, 4 ящики /",
+      "Потужність заморожування": "10 кг/добу",
+      "Льодогенератор": "зовнішній диспенсер",
+      "Управління": "сенсорне внутрішнє",
+      "Клас енергоспоживання (new)": "E",
+      "Споживання енергії в рік": "314 кВт*год",
+      "Кліматичний клас": "тропічний Т (+18...+43 °С)",
+      "Клас гучності": "C",
+      "Рівень шуму": "40 дБ",
+      "Габарити (ВхШхГ)": "178.7х83.5х73 см",
+      "Вага": "142 кг",
+      "Офіційний сайт": "lg.com",
+      "Дата додавання на E-Katalog": "лютий 2025",
+      "Інверторний компресор": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\lg_gm_g860epbe\\images\\01.jpg",
+    "missing_refrigerators\\lg_gm_g860epbe\\images\\02.jpg",
+    "missing_refrigerators\\lg_gm_g860epbe\\images\\03.jpg",
+    "missing_refrigerators\\lg_gm_g860epbe\\images\\04.jpg",
+    "missing_refrigerators\\lg_gm_g860epbe\\images\\05.jpg",
+    "missing_refrigerators\\lg_gm_g860epbe\\images\\06.jpg",
+    "missing_refrigerators\\lg_gm_g860epbe\\images\\07.jpg",
+    "missing_refrigerators\\lg_gm_g860epbe\\images\\08.jpg",
+    "missing_refrigerators\\lg_gm_g860epbe\\images\\09.jpg",
+    "missing_refrigerators\\lg_gm_g860epbe\\images\\10.jpg",
+    "missing_refrigerators\\lg_gm_g860epbe\\images\\11.jpg",
+    "missing_refrigerators\\lg_gm_g860epbe\\images\\12.jpg",
+    "missing_refrigerators\\lg_gm_g860epbe\\images\\13.jpg"
+  ]
+}

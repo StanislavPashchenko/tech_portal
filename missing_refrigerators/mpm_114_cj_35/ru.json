@@ -1,0 +1,128 @@
+{
+  "source": {
+    "url": "https://ek.ua/MPM-114-CJ-35.htm",
+    "actual_url": "https://ek.ua/MPM-114-CJ-35.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "MPM",
+    "model": "114-CJ-35 белый",
+    "title": "Холодильник MPM 114-CJ-35 белый",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 20
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 109,
+    "cameras_count": 1,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 95,
+    "shelves_count": 2
+  },
+  "freezer_compartment": {
+    "location": "сверху",
+    "volume_l": 14,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 10,
+    "freezing_capacity_kg_per_day": 2
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 139,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 40,
+    "dimensions_cm": {
+      "height": 85.0,
+      "width": 55.0,
+      "depth": 58.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник MPM 114-CJ-35 белый по цене от 8270 до 10824 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2612360.jpg",
+    "https://mzimg.com/big/61/hm3vpb9wz61.jpg",
+    "https://mzimg.com/big/x1/hm3vujqgux1.jpg",
+    "https://s.ek.ua/jpg/2612360.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 3": "8 415 грн.",
+      "Pro100market.com.ua →": "8 475 грн.",
+      "FOXTROT.UA →": "8 286 грн.",
+      "Vodogreyka.com.ua →": "8 270 грн.",
+      "Itbox.ua →": "8 331 грн.",
+      "Brain.com.ua →": "8 415 грн.",
+      "Цвет Общий объем 109 л Количество камер 1 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Функции перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 95 л Полок 2 шт Автоматическая разморозка": "январь 2024",
+      "Общий объем": "109 л",
+      "Количество камер": "1",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Функции": "перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "95 л",
+      "Полок": "2 шт",
+      "Морозильная камера": "сверху",
+      "Объем морозильной камеры": "14 л",
+      "Время сохранения холода": "10 ч",
+      "Мощность замораживания": "2.4 кг/сутки",
+      "Управление": "поворотные переключатели",
+      "Класс энергопотребления (new)": "E",
+      "Потребление энергии в год": "139 кВт*ч",
+      "Класс шумности": "C",
+      "Уровень шума": "40 дБ",
+      "Габариты (ВхШхГ)": "85x55x58 см",
+      "Дата добавления на E-Katalog": "январь 2024",
+      "Автоматическая разморозка": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\mpm_114_cj_35\\images\\01.jpg",
+    "missing_refrigerators\\mpm_114_cj_35\\images\\02.jpg",
+    "missing_refrigerators\\mpm_114_cj_35\\images\\03.jpg",
+    "missing_refrigerators\\mpm_114_cj_35\\images\\04.jpg"
+  ]
+}

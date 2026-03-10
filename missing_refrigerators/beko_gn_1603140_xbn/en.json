@@ -1,0 +1,140 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/BEKO-GN-1603140-XBN.htm",
+    "actual_url": "https://ek.ua/en/BEKO-GN-1603140-XBN.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Beko",
+    "model": "GN 1603140 XBN stainless steel",
+    "title": "Beko GN 1603140 XBN stainless steel",
+    "category": "E-Katalog category 200",
+    "year": 327,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "Side-by-side",
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 5
+  },
+  "freezer_compartment": {
+    "location": "side",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "external touch controls",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 327,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 179.0,
+      "width": 91.0,
+      "depth": 70.5
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Beko GN 1603140 XBN stainless steel at a price from 66349 to 72655 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2313157.jpg",
+    "https://mzimg.com/big/o1/h89g22prko1.jpg",
+    "https://mzimg.com/big/t1/h89g22qblt1.jpg",
+    "https://mzimg.com/big/v1/h89g233b3v1.jpg",
+    "https://mzimg.com/big/91/h89g234xx91.jpg",
+    "https://s.ek.ua/jpg/2313157.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 5": "69 514 ₴",
+      "Tendo.com.ua →": "69 297 ₴",
+      "Rozetka.ua →": "69 514 ₴",
+      "Colour Type Side-by-side Total capacity 580 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 Inverter compressor No Frost freezer / refrigerator compartments Features Features LED display door alarm More features hidden door handles Refrigeration chamber Refrigerator capacity 368 L Number of shelves 5 Dynamic air cooling Auto-defrost LED lighting": "November 2022",
+      "Type": "Side-by-side",
+      "Total capacity": "580 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "LED display door alarm",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "368 L",
+      "Number of shelves": "5",
+      "Freezer compartment": "side",
+      "Freezer capacity": "212 L",
+      "Freezer temperature": "-24 °C",
+      "Controls": "external touch controls",
+      "Energy class (new)": "E",
+      "Energy consumption per year": "327 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Noise class": "C",
+      "Noise level": "38 dB",
+      "Dimensions (HxWxD)": "179x91x70.5 cm",
+      "Official Website": "beko.com",
+      "Added to E-Catalog": "November 2022",
+      "Inverter compressor": "yes",
+      "LED lighting": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\beko_gn_1603140_xbn\\images\\01.jpg",
+    "missing_refrigerators\\beko_gn_1603140_xbn\\images\\02.jpg",
+    "missing_refrigerators\\beko_gn_1603140_xbn\\images\\03.jpg",
+    "missing_refrigerators\\beko_gn_1603140_xbn\\images\\04.jpg",
+    "missing_refrigerators\\beko_gn_1603140_xbn\\images\\05.jpg",
+    "missing_refrigerators\\beko_gn_1603140_xbn\\images\\06.jpg"
+  ]
+}

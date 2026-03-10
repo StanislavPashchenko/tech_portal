@@ -1,0 +1,154 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/LG-GB-B72SWUGN.htm",
+    "actual_url": "https://ek.ua/ua/LG-GB-B72SWUGN.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "LG",
+    "model": "GB-B72SWUGN білий",
+    "title": "Холодильник LG GB-B72SWUGN білий",
+    "category": "E-Katalog category 200",
+    "year": 2022,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 384,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 277,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 107,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 9,
+    "freezing_capacity_kg_per_day": 10
+  },
+  "general": {
+    "control": "сенсорне зовнішнє",
+    "energy_class_new": "D",
+    "annual_energy_consumption_kwh": 215,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 35,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 59.5,
+      "depth": 67.5
+    },
+    "weight_kg": 78.0,
+    "country_of_origin": "Польща"
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general",
+      "Ціни на LG GB-B72SWUGN"
+    ]
+  },
+  "description": "Холодильник LG GB-B72SWUGN білий за ціною від 37239 до 37587 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2177162.jpg",
+    "https://mzimg.com/big/l1/gz8n0pl12l1.jpg",
+    "https://mzimg.com/big/c1/gz8n0q2kmc1.jpg",
+    "https://mzimg.com/big/e1/gz8n0qf3le1.jpg",
+    "https://mzimg.com/big/21/gz8n0qgjm21.jpg",
+    "https://mzimg.com/big/z1/gz8n0pnfhz1.jpg",
+    "https://mzimg.com/big/q1/gz8n0q0ovq1.jpg",
+    "https://mzimg.com/big/b1/gz8n0qqywb1.jpg",
+    "https://s.ek.ua/jpg/2177162.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 8": "37 239 грн.",
+      "Denika.ua →": "37 239 грн.",
+      "Колір Загальний об'єм 384 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 Інверторний компресор No Frost морозильна / холодильна камери Функції та можливості Функції керування зі смартфона (Wi-Fi) захист від дітей LED дисплей індикатор закриття дверцят перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 277 л Полиць 4 шт Складана полиця Відсіки для зберігання зона свіжості зона вологості полиця для пляшок Динамічне охолодження Автоматичне розморожування LED освітлення": "лютий 2022",
+      "Загальний об'єм": "384 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "керування зі смартфона (Wi-Fi) захист від дітей LED дисплей індикатор закриття дверцят перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "277 л",
+      "Полиць": "4 шт",
+      "Відсіки для зберігання": "зона свіжості зона вологості полиця для пляшок",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "107 л",
+      "Відділень морозильної камери": "3 шт",
+      "Температура морозилки": "-24 °C",
+      "Час збереження холоду": "9 год",
+      "Потужність заморожування": "10 кг/добу",
+      "Управління": "сенсорне зовнішнє",
+      "Клас енергоспоживання (new)": "D",
+      "Споживання енергії в рік": "215 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Клас гучності": "B",
+      "Рівень шуму": "35 дБ",
+      "Габарити (ВхШхГ)": "203x59.5x67.5 см",
+      "Вага": "78 кг",
+      "Країна виробництва": "Польща",
+      "Офіційний сайт": "lg.com",
+      "Дата додавання на E-Katalog": "лютий 2022",
+      "Відгук корисний? Так 0 Ні 0": "18 листопада 2022",
+      "чудова модель, мені дуже сподобалася": "18 листопада 2022",
+      "Інверторний компресор": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    },
+    "Ціни на LG GB-B72SWUGN": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\lg_gb_b72swugn\\images\\01.jpg",
+    "missing_refrigerators\\lg_gb_b72swugn\\images\\02.jpg",
+    "missing_refrigerators\\lg_gb_b72swugn\\images\\03.jpg",
+    "missing_refrigerators\\lg_gb_b72swugn\\images\\04.jpg",
+    "missing_refrigerators\\lg_gb_b72swugn\\images\\05.jpg",
+    "missing_refrigerators\\lg_gb_b72swugn\\images\\06.jpg",
+    "missing_refrigerators\\lg_gb_b72swugn\\images\\07.jpg",
+    "missing_refrigerators\\lg_gb_b72swugn\\images\\08.jpg",
+    "missing_refrigerators\\lg_gb_b72swugn\\images\\09.jpg"
+  ]
+}

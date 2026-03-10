@@ -1,0 +1,150 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/GRIFON-DFN-185W.htm",
+    "actual_url": "https://ek.ua/en/GRIFON-DFN-185W.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Grifon",
+    "model": "DFN-185W white",
+    "title": "Grifon DFN-185W white",
+    "category": "E-Katalog category 200",
+    "year": 292,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 39
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knobs",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": 292,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 41,
+    "dimensions_cm": {
+      "height": 188.0,
+      "width": 59.5,
+      "depth": 63.0
+    },
+    "weight_kg": 40.0,
+    "country_of_origin": "China"
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general",
+      "Price for Grifon DFN-185W"
+    ]
+  },
+  "description": "The Grifon brand offers an inexpensive two-chamber refrigerator with good capacity and all the necessary equipment for efficient operation. The total usable volume is 310 liters, with the largest part (224 liters) occupied by the refrigerator compartment. It has three tempered glass shelves for storing food and utensils, a container for storing vegetables and fruits, side shelves and interior lighting. A big advantage is the <b>possibility of reversing the doors</b>. This means that you can independently choose the side of the hinges and, accordingly, the opening of the door, depending on the layout of the kitchen. At the bottom of the Grifon DFN-185W there is a freezer compartment. It has a useful volume of 86 liters and offers three pull-out shelves for storing food. The freezer's capacity reaches <b>6 kg per day</b>, and in general the refrigerator is able to <b>maintain the optimal temperature in the absence of electricity for 17 hours</b>. In addition, it is worth noting <b>hidden door handles</b>, a noise level during operation of 41 dB and <b>energy consumption class A+</b> - the equipment consumes 0.8 kW of electricity per day.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2445267.jpg",
+    "https://mzimg.com/big/g1/hicf7ymkqg1.jpg",
+    "https://mzimg.com/big/r1/hicf7yncmr1.jpg",
+    "https://mzimg.com/big/o1/hicf7yvaqo1.jpg",
+    "https://mzimg.com/big/v1/hicf7yx0cv1.jpg",
+    "https://mzimg.com/big/k1/hicf7z58tk1.jpg",
+    "https://mzimg.com/big/g1/hicf7z60sg1.jpg",
+    "https://mzimg.com/big/v1/hicf7ze2wv1.jpg",
+    "https://mzimg.com/big/d1/hicf7zfmed1.jpg",
+    "https://mzimg.com/big/d1/hicf7zmgdd1.jpg",
+    "https://mzimg.com/big/x1/hicf7zn6ex1.jpg",
+    "https://s.ek.ua/jpg/2445267.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 11": "14 359 ₴",
+      "Click.ua →": "13 698 ₴",
+      "Openshop.ua →": "14 189 ₴",
+      "ТЕХНОточка →": "14 077 ₴",
+      "Luckylink.kiev.ua →": "14 332 ₴",
+      "Comtrading.ua →": "14 359 ₴",
+      "Colour Total capacity 310 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 Features Features reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 224 L Number of shelves 3 Auto-defrost LED lighting": "May 2023",
+      "Total capacity": "310 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "Features": "reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "224 L",
+      "Number of shelves": "3",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "86 L",
+      "Freezer drawers": "3",
+      "Autonomy time": "17 h",
+      "Freeze capacity": "6 kg/day",
+      "Controls": "rotary knobs",
+      "Energy class": "A+",
+      "Energy consumption per year": "292 kWh",
+      "Noise level": "41 dB",
+      "Dimensions (HxWxD)": "188x59.5x63 cm",
+      "Weight": "40 kg",
+      "Country of origin": "China",
+      "Official Website": "grifon.ua",
+      "Added to E-Catalog": "May 2023",
+      "LED lighting": "yes",
+      "Auto-defrost": "yes"
+    },
+    "Price for Grifon DFN-185W": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\grifon_dfn_185w\\images\\01.jpg",
+    "missing_refrigerators\\grifon_dfn_185w\\images\\02.jpg",
+    "missing_refrigerators\\grifon_dfn_185w\\images\\03.jpg",
+    "missing_refrigerators\\grifon_dfn_185w\\images\\04.jpg",
+    "missing_refrigerators\\grifon_dfn_185w\\images\\05.jpg",
+    "missing_refrigerators\\grifon_dfn_185w\\images\\06.jpg",
+    "missing_refrigerators\\grifon_dfn_185w\\images\\07.jpg",
+    "missing_refrigerators\\grifon_dfn_185w\\images\\08.jpg",
+    "missing_refrigerators\\grifon_dfn_185w\\images\\09.jpg",
+    "missing_refrigerators\\grifon_dfn_185w\\images\\10.jpg",
+    "missing_refrigerators\\grifon_dfn_185w\\images\\11.jpg",
+    "missing_refrigerators\\grifon_dfn_185w\\images\\12.jpg"
+  ]
+}

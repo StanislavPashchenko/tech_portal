@@ -1,0 +1,139 @@
+{
+  "source": {
+    "url": "https://ek.ua/GUNTER-HAUER-FN-240-B.htm",
+    "actual_url": "https://ek.ua/GUNTER-HAUER-FN-240-B.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Gunter&Hauer",
+    "model": "FN 240 B бежевый",
+    "title": "Холодильник Gunter&Hauer FN 240 B бежевый",
+    "category": "E-Katalog category 200",
+    "year": 2020,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 212,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": false,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 166,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "сверху",
+    "volume_l": 46,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 17,
+    "freezing_capacity_kg_per_day": 2
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 173,
+    "climate_class": [
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 147.5,
+      "width": 56.0,
+      "depth": 56.5
+    },
+    "weight_kg": 45.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general",
+      "Цены на Gunter&Hauer FN 240 B"
+    ]
+  },
+  "description": "Холодильник Gunter&Hauer FN 240 B бежевый по цене от 19999 до 19999 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1736618.jpg",
+    "https://mzimg.com/big/11/gblnfid1t11.jpg",
+    "https://mzimg.com/big/01/gblnfisgn01.jpg",
+    "https://mzimg.com/big/41/gblnfj98y41.jpg",
+    "https://mzimg.com/big/z1/gblnfjrpcz1.jpg",
+    "https://mzimg.com/big/31/gblna5i4c31.png",
+    "https://mzimg.com/big/c1/gblnfkbxzc1.jpg",
+    "https://mzimg.com/big/01/gblnfkvfy01.jpg",
+    "https://s.ek.ua/jpg/1736618.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 8": "19 999 грн. Купить! Холодильник Gunter&Hauer FN 240 B Kitchen-sinks.com.ua С нами 6 лет Доставка: в Днепр из Киева Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Общий объем 212 л Количество камер 2 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Дополнительно ретро дизайн Холодильное отделение Объем холодильной камеры 166 л Автоматическая разморозка Морозильное отделение Морозильная камера сверху Объем морозильной камеры 46 л Температура морозилки -32 °C Время сохранения холода 17 ч Мощность замораживания 2 кг/сутки": "февраль 2020",
+      "Общий объем": "212 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Дополнительно": "ретро дизайн",
+      "Объем холодильной камеры": "166 л",
+      "Морозильная камера": "сверху",
+      "Объем морозильной камеры": "46 л",
+      "Температура морозилки": "-32 °C",
+      "Время сохранения холода": "17 ч",
+      "Мощность замораживания": "2 кг/сутки",
+      "Управление": "поворотные переключатели",
+      "Класс энергопотребления": "A++",
+      "Потребление энергии в год": "173 кВт*ч",
+      "Климатический класс": "N, ST (+16...+38 °С)",
+      "Уровень шума": "39 дБ",
+      "Габариты (ВхШхГ)": "147.5x56x56.5 см",
+      "Вес": "45 кг",
+      "Официальный сайт": "gunter-hauer.ua",
+      "Дата добавления на E-Katalog": "февраль 2020",
+      "Автоматическая разморозка": "да"
+    },
+    "Цены на Gunter&Hauer FN 240 B": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\gunter_hauer_fn_240_b\\images\\01.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_240_b\\images\\02.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_240_b\\images\\03.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_240_b\\images\\04.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_240_b\\images\\05.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_240_b\\images\\06.png",
+    "missing_refrigerators\\gunter_hauer_fn_240_b\\images\\07.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_240_b\\images\\08.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_240_b\\images\\09.jpg"
+  ]
+}

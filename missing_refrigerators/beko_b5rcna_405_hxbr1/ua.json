@@ -1,0 +1,141 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/BEKO-B5RCNA-405-HXBR1.htm",
+    "actual_url": "https://ek.ua/ua/BEKO-B5RCNA-405-HXBR1.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Beko",
+    "model": "B5RCNA 405 HXBR1 чорний",
+    "title": "Холодильник Beko B5RCNA 405 HXBR1 чорний",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 355,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 249,
+    "shelves_count": 5
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 106,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 11,
+    "freezing_capacity_kg_per_day": 6
+  },
+  "general": {
+    "control": "сенсорне внутрішнє",
+    "energy_class_new": "D",
+    "annual_energy_consumption_kwh": 205,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 36,
+    "dimensions_cm": {
+      "height": 203.5,
+      "width": 59.5,
+      "depth": 66.3
+    },
+    "weight_kg": 76.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Beko B5RCNA 405 HXBR1 чорний за ціною від 33388 до 34871 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2875607.jpg",
+    "https://mzimg.com/big/c1/i01kbirbkc1.jpg",
+    "https://mzimg.com/big/i1/i01kbisaci1.jpg",
+    "https://mzimg.com/big/w1/i01kbj4n5w1.jpg",
+    "https://mzimg.com/big/e1/i01kbj8bxe1.jpg",
+    "https://mzimg.com/big/n1/i01kbjk0jn1.jpg",
+    "https://mzimg.com/big/d1/i01kbjny0d1.jpg",
+    "https://mzimg.com/big/w1/i01kbk4ujw1.jpg",
+    "https://s.ek.ua/jpg/2875607.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 8": "34 871 грн.",
+      "Tendo.com.ua →": "34 871 грн.",
+      "Колір Загальний об'єм 355 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 Інверторний компресор No Frost морозильна камера Функції та можливості Функції LED дисплей перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 249 л Полиць 5 шт Динамічне охолодження Автоматичне розморожування LED освітлення": "квітень 2025",
+      "Загальний об'єм": "355 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна камера",
+      "Функції": "LED дисплей перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "249 л",
+      "Полиць": "5 шт",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "106 л",
+      "Відділень морозильної камери": "3 шт",
+      "Час збереження холоду": "11 год",
+      "Потужність заморожування": "6 кг/добу",
+      "Управління": "сенсорне внутрішнє",
+      "Клас енергоспоживання (new)": "D",
+      "Споживання енергії в рік": "205 кВт*год",
+      "Клас гучності": "C",
+      "Рівень шуму": "36 дБ",
+      "Габарити (ВхШхГ)": "203.5х59.5х66.3 см",
+      "Вага": "76 кг",
+      "Офіційний сайт": "beko.lt",
+      "Дата додавання на E-Katalog": "квітень 2025",
+      "Інверторний компресор": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\beko_b5rcna_405_hxbr1\\images\\01.jpg",
+    "missing_refrigerators\\beko_b5rcna_405_hxbr1\\images\\02.jpg",
+    "missing_refrigerators\\beko_b5rcna_405_hxbr1\\images\\03.jpg",
+    "missing_refrigerators\\beko_b5rcna_405_hxbr1\\images\\04.jpg",
+    "missing_refrigerators\\beko_b5rcna_405_hxbr1\\images\\05.jpg",
+    "missing_refrigerators\\beko_b5rcna_405_hxbr1\\images\\06.jpg",
+    "missing_refrigerators\\beko_b5rcna_405_hxbr1\\images\\07.jpg",
+    "missing_refrigerators\\beko_b5rcna_405_hxbr1\\images\\08.jpg",
+    "missing_refrigerators\\beko_b5rcna_405_hxbr1\\images\\09.jpg"
+  ]
+}

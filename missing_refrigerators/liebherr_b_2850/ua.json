@@ -1,0 +1,122 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/LIEBHERR-B-2850.htm",
+    "actual_url": "https://ek.ua/ua/LIEBHERR-B-2850.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liebherr",
+    "model": "B 2850 білий",
+    "title": "Холодильник Liebherr B 2850 білий",
+    "category": "E-Katalog category 200",
+    "year": 2016,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 157,
+    "cameras_count": 1,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": false,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "немає",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "сенсорне внутрішнє",
+    "energy_class_new": "A+++ / 77 кВт/рік /",
+    "annual_energy_consumption_kwh": null,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 38,
+    "dimensions_cm": {
+      "height": 125.0,
+      "width": 60.0,
+      "depth": 67.0
+    },
+    "weight_kg": 60.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Liebherr B 2850 білий за ціною від 21545 до 21545 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/865683.jpg",
+    "https://mzimg.com/big/j1/f5r43trv8j1.jpg",
+    "https://mzimg.com/big/f1/f5r43zlz3f1.jpg",
+    "https://mzimg.com/big/b1/f5r4451vgb1.jpg",
+    "https://s.ek.ua/jpg/865683.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 4": "21 545 грн. Купити! Холодильник Liebherr B 2850 inSale.com.ua Менше року Доставка: у Дніпро з Києва Гарантія: 12 міс. Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 157 л Кількість камер 1 Контурів охолодження 1 Компресорів 1 Функції та можливості Функції режим відпустки захист від дітей LED дисплей індикатор закриття дверцят перевішування дверей Холодильне відділення Відсіки для зберігання зона свіжості / BioFresh / Зона свіжості (нульова камера) 157 л Швидке охолодження Автоматичне розморожування LED освітлення": "липень 2016",
+      "Загальний об'єм": "157 л",
+      "Кількість камер": "1",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "Функції": "режим відпустки захист від дітей LED дисплей індикатор закриття дверцят перевішування дверей",
+      "Відсіки для зберігання": "зона свіжості / BioFresh /",
+      "Зона свіжості (нульова камера)": "157 л",
+      "Морозильна камера": "немає",
+      "Управління": "сенсорне внутрішнє",
+      "Клас енергоспоживання": "A+++ / 77 кВт/рік /",
+      "Рівень шуму": "38 дБ",
+      "Габарити (ВхШхГ)": "125x60x67 см",
+      "Вага": "60 кг",
+      "Дата додавання на E-Katalog": "липень 2016",
+      "Швидке охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\liebherr_b_2850\\images\\01.jpg",
+    "missing_refrigerators\\liebherr_b_2850\\images\\02.jpg",
+    "missing_refrigerators\\liebherr_b_2850\\images\\03.jpg",
+    "missing_refrigerators\\liebherr_b_2850\\images\\04.jpg",
+    "missing_refrigerators\\liebherr_b_2850\\images\\05.jpg"
+  ]
+}

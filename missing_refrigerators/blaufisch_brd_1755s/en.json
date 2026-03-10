@@ -1,0 +1,135 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/BLAUFISCH-BRD-1755S.htm",
+    "actual_url": "https://ek.ua/en/BLAUFISCH-BRD-1755S.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Blaufisch",
+    "model": "BRD-1755S silver",
+    "title": "Blaufisch BRD-1755S silver",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 15
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 4,
+    "sections_details": "4",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knobs",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": null,
+    "climate_class": [
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 42,
+    "dimensions_cm": {
+      "height": 172.0,
+      "width": 55.0,
+      "depth": 57.0
+    },
+    "weight_kg": 52.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general",
+      "Price for Blaufisch BRD-1755S"
+    ]
+  },
+  "description": "Fridge Blaufisch BRD-1755S silver at a price from 11409 to 13700 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2811389.jpg",
+    "https://mzimg.com/big/t1/hw7tce2u3t1.jpg",
+    "https://mzimg.com/big/o1/hw7tj03hvo1.jpg",
+    "https://s.ek.ua/jpg/2811389.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 3": "13 309 ₴",
+      "Elmag.ua →": "11 726 ₴",
+      "Denika.ua →": "12 999 ₴",
+      "Tehnomarket.ua →": "12 999 ₴",
+      "Tehnomaster.com →": "12 477 ₴",
+      "Elmir.ua →": "13 309 ₴",
+      "Colour Total capacity 249 L Number of chambers 2 Number of cooling circuits 1 Number of compressors 1 Features More features hidden door handles Refrigeration chamber Refrigerator capacity 136 L Number of shelves 3 LED lighting Freezer chamber Freezer compartment bottom Freezer capacity 113 L Freezer drawers 4 Freezer temperature -24 °C Autonomy time 20 h Freeze capacity 5 kg/day": "December 2024",
+      "Total capacity": "249 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "136 L",
+      "Number of shelves": "3",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "113 L",
+      "Freezer drawers": "4",
+      "Freezer temperature": "-24 °C",
+      "Autonomy time": "20 h",
+      "Freeze capacity": "5 kg/day",
+      "Controls": "rotary knobs",
+      "Energy class": "A+",
+      "Climate class": "N, ST (+16...+38 °С)",
+      "Noise level": "42 dB",
+      "Dimensions (HxWxD)": "172х55х57 cm",
+      "Weight": "52 kg",
+      "Official Website": "blaufisch.com.ua",
+      "Added to E-Catalog": "December 2024",
+      "LED lighting": "yes"
+    },
+    "Price for Blaufisch BRD-1755S": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\blaufisch_brd_1755s\\images\\01.jpg",
+    "missing_refrigerators\\blaufisch_brd_1755s\\images\\02.jpg",
+    "missing_refrigerators\\blaufisch_brd_1755s\\images\\03.jpg",
+    "missing_refrigerators\\blaufisch_brd_1755s\\images\\04.jpg"
+  ]
+}

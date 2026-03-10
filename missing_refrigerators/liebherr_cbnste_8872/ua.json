@@ -1,0 +1,151 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/LIEBHERR-CBNSTE-8872.htm",
+    "actual_url": "https://ek.ua/ua/LIEBHERR-CBNSTE-8872.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liebherr",
+    "model": "CBNste 8872 нержавіюча сталь",
+    "title": "Холодильник Liebherr CBNste 8872 нержавіюча сталь",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "French-door (розпашний)",
+    "total_volume_l": 523,
+    "cameras_count": 3,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 363,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "знизу (висувна)",
+    "volume_l": 160,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 17,
+    "freezing_capacity_kg_per_day": 10
+  },
+  "general": {
+    "control": "сенсорне внутрішнє",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 328,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 42,
+    "dimensions_cm": {
+      "height": 202.7,
+      "width": 91.0,
+      "depth": 61.5
+    },
+    "weight_kg": 167.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник формату French-door, виготовлений компанією Liebherr, є флагманським рішенням для великих сімей, власників просторих кухонь і найбільш вимогливих користувачів. Модель має систему NoFrost у морозильному відділенні, тому ручне розморожування не потрібне. Також до особливостей агрегата належить відділення BioFresh, тобто зона свіжості з двома висувними контейнерами у холодильній камерi. В одному з ящиків можна створити оптимальні умови для зберігання м'яса та молочних продуктів (Meat & Dairy), а в іншому — для овочів та фруктів (Fruit & Vegetable). Холодильник Liebherr CBNste 8872 передбачає внутрішнє сенсорне управління MagicEye з дисплеєм і можливістю гнучких налаштувань — від температури і вибору різних режимів (наприклад, відпустка) до захисного блокування від дітей. Морозильна камера розташована в нижній частині корпусу і розділена між двома відокремленими висувними контейнерами на практичних телескопічних напрямних. В одному з цих ящиків знаходиться льодогенератор для заготівлі кубиків льоду. У цих двох камерах загалом можна заморозити близько 10 кг продуктів на добу, а при збоях з електроенергією — підтримувати холод загалом до 17 годин. У холодильному відділенні є чотири широкі відкриті полиці та шість дверних кишень — по 3 на кожній дверці. Слід окремо відзначити досить гучну роботу (до 42 дБ), великі габарити (ширина 91 см, висота 203 см) та велику вагу агрегата (більше 100 кг). <b>Особливості: система NoFrost для відсутності ручного розморожування, зона BioFresh для зберігання різних типів продуктів, сенсорне управління MagicEye, льодогенератор, довге збереження холоду без електроенергії.</b>",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2787986.jpg",
+    "https://mzimg.com/big/11/huwfbzuhk11.jpg",
+    "https://mzimg.com/big/w1/huwfbzw5uw1.jpg",
+    "https://mzimg.com/big/q1/huwfc0d23q1.jpg",
+    "https://mzimg.com/big/21/huwfc0gz721.jpg",
+    "https://mzimg.com/big/c1/huwfc0y3ec1.jpg",
+    "https://mzimg.com/big/b1/huwfc13ymb1.jpg",
+    "https://mzimg.com/big/91/huwfc1izw91.jpg",
+    "https://s.ek.ua/jpg/2787986.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 8": "273 572 грн.",
+      "Tendo.com.ua →": "321 900 грн.",
+      "Elmag.ua →": "321 899 грн.",
+      "PermyCo →": "273 572 грн.",
+      "Колір Тип French-door (розпашний) Загальний об'єм 523 л Кількість камер 3 Контурів охолодження 2 Компресорів 1 No Frost морозильна камера Функції та можливості Функції захист від дітей LED дисплей індикатор закриття дверцят Холодильне відділення Об'єм холодильної камери 363 л Полиць 4 шт Відсіки для зберігання зона свіжості Швидке охолодження Динамічне охолодження Автоматичне розморожування LED освітлення Телескопічні напрямні": "жовтень 2024",
+      "Тип": "French-door (розпашний)",
+      "Загальний об'єм": "523 л",
+      "Кількість камер": "3",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна камера",
+      "Функції": "захист від дітей LED дисплей індикатор закриття дверцят",
+      "Об'єм холодильної камери": "363 л",
+      "Полиць": "4 шт",
+      "Відсіки для зберігання": "зона свіжості",
+      "Морозильна камера": "знизу (висувна)",
+      "Об'єм морозильної камери": "160 л",
+      "Температура морозилки": "-27 °C",
+      "Час збереження холоду": "17 год",
+      "Потужність заморожування": "10 кг/добу",
+      "Льодогенератор": "внутрішній",
+      "Управління": "сенсорне внутрішнє",
+      "Клас енергоспоживання (new)": "E",
+      "Споживання енергії в рік": "328 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Клас гучності": "D",
+      "Рівень шуму": "42 дБ",
+      "Габарити (ВхШхГ)": "202.7х91х61.5 см",
+      "Вага": "167 кг",
+      "Офіційний сайт": "liebherr.com",
+      "Дата додавання на E-Katalog": "жовтень 2024",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\liebherr_cbnste_8872\\images\\01.jpg",
+    "missing_refrigerators\\liebherr_cbnste_8872\\images\\02.jpg",
+    "missing_refrigerators\\liebherr_cbnste_8872\\images\\03.jpg",
+    "missing_refrigerators\\liebherr_cbnste_8872\\images\\04.jpg",
+    "missing_refrigerators\\liebherr_cbnste_8872\\images\\05.jpg",
+    "missing_refrigerators\\liebherr_cbnste_8872\\images\\06.jpg",
+    "missing_refrigerators\\liebherr_cbnste_8872\\images\\07.jpg",
+    "missing_refrigerators\\liebherr_cbnste_8872\\images\\08.jpg",
+    "missing_refrigerators\\liebherr_cbnste_8872\\images\\09.jpg"
+  ]
+}

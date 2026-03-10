@@ -1,0 +1,140 @@
+{
+  "source": {
+    "url": "https://ek.ua/SMEG-FQ60XE.htm",
+    "actual_url": "https://ek.ua/SMEG-FQ60XE.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Smeg",
+    "model": "FQ60XE нержавейка",
+    "title": "Холодильник Smeg FQ60XE нержавейка",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "French-door (распашной)",
+    "total_volume_l": 541,
+    "cameras_count": 3,
+    "cooling_circuits": 3,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": false,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 376,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 82,
+    "sections_count": 6,
+    "sections_details": "6 шт",
+    "cold_storage_time_h": 10,
+    "freezing_capacity_kg_per_day": 5
+  },
+  "general": {
+    "control": "кнопочное внутреннее",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 338,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 37,
+    "dimensions_cm": {
+      "height": 182.0,
+      "width": 90.8,
+      "depth": 70.8
+    },
+    "weight_kg": 126.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Smeg FQ60XE нержавейка по цене от 162500 до 162500 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2681648.jpg",
+    "https://mzimg.com/big/s1/hpbbqpltis1.jpg",
+    "https://mzimg.com/big/x1/hpbbqpnfmx1.jpg",
+    "https://mzimg.com/big/31/hpbbqpxiw31.jpg",
+    "https://s.ek.ua/jpg/2681648.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 4": "162 500 грн. Купить! Холодильник FQ60XE SMEG Viyar.ua Новый магазин Доставка: по Днепру Гарантия: от производителя Пожаловаться в список мои списки добавить в сравнение 8 099 zł 90 709 грн. 1 851 £ 102 147 грн.",
+      "Цвет Тип French-door (распашной) Общий объем 541 л Количество камер 3 Контуров охлаждения 3 Компрессоров 1 No Frost морозильная / холодильная камеры Функции и возможности Функции режим отпуска LED дисплей индикатор закрытия дверцы Холодильное отделение Объем холодильной камеры 376 л Полок 3 шт Отсеки для хранения зона свежести мультизона Зона свежести (нулевая камера) 83 л Динамическое охлаждение Автоматическая разморозка LED освещение": "май 2024",
+      "Тип": "French-door (распашной)",
+      "Общий объем": "541 л",
+      "Количество камер": "3",
+      "Контуров охлаждения": "3",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "режим отпуска LED дисплей индикатор закрытия дверцы",
+      "Объем холодильной камеры": "376 л",
+      "Полок": "3 шт",
+      "Отсеки для хранения": "зона свежести мультизона",
+      "Зона свежести (нулевая камера)": "83 л",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "82 л",
+      "Отделений морозильной камеры": "6 шт",
+      "Температура морозилки": "-24 °C",
+      "Время сохранения холода": "10 ч",
+      "Мощность замораживания": "4.6 кг/сутки",
+      "Управление": "кнопочное внутреннее",
+      "Класс энергопотребления (new)": "E",
+      "Потребление энергии в год": "338 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Класс шумности": "C",
+      "Уровень шума": "37 дБ",
+      "Габариты (ВхШхГ)": "182x90.8x70.8 см",
+      "Вес": "126 кг",
+      "Официальный сайт": "smeg.com",
+      "Дата добавления на E-Katalog": "май 2024",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\smeg_fq60xe\\images\\01.jpg",
+    "missing_refrigerators\\smeg_fq60xe\\images\\02.jpg",
+    "missing_refrigerators\\smeg_fq60xe\\images\\03.jpg",
+    "missing_refrigerators\\smeg_fq60xe\\images\\04.jpg",
+    "missing_refrigerators\\smeg_fq60xe\\images\\05.jpg"
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "source": {
+    "url": "https://ek.ua/AMICA-EWA3T813ANI.htm",
+    "actual_url": "https://ek.ua/AMICA-EWA3T813ANI.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Стиральная",
+    "model": "машина Amica EWA3T813ANi белый",
+    "title": "Стиральная машина Amica EWA3T813ANi белый",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "вертикальная загрузка",
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": null,
+    "compressors_count": null,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": null,
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "поворотная ручка + кнопки",
+    "energy_class_new": "A",
+    "annual_energy_consumption_kwh": null,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 87.5,
+      "width": 40.0,
+      "depth": 61.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Стиральная машина Amica EWA3T813ANi белый по цене от 21325 до 21325 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2952942.jpg",
+    "https://mzimg.com/big/91/i4rh524zq91.jpg",
+    "https://mzimg.com/big/81/i4rh525lx81.jpg",
+    "https://mzimg.com/big/a1/i4rh5pks7a1.jpg",
+    "https://s.ek.ua/jpg/2952942.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 4": "от 21 325 грн. Купить! Пральна машина Amica EWA3T813ANi 8 кг 1250 об/хв EWA3T813AN Novateh.com.ua Менее года Доставка: в Днепр из Новояворовска Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Характеристики Тип загрузки вертикальная загрузка Загрузка 8 кг Макс. скорость отжима 1300 об/мин Расход воды за цикл 48 л Сушилка Материал бака пластик Материал ТЭНа нержавеющая сталь Функции и возможности Количество программ 15 шт Дополнительные программы быстрая стирка деликатная стирка гигиена (детская одежда) джинсовая одежда": "август 2025",
+      "Тип загрузки": "вертикальная загрузка",
+      "Загрузка": "8 кг",
+      "Макс. скорость отжима": "1300 об/мин",
+      "Расход воды за цикл": "48 л",
+      "Материал бака": "пластик",
+      "Материал ТЭНа": "нержавеющая сталь",
+      "Количество программ": "15 шт",
+      "Дополнительные программы": "быстрая стирка деликатная стирка гигиена (детская одежда) джинсовая одежда",
+      "Класс отжима": "B",
+      "Класс энергопотребления (new)": "A",
+      "Класс шумности": "C",
+      "Управление": "поворотная ручка + кнопки",
+      "Габариты (ВхШхГ)": "87.5x40x61 см",
+      "Официальный сайт": "amica.pl",
+      "Дата добавления на E-Katalog": "август 2025"
+    }
+  },
+  "local_images": [
+    "missing_washing_machines\\amica_ewa3t813ani\\images\\01.jpg",
+    "missing_washing_machines\\amica_ewa3t813ani\\images\\02.jpg",
+    "missing_washing_machines\\amica_ewa3t813ani\\images\\03.jpg",
+    "missing_washing_machines\\amica_ewa3t813ani\\images\\04.jpg",
+    "missing_washing_machines\\amica_ewa3t813ani\\images\\05.jpg"
+  ]
+}

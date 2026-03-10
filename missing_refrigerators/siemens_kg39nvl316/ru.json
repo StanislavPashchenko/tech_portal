@@ -1,0 +1,139 @@
+{
+  "source": {
+    "url": "https://ek.ua/SIEMENS-KG39NVL316.htm",
+    "actual_url": "https://ek.ua/SIEMENS-KG39NVL316.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Siemens",
+    "model": "KG39NVL316 серебристый",
+    "title": "Холодильник Siemens KG39NVL316 серебристый",
+    "category": "E-Katalog category 200",
+    "year": 2019,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 366,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": false,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 255,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 87,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 16,
+    "freezing_capacity_kg_per_day": 14
+  },
+  "general": {
+    "control": "сенсорное внутреннее",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 273,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 60.0,
+      "depth": 66.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Достаточно продвинутый инверторный двухкамерный холодильник, представленный на рынке в рамках среднеуровнего семейства iQ300 от популярного бренда Siemens. Среди основных преимуществ модели прежде всего стоит выделить надежный инверторный компрессор, два контура охлаждения (для холодильной и отдельно для морозильной камеры), полную поддержку технологии Full No Frost, а также расширенное оснащение. Общий полезный объем холодильника Siemens KG39NVL316 составляет 366 л, при этом модель облачена в корпус размерами 203x60x66 см. Начнем с холодильного отделения, вместительность которого составляет 255 л. Внутри предусмотрена специальная нулевая камера на 24 л, система динамического охлаждения MultiAirflow для максимально равномерного распределения холодного воздуха, а также дезодорирующий фильтр Airfresh для устранения неприятных или просто резких запахов. Предусмотрена также функция быстрого охлаждения SuperCooling, которая обеспечивает возможность быстрого снижения температуры в холодильном отделении до +2 °C. Морозилка у этой модели размещена снизу и способна замораживать до 14 кг продуктов за сутки, а наиболее низкая поддерживаемая температуру внутри составляет -24 °C.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1684652.jpg",
+    "https://mzimg.com/big/v1/g8islfs9iv1.jpg",
+    "https://mzimg.com/big/51/g8islg4f651.jpg",
+    "https://mzimg.com/big/q1/g8islgezoq1.jpg",
+    "https://s.ek.ua/jpg/1684652.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 4": "25 860 грн. Купить! siemens KG39NVL316 Hi-tech.com.ua С нами более 10-ти лет Доставка: в Днепр из Киева Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Общий объем 366 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 Инверторный компрессор No Frost морозильная / холодильная камеры Функции и возможности Функции индикатор закрытия дверцы перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 255 л Отсеки для хранения зона свежести Зона свежести (нулевая камера) 24 л Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка Дезодоратор / фильтр Airfresh / LED освещение": "ноябрь 2019",
+      "Общий объем": "366 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "индикатор закрытия дверцы перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "255 л",
+      "Отсеки для хранения": "зона свежести",
+      "Зона свежести (нулевая камера)": "24 л",
+      "Дезодоратор": "/ фильтр Airfresh /",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "87 л",
+      "Температура морозилки": "-24 °C",
+      "Время сохранения холода": "16 ч",
+      "Мощность замораживания": "14 кг/сутки",
+      "Управление": "сенсорное внутреннее",
+      "Класс энергопотребления": "A++",
+      "Потребление энергии в год": "273 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Уровень шума": "39 дБ",
+      "Габариты (ВхШхГ)": "203x60x66 см",
+      "Официальный сайт": "siemens-home.bsh-group.com",
+      "Дата добавления на E-Katalog": "ноябрь 2019",
+      "Инверторный компрессор": "да",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\siemens_kg39nvl316\\images\\01.jpg",
+    "missing_refrigerators\\siemens_kg39nvl316\\images\\02.jpg",
+    "missing_refrigerators\\siemens_kg39nvl316\\images\\03.jpg",
+    "missing_refrigerators\\siemens_kg39nvl316\\images\\04.jpg",
+    "missing_refrigerators\\siemens_kg39nvl316\\images\\05.jpg"
+  ]
+}

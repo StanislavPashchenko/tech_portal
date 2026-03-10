@@ -1,0 +1,138 @@
+{
+  "source": {
+    "url": "https://ek.ua/BOSCH-KSV36VLEP.htm",
+    "actual_url": "https://ek.ua/BOSCH-KSV36VLEP.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Bosch",
+    "model": "KSV36VLEP нержавейка",
+    "title": "Холодильник Bosch KSV36VLEP нержавейка",
+    "category": "E-Katalog category 200",
+    "year": 2020,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 346,
+    "cameras_count": 1,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 346,
+    "shelves_count": 7
+  },
+  "freezer_compartment": {
+    "location": "отсутствует",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "кнопочное внутреннее",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 112,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 186.0,
+      "width": 60.0,
+      "depth": 65.0
+    },
+    "weight_kg": 63.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Bosch KSV36VLEP нержавейка по цене от 79235 до 79235 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1885191.jpg",
+    "https://mzimg.com/big/p1/gjj86144mp1.jpg",
+    "https://mzimg.com/big/d1/gjj8615ezd1.jpg",
+    "https://mzimg.com/big/81/gjj861fus81.jpg",
+    "https://mzimg.com/big/c1/gjj861i3tc1.jpg",
+    "https://mzimg.com/big/71/gjj861uod71.jpg",
+    "https://mzimg.com/big/d1/gjj861vwbd1.jpg",
+    "https://s.ek.ua/jpg/1885191.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 7": "79 235 грн. Купить! Холодильник Bosch KSV36VLEP inSale.com.ua Менее года Доставка: в Днепр из Киева Гарантия: 12 мес. Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Общий объем 346 л Количество камер 1 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Функции перевешивание дверей Холодильное отделение Объем холодильной камеры 346 л Полок 7 шт Отсеки для хранения полка для бутылок Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "октябрь 2020",
+      "Общий объем": "346 л",
+      "Количество камер": "1",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Функции": "перевешивание дверей",
+      "Объем холодильной камеры": "346 л",
+      "Полок": "7 шт",
+      "Отсеки для хранения": "полка для бутылок",
+      "Морозильная камера": "отсутствует",
+      "Управление": "кнопочное внутреннее",
+      "Класс энергопотребления": "A++",
+      "Потребление энергии в год": "112 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Уровень шума": "39 дБ",
+      "Габариты (ВхШхГ)": "186x60x65 см",
+      "Вес": "63 кг",
+      "Официальный сайт": "bosch-home.com",
+      "Дата добавления на E-Katalog": "октябрь 2020",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\bosch_ksv36vlep\\images\\01.jpg",
+    "missing_refrigerators\\bosch_ksv36vlep\\images\\02.jpg",
+    "missing_refrigerators\\bosch_ksv36vlep\\images\\03.jpg",
+    "missing_refrigerators\\bosch_ksv36vlep\\images\\04.jpg",
+    "missing_refrigerators\\bosch_ksv36vlep\\images\\05.jpg",
+    "missing_refrigerators\\bosch_ksv36vlep\\images\\06.jpg",
+    "missing_refrigerators\\bosch_ksv36vlep\\images\\07.jpg",
+    "missing_refrigerators\\bosch_ksv36vlep\\images\\08.jpg"
+  ]
+}

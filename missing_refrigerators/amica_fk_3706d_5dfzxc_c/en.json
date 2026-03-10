@@ -1,0 +1,142 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/AMICA-FK-3706D-5DFZXC-C.htm",
+    "actual_url": "https://ek.ua/en/AMICA-FK-3706D-5DFZXC-C.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Amica",
+    "model": "FK 3706D.5DFZXC (C) graphite (1195279)",
+    "title": "Amica FK 3706D.5DFZXC (C) graphite (1195279)",
+    "category": "E-Katalog category 200",
+    "year": 178,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 5
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3 / 2 drawers, 1 shelf /",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "external touch controls",
+    "energy_class_new": "C",
+    "annual_energy_consumption_kwh": 178,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 200.0,
+      "width": 59.5,
+      "depth": 66.0
+    },
+    "weight_kg": 72.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Amica FK 3706D.5DFZXC (C) graphite (1195279) at a price from 40292 to 40292 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2939065.jpg",
+    "https://mzimg.com/big/01/i3v45299o01.jpg",
+    "https://mzimg.com/big/l1/i3v452aool1.jpg",
+    "https://mzimg.com/big/61/i3v452qa161.jpg",
+    "https://s.ek.ua/jpg/2939065.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 4": "40 292 ₴ Buy! Холодильник Amica FK3706D.5DFZXC (C) Full No Frost 200 см black Inox FK3706D5DC Novateh.com.ua Less than year Delivery: to Dnipro from Novoyavorivsk Report add to list my lists add to comparison",
+      "Colour Total capacity 405 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 Inverter compressor No Frost freezer / refrigerator compartments Features Features child lock LED display door alarm reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 285 L Number of shelves 5 Foldable shelf Storage compartments fresh zone humidity zone Fast cool Dynamic air cooling Auto-defrost LED lighting": "1195279",
+      "Total capacity": "405 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "child lock LED display door alarm reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "285 L",
+      "Number of shelves": "5",
+      "Storage compartments": "fresh zone humidity zone",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "120 L",
+      "Freezer drawers": "3 / 2 drawers, 1 shelf /",
+      "Freezer temperature": "-24 °C",
+      "Autonomy time": "10 h",
+      "Freeze capacity": "5.5 kg/day",
+      "Controls": "external touch controls",
+      "Energy class (new)": "C",
+      "Energy consumption per year": "178 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Noise class": "B",
+      "Noise level": "35 dB",
+      "Dimensions (HxWxD)": "200х59.5х66 cm",
+      "Weight": "72 kg",
+      "Official Website": "amica.pl",
+      "Added to E-Catalog": "July 2025",
+      "P/N": "1195279",
+      "Inverter compressor": "yes",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\amica_fk_3706d_5dfzxc_c\\images\\01.jpg",
+    "missing_refrigerators\\amica_fk_3706d_5dfzxc_c\\images\\02.jpg",
+    "missing_refrigerators\\amica_fk_3706d_5dfzxc_c\\images\\03.jpg",
+    "missing_refrigerators\\amica_fk_3706d_5dfzxc_c\\images\\04.jpg",
+    "missing_refrigerators\\amica_fk_3706d_5dfzxc_c\\images\\05.jpg"
+  ]
+}

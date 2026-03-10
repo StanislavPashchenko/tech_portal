@@ -1,0 +1,152 @@
+{
+  "source": {
+    "url": "https://ek.ua/TEKA-MAESTRO-RMF-77810-GBK.htm",
+    "actual_url": "https://ek.ua/TEKA-MAESTRO-RMF-77810-GBK.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Teka",
+    "model": "Maestro RMF 77810 GBK черный (113430042)",
+    "title": "Холодильник Teka Maestro RMF 77810 GBK черный (113430042)",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "French-door (распашной)",
+    "total_volume_l": 511,
+    "cameras_count": 3,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 341,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 170,
+    "sections_count": 6,
+    "sections_details": "6 шт",
+    "cold_storage_time_h": 15,
+    "freezing_capacity_kg_per_day": 12
+  },
+  "general": {
+    "control": "сенсорное внешнее",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 305,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 40,
+    "dimensions_cm": {
+      "height": 189.8,
+      "width": 83.3,
+      "depth": 64.8
+    },
+    "weight_kg": 107.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Teka Maestro RMF 77810 GBK черный (113430042) по цене от 55999 до 55999 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2425891.jpg",
+    "https://mzimg.com/big/a1/hcy3ubrsna1.jpg",
+    "https://mzimg.com/big/z1/hcy3ubsdfz1.jpg",
+    "https://mzimg.com/big/91/hcy3uc4mq91.jpg",
+    "https://mzimg.com/big/x1/hcy3ucevux1.jpg",
+    "https://mzimg.com/big/a1/hcy3ucj40a1.jpg",
+    "https://mzimg.com/big/s1/hcy3ucovgs1.jpg",
+    "https://mzimg.com/big/m1/hcy3v2ynrm1.jpg",
+    "https://s.ek.ua/jpg/2425891.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 8": "55 999 грн. Купить! Холодильник Side-by-side Teka RMF 77810 GBK 113430042 Teka-partner.com.ua Официальный партнер Teka Доставка: в Днепр из Киева Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Тип French-door (распашной) Общий объем 511 л Количество камер 3 Контуров охлаждения 2 Компрессоров 1 Инверторный компрессор No Frost морозильная / холодильная камеры Функции и возможности Функции режим отпуска защита от детей LED дисплей индикатор закрытия дверцы Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 341 л Полок 3 шт Отсеки для хранения зона свежести Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка Дезодоратор / IonClean / LED освещение": "113430042",
+      "Тип": "French-door (распашной)",
+      "Общий объем": "511 л",
+      "Количество камер": "3",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "режим отпуска защита от детей LED дисплей индикатор закрытия дверцы",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "341 л",
+      "Полок": "3 шт",
+      "Отсеки для хранения": "зона свежести",
+      "Дезодоратор": "/ IonClean /",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "170 л",
+      "Отделений морозильной камеры": "6 шт",
+      "Температура морозилки": "-24 °C",
+      "Время сохранения холода": "15 ч",
+      "Мощность замораживания": "12 кг/сутки",
+      "Управление": "сенсорное внешнее",
+      "Класс энергопотребления (new)": "E",
+      "Потребление энергии в год": "305 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Класс шумности": "C",
+      "Уровень шума": "40 дБ",
+      "Габариты (ВхШхГ)": "189.8x83.3x64.8 см",
+      "Вес": "107 кг",
+      "Официальный сайт": "teka.com",
+      "Дата добавления на E-Katalog": "апрель 2023",
+      "Маркировка производителя": "113430042",
+      "Инверторный компрессор": "да",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\teka_maestro_rmf_77810_gbk\\images\\01.jpg",
+    "missing_refrigerators\\teka_maestro_rmf_77810_gbk\\images\\02.jpg",
+    "missing_refrigerators\\teka_maestro_rmf_77810_gbk\\images\\03.jpg",
+    "missing_refrigerators\\teka_maestro_rmf_77810_gbk\\images\\04.jpg",
+    "missing_refrigerators\\teka_maestro_rmf_77810_gbk\\images\\05.jpg",
+    "missing_refrigerators\\teka_maestro_rmf_77810_gbk\\images\\06.jpg",
+    "missing_refrigerators\\teka_maestro_rmf_77810_gbk\\images\\07.jpg",
+    "missing_refrigerators\\teka_maestro_rmf_77810_gbk\\images\\08.jpg",
+    "missing_refrigerators\\teka_maestro_rmf_77810_gbk\\images\\09.jpg"
+  ]
+}

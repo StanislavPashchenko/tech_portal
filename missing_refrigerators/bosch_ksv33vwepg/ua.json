@@ -1,0 +1,138 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/BOSCH-KSV33VWEPG.htm",
+    "actual_url": "https://ek.ua/ua/BOSCH-KSV33VWEPG.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Bosch",
+    "model": "KSV33VWEPG білий",
+    "title": "Холодильник Bosch KSV33VWEPG білий",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 5
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 324,
+    "cameras_count": 1,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 324,
+    "shelves_count": 6
+  },
+  "freezer_compartment": {
+    "location": "немає",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "поворотні перемикачі",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 113,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 176.0,
+      "width": 60.0,
+      "depth": 65.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general",
+      "Ціни на Bosch KSV33VWEPG"
+    ]
+  },
+  "description": "Холодильник Bosch KSV33VWEPG білий за ціною від 47875 до 47875 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2369072.jpg",
+    "https://mzimg.com/big/41/hafcy0ovs41.jpg",
+    "https://mzimg.com/big/l1/hafcy0pbpl1.jpg",
+    "https://mzimg.com/big/g1/hafcy12o0g1.jpg",
+    "https://mzimg.com/big/31/hafcy147a31.jpg",
+    "https://mzimg.com/big/c1/hafcy1fbkc1.jpg",
+    "https://s.ek.ua/jpg/2369072.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 6": "47 875 грн. Купити! Холодильник Bosch KSV33VWEP inSale.com.ua Менше року Доставка: у Дніпро з Києва Гарантія: 12 міс. Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 324 л Кількість камер 1 Контурів охолодження 1 Компресорів 1 Функції та можливості Функції перевішування дверей Холодильне відділення Об'єм холодильної камери 324 л Полиць 6 шт Відсіки для зберігання зона вологості полиця для пляшок Швидке охолодження Динамічне охолодження Автоматичне розморожування LED освітлення": "січень 2023",
+      "Загальний об'єм": "324 л",
+      "Кількість камер": "1",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "Функції": "перевішування дверей",
+      "Об'єм холодильної камери": "324 л",
+      "Полиць": "6 шт",
+      "Відсіки для зберігання": "зона вологості полиця для пляшок",
+      "Морозильна камера": "немає",
+      "Управління": "поворотні перемикачі",
+      "Клас енергоспоживання (new)": "E",
+      "Споживання енергії в рік": "113 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Клас гучності": "C",
+      "Рівень шуму": "39 дБ",
+      "Габарити (ВхШхГ)": "176x60x65 см",
+      "Офіційний сайт": "bosch-home.co.uk",
+      "Дата додавання на E-Katalog": "січень 2023",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    },
+    "Ціни на Bosch KSV33VWEPG": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\bosch_ksv33vwepg\\images\\01.jpg",
+    "missing_refrigerators\\bosch_ksv33vwepg\\images\\02.jpg",
+    "missing_refrigerators\\bosch_ksv33vwepg\\images\\03.jpg",
+    "missing_refrigerators\\bosch_ksv33vwepg\\images\\04.jpg",
+    "missing_refrigerators\\bosch_ksv33vwepg\\images\\05.jpg",
+    "missing_refrigerators\\bosch_ksv33vwepg\\images\\06.jpg",
+    "missing_refrigerators\\bosch_ksv33vwepg\\images\\07.jpg"
+  ]
+}

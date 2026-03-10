@@ -1,0 +1,149 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/BOSCH-KGN76VIE0N.htm",
+    "actual_url": "https://ek.ua/en/BOSCH-KGN76VIE0N.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Bosch",
+    "model": "KGN76VIE0N stainless steel",
+    "title": "Bosch KGN76VIE0N stainless steel",
+    "category": "E-Katalog category 200",
+    "year": 274,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "internal push-buttons",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 274,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 186.0,
+      "width": 75.0,
+      "depth": 80.0
+    },
+    "weight_kg": 94.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Bosch KGN76VIE0N stainless steel at a price from 41668 to 52110 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2989854.jpg",
+    "https://mzimg.com/big/i1/i6tktg6cqi1.jpg",
+    "https://mzimg.com/big/m1/i6tktg79lm1.jpg",
+    "https://mzimg.com/big/g1/i6tkth9tgg1.jpg",
+    "https://mzimg.com/big/91/i6tkthc0s91.jpg",
+    "https://mzimg.com/big/w1/i6tkti9s9w1.jpg",
+    "https://s.ek.ua/jpg/2989854.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 6": "44 887 ₴",
+      "BS-market.com.ua →": "47 499 ₴",
+      "Bs-partner.com.ua →": "47 499 ₴",
+      "Pro100market.com.ua →": "47 499 ₴",
+      "Bosch Україна →": "52 099 ₴",
+      "Vodogreyka.com.ua →": "44 887 ₴",
+      "Colour Total capacity 526 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 No Frost freezer / refrigerator compartments Features Features door alarm reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 406 L Number of shelves 3 Storage compartments fresh zone humidity zone Fast cool Dynamic air cooling Auto-defrost LED lighting": "October 2025",
+      "Total capacity": "526 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "door alarm reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "406 L",
+      "Number of shelves": "3",
+      "Storage compartments": "fresh zone humidity zone",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "120 L",
+      "Freezer drawers": "3",
+      "Freezer temperature": "-24 °C",
+      "Autonomy time": "27 h",
+      "Freeze capacity": "9 kg/day",
+      "Controls": "internal push-buttons",
+      "Energy class (new)": "E",
+      "Energy consumption per year": "274 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Noise class": "C",
+      "Noise level": "40 dB",
+      "Dimensions (HxWxD)": "186х75х80 cm",
+      "Weight": "94 kg",
+      "Official Website": "bosch-home.com.ua",
+      "Added to E-Catalog": "October 2025",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\bosch_kgn76vie0n\\images\\01.jpg",
+    "missing_refrigerators\\bosch_kgn76vie0n\\images\\02.jpg",
+    "missing_refrigerators\\bosch_kgn76vie0n\\images\\03.jpg",
+    "missing_refrigerators\\bosch_kgn76vie0n\\images\\04.jpg",
+    "missing_refrigerators\\bosch_kgn76vie0n\\images\\05.jpg",
+    "missing_refrigerators\\bosch_kgn76vie0n\\images\\06.jpg",
+    "missing_refrigerators\\bosch_kgn76vie0n\\images\\07.jpg"
+  ]
+}

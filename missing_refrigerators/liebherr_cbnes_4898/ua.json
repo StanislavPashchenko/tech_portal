@@ -1,0 +1,153 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/LIEBHERR-CBNES-4898.htm",
+    "actual_url": "https://ek.ua/ua/LIEBHERR-CBNES-4898.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liebherr",
+    "model": "CBNes 4898 нержавіюча сталь",
+    "title": "Холодильник Liebherr CBNes 4898 нержавіюча сталь",
+    "category": "E-Katalog category 200",
+    "year": 2020,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 338,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": false,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 146,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 98,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 24,
+    "freezing_capacity_kg_per_day": 16
+  },
+  "general": {
+    "control": "сенсорне зовнішнє",
+    "energy_class_new": "A+++",
+    "annual_energy_consumption_kwh": 183,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 36,
+    "dimensions_cm": {
+      "height": 201.0,
+      "width": 60.0,
+      "depth": 66.5
+    },
+    "weight_kg": 113.0,
+    "country_of_origin": "Німеччина"
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Liebherr CBNes 4898 нержавіюча сталь за ціною від 159583 до 159583 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1784447.jpg",
+    "https://mzimg.com/big/q1/ge2sg7wmvq1.jpg",
+    "https://mzimg.com/big/f1/ge2sg88ibf1.jpg",
+    "https://mzimg.com/big/y1/ge2sg9yq4y1.jpg",
+    "https://mzimg.com/big/41/ge2sgailg41.jpg",
+    "https://mzimg.com/big/11/ge2sgavtl11.jpg",
+    "https://mzimg.com/big/s1/ge2sgbh7ps1.jpg",
+    "https://mzimg.com/big/r1/ge2sg8ks4r1.jpg",
+    "https://mzimg.com/big/r1/ge2sg900fr1.jpg",
+    "https://mzimg.com/big/v1/ge2sg9dopv1.jpg",
+    "https://s.ek.ua/jpg/1784447.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 10": "159 583 грн. Купити! Холодильник Liebherr CBNes 4898 inSale.com.ua Менше року Доставка: у Дніпро з Києва Гарантія: 12 міс. Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 338 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 No Frost морозильна камера Функції та можливості Функції режим відпустки захист від дітей TFT дисплей індикатор закриття дверцят перевішування дверей Холодильне відділення Об'єм холодильної камери 146 л Відсіки для зберігання зона свіжості Зона свіжості (нульова камера) 94 л Динамічне охолодження Автоматичне розморожування LED освітлення": "квітень 2020",
+      "Загальний об'єм": "338 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна камера",
+      "Функції": "режим відпустки захист від дітей TFT дисплей індикатор закриття дверцят перевішування дверей",
+      "Об'єм холодильної камери": "146 л",
+      "Відсіки для зберігання": "зона свіжості",
+      "Зона свіжості (нульова камера)": "94 л",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "98 л",
+      "Температура морозилки": "-32 °C",
+      "Час збереження холоду": "24 год",
+      "Потужність заморожування": "16 кг/добу",
+      "Льодогенератор": "внутрішній",
+      "Управління": "сенсорне зовнішнє",
+      "Клас енергоспоживання": "A+++",
+      "Споживання енергії в рік": "183 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Рівень шуму": "36 дБ",
+      "Габарити (ВхШхГ)": "201x60x66.5 см",
+      "Вага": "113 кг",
+      "Країна виробництва": "Німеччина",
+      "Дата додавання на E-Katalog": "квітень 2020",
+      "Відгук корисний? Так 0 Ні 0": "19 лютого 2022",
+      "Якісне залізне виконання і як завжди найганебніше софтове виконання!": "19 лютого 2022",
+      "Відгук корисний? Так 0 Ні 0 (2)": "11 березня 2022",
+      "Не беріть, Лібхер уже не той і сервіс нульовий. Клієнтоорієнтов аний він": "11 березня 2022",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\liebherr_cbnes_4898\\images\\01.jpg",
+    "missing_refrigerators\\liebherr_cbnes_4898\\images\\02.jpg",
+    "missing_refrigerators\\liebherr_cbnes_4898\\images\\03.jpg",
+    "missing_refrigerators\\liebherr_cbnes_4898\\images\\04.jpg",
+    "missing_refrigerators\\liebherr_cbnes_4898\\images\\05.jpg",
+    "missing_refrigerators\\liebherr_cbnes_4898\\images\\06.jpg",
+    "missing_refrigerators\\liebherr_cbnes_4898\\images\\07.jpg",
+    "missing_refrigerators\\liebherr_cbnes_4898\\images\\08.jpg",
+    "missing_refrigerators\\liebherr_cbnes_4898\\images\\09.jpg",
+    "missing_refrigerators\\liebherr_cbnes_4898\\images\\10.jpg",
+    "missing_refrigerators\\liebherr_cbnes_4898\\images\\11.jpg"
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "source": {
+    "url": "https://ek.ua/GUNTER-HAUER-FN-240-G.htm",
+    "actual_url": "https://ek.ua/GUNTER-HAUER-FN-240-G.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Gunter&Hauer",
+    "model": "FN 240 G черный",
+    "title": "Холодильник Gunter&Hauer FN 240 G черный",
+    "category": "E-Katalog category 200",
+    "year": 2020,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 212,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": false,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 166,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "сверху",
+    "volume_l": 46,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 17,
+    "freezing_capacity_kg_per_day": 2
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 173,
+    "climate_class": [
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 147.5,
+      "width": 56.0,
+      "depth": 56.5
+    },
+    "weight_kg": 45.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general",
+      "Цены на Gunter&Hauer FN 240 G"
+    ]
+  },
+  "description": "Ключевая особенность этого холодильника — стильный и привлекательный ретро-дизайн, благодаря которому модель может стать центральным элементов в декоре вашей кухни. При этом холодильник Gunter&Hauer FN 240 G представлен на рынке в трех цветовых решениях — классический белый, красный и черный. Модель двухкамерная с раздельными дверцами доступа к морозильному и холодильному отделениям. Общий полезный объем устройства находится на уровне 212 л. Небольшая морозилка на 46 л размещена сверху, при этом минимальная поддерживаемая температура в морозилке составляет -32 °C. Само холодильное отделение вместимостью 166 л разделено на четыре полочки, отделение для овощей и фруктов, а также несколько дверных полочек. Высота модели составляет всего 147,5 см. Создаваемый во время работы устройства шум не превышает относительно небольшие 39 дБ. Также стоит обратить внимание на экономный расход электроэнергии — соответствует классу А++.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1736619.jpg",
+    "https://mzimg.com/big/81/gblnk6yzn81.jpg",
+    "https://mzimg.com/big/a1/gblnk7e8ba1.jpg",
+    "https://mzimg.com/big/a1/gblnk7uqaa1.jpg",
+    "https://mzimg.com/big/v1/gblnk8cfhv1.jpg",
+    "https://mzimg.com/big/t1/gkjaphapvt1.jpg",
+    "https://mzimg.com/big/e1/gkjaphd55e1.jpg",
+    "https://mzimg.com/big/e1/gblnk8vkpe1.jpg",
+    "https://mzimg.com/big/h1/gblnk9cxjh1.jpg",
+    "https://mzimg.com/big/11/gkjaphqx311.jpg",
+    "https://mzimg.com/big/h1/gkjaphs9vh1.jpg",
+    "https://s.ek.ua/jpg/1736619.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 11": "19 999 грн.",
+      "Kitchen-sinks.com.ua →": "19 999 грн.",
+      "Цвет Общий объем 212 л Количество камер 2 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Дополнительно ретро дизайн Холодильное отделение Объем холодильной камеры 166 л Автоматическая разморозка Морозильное отделение Морозильная камера сверху Объем морозильной камеры 46 л Температура морозилки -32 °C Время сохранения холода 17 ч Мощность замораживания 2 кг/сутки": "февраль 2020",
+      "Общий объем": "212 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Дополнительно": "ретро дизайн",
+      "Объем холодильной камеры": "166 л",
+      "Морозильная камера": "сверху",
+      "Объем морозильной камеры": "46 л",
+      "Температура морозилки": "-32 °C",
+      "Время сохранения холода": "17 ч",
+      "Мощность замораживания": "2 кг/сутки",
+      "Управление": "поворотные переключатели",
+      "Класс энергопотребления": "A++",
+      "Потребление энергии в год": "173 кВт*ч",
+      "Климатический класс": "N, ST (+16...+38 °С)",
+      "Уровень шума": "39 дБ",
+      "Габариты (ВхШхГ)": "147.5x56x56.5 см",
+      "Вес": "45 кг",
+      "Официальный сайт": "gunter-hauer.ua",
+      "Дата добавления на E-Katalog": "февраль 2020",
+      "Автоматическая разморозка": "да"
+    },
+    "Цены на Gunter&Hauer FN 240 G": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\gunter_hauer_fn_240_g\\images\\01.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_240_g\\images\\02.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_240_g\\images\\03.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_240_g\\images\\04.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_240_g\\images\\05.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_240_g\\images\\06.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_240_g\\images\\07.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_240_g\\images\\08.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_240_g\\images\\09.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_240_g\\images\\10.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_240_g\\images\\11.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_240_g\\images\\12.jpg"
+  ]
+}

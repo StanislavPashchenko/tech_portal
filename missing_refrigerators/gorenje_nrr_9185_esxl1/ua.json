@@ -1,0 +1,164 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/GORENJE-NRR-9185-ESXL1.htm",
+    "actual_url": "https://ek.ua/ua/GORENJE-NRR-9185-ESXL1.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Gorenje",
+    "model": "NRR 9185 ESXL1 нержавіюча сталь (744109)",
+    "title": "Холодильник Gorenje NRR 9185 ESXL1 нержавіюча сталь (744109)",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 20
+  },
+  "summary": {
+    "type": "Side-by-side",
+    "total_volume_l": 566,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 376,
+    "shelves_count": 5
+  },
+  "freezer_compartment": {
+    "location": "збоку",
+    "volume_l": 190,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 6,
+    "freezing_capacity_kg_per_day": 12
+  },
+  "general": {
+    "control": "сенсорне зовнішнє",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 324,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 178.6,
+      "width": 91.5,
+      "depth": 70.3
+    },
+    "weight_kg": 103.0,
+    "country_of_origin": "Китай"
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Gorenje NRR 9185 ESXL1 нержавіюча сталь (744109) за ціною від 38899 до 52081 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2856910.jpg",
+    "https://mzimg.com/big/11/hz3y6azoh11.jpg",
+    "https://mzimg.com/big/y1/hz3y6ecrdy1.jpg",
+    "https://mzimg.com/big/61/hz3y6b0as61.jpg",
+    "https://mzimg.com/big/m1/hz3y6bbmfm1.jpg",
+    "https://mzimg.com/big/p1/hz3y6dd2ap1.jpg",
+    "https://mzimg.com/big/j1/hz3y6dg7kj1.jpg",
+    "https://mzimg.com/big/t1/hz3y6dmo9t1.jpg",
+    "https://mzimg.com/big/r1/hz3y6dvynr1.jpg",
+    "https://mzimg.com/big/f1/hz3y6e0vff1.jpg",
+    "https://mzimg.com/big/01/hz3y6e96x01.jpg",
+    "https://mzimg.com/big/u1/hz3y6epy3u1.jpg",
+    "https://s.ek.ua/jpg/2856910.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 14": "44 166 грн.",
+      "Viyar.ua →": "47 999 грн.",
+      "Tovary.com.ua →": "47 999 грн.",
+      "Xfrost.net.ua →": "47 999 грн.",
+      "Openshop.ua →": "44 877 грн.",
+      "Vodogreyka.com.ua →": "44 166 грн.",
+      "Колір Тип Side-by-side Загальний об'єм 566 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 No Frost морозильна / холодильна камери Функції та можливості Функції режим відпустки захист від дітей LED дисплей індикатор закриття дверцят Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 376 л Полиць 5 шт Диспенсер холодної води зовнішній Швидке охолодження Динамічне охолодження Автоматичне розморожування LED освітлення": "744109",
+      "Тип": "Side-by-side",
+      "Загальний об'єм": "566 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "режим відпустки захист від дітей LED дисплей індикатор закриття дверцят",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "376 л",
+      "Полиць": "5 шт",
+      "Диспенсер холодної води": "зовнішній",
+      "Морозильна камера": "збоку",
+      "Об'єм морозильної камери": "190 л",
+      "Температура морозилки": "-24 °C",
+      "Час збереження холоду": "6 год",
+      "Потужність заморожування": "12 кг/добу",
+      "Льодогенератор": "зовнішній диспенсер",
+      "Управління": "сенсорне зовнішнє",
+      "Клас енергоспоживання (new)": "E",
+      "Споживання енергії в рік": "324 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Клас гучності": "C",
+      "Рівень шуму": "39 дБ",
+      "Габарити (ВхШхГ)": "178.6х91.5х70.3 см",
+      "Вага": "103 кг",
+      "Країна виробництва": "Китай",
+      "Офіційний сайт": "cz.gorenje.com",
+      "Дата додавання на E-Katalog": "березень 2025",
+      "Маркування виробника": "744109",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\gorenje_nrr_9185_esxl1\\images\\01.jpg",
+    "missing_refrigerators\\gorenje_nrr_9185_esxl1\\images\\02.jpg",
+    "missing_refrigerators\\gorenje_nrr_9185_esxl1\\images\\03.jpg",
+    "missing_refrigerators\\gorenje_nrr_9185_esxl1\\images\\04.jpg",
+    "missing_refrigerators\\gorenje_nrr_9185_esxl1\\images\\05.jpg",
+    "missing_refrigerators\\gorenje_nrr_9185_esxl1\\images\\06.jpg",
+    "missing_refrigerators\\gorenje_nrr_9185_esxl1\\images\\07.jpg",
+    "missing_refrigerators\\gorenje_nrr_9185_esxl1\\images\\08.jpg",
+    "missing_refrigerators\\gorenje_nrr_9185_esxl1\\images\\09.jpg",
+    "missing_refrigerators\\gorenje_nrr_9185_esxl1\\images\\10.jpg",
+    "missing_refrigerators\\gorenje_nrr_9185_esxl1\\images\\11.jpg",
+    "missing_refrigerators\\gorenje_nrr_9185_esxl1\\images\\12.jpg",
+    "missing_refrigerators\\gorenje_nrr_9185_esxl1\\images\\13.jpg"
+  ]
+}

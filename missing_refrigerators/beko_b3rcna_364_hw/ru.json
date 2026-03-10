@@ -1,0 +1,144 @@
+{
+  "source": {
+    "url": "https://ek.ua/BEKO-B3RCNA-364-HW.htm",
+    "actual_url": "https://ek.ua/BEKO-B3RCNA-364-HW.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Beko",
+    "model": "B3RCNA 364 HW белый (7524620003)",
+    "title": "Холодильник Beko B3RCNA 364 HW белый (7524620003)",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 5
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 316,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 210,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 106,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 11,
+    "freezing_capacity_kg_per_day": 6
+  },
+  "general": {
+    "control": "сенсорное внешнее",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 247,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 37,
+    "dimensions_cm": {
+      "height": 186.5,
+      "width": 59.5,
+      "depth": 66.3
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general",
+      "Цены на Beko B3RCNA 364 HW"
+    ]
+  },
+  "description": "Холодильник Beko B3RCNA 364 HW белый (7524620003) по цене от 21191 до 28683 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2370859.jpg",
+    "https://mzimg.com/big/d1/hag5v2cwzd1.jpg",
+    "https://mzimg.com/big/21/hag5v2dis21.jpg",
+    "https://mzimg.com/big/q1/hag5v2ornq1.jpg",
+    "https://mzimg.com/big/f1/hag5v2pmpf1.jpg",
+    "https://mzimg.com/big/i1/hag5v31q7i1.jpg",
+    "https://mzimg.com/big/h1/hag5v32r1h1.jpg",
+    "https://mzimg.com/big/31/hag5v3dyk31.jpg",
+    "https://s.ek.ua/jpg/2370859.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Tendo.com.ua →": "26 178 грн.",
+      "Dimtehnik.com.ua →": "28 683 грн.",
+      "Цвет Общий объем 316 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 No Frost морозильная / холодильная камеры Функции и возможности Функции защита от детей индикатор закрытия дверцы перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 210 л Полок 4 шт Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "7524620003",
+      "Общий объем": "316 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "защита от детей индикатор закрытия дверцы перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "210 л",
+      "Полок": "4 шт",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "106 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Температура морозилки": "-24 °C",
+      "Время сохранения холода": "11 ч",
+      "Мощность замораживания": "6 кг/сутки",
+      "Управление": "сенсорное внешнее",
+      "Класс энергопотребления (new)": "E",
+      "Потребление энергии в год": "247 кВт*ч",
+      "Класс шумности": "C",
+      "Уровень шума": "37 дБ",
+      "Габариты (ВхШхГ)": "186.5x59.5x66.3 см",
+      "Официальный сайт": "beko.com",
+      "Дата добавления на E-Katalog": "январь 2023",
+      "Маркировка производителя": "7524620003",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    },
+    "Цены на Beko B3RCNA 364 HW": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\beko_b3rcna_364_hw\\images\\01.jpg",
+    "missing_refrigerators\\beko_b3rcna_364_hw\\images\\02.jpg",
+    "missing_refrigerators\\beko_b3rcna_364_hw\\images\\03.jpg",
+    "missing_refrigerators\\beko_b3rcna_364_hw\\images\\04.jpg",
+    "missing_refrigerators\\beko_b3rcna_364_hw\\images\\05.jpg",
+    "missing_refrigerators\\beko_b3rcna_364_hw\\images\\06.jpg",
+    "missing_refrigerators\\beko_b3rcna_364_hw\\images\\07.jpg",
+    "missing_refrigerators\\beko_b3rcna_364_hw\\images\\08.jpg",
+    "missing_refrigerators\\beko_b3rcna_364_hw\\images\\09.jpg"
+  ]
+}

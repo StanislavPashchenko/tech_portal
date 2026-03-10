@@ -57,10 +57,9 @@
             <div class="site-nav-wrap">
                 <nav class="site-nav" aria-label="Primary">
                     <a href="{% url 'portal:home' %}">{% ui 'home' %}</a>
-                    {% for category in nav_categories %}
-                    <a href="{{ category.get_absolute_url }}">{% category_label category %}</a>
-                    {% endfor %}
-                    <a href="{% url 'portal:brand_list' %}">{% ui 'brands' %}</a>
+                    <a href="{% url 'portal:product_list' %}">{% ui 'products' %}</a>
+                    <a href="{% url 'portal:article_list' %}">{% ui 'articles' %}</a>
+                    <a href="{% url 'portal:error_list' %}">{% ui 'latest_error_codes' %}</a>
                 </nav>
                 <form class="search-form" action="{% url 'portal:search' %}" method="get">
                     <input type="search" name="q" value="{{ request.GET.q }}" placeholder="{% ui 'search_placeholder' %}">
@@ -87,8 +86,9 @@
                 <p>{% ui 'footer_note' %}</p>
             </div>
             <div class="footer-links">
-                <a href="{% url 'portal:category_index' %}">{% ui 'categories' %}</a>
-                <a href="{% url 'portal:brand_list' %}">{% ui 'brands' %}</a>
+                <a href="{% url 'portal:product_list' %}">{% ui 'products' %}</a>
+                <a href="{% url 'portal:article_list' %}">{% ui 'articles' %}</a>
+                <a href="{% url 'portal:error_list' %}">{% ui 'latest_error_codes' %}</a>
                 <a href="{% url 'portal:search' %}">{% ui 'search' %}</a>
             </div>
         </footer>

@@ -1,0 +1,119 @@
+{
+  "source": {
+    "url": "https://ek.ua/EDLER-ED-227DCI.htm",
+    "actual_url": "https://ek.ua/EDLER-ED-227DCI.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "EDLER",
+    "model": "ED-227DCI серебристый",
+    "title": "Холодильник EDLER ED-227DCI серебристый",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 203,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 137,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 66,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": null,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 151.0,
+      "width": 55.0,
+      "depth": 57.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general",
+      "Цены на EDLER ED-227DCI"
+    ]
+  },
+  "description": "Холодильник EDLER ED-227DCI серебристый по цене от 10019 до 10019 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2467921.jpg",
+    "https://mzimg.com/big/61/hevl1ldyo61.jpg",
+    "https://s.ek.ua/jpg/2467921.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Цвет Общий объем 203 л Количество камер 2 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Функции перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 137 л Полок 3 шт Автоматическая разморозка LED освещение": "июнь 2023",
+      "Общий объем": "203 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Функции": "перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "137 л",
+      "Полок": "3 шт",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "66 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Управление": "поворотные переключатели",
+      "Класс энергопотребления": "A+",
+      "Габариты (ВхШхГ)": "151х55х57 см",
+      "Дата добавления на E-Katalog": "июнь 2023",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    },
+    "Цены на EDLER ED-227DCI": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\edler_ed_227dci\\images\\01.jpg",
+    "missing_refrigerators\\edler_ed_227dci\\images\\02.jpg",
+    "missing_refrigerators\\edler_ed_227dci\\images\\03.jpg"
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/LG-GM-L960EVBE.htm",
+    "actual_url": "https://ek.ua/ua/LG-GM-L960EVBE.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "LG",
+    "model": "GM-L960EVBE чорний",
+    "title": "Холодильник LG GM-L960EVBE чорний",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "French-door (розпашний)",
+    "total_volume_l": 628,
+    "cameras_count": 3,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 367,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 246,
+    "sections_count": 6,
+    "sections_details": "6 шт",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "сенсорне внутрішнє",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 359,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 40,
+    "dimensions_cm": {
+      "height": 179.2,
+      "width": 91.4,
+      "depth": 72.9
+    },
+    "weight_kg": 134.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник LG GM-L960EVBE чорний за ціною від 94860 до 123582 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2681655.jpg",
+    "https://mzimg.com/big/k1/hpbdzbvlsk1.jpg",
+    "https://mzimg.com/big/61/hpbdzc6lf61.jpg",
+    "https://mzimg.com/big/51/hpbdzca9651.jpg",
+    "https://mzimg.com/big/41/hpbdzbt7441.jpg",
+    "https://mzimg.com/big/j1/hpbdzcjq9j1.jpg",
+    "https://mzimg.com/big/y1/hpbdzcm0by1.jpg",
+    "https://mzimg.com/big/b1/hpbdzcw21b1.jpg",
+    "https://s.ek.ua/jpg/2681655.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 8": "120 023 грн.",
+      "Tendo.com.ua →": "94 860 грн.",
+      "Novateh.com.ua →": "120 023 грн.",
+      "Колір Тип French-door (розпашний) Загальний об'єм 628 л Кількість камер 3 Контурів охолодження 2 Компресорів 1 Інверторний компресор No Frost морозильна / холодильна камери Функції та можливості Функції керування зі смартфона (Wi-Fi) LED дисплей індикатор закриття дверцят Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 367 л Полиць 3 шт Складана полиця Відсіки для зберігання зона свіжості Диспенсер холодної води зовнішній Швидке охолодження Динамічне охолодження Автоматичне розморожування Дезодоратор УФ лампа LED освітлення": "травень 2024",
+      "Тип": "French-door (розпашний)",
+      "Загальний об'єм": "628 л",
+      "Кількість камер": "3",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "керування зі смартфона (Wi-Fi) LED дисплей індикатор закриття дверцят",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "367 л",
+      "Полиць": "3 шт",
+      "Відсіки для зберігання": "зона свіжості",
+      "Диспенсер холодної води": "зовнішній",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "246 л",
+      "Відділень морозильної камери": "6 шт",
+      "Льодогенератор": "зовнішній диспенсер",
+      "Управління": "сенсорне внутрішнє",
+      "Клас енергоспоживання (new)": "E",
+      "Споживання енергії в рік": "359 кВт*год",
+      "Кліматичний клас": "тропічний Т (+18...+43 °С)",
+      "Клас гучності": "C",
+      "Рівень шуму": "40 дБ",
+      "Габарити (ВхШхГ)": "179.2x91.4x72.9 см",
+      "Вага": "134 кг",
+      "Офіційний сайт": "lg.com",
+      "Дата додавання на E-Katalog": "травень 2024",
+      "Інверторний компресор": "так",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так",
+      "Дезодоратор": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\lg_gm_l960evbe\\images\\01.jpg",
+    "missing_refrigerators\\lg_gm_l960evbe\\images\\02.jpg",
+    "missing_refrigerators\\lg_gm_l960evbe\\images\\03.jpg",
+    "missing_refrigerators\\lg_gm_l960evbe\\images\\04.jpg",
+    "missing_refrigerators\\lg_gm_l960evbe\\images\\05.jpg",
+    "missing_refrigerators\\lg_gm_l960evbe\\images\\06.jpg",
+    "missing_refrigerators\\lg_gm_l960evbe\\images\\07.jpg",
+    "missing_refrigerators\\lg_gm_l960evbe\\images\\08.jpg",
+    "missing_refrigerators\\lg_gm_l960evbe\\images\\09.jpg"
+  ]
+}

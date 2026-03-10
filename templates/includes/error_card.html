@@ -1,9 +1,9 @@
 {% load portal_tags %}
 <article class="card error-card">
     <div class="card-body">
-        <span class="eyebrow">{{ error_code.brand.display_name }} / {{ error_code.code }}</span>
+        <span class="eyebrow">{{ error_code.display_appliance_type }} / {{ error_code.display_brand_name }} / {{ error_code.display_model_name }}</span>
         <h3><a href="{{ error_code.get_absolute_url }}">{{ error_code.display_title }}</a></h3>
-        <p>{{ error_code.display_description }}</p>
+        <p><strong>{{ error_code.code }}</strong> · {{ error_code.display_description }}</p>
         <div class="card-meta">
             <span>{{ request.LANGUAGE_CODE|upper }}</span>
             <span>{{ error_code.views }} {% ui 'views' %}</span>

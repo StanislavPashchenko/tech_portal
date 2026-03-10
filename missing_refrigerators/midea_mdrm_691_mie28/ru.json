@@ -1,0 +1,138 @@
+{
+  "source": {
+    "url": "https://ek.ua/MIDEA-MDRM-691-MIE28.htm",
+    "actual_url": "https://ek.ua/MIDEA-MDRM-691-MIE28.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Midea",
+    "model": "MDRM 691 MIE28 черный",
+    "title": "Холодильник Midea MDRM 691 MIE28 черный",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "French-door (распашной)",
+    "total_volume_l": 530,
+    "cameras_count": 3,
+    "cooling_circuits": 3,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 355,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 175,
+    "sections_count": 6,
+    "sections_details": "6 шт / 4 ящика, 2 полки /",
+    "cold_storage_time_h": 10,
+    "freezing_capacity_kg_per_day": 10
+  },
+  "general": {
+    "control": "сенсорное внешнее",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": 442,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 35,
+    "dimensions_cm": {
+      "height": 189.8,
+      "width": 83.0,
+      "depth": 65.3
+    },
+    "weight_kg": 94.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Midea MDRM 691 MIE28 черный по цене от 33975 до 33975 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2811854.jpg",
+    "https://mzimg.com/big/x1/hw8woy57ex1.jpg",
+    "https://mzimg.com/big/81/hw8woy68q81.jpg",
+    "https://s.ek.ua/jpg/2811854.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 3": "33 975 грн. Купить! MIDEA MDRM691MIE28 575.in.ua С нами 5 лет Доставка: в Днепр из Киева Гарантия: от производителя Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Тип French-door (распашной) Общий объем 530 л Количество камер 3 Контуров охлаждения 3 Компрессоров 1 Инверторный компрессор No Frost морозильная / холодильная камеры Функции и возможности Функции режим отпуска управление со смартфона (Wi-Fi) защита от детей TFT дисплей индикатор закрытия дверцы Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 355 л Полок 4 шт Отсеки для хранения зона свежести Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "декабрь 2024",
+      "Тип": "French-door (распашной)",
+      "Общий объем": "530 л",
+      "Количество камер": "3",
+      "Контуров охлаждения": "3",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "режим отпуска управление со смартфона (Wi-Fi) защита от детей TFT дисплей индикатор закрытия дверцы",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "355 л",
+      "Полок": "4 шт",
+      "Отсеки для хранения": "зона свежести",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "175 л",
+      "Отделений морозильной камеры": "6 шт / 4 ящика, 2 полки /",
+      "Температура морозилки": "-24 °C",
+      "Время сохранения холода": "10 ч",
+      "Мощность замораживания": "10 кг/сутки",
+      "Управление": "сенсорное внешнее",
+      "Класс энергопотребления": "A+",
+      "Потребление энергии в год": "442 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Уровень шума": "35 дБ",
+      "Габариты (ВхШхГ)": "189.8х83х65.3 см",
+      "Вес": "94 кг",
+      "Дата добавления на E-Katalog": "декабрь 2024",
+      "Инверторный компрессор": "да",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\midea_mdrm_691_mie28\\images\\01.jpg",
+    "missing_refrigerators\\midea_mdrm_691_mie28\\images\\02.jpg",
+    "missing_refrigerators\\midea_mdrm_691_mie28\\images\\03.jpg",
+    "missing_refrigerators\\midea_mdrm_691_mie28\\images\\04.jpg"
+  ]
+}

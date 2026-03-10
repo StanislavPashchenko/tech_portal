@@ -1,0 +1,135 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/LIEBHERR-CTEL-2531.htm",
+    "actual_url": "https://ek.ua/en/LIEBHERR-CTEL-2531.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liebherr",
+    "model": "CTel 2531 silver",
+    "title": "Liebherr CTel 2531 silver",
+    "category": "E-Katalog category 200",
+    "year": 170,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "top",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knobs",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 170,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 140.1,
+      "width": 55.0,
+      "depth": 63.0
+    },
+    "weight_kg": 48.0,
+    "country_of_origin": "Bulgaria"
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Liebherr CTel 2531 silver at a price from 24645 to 28999 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1529027.jpg",
+    "https://mzimg.com/big/c1/g0ixyhpfkc1.jpg",
+    "https://mzimg.com/big/e1/g0ixyhxdee1.jpg",
+    "https://mzimg.com/big/81/g0ixyi81m81.jpg",
+    "https://mzimg.com/big/01/g0ixyigsd01.jpg",
+    "https://s.ek.ua/jpg/1529027.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Tendo.com.ua →": "28 999 ₴",
+      "Elmag.ua →": "28 999 ₴",
+      "Colour Total capacity 233 L Number of chambers 2 Number of cooling circuits 1 Number of compressors 1 Features Features reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 189 L Auto-defrost LED lighting": "February 2019",
+      "Total capacity": "233 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "Features": "reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "189 L",
+      "Freezer compartment": "top",
+      "Freezer capacity": "44 L",
+      "Autonomy time": "22 h",
+      "Freeze capacity": "4 kg/day",
+      "Controls": "rotary knobs",
+      "Energy class": "A++",
+      "Energy consumption per year": "170 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Noise level": "39 dB",
+      "Dimensions (HxWxD)": "140.1x55x63 cm",
+      "Weight": "48 kg",
+      "Country of origin": "Bulgaria",
+      "Added to E-Catalog": "February 2019",
+      "LED lighting": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\liebherr_ctel_2531\\images\\01.jpg",
+    "missing_refrigerators\\liebherr_ctel_2531\\images\\02.jpg",
+    "missing_refrigerators\\liebherr_ctel_2531\\images\\03.jpg",
+    "missing_refrigerators\\liebherr_ctel_2531\\images\\04.jpg",
+    "missing_refrigerators\\liebherr_ctel_2531\\images\\05.jpg",
+    "missing_refrigerators\\liebherr_ctel_2531\\images\\06.jpg"
+  ]
+}

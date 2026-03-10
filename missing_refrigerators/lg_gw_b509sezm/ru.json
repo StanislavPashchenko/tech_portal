@@ -1,0 +1,156 @@
+{
+  "source": {
+    "url": "https://ek.ua/LG-GW-B509SEZM.htm",
+    "actual_url": "https://ek.ua/LG-GW-B509SEZM.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "LG",
+    "model": "GW-B509SEZM бежевый",
+    "title": "Холодильник LG GW-B509SEZM бежевый",
+    "category": "E-Katalog category 200",
+    "year": 2022,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 384,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 277,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 107,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 16,
+    "freezing_capacity_kg_per_day": 12
+  },
+  "general": {
+    "control": "сенсорное внутреннее",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 268,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 36,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 59.5,
+      "depth": 68.2
+    },
+    "weight_kg": 74.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник LG GW-B509SEZM бежевый по цене от 25269 до 25269 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2303910.jpg",
+    "https://mzimg.com/big/71/h7p6w91te71.jpg",
+    "https://mzimg.com/big/a1/h7p6w94rla1.jpg",
+    "https://mzimg.com/big/71/h7p6w9cvr71.jpg",
+    "https://mzimg.com/big/u1/h7p6w9h51u1.jpg",
+    "https://mzimg.com/big/31/h7p6w9p4431.jpg",
+    "https://mzimg.com/big/41/h7p6w9siv41.jpg",
+    "https://mzimg.com/big/w1/h7p6wa0ouw1.jpg",
+    "https://mzimg.com/big/61/h7p6wa60361.jpg",
+    "https://mzimg.com/big/o1/h7p6wacswo1.jpg",
+    "https://mzimg.com/big/v1/h7p6waj9gv1.jpg",
+    "https://mzimg.com/big/c1/h7p6waqmgc1.jpg",
+    "https://s.ek.ua/jpg/2303910.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 15": "25 269 грн. Купить! Холодильник LG GW-B509SEZM inSale.com.ua Менее года Доставка: в Днепр из Киева Гарантия: 12 мес. Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Общий объем 384 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 Инверторный компрессор No Frost морозильная / холодильная камеры Функции и возможности Функции индикатор закрытия дверцы перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 277 л Полок 4 шт Отсеки для хранения зона свежести Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "октябрь 2022",
+      "Общий объем": "384 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "индикатор закрытия дверцы перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "277 л",
+      "Полок": "4 шт",
+      "Отсеки для хранения": "зона свежести",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "107 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Температура морозилки": "-23 °C",
+      "Время сохранения холода": "16 ч",
+      "Мощность замораживания": "12 кг/сутки",
+      "Управление": "сенсорное внутреннее",
+      "Класс энергопотребления": "A++",
+      "Потребление энергии в год": "268 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Уровень шума": "36 дБ",
+      "Габариты (ВхШхГ)": "203х59.5х68.2 см",
+      "Вес": "74 кг",
+      "Официальный сайт": "lg.com",
+      "Дата добавления на E-Katalog": "октябрь 2022",
+      "Инверторный компрессор": "да",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\lg_gw_b509sezm\\images\\01.jpg",
+    "missing_refrigerators\\lg_gw_b509sezm\\images\\02.jpg",
+    "missing_refrigerators\\lg_gw_b509sezm\\images\\03.jpg",
+    "missing_refrigerators\\lg_gw_b509sezm\\images\\04.jpg",
+    "missing_refrigerators\\lg_gw_b509sezm\\images\\05.jpg",
+    "missing_refrigerators\\lg_gw_b509sezm\\images\\06.jpg",
+    "missing_refrigerators\\lg_gw_b509sezm\\images\\07.jpg",
+    "missing_refrigerators\\lg_gw_b509sezm\\images\\08.jpg",
+    "missing_refrigerators\\lg_gw_b509sezm\\images\\09.jpg",
+    "missing_refrigerators\\lg_gw_b509sezm\\images\\10.jpg",
+    "missing_refrigerators\\lg_gw_b509sezm\\images\\11.jpg",
+    "missing_refrigerators\\lg_gw_b509sezm\\images\\12.jpg",
+    "missing_refrigerators\\lg_gw_b509sezm\\images\\13.jpg"
+  ]
+}

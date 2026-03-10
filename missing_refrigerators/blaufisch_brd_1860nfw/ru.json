@@ -1,0 +1,144 @@
+{
+  "source": {
+    "url": "https://ek.ua/BLAUFISCH-BRD-1860NFW.htm",
+    "actual_url": "https://ek.ua/BLAUFISCH-BRD-1860NFW.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Blaufisch",
+    "model": "BRD-1860NFW белый",
+    "title": "Холодильник Blaufisch BRD-1860NFW белый",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 12
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 247,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 165,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 82,
+    "sections_count": 4,
+    "sections_details": "4 шт",
+    "cold_storage_time_h": 10,
+    "freezing_capacity_kg_per_day": 4
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": 284,
+    "climate_class": [
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 40,
+    "dimensions_cm": {
+      "height": 181.0,
+      "width": 54.5,
+      "depth": 60.0
+    },
+    "weight_kg": 51.0,
+    "country_of_origin": "Китай"
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general",
+      "Цены на Blaufisch BRD-1860NFW"
+    ]
+  },
+  "description": "Холодильник Blaufisch BRD-1860NFW белый по цене от 13259 до 16848 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2856917.jpg",
+    "https://mzimg.com/big/e1/hz3ti63cze1.jpg",
+    "https://mzimg.com/big/g1/hz3ti63yng1.jpg",
+    "https://mzimg.com/big/b1/hz3ti6yc8b1.jpg",
+    "https://s.ek.ua/jpg/2856917.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 4": "13 999 грн.",
+      "Elmag.ua →": "13 999 грн.",
+      "ТЕХНОточка →": "14 148 грн.",
+      "COMFY.ua →": "13 499 грн.",
+      "Enko.com.ua →": "14 421 грн.",
+      "Tv-mir.com.ua →": "13 999 грн.",
+      "Цвет Общий объем 247 л Количество камер 2 Контуров охлаждения 1 Компрессоров 1 No Frost морозильная / холодильная камеры Функции и возможности Функции перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 165 л Полок 4 шт Отсеки для хранения зона влажности Динамическое охлаждение Автоматическая разморозка LED освещение": "март 2025",
+      "Общий объем": "247 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "165 л",
+      "Полок": "4 шт",
+      "Отсеки для хранения": "зона влажности",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "82 л",
+      "Отделений морозильной камеры": "4 шт",
+      "Температура морозилки": "-18 °C",
+      "Время сохранения холода": "10 ч",
+      "Мощность замораживания": "3.7 кг/сутки",
+      "Управление": "поворотные переключатели",
+      "Класс энергопотребления": "A+",
+      "Потребление энергии в год": "284 кВт*ч",
+      "Климатический класс": "N, ST (+16...+38 °С)",
+      "Уровень шума": "40 дБ",
+      "Габариты (ВхШхГ)": "181х54.5х60 см",
+      "Вес": "51 кг",
+      "Страна производства": "Китай",
+      "Официальный сайт": "blaufisch.com.ua",
+      "Дата добавления на E-Katalog": "март 2025",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    },
+    "Цены на Blaufisch BRD-1860NFW": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\blaufisch_brd_1860nfw\\images\\01.jpg",
+    "missing_refrigerators\\blaufisch_brd_1860nfw\\images\\02.jpg",
+    "missing_refrigerators\\blaufisch_brd_1860nfw\\images\\03.jpg",
+    "missing_refrigerators\\blaufisch_brd_1860nfw\\images\\04.jpg",
+    "missing_refrigerators\\blaufisch_brd_1860nfw\\images\\05.jpg"
+  ]
+}

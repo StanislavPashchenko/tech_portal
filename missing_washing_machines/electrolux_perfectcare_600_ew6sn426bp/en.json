@@ -1,0 +1,129 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/ELECTROLUX-PERFECTCARE-600-EW6SN426BP.htm",
+    "actual_url": "https://ek.ua/en/ELECTROLUX-PERFECTCARE-600-EW6SN426BP.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Electrolux",
+    "model": "PerfectCare 600 EW6SN426BP white (914 340 622)",
+    "title": "Electrolux PerfectCare 600 EW6SN426BP white (914 340 622)",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "front load",
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": null,
+    "compressors_count": null,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": "LED",
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": null,
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knob + touch controls",
+    "energy_class_new": "D",
+    "annual_energy_consumption_kwh": null,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 84.3,
+      "width": 59.5,
+      "depth": 41.1
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Washing Machine Electrolux PerfectCare 600 EW6SN426BP white (914 340 622) at a price from 15859 to 15859 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2395462.jpg",
+    "https://mzimg.com/big/11/hblu2l4tx11.jpg",
+    "https://mzimg.com/big/g1/hblu2l5fhg1.jpg",
+    "https://mzimg.com/big/t1/hblu2lfuct1.jpg",
+    "https://mzimg.com/big/41/hblu2lg8c41.jpg",
+    "https://mzimg.com/big/31/hblu2lned31.jpg",
+    "https://s.ek.ua/jpg/2395462.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 6": "from 15 859 ₴ Buy! Пральна машина Electrolux EW6SN426BP inSale.com.ua Less than year Delivery: to Dnipro from Kyiv Warranty: 12 month Report add to list my lists add to comparison",
+      "Colour Specs Loading type front load Capacity 6 kg Drum volume 42 L Max. spin speed 1200 rpm Water consumption per cycle 42 L Dryer Tank material plastic Heating element material stainless steel Features Number of programmes 14 Additional programmes quick wash delicate hygiene (baby clothes) sportswear jeans": "914 340 622",
+      "Loading type": "front load",
+      "Capacity": "6 kg",
+      "Drum volume": "42 L",
+      "Max. spin speed": "1200 rpm",
+      "Water consumption per cycle": "42 L",
+      "Tank material": "plastic",
+      "Heating element material": "stainless steel",
+      "Number of programmes": "14",
+      "Additional programmes": "quick wash delicate hygiene (baby clothes) sportswear jeans",
+      "Spin class": "B",
+      "Energy class (new)": "D",
+      "Noise class": "C",
+      "Controls": "rotary knob + touch controls",
+      "Display": "LED",
+      "Door opening": "leftward",
+      "Noise level (spin)": "77 dB",
+      "Dimensions (HxWxD)": "84.3x59.5x41.1 cm",
+      "Official Website": "electrolux.pl",
+      "Added to E-Catalog": "March 2023",
+      "P/N": "914 340 622"
+    }
+  },
+  "local_images": [
+    "missing_washing_machines\\electrolux_perfectcare_600_ew6sn426bp\\images\\01.jpg",
+    "missing_washing_machines\\electrolux_perfectcare_600_ew6sn426bp\\images\\02.jpg",
+    "missing_washing_machines\\electrolux_perfectcare_600_ew6sn426bp\\images\\03.jpg",
+    "missing_washing_machines\\electrolux_perfectcare_600_ew6sn426bp\\images\\04.jpg",
+    "missing_washing_machines\\electrolux_perfectcare_600_ew6sn426bp\\images\\05.jpg",
+    "missing_washing_machines\\electrolux_perfectcare_600_ew6sn426bp\\images\\06.jpg",
+    "missing_washing_machines\\electrolux_perfectcare_600_ew6sn426bp\\images\\07.jpg"
+  ]
+}

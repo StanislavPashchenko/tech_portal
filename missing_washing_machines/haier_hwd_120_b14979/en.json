@@ -1,0 +1,128 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/HAIER-HWD-120-B14979.htm",
+    "actual_url": "https://ek.ua/en/HAIER-HWD-120-B14979.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Haier",
+    "model": "HWD 120-B14979 white",
+    "title": "Haier HWD 120-B14979 white",
+    "category": "E-Katalog category 200",
+    "year": 2021,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "front load",
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": null,
+    "compressors_count": null,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": "LED",
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": null,
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knob + touch controls",
+    "energy_class_new": "A",
+    "annual_energy_consumption_kwh": null,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 72,
+    "dimensions_cm": {
+      "height": 85.0,
+      "width": 60.0,
+      "depth": 53.0
+    },
+    "weight_kg": 81.0,
+    "country_of_origin": "China"
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Washing Machine Haier HWD 120-B14979 white at a price from 51448 to 51448 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2056854.jpg",
+    "https://mzimg.com/big/41/gsngbhui841.jpg",
+    "https://mzimg.com/big/n1/gsngbhvs5n1.jpg",
+    "https://mzimg.com/big/m1/gsngbi5n3m1.jpg",
+    "https://s.ek.ua/jpg/2056854.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 4": "from 51 448 ₴ Buy! Прально-сушильна машина Haier I-Pro 7 HWD120-B14979 i-Refresh 60 см 12 кг/8 кг HWD120B149 Novateh.com.ua Less than year Delivery: to Dnipro from Novoyavorivsk Report add to list my lists add to comparison",
+      "Colour Specs Loading type front load Capacity 10 kg Max. spin speed 1400 rpm Water consumption per cycle 75 L / with dryer; 51 L — without dryer / Dryer Drying capacity 6 kg Direct drive Inverter motor Tank material plastic Heating element material stainless steel Features Number of programmes 14 Additional programmes quick wash Steam wash": "July 2021",
+      "Loading type": "front load",
+      "Capacity": "10 kg",
+      "Max. spin speed": "1400 rpm",
+      "Water consumption per cycle": "75 L / with dryer; 51 L — without dryer /",
+      "Drying capacity": "6 kg",
+      "Tank material": "plastic",
+      "Heating element material": "stainless steel",
+      "Number of programmes": "14",
+      "Additional programmes": "quick wash",
+      "Spin class": "B",
+      "Energy class (new)": "A",
+      "Controls": "rotary knob + touch controls",
+      "Display": "LED",
+      "Door opening": "leftward",
+      "Noise level (spin)": "72 dB",
+      "Dimensions (HxWxD)": "85x60x53 cm",
+      "Weight": "81 kg",
+      "Country of origin": "China",
+      "Added to E-Catalog": "July 2021",
+      "Dryer": "yes",
+      "Direct drive": "yes",
+      "Inverter motor": "yes",
+      "Steam wash": "yes"
+    }
+  },
+  "local_images": [
+    "missing_washing_machines\\haier_hwd_120_b14979\\images\\01.jpg",
+    "missing_washing_machines\\haier_hwd_120_b14979\\images\\02.jpg",
+    "missing_washing_machines\\haier_hwd_120_b14979\\images\\03.jpg",
+    "missing_washing_machines\\haier_hwd_120_b14979\\images\\04.jpg",
+    "missing_washing_machines\\haier_hwd_120_b14979\\images\\05.jpg"
+  ]
+}

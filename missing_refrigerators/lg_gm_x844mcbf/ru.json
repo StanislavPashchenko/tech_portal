@@ -1,0 +1,156 @@
+{
+  "source": {
+    "url": "https://ek.ua/LG-GM-X844MCBF.htm",
+    "actual_url": "https://ek.ua/LG-GM-X844MCBF.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "LG",
+    "model": "GM-X844MCBF черный",
+    "title": "Холодильник LG GM-X844MCBF черный",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "French-door (распашной)",
+    "total_volume_l": 508,
+    "cameras_count": 3,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": false,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 288,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 220,
+    "sections_count": 6,
+    "sections_details": "6 шт",
+    "cold_storage_time_h": 10,
+    "freezing_capacity_kg_per_day": 6
+  },
+  "general": {
+    "control": "сенсорное внешнее",
+    "energy_class_new": "F",
+    "annual_energy_consumption_kwh": 393,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 40,
+    "dimensions_cm": {
+      "height": 178.7,
+      "width": 83.5,
+      "depth": 73.4
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник LG GM-X844MCBF черный по цене от 78802 до 100020 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2408690.jpg",
+    "https://mzimg.com/big/g1/hc7xobbilg1.jpg",
+    "https://mzimg.com/big/f1/hc7xobf14f1.jpg",
+    "https://mzimg.com/big/11/hc7xobles11.jpg",
+    "https://mzimg.com/big/n1/hc7xobqs5n1.jpg",
+    "https://mzimg.com/big/q1/hc7xobxa3q1.jpg",
+    "https://mzimg.com/big/r1/hc7xoc2fcr1.jpg",
+    "https://mzimg.com/big/91/hc7xoc83w91.jpg",
+    "https://mzimg.com/big/b1/hc7xocezkb1.jpg",
+    "https://mzimg.com/big/71/hc7xockxq71.jpg",
+    "https://mzimg.com/big/r1/hc7xocph8r1.jpg",
+    "https://mzimg.com/big/w1/hc7xocwrdw1.jpg",
+    "https://s.ek.ua/jpg/2408690.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 15": "78 802 грн.",
+      "Hi-tech.com.ua →": "78 802 грн.",
+      "Цвет Тип French-door (распашной) Общий объем 508 л Количество камер 3 Контуров охлаждения 2 Компрессоров 1 Инверторный компрессор No Frost морозильная / холодильная камеры Функции и возможности Функции управление со смартфона (Wi-Fi) защита от детей LED дисплей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 288 л Полок 3 шт Складная полка Отсеки для хранения зона свежести Диспенсер холодной воды внешний Быстрый доступ (мини-бар) / InstaView Door-in-Door / Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка Дезодоратор / Hygiene Fresh+ / LED освещение": "март 2023",
+      "Тип": "French-door (распашной)",
+      "Общий объем": "508 л",
+      "Количество камер": "3",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "управление со смартфона (Wi-Fi) защита от детей LED дисплей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "288 л",
+      "Полок": "3 шт",
+      "Отсеки для хранения": "зона свежести",
+      "Диспенсер холодной воды": "внешний",
+      "Быстрый доступ (мини-бар)": "/ InstaView Door-in-Door /",
+      "Дезодоратор": "/ Hygiene Fresh+ /",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "220 л",
+      "Отделений морозильной камеры": "6 шт",
+      "Температура морозилки": "-24 °C",
+      "Время сохранения холода": "10 ч",
+      "Мощность замораживания": "6.5 кг/сутки",
+      "Ледогенератор": "внешний диспенсер",
+      "Управление": "сенсорное внешнее",
+      "Класс энергопотребления (new)": "F",
+      "Потребление энергии в год": "393 кВт*ч",
+      "Класс шумности": "C",
+      "Уровень шума": "40 дБ",
+      "Габариты (ВхШхГ)": "178.7x83.5x73.4 см",
+      "Официальный сайт": "lg.com",
+      "Дата добавления на E-Katalog": "март 2023",
+      "Инверторный компрессор": "да",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\lg_gm_x844mcbf\\images\\01.jpg",
+    "missing_refrigerators\\lg_gm_x844mcbf\\images\\02.jpg",
+    "missing_refrigerators\\lg_gm_x844mcbf\\images\\03.jpg",
+    "missing_refrigerators\\lg_gm_x844mcbf\\images\\04.jpg",
+    "missing_refrigerators\\lg_gm_x844mcbf\\images\\05.jpg",
+    "missing_refrigerators\\lg_gm_x844mcbf\\images\\06.jpg",
+    "missing_refrigerators\\lg_gm_x844mcbf\\images\\07.jpg",
+    "missing_refrigerators\\lg_gm_x844mcbf\\images\\08.jpg",
+    "missing_refrigerators\\lg_gm_x844mcbf\\images\\09.jpg",
+    "missing_refrigerators\\lg_gm_x844mcbf\\images\\10.jpg",
+    "missing_refrigerators\\lg_gm_x844mcbf\\images\\11.jpg",
+    "missing_refrigerators\\lg_gm_x844mcbf\\images\\12.jpg",
+    "missing_refrigerators\\lg_gm_x844mcbf\\images\\13.jpg"
+  ]
+}

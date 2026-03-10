@@ -1,0 +1,115 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/SNAIGE-CD35DM-S302SD.htm",
+    "actual_url": "https://ek.ua/ua/SNAIGE-CD35DM-S302SD.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Snaige",
+    "model": "CD35DM-S302SD білий",
+    "title": "Холодильник Snaige CD35DM-S302SD білий",
+    "category": "E-Katalog category 200",
+    "year": 2021,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 20
+  },
+  "summary": {
+    "type": "холодильна вітрина",
+    "total_volume_l": 320,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": false,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 320,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "немає",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "кнопкове зовнішнє",
+    "energy_class_new": null,
+    "annual_energy_consumption_kwh": null,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 43,
+    "dimensions_cm": {
+      "height": 173.0,
+      "width": 60.0,
+      "depth": 60.0
+    },
+    "weight_kg": null,
+    "country_of_origin": "Литва"
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Snaige CD35DM-S302SD білий за ціною від 20499 до 28715 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg/1987151.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Pro100market.com.ua →": "24 282 грн.",
+      "Stylus.ua →": "21 672 грн.",
+      "Цифра →": "24 282 грн.",
+      "Elmag.ua →": "24 282 грн.",
+      "ТЕХНОточка →": "24 120 грн.",
+      "Колір Тип холодильна вітрина Загальний об'єм 320 л Кількість камер 2 Контурів охолодження 1 Компресорів 1 Функції та можливості Функції LED дисплей": "березень 2021",
+      "Тип": "холодильна вітрина",
+      "Загальний об'єм": "320 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "Функції": "LED дисплей",
+      "Об'єм холодильної камери": "320 л",
+      "Полиць": "4 шт",
+      "Морозильна камера": "немає",
+      "Управління": "кнопкове зовнішнє",
+      "Рівень шуму": "43 дБ",
+      "Габарити (ВхШхГ)": "173x60x60 см",
+      "Країна виробництва": "Литва",
+      "Дата додавання на E-Katalog": "березень 2021"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\snaige_cd35dm_s302sd\\images\\01.jpg"
+  ]
+}

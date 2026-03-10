@@ -1,0 +1,157 @@
+{
+  "source": {
+    "url": "https://ek.ua/LG-GB-B92MCACP.htm",
+    "actual_url": "https://ek.ua/LG-GB-B92MCACP.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "LG",
+    "model": "GB-B92MCACP черный",
+    "title": "Холодильник LG GB-B92MCACP черный",
+    "category": "E-Katalog category 200",
+    "year": 2021,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 7
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 384,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 277,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 107,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 9,
+    "freezing_capacity_kg_per_day": 10
+  },
+  "general": {
+    "control": "сенсорное внешнее",
+    "energy_class_new": "C",
+    "annual_energy_consumption_kwh": 172,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 35,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 59.5,
+      "depth": 68.2
+    },
+    "weight_kg": 79.0,
+    "country_of_origin": "Польша"
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Эта модель прежде всего отличается стильным дизайном корпуса с внешней сенсорной панелью управления, которая максимально органически смотрится на фоне дверцы холодильной камеры. Впрочем, внутреннее оснащение модели не уступает ее дизайну и также заслуживает максимально пристального внимания. В основе устройства находится надежный, энергоэффективный и тихий инверторный компрессор, а каждая из камер получила отдельный контур охлаждения, что обеспечивает возможность их полностью независимой регулировки. Система охлаждения предусматривает поддержку технологии динамического охлаждения и технологии DoorCooling+, что обеспечивает возможность равномерного и быстрого охлаждения всех полок и корзин, включая дверные. Согласно заявлениям производителя, скорость охлаждения на 32% выше, чем в моделях без данной технологии. Общий полезный объем холодильника LG GB-B92MCACP составляет 384 л, из которых на холодильное отделение приходится 277 л, а на морозилку — 107 л. Оснащение холодильного отделения включает в себя специальные зоны влажности FRESHBalancer и свежести FRESHConverter, а также полочку для бутылок. Производительность морозильной камеры достигает 10 кг/сут. Благодаря технологии Full No Frost отпадает необходимость в периодическом размораживании камеры для очистки от наледи. Уровень создаваемого во время работы шума не превышает 35 дБ, что позволяет причислить модель к наиболее тихим холодильникам на рынке на момент выхода устройства.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2050645.jpg",
+    "https://mzimg.com/big/01/gs7fyyy3p01.jpg",
+    "https://mzimg.com/big/p1/gs7fyzpnbp1.jpg",
+    "https://mzimg.com/big/01/gs7fyztkt01.jpg",
+    "https://mzimg.com/big/u1/gs7fz03rzu1.jpg",
+    "https://mzimg.com/big/01/gs7fz06a901.jpg",
+    "https://mzimg.com/big/a1/gs7fz0hlla1.jpg",
+    "https://mzimg.com/big/j1/gs7fz0sqoj1.jpg",
+    "https://mzimg.com/big/g1/gs7fyyzklg1.jpg",
+    "https://mzimg.com/big/21/gs7fyzcqq21.jpg",
+    "https://mzimg.com/big/u1/gs7fyzf4nu1.jpg",
+    "https://mzimg.com/big/e1/gs7fz0jfee1.jpg",
+    "https://s.ek.ua/jpg/2050645.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 13": "36 868 грн.",
+      "Tendo.com.ua →": "33 999 грн.",
+      "Megadom.net →": "35 120 грн.",
+      "TEHNOS.UA →": "36 869 грн.",
+      "inSale.com.ua →": "35 620 грн.",
+      "Luckylink.kiev.ua →": "36 868 грн.",
+      "Цвет Общий объем 384 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 Инверторный компрессор No Frost морозильная / холодильная камеры Функции и возможности Функции управление со смартфона (Wi-Fi) / SmartThinQ / защита от детей LED дисплей индикатор закрытия дверцы перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 277 л Полок 4 шт Отсеки для хранения зона свежести зона влажности полка для бутылок Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "июль 2021",
+      "Общий объем": "384 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "управление со смартфона (Wi-Fi) / SmartThinQ / защита от детей LED дисплей индикатор закрытия дверцы перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "277 л",
+      "Полок": "4 шт",
+      "Отсеки для хранения": "зона свежести зона влажности полка для бутылок",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "107 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Температура морозилки": "-24 °C",
+      "Время сохранения холода": "9 ч",
+      "Мощность замораживания": "10 кг/сутки",
+      "Управление": "сенсорное внешнее",
+      "Класс энергопотребления (new)": "C",
+      "Потребление энергии в год": "172 кВт*ч",
+      "Класс шумности": "B",
+      "Уровень шума": "35 дБ",
+      "Габариты (ВхШхГ)": "203x59.5x68.2 см",
+      "Вес": "79 кг",
+      "Страна производства": "Польша",
+      "Официальный сайт": "lg.com",
+      "Дата добавления на E-Katalog": "июль 2021",
+      "Инверторный компрессор": "да",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\lg_gb_b92mcacp\\images\\01.jpg",
+    "missing_refrigerators\\lg_gb_b92mcacp\\images\\02.jpg",
+    "missing_refrigerators\\lg_gb_b92mcacp\\images\\03.jpg",
+    "missing_refrigerators\\lg_gb_b92mcacp\\images\\04.jpg",
+    "missing_refrigerators\\lg_gb_b92mcacp\\images\\05.jpg",
+    "missing_refrigerators\\lg_gb_b92mcacp\\images\\06.jpg",
+    "missing_refrigerators\\lg_gb_b92mcacp\\images\\07.jpg",
+    "missing_refrigerators\\lg_gb_b92mcacp\\images\\08.jpg",
+    "missing_refrigerators\\lg_gb_b92mcacp\\images\\09.jpg",
+    "missing_refrigerators\\lg_gb_b92mcacp\\images\\10.jpg",
+    "missing_refrigerators\\lg_gb_b92mcacp\\images\\11.jpg",
+    "missing_refrigerators\\lg_gb_b92mcacp\\images\\12.jpg",
+    "missing_refrigerators\\lg_gb_b92mcacp\\images\\13.jpg"
+  ]
+}

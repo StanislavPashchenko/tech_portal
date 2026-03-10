@@ -3,5 +3,8 @@ __pycache__/
 *.pyc
 db.sqlite3
 media/
-staticfiles/
+#staticfiles/
+models_cat91_full/
+models_trilang_full/
+parcer3/
 .env

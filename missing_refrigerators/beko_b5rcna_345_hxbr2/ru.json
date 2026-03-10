@@ -1,0 +1,145 @@
+{
+  "source": {
+    "url": "https://ek.ua/BEKO-B5RCNA-345-HXBR2.htm",
+    "actual_url": "https://ek.ua/BEKO-B5RCNA-345-HXBR2.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Beko",
+    "model": "B5RCNA 345 HXBR2 графит",
+    "title": "Холодильник Beko B5RCNA 345 HXBR2 графит",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 301,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 209,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 92,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 11,
+    "freezing_capacity_kg_per_day": 4
+  },
+  "general": {
+    "control": "сенсорное внутреннее",
+    "energy_class_new": "D",
+    "annual_energy_consumption_kwh": 241,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 37,
+    "dimensions_cm": {
+      "height": 179.6,
+      "width": 59.5,
+      "depth": 66.5
+    },
+    "weight_kg": 64.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Beko B5RCNA 345 HXBR2 графит по цене от 28609 до 28609 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2959410.jpg",
+    "https://mzimg.com/big/41/i533nxoaz41.jpg",
+    "https://mzimg.com/big/41/i533nxpdn41.jpg",
+    "https://mzimg.com/big/b1/i533ny3ubb1.jpg",
+    "https://mzimg.com/big/w1/i533ny831w1.jpg",
+    "https://mzimg.com/big/w1/i533nyndww1.jpg",
+    "https://mzimg.com/big/q1/i533nyqp8q1.jpg",
+    "https://mzimg.com/big/p1/i533nz9jip1.jpg",
+    "https://s.ek.ua/jpg/2959410.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 8": "28 609 грн. Купить! Холодильник Beko bPro500 B5RCNA345HXBR2 Full No Frost 179,6 см Dark Inox B5RCNA34BR Novateh.com.ua Менее года Доставка: в Днепр из Новояворовска Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Общий объем 301 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 No Frost морозильная камера Функции и возможности Функции LED дисплей индикатор закрытия дверцы перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 209 л Полок 4 шт Динамическое охлаждение Автоматическая разморозка LED освещение": "сентябрь 2025",
+      "Общий объем": "301 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная камера",
+      "Функции": "LED дисплей индикатор закрытия дверцы перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "209 л",
+      "Полок": "4 шт",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "92 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Температура морозилки": "-24 °C",
+      "Время сохранения холода": "11 ч",
+      "Мощность замораживания": "4.2 кг/сутки",
+      "Управление": "сенсорное внутреннее",
+      "Класс энергопотребления (new)": "D",
+      "Потребление энергии в год": "241 кВт*ч",
+      "Климатический класс": "SN, N, ST (+10...+38 °С)",
+      "Класс шумности": "C",
+      "Уровень шума": "37 дБ",
+      "Габариты (ВхШхГ)": "179.6х59.5х66.5 см",
+      "Вес": "64 кг",
+      "Официальный сайт": "beko.com",
+      "Дата добавления на E-Katalog": "сентябрь 2025",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\beko_b5rcna_345_hxbr2\\images\\01.jpg",
+    "missing_refrigerators\\beko_b5rcna_345_hxbr2\\images\\02.jpg",
+    "missing_refrigerators\\beko_b5rcna_345_hxbr2\\images\\03.jpg",
+    "missing_refrigerators\\beko_b5rcna_345_hxbr2\\images\\04.jpg",
+    "missing_refrigerators\\beko_b5rcna_345_hxbr2\\images\\05.jpg",
+    "missing_refrigerators\\beko_b5rcna_345_hxbr2\\images\\06.jpg",
+    "missing_refrigerators\\beko_b5rcna_345_hxbr2\\images\\07.jpg",
+    "missing_refrigerators\\beko_b5rcna_345_hxbr2\\images\\08.jpg",
+    "missing_refrigerators\\beko_b5rcna_345_hxbr2\\images\\09.jpg"
+  ]
+}

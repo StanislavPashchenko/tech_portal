@@ -1,0 +1,142 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/VESTFROST-CNF-186-WBL.htm",
+    "actual_url": "https://ek.ua/ua/VESTFROST-CNF-186-WBL.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Vestfrost",
+    "model": "CNF 186 WBL білий",
+    "title": "Холодильник Vestfrost CNF 186 WBL білий",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 20
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 295,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 207,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 88,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": 5
+  },
+  "general": {
+    "control": "кнопкове внутрішнє",
+    "energy_class_new": null,
+    "annual_energy_consumption_kwh": 278,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 42,
+    "dimensions_cm": {
+      "height": 186.0,
+      "width": 59.5,
+      "depth": 60.0
+    },
+    "weight_kg": 76.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general",
+      "Ціни на Vestfrost CNF 186 WBL"
+    ]
+  },
+  "description": "Холодильник Vestfrost CNF 186 WBL білий за ціною від 15799 до 24055 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2826146.jpg",
+    "https://mzimg.com/big/c1/hxmrno2gxc1.jpg",
+    "https://mzimg.com/big/81/hxmrno3fy81.jpg",
+    "https://mzimg.com/big/f1/hxmrnoc9yf1.jpg",
+    "https://mzimg.com/big/z1/hxmrnoecyz1.jpg",
+    "https://s.ek.ua/jpg/2826146.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 5": "17 792 грн.",
+      "Click.ua →": "17 227 грн.",
+      "Xfrost.net.ua →": "17 314 грн.",
+      "Elmag.ua →": "15 799 грн.",
+      "Itbox.ua →": "17 726 грн.",
+      "ТЕХНОточка →": "17 792 грн.",
+      "Колір Загальний об'єм 295 л Кількість камер 2 Контурів охолодження 1 Компресорів 1 No Frost морозильна / холодильна камери Функції та можливості Функції перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 207 л Полиць 4 шт Динамічне охолодження Автоматичне розморожування LED освітлення": "січень 2025",
+      "Загальний об'єм": "295 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "207 л",
+      "Полиць": "4 шт",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "88 л",
+      "Відділень морозильної камери": "3 шт",
+      "Потужність заморожування": "5 кг/добу",
+      "Управління": "кнопкове внутрішнє",
+      "Споживання енергії в рік": "278 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Рівень шуму": "42 дБ",
+      "Габарити (ВхШхГ)": "186х59.5х60 см",
+      "Вага": "76 кг",
+      "Дата додавання на E-Katalog": "січень 2025",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    },
+    "Ціни на Vestfrost CNF 186 WBL": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\vestfrost_cnf_186_wbl\\images\\01.jpg",
+    "missing_refrigerators\\vestfrost_cnf_186_wbl\\images\\02.jpg",
+    "missing_refrigerators\\vestfrost_cnf_186_wbl\\images\\03.jpg",
+    "missing_refrigerators\\vestfrost_cnf_186_wbl\\images\\04.jpg",
+    "missing_refrigerators\\vestfrost_cnf_186_wbl\\images\\05.jpg",
+    "missing_refrigerators\\vestfrost_cnf_186_wbl\\images\\06.jpg"
+  ]
+}

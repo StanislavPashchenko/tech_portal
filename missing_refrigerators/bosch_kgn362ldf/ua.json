@@ -1,0 +1,149 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/BOSCH-KGN362LDF.htm",
+    "actual_url": "https://ek.ua/ua/BOSCH-KGN362LDF.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Bosch",
+    "model": "KGN362LDF нержавіюча сталь",
+    "title": "Холодильник Bosch KGN362LDF нержавіюча сталь",
+    "category": "E-Katalog category 200",
+    "year": 2022,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 321,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 218,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 103,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 14,
+    "freezing_capacity_kg_per_day": 10
+  },
+  "general": {
+    "control": "сенсорне внутрішнє",
+    "energy_class_new": "D",
+    "annual_energy_consumption_kwh": 199,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 35,
+    "dimensions_cm": {
+      "height": 186.0,
+      "width": 60.0,
+      "depth": 66.5
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник відомого німецького виробника Bosch є класичною двокамерною моделлю загальним об'ємом 321 л. З них 218 л припадають на холодильну камеру, а 103 л на морозильну камеру, розташовану в нижній частині пристрою. Система охолодження Multi Airflow забезпечує однакову вологість і температуру по всій зоні охолодження - від дверних ящиків до задніх куточків, що сприяє тривалому зберіганню продуктів. А технологія No Frost запобігає утворенню льоду та інею, тим самим виключаючи необхідність вручну розморожувати холодильник. Два окремі контури охолодження дозволяють незалежно регулювати температуру в холодильній та морозильній камерах. При цьому для керування передбачена зручна сенсорна панель. Bosch KGN362LDF пропонує все необхідне для правильної організації розміщення продуктів. У холодильній камері є кілька полиць, регульованих по висоті, бічні полички, великий висувний контейнер VitaFresh з оптимальним рівнем вологості для овочів, фруктів та зелені, контейнер з нульовою температурою для м'яса та риби, а також спеціальна полиця для розміщення пляшок. Функція Super Cool дозволяє на короткий час зменшити температуру, щоб швидко охолодити свіжі продукти. Морозильна камера розділена на 3 відділення та має функцію Super Freeze для швидкого заморожування доданих продуктів. Морозилка здатна заморозити близько 10 кг продуктів за добу та зберігати оптимальну температуру протягом 14 годин у разі вимкнення електроенергії. Також в числі плюсів холодильника – досить тиха робота (рівень шуму не перевищує 35 дБ), LED освітлення в холодильній камері, можливість переважувати дверцята на праву та ліву сторони та сигнал, який сповіщає про незачинені дверцята чи інші проблеми.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2279342.jpg",
+    "https://mzimg.com/big/m1/h6fpzl4osm1.jpg",
+    "https://mzimg.com/big/r1/h6fpzl5brr1.jpg",
+    "https://mzimg.com/big/71/h6fpzlhe171.jpg",
+    "https://mzimg.com/big/o1/h6fpzlkjto1.jpg",
+    "https://mzimg.com/big/21/h6fpzlu6o21.jpg",
+    "https://mzimg.com/big/g1/h6fpzlxxlg1.jpg",
+    "https://mzimg.com/big/u1/h6fpzm89cu1.jpg",
+    "https://mzimg.com/big/w1/h6fpzmce2w1.jpg",
+    "https://s.ek.ua/jpg/2279342.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 9": "від 36 945 грн. Купити! Холодильник Bosch KGN362LDF Denika.ua З нами більше 10-ти років Доставка: у Дніпро з Харкова Гарантія: 12 міс. Поскаржитись в список мої списки додати до порівняння 2 299 zł 25 749 грн. 699 £ 38 564 грн.",
+      "Колір Загальний об'єм 321 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 No Frost морозильна / холодильна камери Функції та можливості Функції індикатор закриття дверцят перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 218 л Полиць 3 шт Відсіки для зберігання зона свіжості зона вологості полиця для пляшок Швидке охолодження Динамічне охолодження Автоматичне розморожування LED освітлення": "вересень 2022",
+      "Загальний об'єм": "321 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "індикатор закриття дверцят перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "218 л",
+      "Полиць": "3 шт",
+      "Відсіки для зберігання": "зона свіжості зона вологості полиця для пляшок",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "103 л",
+      "Відділень морозильної камери": "3 шт",
+      "Температура морозилки": "-24 °C",
+      "Час збереження холоду": "14 год",
+      "Потужність заморожування": "10 кг/добу",
+      "Управління": "сенсорне внутрішнє",
+      "Клас енергоспоживання (new)": "D",
+      "Споживання енергії в рік": "199 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Клас гучності": "B",
+      "Рівень шуму": "35 дБ",
+      "Габарити (ВхШхГ)": "186x60x66.5 см",
+      "Офіційний сайт": "bosch-home.pl",
+      "Дата додавання на E-Katalog": "вересень 2022",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\bosch_kgn362ldf\\images\\01.jpg",
+    "missing_refrigerators\\bosch_kgn362ldf\\images\\02.jpg",
+    "missing_refrigerators\\bosch_kgn362ldf\\images\\03.jpg",
+    "missing_refrigerators\\bosch_kgn362ldf\\images\\04.jpg",
+    "missing_refrigerators\\bosch_kgn362ldf\\images\\05.jpg",
+    "missing_refrigerators\\bosch_kgn362ldf\\images\\06.jpg",
+    "missing_refrigerators\\bosch_kgn362ldf\\images\\07.jpg",
+    "missing_refrigerators\\bosch_kgn362ldf\\images\\08.jpg",
+    "missing_refrigerators\\bosch_kgn362ldf\\images\\09.jpg",
+    "missing_refrigerators\\bosch_kgn362ldf\\images\\10.jpg"
+  ]
+}

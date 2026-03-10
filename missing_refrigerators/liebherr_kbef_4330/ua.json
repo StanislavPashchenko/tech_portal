@@ -1,0 +1,146 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/LIEBHERR-KBEF-4330.htm",
+    "actual_url": "https://ek.ua/ua/LIEBHERR-KBEF-4330.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liebherr",
+    "model": "KBef 4330 сріблястий",
+    "title": "Холодильник Liebherr KBef 4330 сріблястий",
+    "category": "E-Katalog category 200",
+    "year": 2020,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 4330
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 366,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": false,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 233,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "немає",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "сенсорне внутрішнє",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 90,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 37,
+    "dimensions_cm": {
+      "height": 185.0,
+      "width": 60.0,
+      "depth": 66.5
+    },
+    "weight_kg": 79.0,
+    "country_of_origin": "Німеччина"
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general",
+      "Ціни на Liebherr KBef 4330"
+    ]
+  },
+  "description": "Холодильник Liebherr KBef 4330 сріблястий за ціною від 44999 до 88542 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1927965.jpg",
+    "https://mzimg.com/big/m1/glpt62cbpm1.jpg",
+    "https://mzimg.com/big/71/glpt62dko71.jpg",
+    "https://mzimg.com/big/n1/glpt62q9fn1.jpg",
+    "https://mzimg.com/big/u1/glpt62syiu1.jpg",
+    "https://mzimg.com/big/s1/glpt633ads1.jpg",
+    "https://mzimg.com/big/r1/glpt637ngr1.jpg",
+    "https://mzimg.com/big/x1/glpt63iozx1.jpg",
+    "https://mzimg.com/big/e1/glpt63m4he1.jpg",
+    "https://mzimg.com/big/y1/glpt63wvay1.jpg",
+    "https://s.ek.ua/jpg/1927965.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "575.in.ua →": "44 999 грн.",
+      "Колір Загальний об'єм 366 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 Функції та можливості Функції захист від дітей LED дисплей індикатор закриття дверцят перевішування дверей Холодильне відділення Об'єм холодильної камери 233 л Відсіки для зберігання зона свіжості Зона свіжості (нульова камера) 133 л Швидке охолодження Динамічне охолодження Автоматичне розморожування LED освітлення": "грудень 2020",
+      "Загальний об'єм": "366 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "Функції": "захист від дітей LED дисплей індикатор закриття дверцят перевішування дверей",
+      "Об'єм холодильної камери": "233 л",
+      "Відсіки для зберігання": "зона свіжості",
+      "Зона свіжості (нульова камера)": "133 л",
+      "Морозильна камера": "немає",
+      "Управління": "сенсорне внутрішнє",
+      "Клас енергоспоживання": "A++",
+      "Споживання енергії в рік": "90 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Рівень шуму": "37 дБ",
+      "Габарити (ВхШхГ)": "185x60x66.5 см",
+      "Вага": "79 кг",
+      "Країна виробництва": "Німеччина",
+      "Дата додавання на E-Katalog": "грудень 2020",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    },
+    "Ціни на Liebherr KBef 4330": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\liebherr_kbef_4330\\images\\01.jpg",
+    "missing_refrigerators\\liebherr_kbef_4330\\images\\02.jpg",
+    "missing_refrigerators\\liebherr_kbef_4330\\images\\03.jpg",
+    "missing_refrigerators\\liebherr_kbef_4330\\images\\04.jpg",
+    "missing_refrigerators\\liebherr_kbef_4330\\images\\05.jpg",
+    "missing_refrigerators\\liebherr_kbef_4330\\images\\06.jpg",
+    "missing_refrigerators\\liebherr_kbef_4330\\images\\07.jpg",
+    "missing_refrigerators\\liebherr_kbef_4330\\images\\08.jpg",
+    "missing_refrigerators\\liebherr_kbef_4330\\images\\09.jpg",
+    "missing_refrigerators\\liebherr_kbef_4330\\images\\10.jpg",
+    "missing_refrigerators\\liebherr_kbef_4330\\images\\11.jpg"
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/ELEYUS-MRDW-1050M47-WH.htm",
+    "actual_url": "https://ek.ua/ua/ELEYUS-MRDW-1050M47-WH.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "ELEYUS",
+    "model": "MRDW 1050M47 WH білий",
+    "title": "Холодильник ELEYUS MRDW 1050M47 WH білий",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 20
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 43,
+    "cameras_count": 1,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 43,
+    "shelves_count": 1
+  },
+  "freezer_compartment": {
+    "location": "немає",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "поворотні перемикачі",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": 105,
+    "climate_class": [
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 41,
+    "dimensions_cm": {
+      "height": 49.2,
+      "width": 45.0,
+      "depth": 47.2
+    },
+    "weight_kg": 13.0,
+    "country_of_origin": "Китай"
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник ELEYUS MRDW 1050M47 WH білий за ціною від 4041 до 6555 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2909735.jpg",
+    "https://mzimg.com/big/31/i25kse87031.jpg",
+    "https://mzimg.com/big/v1/i25kse8zqv1.jpg",
+    "https://mzimg.com/big/11/i25kseo1c11.jpg",
+    "https://mzimg.com/big/21/i25kseomh21.jpg",
+    "https://mzimg.com/big/h1/i25ksf0zeh1.jpg",
+    "https://mzimg.com/big/p1/i25ksf2hrp1.jpg",
+    "https://mzimg.com/big/h1/i25ksfi8uh1.jpg",
+    "https://mzimg.com/big/p1/i25ksfjvbp1.jpg",
+    "https://mzimg.com/big/k1/i25ksfyopk1.jpg",
+    "https://mzimg.com/big/k1/i25ksg07ek1.jpg",
+    "https://mzimg.com/big/q1/i25ksgevcq1.jpg",
+    "https://s.ek.ua/jpg/2909735.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 13": "4 159 грн.",
+      "Pro100market.com.ua →": "4 159 грн.",
+      "Openshop.ua →": "4 119 грн.",
+      "Elmag.ua →": "4 081 грн.",
+      "1smarty.com.ua →": "4 159 грн.",
+      "Denika.ua →": "4 159 грн.",
+      "Колір Загальний об'єм 43 л Кількість камер 1 Контурів охолодження 1 Компресорів 1 Функції та можливості Функції перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 43 л Полиць 1 шт Відсіки для зберігання низькотемпературний відсік": "червень 2025",
+      "Загальний об'єм": "43 л",
+      "Кількість камер": "1",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "Функції": "перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "43 л",
+      "Полиць": "1 шт",
+      "Відсіки для зберігання": "низькотемпературний відсік",
+      "Морозильна камера": "немає",
+      "Управління": "поворотні перемикачі",
+      "Клас енергоспоживання": "A+",
+      "Споживання енергії в рік": "105 кВт*год",
+      "Кліматичний клас": "N, ST, T (+16...+43 °С)",
+      "Рівень шуму": "41 дБ",
+      "Габарити (ВхШхГ)": "49.2х45х47.2 см",
+      "Вага": "13 кг",
+      "Країна виробництва": "Китай",
+      "Офіційний сайт": "eleyus.com",
+      "Дата додавання на E-Katalog": "червень 2025"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\eleyus_mrdw_1050m47_wh\\images\\01.jpg",
+    "missing_refrigerators\\eleyus_mrdw_1050m47_wh\\images\\02.jpg",
+    "missing_refrigerators\\eleyus_mrdw_1050m47_wh\\images\\03.jpg",
+    "missing_refrigerators\\eleyus_mrdw_1050m47_wh\\images\\04.jpg",
+    "missing_refrigerators\\eleyus_mrdw_1050m47_wh\\images\\05.jpg",
+    "missing_refrigerators\\eleyus_mrdw_1050m47_wh\\images\\06.jpg",
+    "missing_refrigerators\\eleyus_mrdw_1050m47_wh\\images\\07.jpg",
+    "missing_refrigerators\\eleyus_mrdw_1050m47_wh\\images\\08.jpg",
+    "missing_refrigerators\\eleyus_mrdw_1050m47_wh\\images\\09.jpg",
+    "missing_refrigerators\\eleyus_mrdw_1050m47_wh\\images\\10.jpg",
+    "missing_refrigerators\\eleyus_mrdw_1050m47_wh\\images\\11.jpg",
+    "missing_refrigerators\\eleyus_mrdw_1050m47_wh\\images\\12.jpg",
+    "missing_refrigerators\\eleyus_mrdw_1050m47_wh\\images\\13.jpg"
+  ]
+}

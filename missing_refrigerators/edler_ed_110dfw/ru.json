@@ -1,0 +1,122 @@
+{
+  "source": {
+    "url": "https://ek.ua/EDLER-ED-110DFW.htm",
+    "actual_url": "https://ek.ua/EDLER-ED-110DFW.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "EDLER",
+    "model": "ED-110DFW белый",
+    "title": "Холодильник EDLER ED-110DFW белый",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 80,
+    "cameras_count": 1,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 80,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "отсутствует",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": 111,
+    "climate_class": [
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 40,
+    "dimensions_cm": {
+      "height": 84.5,
+      "width": 44.0,
+      "depth": 44.0
+    },
+    "weight_kg": 17.0,
+    "country_of_origin": "Китай"
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник EDLER ED-110DFW белый по цене от 6991 до 7061 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2447181.jpg",
+    "https://mzimg.com/big/11/hdz2dkanq11.jpg",
+    "https://s.ek.ua/jpg/2447181.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Elmag.ua →": "7 061 грн.",
+      "Цвет Общий объем 80 л Количество камер 1 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Функции перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 80 л Полок 3 шт": "май 2023",
+      "Общий объем": "80 л",
+      "Количество камер": "1",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Функции": "перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "80 л",
+      "Полок": "3 шт",
+      "Морозильная камера": "отсутствует",
+      "Управление": "поворотные переключатели",
+      "Класс энергопотребления": "A+",
+      "Потребление энергии в год": "111 кВт*ч",
+      "Климатический класс": "N, ST (+16...+38 °С)",
+      "Уровень шума": "40 дБ",
+      "Габариты (ВхШхГ)": "84.5х44х44 см",
+      "Вес": "17 кг",
+      "Страна производства": "Китай",
+      "Дата добавления на E-Katalog": "май 2023"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\edler_ed_110dfw\\images\\01.jpg",
+    "missing_refrigerators\\edler_ed_110dfw\\images\\02.jpg",
+    "missing_refrigerators\\edler_ed_110dfw\\images\\03.jpg"
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/GRUNHELM-BRM-S177M55-W.htm",
+    "actual_url": "https://ek.ua/ua/GRUNHELM-BRM-S177M55-W.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Grunhelm",
+    "model": "BRM-S177M55-W білий",
+    "title": "Холодильник Grunhelm BRM-S177M55-W білий",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 262,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 197,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 65,
+    "sections_count": 2,
+    "sections_details": "2 шт",
+    "cold_storage_time_h": 10,
+    "freezing_capacity_kg_per_day": 3
+  },
+  "general": {
+    "control": "поворотні перемикачі",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": null,
+    "climate_class": [
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 177.3,
+      "width": 56.8,
+      "depth": 58.0
+    },
+    "weight_kg": 45.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Grunhelm BRM-S177M55-W білий за ціною від 18592 до 18592 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2613481.jpg",
+    "https://mzimg.com/big/j1/hm5ytcflrj1.jpg",
+    "https://mzimg.com/big/q1/hm5ytcgedq1.jpg",
+    "https://s.ek.ua/jpg/2613481.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 3": "18 592 грн. Купити! Холодильник Grunhelm BRM-S177M55-W Маркетплейс: Rozetka.ua Склад Є З нами 7 років Доставка: у Дніпро з Києва Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 262 л Кількість камер 2 Контурів охолодження 1 Компресорів 1 Функції та можливості Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 197 л Полиць 4 шт Автоматичне розморожування": "січень 2024",
+      "Загальний об'єм": "262 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "197 л",
+      "Полиць": "4 шт",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "65 л",
+      "Відділень морозильної камери": "2 шт",
+      "Час збереження холоду": "10 год",
+      "Потужність заморожування": "3 кг/добу",
+      "Управління": "поворотні перемикачі",
+      "Клас енергоспоживання": "A+",
+      "Кліматичний клас": "субтропічний ST (+18...+38 °С)",
+      "Габарити (ВхШхГ)": "177.3x56.8x58 см",
+      "Вага": "45 кг",
+      "Дата додавання на E-Katalog": "січень 2024",
+      "Автоматичне розморожування": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\grunhelm_brm_s177m55_w\\images\\01.jpg",
+    "missing_refrigerators\\grunhelm_brm_s177m55_w\\images\\02.jpg",
+    "missing_refrigerators\\grunhelm_brm_s177m55_w\\images\\03.jpg",
+    "missing_refrigerators\\grunhelm_brm_s177m55_w\\images\\04.jpg"
+  ]
+}

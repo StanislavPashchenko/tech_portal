@@ -1,0 +1,130 @@
+{
+  "source": {
+    "url": "https://ek.ua/EDLER-ED-274IWF.htm",
+    "actual_url": "https://ek.ua/EDLER-ED-274IWF.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "EDLER",
+    "model": "ED-274IWF белый",
+    "title": "Холодильник EDLER ED-274IWF белый",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 248,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 138,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 110,
+    "sections_count": 4,
+    "sections_details": "4 шт",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": 5
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": 271,
+    "climate_class": [
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 40,
+    "dimensions_cm": {
+      "height": 172.0,
+      "width": 55.0,
+      "depth": 57.0
+    },
+    "weight_kg": 52.0,
+    "country_of_origin": "Китай"
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник EDLER ED-274IWF белый по цене от 12156 до 14501 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2826904.jpg",
+    "https://mzimg.com/big/a1/hxkjtldqaa1.jpg",
+    "https://mzimg.com/big/i1/hnxs9lgi8i1.jpg",
+    "https://s.ek.ua/jpg/2826904.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 3": "14 501 грн.",
+      "Tviy-Dim.com →": "12 479 грн.",
+      "Enko.com.ua →": "12 479 грн.",
+      "Elmir.ua →": "14 501 грн.",
+      "Цвет Общий объем 248 л Количество камер 2 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Функции перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 138 л Полок 3 шт LED освещение": "январь 2025",
+      "Общий объем": "248 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Функции": "перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "138 л",
+      "Полок": "3 шт",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "110 л",
+      "Отделений морозильной камеры": "4 шт",
+      "Мощность замораживания": "5 кг/сутки",
+      "Управление": "поворотные переключатели",
+      "Класс энергопотребления": "A+",
+      "Потребление энергии в год": "271 кВт*ч",
+      "Климатический класс": "субтропический ST (+18...+38 °С)",
+      "Уровень шума": "40 дБ",
+      "Габариты (ВхШхГ)": "172х55х57 см",
+      "Вес": "52 кг",
+      "Страна производства": "Китай",
+      "Дата добавления на E-Katalog": "январь 2025",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\edler_ed_274iwf\\images\\01.jpg",
+    "missing_refrigerators\\edler_ed_274iwf\\images\\02.jpg",
+    "missing_refrigerators\\edler_ed_274iwf\\images\\03.jpg",
+    "missing_refrigerators\\edler_ed_274iwf\\images\\04.jpg"
+  ]
+}

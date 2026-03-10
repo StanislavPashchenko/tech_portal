@@ -1,0 +1,146 @@
+{
+  "source": {
+    "url": "https://ek.ua/SMEG-FAB32RRD5.htm",
+    "actual_url": "https://ek.ua/SMEG-FAB32RRD5.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Smeg",
+    "model": "FAB32RRD5 красный",
+    "title": "Холодильник Smeg FAB32RRD5 красный",
+    "category": "E-Katalog category 200",
+    "year": 2020,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 331,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": false,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 234,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 97,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 40,
+    "freezing_capacity_kg_per_day": 5
+  },
+  "general": {
+    "control": "кнопочное внутреннее",
+    "energy_class_new": "A+++",
+    "annual_energy_consumption_kwh": 178,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 37,
+    "dimensions_cm": {
+      "height": 196.8,
+      "width": 60.1,
+      "depth": 78.8
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Smeg FAB32RRD5 красный по цене от 135500 до 135500 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1869766.jpg",
+    "https://mzimg.com/big/11/girofaeyg11.jpg",
+    "https://mzimg.com/big/r1/girnsq2tgr1.jpg",
+    "https://mzimg.com/big/y1/girnwj70ly1.jpg",
+    "https://mzimg.com/big/s1/giroa5aqjs1.jpg",
+    "https://mzimg.com/big/81/giroddqkj81.jpg",
+    "https://mzimg.com/big/j1/giroqpvmcj1.jpg",
+    "https://mzimg.com/big/d1/girnsq4sxd1.png",
+    "https://s.ek.ua/jpg/1869766.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 8": "135 500 грн. Купить! Холодильник дводверний Smeg Retro Style Red (FAB32LRD5) FAB32LRD5 Ktc.ua С нами 7 лет Доставка: в Днепр из Ровно Гарантия: 24 мес. от производителя Под заказ Пожаловаться в список мои списки добавить в сравнение 8 074 zł 90 429 грн. 1 836 £ 101 292 грн.",
+      "Цвет Общий объем 331 л Количество камер 2 Контуров охлаждения 1 Компрессоров 1 No Frost морозильная / холодильная камеры Функции и возможности Функции режим отпуска LED дисплей индикатор закрытия дверцы Дополнительно ретро дизайн Холодильное отделение Объем холодильной камеры 234 л Полок 3 шт Отсеки для хранения зона свежести Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "сентябрь 2020",
+      "Общий объем": "331 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "режим отпуска LED дисплей индикатор закрытия дверцы",
+      "Дополнительно": "ретро дизайн",
+      "Объем холодильной камеры": "234 л",
+      "Полок": "3 шт",
+      "Отсеки для хранения": "зона свежести",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "97 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Температура морозилки": "-24 °C",
+      "Время сохранения холода": "40 ч",
+      "Мощность замораживания": "5 кг/сутки",
+      "Управление": "кнопочное внутреннее",
+      "Класс энергопотребления": "A+++",
+      "Потребление энергии в год": "178 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Уровень шума": "37 дБ",
+      "Габариты (ВхШхГ)": "196.8x60.1x78.8 см",
+      "Официальный сайт": "smeg.ua",
+      "Дата добавления на E-Katalog": "сентябрь 2020",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\smeg_fab32rrd5\\images\\01.jpg",
+    "missing_refrigerators\\smeg_fab32rrd5\\images\\02.jpg",
+    "missing_refrigerators\\smeg_fab32rrd5\\images\\03.jpg",
+    "missing_refrigerators\\smeg_fab32rrd5\\images\\04.jpg",
+    "missing_refrigerators\\smeg_fab32rrd5\\images\\05.jpg",
+    "missing_refrigerators\\smeg_fab32rrd5\\images\\06.jpg",
+    "missing_refrigerators\\smeg_fab32rrd5\\images\\07.jpg",
+    "missing_refrigerators\\smeg_fab32rrd5\\images\\08.png",
+    "missing_refrigerators\\smeg_fab32rrd5\\images\\09.jpg"
+  ]
+}

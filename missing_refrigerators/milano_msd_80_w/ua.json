@@ -1,0 +1,122 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/MILANO-MSD-80-W.htm",
+    "actual_url": "https://ek.ua/ua/MILANO-MSD-80-W.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Milano",
+    "model": "MSD 80 W білий",
+    "title": "Холодильник Milano MSD 80 W білий",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 100,
+    "cameras_count": 1,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 100,
+    "shelves_count": 2
+  },
+  "freezer_compartment": {
+    "location": "немає",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "поворотні перемикачі",
+    "energy_class_new": null,
+    "annual_energy_consumption_kwh": null,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 43,
+    "dimensions_cm": {
+      "height": 84.5,
+      "width": 44.0,
+      "depth": 44.0
+    },
+    "weight_kg": 17.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Milano MSD 80 W білий за ціною від 6153 до 6215 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2841892.jpg",
+    "https://mzimg.com/big/c1/hyc2nf2rfc1.jpg",
+    "https://mzimg.com/big/41/hyc2nf3ou41.jpg",
+    "https://mzimg.com/big/j1/hyc2nfaxwj1.jpg",
+    "https://mzimg.com/big/b1/hyc2nfdubb1.jpg",
+    "https://s.ek.ua/jpg/2841892.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Elmag.ua →": "6 215 грн.",
+      "Колір Загальний об'єм 100 л Кількість камер 1 Контурів охолодження 1 Компресорів 1 Функції та можливості Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 100 л Полиць 2 шт Відсіки для зберігання низькотемпературний відсік LED освітлення": "лютий 2025",
+      "Загальний об'єм": "100 л",
+      "Кількість камер": "1",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "100 л",
+      "Полиць": "2 шт",
+      "Відсіки для зберігання": "низькотемпературний відсік",
+      "Морозильна камера": "немає",
+      "Управління": "поворотні перемикачі",
+      "Рівень шуму": "43 дБ",
+      "Габарити (ВхШхГ)": "84.5х44х44 см",
+      "Вага": "17 кг",
+      "Дата додавання на E-Katalog": "лютий 2025",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\milano_msd_80_w\\images\\01.jpg",
+    "missing_refrigerators\\milano_msd_80_w\\images\\02.jpg",
+    "missing_refrigerators\\milano_msd_80_w\\images\\03.jpg",
+    "missing_refrigerators\\milano_msd_80_w\\images\\04.jpg",
+    "missing_refrigerators\\milano_msd_80_w\\images\\05.jpg",
+    "missing_refrigerators\\milano_msd_80_w\\images\\06.jpg"
+  ]
+}

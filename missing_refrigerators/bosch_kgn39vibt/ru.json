@@ -1,0 +1,151 @@
+{
+  "source": {
+    "url": "https://ek.ua/BOSCH-KGN39VIBT.htm",
+    "actual_url": "https://ek.ua/BOSCH-KGN39VIBT.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Bosch",
+    "model": "KGN39VIBT нержавейка",
+    "title": "Холодильник Bosch KGN39VIBT нержавейка",
+    "category": "E-Katalog category 200",
+    "year": 2022,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 363,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 260,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 103,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 18,
+    "freezing_capacity_kg_per_day": 10
+  },
+  "general": {
+    "control": "сенсорное внутреннее",
+    "energy_class_new": "B",
+    "annual_energy_consumption_kwh": 129,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 33,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 60.0,
+      "depth": 66.5
+    },
+    "weight_kg": 95.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Bosch KGN39VIBT нержавейка по цене от 47394 до 47394 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2279153.jpg",
+    "https://mzimg.com/big/h1/h6fji7bwyh1.jpg",
+    "https://mzimg.com/big/s1/h6fji7d6ms1.jpg",
+    "https://mzimg.com/big/a1/h6fji7pqqa1.jpg",
+    "https://mzimg.com/big/u1/h6fji7r4nu1.jpg",
+    "https://mzimg.com/big/t1/h6fji81n5t1.jpg",
+    "https://mzimg.com/big/91/h6fji83l391.jpg",
+    "https://mzimg.com/big/f1/h6fji8erkf1.jpg",
+    "https://mzimg.com/big/o1/h6fji8fz7o1.jpg",
+    "https://mzimg.com/big/a1/h6fji8rf2a1.jpg",
+    "https://s.ek.ua/jpg/2279153.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 10": "от 47 394 грн. Купить! Холодильник Bosch KGN39VIBT inSale.com.ua Менее года Доставка: в Днепр из Киева Гарантия: 12 мес. Пожаловаться в список мои списки добавить в сравнение 3 249 zł 36 389 грн. 946 £ 52 190 грн.",
+      "Цвет Общий объем 363 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 No Frost морозильная / холодильная камеры Функции и возможности Функции индикатор закрытия дверцы перевешивание дверей Холодильное отделение Объем холодильной камеры 260 л Полок 4 шт Отсеки для хранения зона свежести зона влажности полка для бутылок Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "сентябрь 2022",
+      "Общий объем": "363 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "индикатор закрытия дверцы перевешивание дверей",
+      "Объем холодильной камеры": "260 л",
+      "Полок": "4 шт",
+      "Отсеки для хранения": "зона свежести зона влажности полка для бутылок",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "103 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Температура морозилки": "-24 °C",
+      "Время сохранения холода": "18 ч",
+      "Мощность замораживания": "10 кг/сутки",
+      "Управление": "сенсорное внутреннее",
+      "Класс энергопотребления (new)": "B",
+      "Потребление энергии в год": "129 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Класс шумности": "B",
+      "Уровень шума": "33 дБ",
+      "Габариты (ВхШхГ)": "203х60х66.5 см",
+      "Вес": "95 кг",
+      "Официальный сайт": "bosch-home.pl",
+      "Дата добавления на E-Katalog": "сентябрь 2022",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\bosch_kgn39vibt\\images\\01.jpg",
+    "missing_refrigerators\\bosch_kgn39vibt\\images\\02.jpg",
+    "missing_refrigerators\\bosch_kgn39vibt\\images\\03.jpg",
+    "missing_refrigerators\\bosch_kgn39vibt\\images\\04.jpg",
+    "missing_refrigerators\\bosch_kgn39vibt\\images\\05.jpg",
+    "missing_refrigerators\\bosch_kgn39vibt\\images\\06.jpg",
+    "missing_refrigerators\\bosch_kgn39vibt\\images\\07.jpg",
+    "missing_refrigerators\\bosch_kgn39vibt\\images\\08.jpg",
+    "missing_refrigerators\\bosch_kgn39vibt\\images\\09.jpg",
+    "missing_refrigerators\\bosch_kgn39vibt\\images\\10.jpg",
+    "missing_refrigerators\\bosch_kgn39vibt\\images\\11.jpg"
+  ]
+}

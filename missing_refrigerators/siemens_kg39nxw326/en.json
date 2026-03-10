@@ -1,0 +1,150 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/SIEMENS-KG39NXW326.htm",
+    "actual_url": "https://ek.ua/en/SIEMENS-KG39NXW326.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Siemens",
+    "model": "KG39NXW326 white",
+    "title": "Siemens KG39NXW326 white",
+    "category": "E-Katalog category 200",
+    "year": 273,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": false,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "external touch controls",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 273,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 60.0,
+      "depth": 66.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Household two-chamber refrigerator with an inverter compressor and separate cooling circuits for the refrigerator and freezer. The model was presented on the market as part of the mid-level family of iQ300 devices from Siemens and, accordingly, is positioned in the middle price range. It features quite advanced equipment, as well as an attractive exterior design with hidden door handles and an external control panel. The total useful volume of the Siemens KG39NXW326 refrigerator is 366 liters. Full support for No Frost technology is provided, which prevents the formation of ice and frost on the walls of the chambers, as well as a dynamic cooling system that ensures the most even distribution of cold air throughout the volume of the device. The useful volume of the refrigerator compartment is 255 liters, while a special zero chamber of 24 liters is provided inside for the longest possible storage of fresh vegetables and fruits. The 87 l freezer is located below, is able to maintain temperatures down to -24 ° C, and also generally has enough power to completely freeze 14 kg of fresh food per day. Among other important characteristics of the device, it is also worth highlighting the A ++ energy class and a fairly low level of generated noise - no higher than 39 dB.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1684656.jpg",
+    "https://mzimg.com/big/c1/g8it1tao8c1.jpg",
+    "https://mzimg.com/big/j1/g8it1ts5ij1.jpg",
+    "https://mzimg.com/big/j1/h58pcv89sj1.jpg",
+    "https://mzimg.com/big/91/h58pcv8tj91.jpg",
+    "https://mzimg.com/big/61/h58pcvkeo61.jpg",
+    "https://mzimg.com/big/71/h58pcvkxx71.jpg",
+    "https://mzimg.com/big/y1/h58pcvw99y1.jpg",
+    "https://mzimg.com/big/t1/h58pcvwzst1.jpg",
+    "https://s.ek.ua/jpg/1684656.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 9": "31 350 ₴ Buy! Холодильник Siemens KG39NXW326 inSale.com.ua Less than year Delivery: to Dnipro from Kyiv Warranty: 12 month Report add to list my lists add to comparison",
+      "Colour Total capacity 366 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 Inverter compressor No Frost freezer / refrigerator compartments Features Features child lock door alarm reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 255 L Number of shelves 4 Storage compartments fresh zone humidity zone Fresh zone (zero chamber) 24 L Fast cool Dynamic air cooling Auto-defrost LED lighting": "November 2019",
+      "Total capacity": "366 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "child lock door alarm reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "255 L",
+      "Number of shelves": "4",
+      "Storage compartments": "fresh zone humidity zone",
+      "Fresh zone (zero chamber)": "24 L",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "87 L",
+      "Freezer drawers": "3",
+      "Freezer temperature": "-24 °C",
+      "Autonomy time": "16 h",
+      "Freeze capacity": "14 kg/day",
+      "Controls": "external touch controls",
+      "Energy class": "A++",
+      "Energy consumption per year": "273 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Noise level": "39 dB",
+      "Dimensions (HxWxD)": "203x60x66 cm",
+      "Official Website": "siemens-home.bsh-group.com",
+      "Added to E-Catalog": "November 2019",
+      "Inverter compressor": "yes",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\siemens_kg39nxw326\\images\\01.jpg",
+    "missing_refrigerators\\siemens_kg39nxw326\\images\\02.jpg",
+    "missing_refrigerators\\siemens_kg39nxw326\\images\\03.jpg",
+    "missing_refrigerators\\siemens_kg39nxw326\\images\\04.jpg",
+    "missing_refrigerators\\siemens_kg39nxw326\\images\\05.jpg",
+    "missing_refrigerators\\siemens_kg39nxw326\\images\\06.jpg",
+    "missing_refrigerators\\siemens_kg39nxw326\\images\\07.jpg",
+    "missing_refrigerators\\siemens_kg39nxw326\\images\\08.jpg",
+    "missing_refrigerators\\siemens_kg39nxw326\\images\\09.jpg",
+    "missing_refrigerators\\siemens_kg39nxw326\\images\\10.jpg"
+  ]
+}

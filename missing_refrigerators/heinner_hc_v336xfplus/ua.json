@@ -1,0 +1,134 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/HEINNER-HC-V336XFPLUS.htm",
+    "actual_url": "https://ek.ua/ua/HEINNER-HC-V336XFPLUS.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Heinner",
+    "model": "HC-V336XF+ нержавіюча сталь",
+    "title": "Холодильник Heinner HC-V336XF+ нержавіюча сталь",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 341,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 234,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 107,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "поворотні перемикачі",
+    "energy_class_new": "F",
+    "annual_energy_consumption_kwh": 302,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 186.0,
+      "width": 59.5,
+      "depth": 65.0
+    },
+    "weight_kg": 64.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general",
+      "Ціни на Heinner HC-V336XF+"
+    ]
+  },
+  "description": "Холодильник Heinner HC-V336XF+ нержавіюча сталь за ціною від 16859 до 16999 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2408542.jpg",
+    "https://mzimg.com/big/s1/hc7slc7j2s1.jpg",
+    "https://mzimg.com/big/h1/hc7slc83ph1.jpg",
+    "https://mzimg.com/big/d1/hc7slchcid1.jpg",
+    "https://mzimg.com/big/o1/hc7slchwbo1.jpg",
+    "https://mzimg.com/big/m1/hc7slcu5om1.jpg",
+    "https://s.ek.ua/jpg/2408542.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "FOXTROT.UA →": "16 859 грн.",
+      "Колір Загальний об'єм 341 л Кількість камер 2 Контурів охолодження 1 Компресорів 1 Функції та можливості Функції перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 234 л Полиць 4 шт Відсіки для зберігання зона вологості Автоматичне розморожування LED освітлення": "березень 2023",
+      "Загальний об'єм": "341 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "Функції": "перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "234 л",
+      "Полиць": "4 шт",
+      "Відсіки для зберігання": "зона вологості",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "107 л",
+      "Відділень морозильної камери": "3 шт",
+      "Управління": "поворотні перемикачі",
+      "Клас енергоспоживання (new)": "F",
+      "Споживання енергії в рік": "302 кВт*год",
+      "Клас гучності": "C",
+      "Рівень шуму": "39 дБ",
+      "Габарити (ВхШхГ)": "186x59.5x65 см",
+      "Вага": "64 кг",
+      "Офіційний сайт": "heinner.com",
+      "Дата додавання на E-Katalog": "березень 2023",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    },
+    "Ціни на Heinner HC-V336XF+": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\heinner_hc_v336xfplus\\images\\01.jpg",
+    "missing_refrigerators\\heinner_hc_v336xfplus\\images\\02.jpg",
+    "missing_refrigerators\\heinner_hc_v336xfplus\\images\\03.jpg",
+    "missing_refrigerators\\heinner_hc_v336xfplus\\images\\04.jpg",
+    "missing_refrigerators\\heinner_hc_v336xfplus\\images\\05.jpg",
+    "missing_refrigerators\\heinner_hc_v336xfplus\\images\\06.jpg",
+    "missing_refrigerators\\heinner_hc_v336xfplus\\images\\07.jpg"
+  ]
+}

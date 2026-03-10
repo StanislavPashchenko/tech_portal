@@ -1,0 +1,143 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/AMICA-FK-2965-3-RAA.htm",
+    "actual_url": "https://ek.ua/ua/AMICA-FK-2965-3-RAA.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Amica",
+    "model": "FK 2965.3 RAA червоний",
+    "title": "Холодильник Amica FK 2965.3 RAA червоний",
+    "category": "E-Katalog category 200",
+    "year": 2019,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 244,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": false,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 181,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 63,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 15,
+    "freezing_capacity_kg_per_day": 3
+  },
+  "general": {
+    "control": "поворотні перемикачі",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 188,
+    "climate_class": [
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 43,
+    "dimensions_cm": {
+      "height": 181.0,
+      "width": 55.0,
+      "depth": 61.5
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general",
+      "Ціни на Amica FK 2965.3 RAA"
+    ]
+  },
+  "description": "Холодильник Amica FK 2965.3 RAA червоний за ціною від 28609 до 28609 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1582445.jpg",
+    "https://mzimg.com/big/91/g3956d8u891.jpg",
+    "https://mzimg.com/big/91/g3956dg1s91.jpg",
+    "https://mzimg.com/big/91/g3956dneo91.jpg",
+    "https://mzimg.com/big/x1/g3956dwdtx1.jpg",
+    "https://mzimg.com/big/s1/g3956e49vs1.jpg",
+    "https://mzimg.com/big/21/g3956ed5z21.jpg",
+    "https://mzimg.com/big/w1/g3956em8qw1.jpg",
+    "https://mzimg.com/big/11/g3956ev1s11.jpg",
+    "https://mzimg.com/big/31/g3956f51f31.jpg",
+    "https://s.ek.ua/jpg/1582445.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 10": "від 28 609 грн. Купити! Холодильник Amica FK2965.3RAA 181 см red FK29653RAA Novateh.com.ua Менше року Доставка: у Дніпро з Новояворівська Поскаржитись в список мої списки додати до порівняння 1 997 zł 22 366 грн. 636 £ 35 088 грн.",
+      "Колір Загальний об'єм 244 л Кількість камер 2 Контурів охолодження 1 Компресорів 1 Функції та можливості Додатково ретро дизайн Холодильне відділення Об'єм холодильної камери 181 л Відсіки для зберігання полиця для пляшок Автоматичне розморожування LED освітлення": "травень 2019",
+      "Загальний об'єм": "244 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "Додатково": "ретро дизайн",
+      "Об'єм холодильної камери": "181 л",
+      "Відсіки для зберігання": "полиця для пляшок",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "63 л",
+      "Час збереження холоду": "15 год",
+      "Потужність заморожування": "3 кг/добу",
+      "Управління": "поворотні перемикачі",
+      "Клас енергоспоживання": "A++",
+      "Споживання енергії в рік": "188 кВт*год",
+      "Кліматичний клас": "N, ST (+16...+38 °С)",
+      "Рівень шуму": "43 дБ",
+      "Габарити (ВхШхГ)": "181x55x61.5 см",
+      "Офіційний сайт": "amica.pl",
+      "Дата додавання на E-Katalog": "травень 2019",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    },
+    "Ціни на Amica FK 2965.3 RAA": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\amica_fk_2965_3_raa\\images\\01.jpg",
+    "missing_refrigerators\\amica_fk_2965_3_raa\\images\\02.jpg",
+    "missing_refrigerators\\amica_fk_2965_3_raa\\images\\03.jpg",
+    "missing_refrigerators\\amica_fk_2965_3_raa\\images\\04.jpg",
+    "missing_refrigerators\\amica_fk_2965_3_raa\\images\\05.jpg",
+    "missing_refrigerators\\amica_fk_2965_3_raa\\images\\06.jpg",
+    "missing_refrigerators\\amica_fk_2965_3_raa\\images\\07.jpg",
+    "missing_refrigerators\\amica_fk_2965_3_raa\\images\\08.jpg",
+    "missing_refrigerators\\amica_fk_2965_3_raa\\images\\09.jpg",
+    "missing_refrigerators\\amica_fk_2965_3_raa\\images\\10.jpg",
+    "missing_refrigerators\\amica_fk_2965_3_raa\\images\\11.jpg"
+  ]
+}

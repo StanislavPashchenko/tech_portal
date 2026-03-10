@@ -1,0 +1,126 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/SNAIGE-CC35DM-P600FD.htm",
+    "actual_url": "https://ek.ua/en/SNAIGE-CC35DM-P600FD.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Snaige",
+    "model": "CC35DM-P600FD white",
+    "title": "Snaige CC35DM-P600FD white",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 6
+  },
+  "freezer_compartment": {
+    "location": "in absent",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knobs",
+    "energy_class_new": "D",
+    "annual_energy_consumption_kwh": null,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 50,
+    "dimensions_cm": {
+      "height": 173.0,
+      "width": 60.0,
+      "depth": 60.0
+    },
+    "weight_kg": 53.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Snaige CC35DM-P600FD white at a price from 23762 to 24999 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2936771.jpg",
+    "https://mzimg.com/big/z1/i3qi8kltez1.jpg",
+    "https://mzimg.com/big/u1/i3qi8kqy1u1.jpg",
+    "https://mzimg.com/big/i1/i3qi8lacoi1.jpg",
+    "https://mzimg.com/big/u1/i3qi8lqe8u1.jpg",
+    "https://mzimg.com/big/11/i3qi8lxqg11.jpg",
+    "https://s.ek.ua/jpg/2936771.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Denika.ua →": "24 999 ₴",
+      "Sota.store →": "24 224 ₴",
+      "Colour Total capacity 230 L Number of chambers 1 Number of cooling circuits 1 Number of compressors 1 Features Features reversible door Refrigeration chamber Refrigerator capacity 230 L Number of shelves 6 Auto-defrost LED lighting": "July 2025",
+      "Total capacity": "230 L",
+      "Number of chambers": "1",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "Features": "reversible door",
+      "Refrigerator capacity": "230 L",
+      "Number of shelves": "6",
+      "Freezer compartment": "in absent",
+      "Controls": "rotary knobs",
+      "Energy class (new)": "D",
+      "Noise level": "50 dB",
+      "Dimensions (HxWxD)": "173х60х60 cm",
+      "Weight": "53 kg",
+      "Added to E-Catalog": "July 2025",
+      "LED lighting": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\snaige_cc35dm_p600fd\\images\\01.jpg",
+    "missing_refrigerators\\snaige_cc35dm_p600fd\\images\\02.jpg",
+    "missing_refrigerators\\snaige_cc35dm_p600fd\\images\\03.jpg",
+    "missing_refrigerators\\snaige_cc35dm_p600fd\\images\\04.jpg",
+    "missing_refrigerators\\snaige_cc35dm_p600fd\\images\\05.jpg",
+    "missing_refrigerators\\snaige_cc35dm_p600fd\\images\\06.jpg",
+    "missing_refrigerators\\snaige_cc35dm_p600fd\\images\\07.jpg"
+  ]
+}

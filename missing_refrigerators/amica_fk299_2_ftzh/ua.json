@@ -1,0 +1,152 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/AMICA-FK299-2-FTZH.htm",
+    "actual_url": "https://ek.ua/ua/AMICA-FK299-2-FTZH.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Amica",
+    "model": "FK299.2 FTZH графіт",
+    "title": "Холодильник Amica FK299.2 FTZH графіт",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 250,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 180,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 70,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 19,
+    "freezing_capacity_kg_per_day": 4
+  },
+  "general": {
+    "control": "сенсорне внутрішнє",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": 255,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 42,
+    "dimensions_cm": {
+      "height": 180.0,
+      "width": 55.0,
+      "depth": 59.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general",
+      "Ціни на Amica FK299.2 FTZH"
+    ]
+  },
+  "description": "Холодильник Amica FK299.2 FTZH графіт за ціною від 27308 до 27308 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2527301.jpg",
+    "https://mzimg.com/big/s1/ffyxmhv02s1.jpg",
+    "https://mzimg.com/big/n1/ffyxmjbb6n1.jpg",
+    "https://mzimg.com/big/b1/goxl5d9mcb1.jpg",
+    "https://mzimg.com/big/v1/goxl5db0wv1.jpg",
+    "https://mzimg.com/big/s1/goxl5dsxcs1.jpg",
+    "https://mzimg.com/big/n1/ffyxmij0an1.jpg",
+    "https://mzimg.com/big/61/ffyxmiqrf61.jpg",
+    "https://mzimg.com/big/o1/ffyxmiytgo1.jpg",
+    "https://mzimg.com/big/y1/ffyxmjhsxy1.jpg",
+    "https://mzimg.com/big/k1/ffyxmju39k1.jpg",
+    "https://mzimg.com/big/q1/ffyxmk56bq1.jpg",
+    "https://s.ek.ua/jpg/2527301.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 13": "від 27 308 грн. Купити! Холодильник Amica FK299.2FTZH(E) Full No Frost 180 см black Inox FK299.2ZHE Novateh.com.ua Менше року Доставка: у Дніпро з Новояворівська Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 250 л Кількість камер 2 Контурів охолодження 1 Компресорів 1 No Frost морозильна / холодильна камери Функції та можливості Функції перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 180 л Відсіки для зберігання зона свіжості полиця для пляшок Швидке охолодження Динамічне охолодження Автоматичне розморожування": "вересень 2023",
+      "Загальний об'єм": "250 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "180 л",
+      "Відсіки для зберігання": "зона свіжості полиця для пляшок",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "70 л",
+      "Температура морозилки": "-24 °C",
+      "Час збереження холоду": "19 год",
+      "Потужність заморожування": "4 кг/добу",
+      "Управління": "сенсорне внутрішнє",
+      "Клас енергоспоживання": "A+",
+      "Споживання енергії в рік": "255 кВт*год",
+      "Кліматичний клас": "SN, N, ST (+10...+38 °С)",
+      "Рівень шуму": "42 дБ",
+      "Габарити (ВхШхГ)": "180x55x59 см",
+      "Офіційний сайт": "amica.pl",
+      "Дата додавання на E-Katalog": "вересень 2023",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так"
+    },
+    "Ціни на Amica FK299.2 FTZH": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\amica_fk299_2_ftzh\\images\\01.jpg",
+    "missing_refrigerators\\amica_fk299_2_ftzh\\images\\02.jpg",
+    "missing_refrigerators\\amica_fk299_2_ftzh\\images\\03.jpg",
+    "missing_refrigerators\\amica_fk299_2_ftzh\\images\\04.jpg",
+    "missing_refrigerators\\amica_fk299_2_ftzh\\images\\05.jpg",
+    "missing_refrigerators\\amica_fk299_2_ftzh\\images\\06.jpg",
+    "missing_refrigerators\\amica_fk299_2_ftzh\\images\\07.jpg",
+    "missing_refrigerators\\amica_fk299_2_ftzh\\images\\08.jpg",
+    "missing_refrigerators\\amica_fk299_2_ftzh\\images\\09.jpg",
+    "missing_refrigerators\\amica_fk299_2_ftzh\\images\\10.jpg",
+    "missing_refrigerators\\amica_fk299_2_ftzh\\images\\11.jpg",
+    "missing_refrigerators\\amica_fk299_2_ftzh\\images\\12.jpg",
+    "missing_refrigerators\\amica_fk299_2_ftzh\\images\\13.jpg"
+  ]
+}

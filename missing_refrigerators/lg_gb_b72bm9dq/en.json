@@ -1,0 +1,155 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/LG-GB-B72BM9DQ.htm",
+    "actual_url": "https://ek.ua/en/LG-GB-B72BM9DQ.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "LG",
+    "model": "GB-B72BM9DQ black",
+    "title": "LG GB-B72BM9DQ black",
+    "category": "E-Katalog category 200",
+    "year": 217,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "internal touch controls",
+    "energy_class_new": "D",
+    "annual_energy_consumption_kwh": 217,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 59.5,
+      "depth": 67.6
+    },
+    "weight_kg": 87.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "A stylish and quite roomy two-chamber refrigerator with a reliable inverter compressor, separate cooling circuits for the working chambers and full support for No Frost technology. The model was introduced to the market by the popular brand LG in 2023 and is positioned by the manufacturer in the upper segment of the mid-price range. The total useful capacity of the device is 387 liters. This model uses an auxiliary cooling channel DoorCooling +, which is located above the doorway. Additional door blowing stabilizes the internal temperature of the storage. The two-chamber refrigerator LG GB-B72BM9DQ is equipped with a FRESHBalancer freshness zone - a special container that can be configured to store either vegetables or fruits. Additionally, there is a FRESHConverter drawer, which makes it possible to store meat and fish without direct freezing. A separate shelf with a folding design is available. There is a bottle holder. The refrigerator door is equipped with hanging trays. The refrigeration and freezing chambers are serviced by the No Frost system, due to which the working space does not require periodic defrosting. The noise generated during operation does not exceed 35 dB.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2445385.jpg",
+    "https://mzimg.com/big/a1/hdtke4h41a1.jpg",
+    "https://mzimg.com/big/f1/hdtke4k9cf1.jpg",
+    "https://mzimg.com/big/h1/hdtke4qj7h1.jpg",
+    "https://mzimg.com/big/z1/hdtke4tqfz1.jpg",
+    "https://mzimg.com/big/y1/hdtke51k4y1.jpg",
+    "https://mzimg.com/big/h1/hdtke554bh1.jpg",
+    "https://mzimg.com/big/m1/hdtke5dgxm1.jpg",
+    "https://mzimg.com/big/y1/hdtke5hedy1.jpg",
+    "https://mzimg.com/big/a1/hdtke5pl0a1.jpg",
+    "https://mzimg.com/big/w1/hdtke5tjnw1.jpg",
+    "https://mzimg.com/big/m1/hdtke5zxxm1.jpg",
+    "https://s.ek.ua/jpg/2445385.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Tendo.com.ua →": "39 780 ₴",
+      "Colour Total capacity 387 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 Inverter compressor No Frost freezer / refrigerator compartments Features Features LED display reversible door More features glass door panel hidden door handles Refrigeration chamber Refrigerator capacity 277 L Number of shelves 4 Foldable shelf Storage compartments fresh zone humidity zone bottle rack Fast cool Dynamic air cooling Auto-defrost LED lighting": "May 2023",
+      "Total capacity": "387 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "LED display reversible door",
+      "More features": "glass door panel hidden door handles",
+      "Refrigerator capacity": "277 L",
+      "Number of shelves": "4",
+      "Storage compartments": "fresh zone humidity zone bottle rack",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "110 L",
+      "Freezer drawers": "3",
+      "Freezer temperature": "-23 °C",
+      "Controls": "internal touch controls",
+      "Energy class (new)": "D",
+      "Energy consumption per year": "217 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Noise class": "B",
+      "Noise level": "35 dB",
+      "Dimensions (HxWxD)": "203x59.5x67.6 cm",
+      "Weight": "87 kg",
+      "Official Website": "lg.com",
+      "Added to E-Catalog": "May 2023",
+      "Inverter compressor": "yes",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\lg_gb_b72bm9dq\\images\\01.jpg",
+    "missing_refrigerators\\lg_gb_b72bm9dq\\images\\02.jpg",
+    "missing_refrigerators\\lg_gb_b72bm9dq\\images\\03.jpg",
+    "missing_refrigerators\\lg_gb_b72bm9dq\\images\\04.jpg",
+    "missing_refrigerators\\lg_gb_b72bm9dq\\images\\05.jpg",
+    "missing_refrigerators\\lg_gb_b72bm9dq\\images\\06.jpg",
+    "missing_refrigerators\\lg_gb_b72bm9dq\\images\\07.jpg",
+    "missing_refrigerators\\lg_gb_b72bm9dq\\images\\08.jpg",
+    "missing_refrigerators\\lg_gb_b72bm9dq\\images\\09.jpg",
+    "missing_refrigerators\\lg_gb_b72bm9dq\\images\\10.jpg",
+    "missing_refrigerators\\lg_gb_b72bm9dq\\images\\11.jpg",
+    "missing_refrigerators\\lg_gb_b72bm9dq\\images\\12.jpg",
+    "missing_refrigerators\\lg_gb_b72bm9dq\\images\\13.jpg"
+  ]
+}

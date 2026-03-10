@@ -1,0 +1,150 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/LG-GB-V3200CEP.htm",
+    "actual_url": "https://ek.ua/ua/LG-GB-V3200CEP.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "LG",
+    "model": "GB-V3200CEP чорний",
+    "title": "Холодильник LG GB-V3200CEP чорний",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 387,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": false,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 233,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 110,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 9,
+    "freezing_capacity_kg_per_day": 10
+  },
+  "general": {
+    "control": "сенсорне внутрішнє",
+    "energy_class_new": "C",
+    "annual_energy_consumption_kwh": 174,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 35,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 59.5,
+      "depth": 67.5
+    },
+    "weight_kg": 79.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general",
+      "Ціни на LG GB-V3200CEP"
+    ]
+  },
+  "description": "Холодильник LG GB-V3200CEP чорний за ціною від 33000 до 33000 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2535523.jpg",
+    "https://mzimg.com/big/q1/hhxec951oq1.jpg",
+    "https://mzimg.com/big/31/hhxec997s31.jpg",
+    "https://mzimg.com/big/i1/hhxec9gzri1.jpg",
+    "https://mzimg.com/big/o1/hhxec9mi6o1.jpg",
+    "https://mzimg.com/big/f1/hhxec9s97f1.jpg",
+    "https://mzimg.com/big/c1/hhxec9yv1c1.jpg",
+    "https://mzimg.com/big/e1/hhxeca6bje1.jpg",
+    "https://mzimg.com/big/z1/hhxeca970z1.jpg",
+    "https://mzimg.com/big/x1/hhxecajzfx1.jpg",
+    "https://s.ek.ua/jpg/2535523.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 10": "33 000 грн. Купити! LG GBV3200CEP Hi-tech.com.ua З нами більше 10-ти років Доставка: у Дніпро з Києва Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 387 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 Інверторний компресор No Frost морозильна / холодильна камери Функції та можливості Функції режим відпустки індикатор закриття дверцят перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 233 л Полиць 4 шт Відсіки для зберігання зона вологості полиця для пляшок Зона свіжості (нульова камера) 44 л Швидке охолодження Динамічне охолодження Автоматичне розморожування LED освітлення": "вересень 2023",
+      "Загальний об'єм": "387 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "режим відпустки індикатор закриття дверцят перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "233 л",
+      "Полиць": "4 шт",
+      "Відсіки для зберігання": "зона вологості полиця для пляшок",
+      "Зона свіжості (нульова камера)": "44 л",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "110 л",
+      "Відділень морозильної камери": "3 шт",
+      "Температура морозилки": "-23 °C",
+      "Час збереження холоду": "9 год",
+      "Потужність заморожування": "10 кг/добу",
+      "Управління": "сенсорне внутрішнє",
+      "Клас енергоспоживання (new)": "C",
+      "Споживання енергії в рік": "174 кВт*год",
+      "Кліматичний клас": "тропічний Т (+18...+43 °С)",
+      "Клас гучності": "B",
+      "Рівень шуму": "35 дБ",
+      "Габарити (ВхШхГ)": "203x59.5x67.5 см",
+      "Вага": "79 кг",
+      "Дата додавання на E-Katalog": "вересень 2023",
+      "Інверторний компресор": "так",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    },
+    "Ціни на LG GB-V3200CEP": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\lg_gb_v3200cep\\images\\01.jpg",
+    "missing_refrigerators\\lg_gb_v3200cep\\images\\02.jpg",
+    "missing_refrigerators\\lg_gb_v3200cep\\images\\03.jpg",
+    "missing_refrigerators\\lg_gb_v3200cep\\images\\04.jpg",
+    "missing_refrigerators\\lg_gb_v3200cep\\images\\05.jpg",
+    "missing_refrigerators\\lg_gb_v3200cep\\images\\06.jpg",
+    "missing_refrigerators\\lg_gb_v3200cep\\images\\07.jpg",
+    "missing_refrigerators\\lg_gb_v3200cep\\images\\08.jpg",
+    "missing_refrigerators\\lg_gb_v3200cep\\images\\09.jpg",
+    "missing_refrigerators\\lg_gb_v3200cep\\images\\10.jpg",
+    "missing_refrigerators\\lg_gb_v3200cep\\images\\11.jpg"
+  ]
+}

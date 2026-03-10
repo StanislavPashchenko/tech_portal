@@ -1,0 +1,120 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/MYSTERY-MRF-8050W.htm",
+    "actual_url": "https://ek.ua/ua/MYSTERY-MRF-8050W.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Mystery",
+    "model": "MRF-8050W білий",
+    "title": "Холодильник Mystery MRF-8050W білий",
+    "category": "E-Katalog category 200",
+    "year": 2014,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 12
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 46,
+    "cameras_count": 1,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 46,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "немає",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "поворотні перемикачі",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": null,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 53.0,
+      "width": 46.0,
+      "depth": 51.0
+    },
+    "weight_kg": 15.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Mystery MRF-8050W білий за ціною від 3960 до 5406 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/425768.jpg",
+    "https://mzimg.com/big/n1/gip1xs3x9n1.jpg",
+    "https://s.ek.ua/jpg/425768.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Відео 1 Фото 2": "3 999 грн.",
+      "Click.ua →": "4 452 грн.",
+      "Itbox.ua →": "3 960 грн.",
+      "Brain.com.ua →": "3 999 грн.",
+      "Tehnomart.com →": "3 999 грн.",
+      "Denika.ua →": "3 999 грн.",
+      "Колір Загальний об'єм 46 л Кількість камер 1 Контурів охолодження 1 Компресорів 1 Функції та можливості Функції перевішування дверей Додатково приховані ручки дверей": "липень 2014",
+      "Загальний об'єм": "46 л",
+      "Кількість камер": "1",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "Функції": "перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "46 л",
+      "Відсіки для зберігання": "низькотемпературний відсік",
+      "Морозильна камера": "немає",
+      "Управління": "поворотні перемикачі",
+      "Клас енергоспоживання": "A+",
+      "Габарити (ВхШхГ)": "53x46x51 см",
+      "Вага": "15 кг",
+      "Дата додавання на E-Katalog": "липень 2014"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\mystery_mrf_8050w\\images\\01.jpg",
+    "missing_refrigerators\\mystery_mrf_8050w\\images\\02.jpg",
+    "missing_refrigerators\\mystery_mrf_8050w\\images\\03.jpg"
+  ]
+}

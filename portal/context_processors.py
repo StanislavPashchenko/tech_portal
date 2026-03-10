@@ -1,7 +1,7 @@
 from django.conf import settings
 
 from portal.forms import SearchForm
-from portal.models import Article, Category
+from portal.models import Article
 
 
 def portal_defaults(request):
@@ -13,7 +13,6 @@ def portal_defaults(request):
         .order_by("-views", "-created_at")[:5]
     )
     return {
-        "nav_categories": Category.objects.order_by("position", "name"),
         "global_popular_articles": popular_articles,
         "search_form": SearchForm(request.GET or None),
         "site_name": settings.SITE_NAME,

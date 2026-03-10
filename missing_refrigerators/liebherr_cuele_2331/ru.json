@@ -1,0 +1,142 @@
+{
+  "source": {
+    "url": "https://ek.ua/LIEBHERR-CUELE-2331.htm",
+    "actual_url": "https://ek.ua/LIEBHERR-CUELE-2331.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liebherr",
+    "model": "CUele 2331 нержавейка",
+    "title": "Холодильник Liebherr CUele 2331 нержавейка",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 211,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 157,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 54,
+    "sections_count": 2,
+    "sections_details": "2 шт",
+    "cold_storage_time_h": 14,
+    "freezing_capacity_kg_per_day": 3
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 193,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 38,
+    "dimensions_cm": {
+      "height": 137.2,
+      "width": 55.0,
+      "depth": 63.0
+    },
+    "weight_kg": 51.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Liebherr CUele 2331 нержавейка по цене от 25304 до 29699 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2806794.jpg",
+    "https://mzimg.com/big/q1/hwo1t2px3q1.jpg",
+    "https://mzimg.com/big/y1/hwo1t2pbcy1.jpg",
+    "https://mzimg.com/big/v1/hwo1t34o4v1.jpg",
+    "https://mzimg.com/big/u1/hwo1t3590u1.jpg",
+    "https://mzimg.com/big/n1/hwo1t3jc9n1.jpg",
+    "https://mzimg.com/big/x1/hwo1t3jxwx1.jpg",
+    "https://s.ek.ua/jpg/2806794.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 7": "29 699 грн.",
+      "Tendo.com.ua →": "29 699 грн.",
+      "Elmag.ua →": "29 699 грн.",
+      "Цвет Общий объем 211 л Количество камер 2 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Функции перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 157 л Полок 3 шт Автоматическая разморозка LED освещение Морозильное отделение Морозильная камера снизу Объем морозильной камеры 54 л Отделений морозильной камеры 2 шт Время сохранения холода 14 ч Мощность замораживания 3 кг/сутки": "декабрь 2024",
+      "Общий объем": "211 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Функции": "перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "157 л",
+      "Полок": "3 шт",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "54 л",
+      "Отделений морозильной камеры": "2 шт",
+      "Время сохранения холода": "14 ч",
+      "Мощность замораживания": "3 кг/сутки",
+      "Управление": "поворотные переключатели",
+      "Класс энергопотребления (new)": "E",
+      "Потребление энергии в год": "193 кВт*ч",
+      "Климатический класс": "SN, N, ST (+10...+38 °С)",
+      "Класс шумности": "C",
+      "Уровень шума": "38 дБ",
+      "Габариты (ВхШхГ)": "137.2х55х63 см",
+      "Вес": "51 кг",
+      "Официальный сайт": "liebherr.com",
+      "Дата добавления на E-Katalog": "декабрь 2024",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\liebherr_cuele_2331\\images\\01.jpg",
+    "missing_refrigerators\\liebherr_cuele_2331\\images\\02.jpg",
+    "missing_refrigerators\\liebherr_cuele_2331\\images\\03.jpg",
+    "missing_refrigerators\\liebherr_cuele_2331\\images\\04.jpg",
+    "missing_refrigerators\\liebherr_cuele_2331\\images\\05.jpg",
+    "missing_refrigerators\\liebherr_cuele_2331\\images\\06.jpg",
+    "missing_refrigerators\\liebherr_cuele_2331\\images\\07.jpg",
+    "missing_refrigerators\\liebherr_cuele_2331\\images\\08.jpg"
+  ]
+}

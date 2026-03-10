@@ -1,0 +1,152 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/LG-GB-V5250DEP.htm",
+    "actual_url": "https://ek.ua/ua/LG-GB-V5250DEP.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "LG",
+    "model": "GB-V5250DEP графіт",
+    "title": "Холодильник LG GB-V5250DEP графіт",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 387,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": false,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 233,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 110,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": 10
+  },
+  "general": {
+    "control": "сенсорне зовнішнє",
+    "energy_class_new": "D",
+    "annual_energy_consumption_kwh": 217,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 35,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 59.5,
+      "depth": 68.2
+    },
+    "weight_kg": 78.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник LG GB-V5250DEP графіт за ціною від 44569 до 48157 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2861932.jpg",
+    "https://mzimg.com/big/u1/hzdao7i1du1.jpeg",
+    "https://mzimg.com/big/f1/hzdao95d4f1.jpeg",
+    "https://mzimg.com/big/31/hzdaoasoo31.jpeg",
+    "https://mzimg.com/big/81/hzdaochm981.jpeg",
+    "https://mzimg.com/big/11/hzdaoe1s911.jpeg",
+    "https://mzimg.com/big/g1/hzdaoft1bg1.jpeg",
+    "https://mzimg.com/big/a1/hzdaohff6a1.jpeg",
+    "https://mzimg.com/big/51/hzdaoj8lz51.jpeg",
+    "https://mzimg.com/big/51/hzdaokw9r51.jpeg",
+    "https://mzimg.com/big/m1/hzdaompkhm1.jpeg",
+    "https://mzimg.com/big/e1/hzdaoohaae1.jpeg",
+    "https://s.ek.ua/jpg/2861932.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Tendo.com.ua →": "44 569 грн.",
+      "Колір Загальний об'єм 387 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 Інверторний компресор No Frost морозильна / холодильна камери Функції та можливості Функції режим відпустки керування зі смартфона (Wi-Fi) захист від дітей LED дисплей індикатор закриття дверцят перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 233 л Полиць 4 шт Відсіки для зберігання зона свіжості зона вологості полиця для пляшок Зона свіжості (нульова камера) 44 л Швидке охолодження Динамічне охолодження Автоматичне розморожування LED освітлення": "березень 2025",
+      "Загальний об'єм": "387 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "режим відпустки керування зі смартфона (Wi-Fi) захист від дітей LED дисплей індикатор закриття дверцят перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "233 л",
+      "Полиць": "4 шт",
+      "Відсіки для зберігання": "зона свіжості зона вологості полиця для пляшок",
+      "Зона свіжості (нульова камера)": "44 л",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "110 л",
+      "Відділень морозильної камери": "3 шт",
+      "Температура морозилки": "-23 °C",
+      "Потужність заморожування": "10 кг/добу",
+      "Управління": "сенсорне зовнішнє",
+      "Клас енергоспоживання (new)": "D",
+      "Споживання енергії в рік": "217 кВт*год",
+      "Кліматичний клас": "тропічний Т (+18...+43 °С)",
+      "Клас гучності": "B",
+      "Рівень шуму": "35 дБ",
+      "Габарити (ВхШхГ)": "203х59.5х68.2 см",
+      "Вага": "78 кг",
+      "Офіційний сайт": "lg.com",
+      "Дата додавання на E-Katalog": "березень 2025",
+      "Інверторний компресор": "так",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\lg_gb_v5250dep\\images\\01.jpg",
+    "missing_refrigerators\\lg_gb_v5250dep\\images\\02.jpeg",
+    "missing_refrigerators\\lg_gb_v5250dep\\images\\03.jpeg",
+    "missing_refrigerators\\lg_gb_v5250dep\\images\\04.jpeg",
+    "missing_refrigerators\\lg_gb_v5250dep\\images\\05.jpeg",
+    "missing_refrigerators\\lg_gb_v5250dep\\images\\06.jpeg",
+    "missing_refrigerators\\lg_gb_v5250dep\\images\\07.jpeg",
+    "missing_refrigerators\\lg_gb_v5250dep\\images\\08.jpeg",
+    "missing_refrigerators\\lg_gb_v5250dep\\images\\09.jpeg",
+    "missing_refrigerators\\lg_gb_v5250dep\\images\\10.jpeg",
+    "missing_refrigerators\\lg_gb_v5250dep\\images\\11.jpeg",
+    "missing_refrigerators\\lg_gb_v5250dep\\images\\12.jpeg",
+    "missing_refrigerators\\lg_gb_v5250dep\\images\\13.jpg"
+  ]
+}

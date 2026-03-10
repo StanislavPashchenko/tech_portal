@@ -1,0 +1,154 @@
+{
+  "source": {
+    "url": "https://ek.ua/GRUNHELM-BRH-N195D68.htm",
+    "actual_url": "https://ek.ua/GRUNHELM-BRH-N195D68.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Grunhelm",
+    "model": "BRH-N195D68 черный",
+    "title": "Холодильник Grunhelm BRH-N195D68 черный",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 19
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 342,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": false,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 226,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 116,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 13,
+    "freezing_capacity_kg_per_day": 10
+  },
+  "general": {
+    "control": "сенсорное внутреннее",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": null,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 40,
+    "dimensions_cm": {
+      "height": 193.5,
+      "width": 60.0,
+      "depth": 66.5
+    },
+    "weight_kg": 67.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Grunhelm BRH-N195D68 черный по цене от 19499 до 24212 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2810854.jpg",
+    "https://mzimg.com/big/41/hw6mqtlyf41.jpg",
+    "https://mzimg.com/big/j1/hw6mqtmn7j1.jpg",
+    "https://mzimg.com/big/q1/hw6mqtwg1q1.jpg",
+    "https://mzimg.com/big/z1/hw6mqtx18z1.jpg",
+    "https://mzimg.com/big/71/hw6mqu8t271.jpg",
+    "https://mzimg.com/big/d1/hw6mqu9zdd1.jpg",
+    "https://mzimg.com/big/u1/hw6mqukm1u1.jpg",
+    "https://mzimg.com/big/q1/hw6mqulztq1.jpg",
+    "https://mzimg.com/big/11/hw6mqv32i11.jpg",
+    "https://mzimg.com/big/k1/hw6mqv3ogk1.jpg",
+    "https://mzimg.com/big/h1/hw6mqvfikh1.jpg",
+    "https://s.ek.ua/jpg/2810854.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 13": "21 541 грн.",
+      "Pro100market.com.ua →": "23 059 грн.",
+      "Openshop.ua →": "20 469 грн.",
+      "Vodogreyka.com.ua →": "20 431 грн.",
+      "Xshop.ua →": "23 059 грн.",
+      "1smarty.com.ua →": "21 541 грн.",
+      "Цвет Общий объем 342 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 No Frost морозильная / холодильная камеры Функции и возможности Функции LED дисплей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 226 л Полок 3 шт Автоматическая разморозка LED освещение": "декабрь 2024",
+      "Общий объем": "342 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "LED дисплей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "226 л",
+      "Полок": "3 шт",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "116 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Время сохранения холода": "13 ч",
+      "Мощность замораживания": "10 кг/сутки",
+      "Управление": "сенсорное внутреннее",
+      "Класс энергопотребления": "A+",
+      "Климатический класс": "SN, N, ST (+10...+38 °С)",
+      "Уровень шума": "40 дБ",
+      "Габариты (ВхШхГ)": "193.5х60х66.5 см",
+      "Вес": "67 кг",
+      "Официальный сайт": "grunhelm.ua",
+      "Дата добавления на E-Katalog": "декабрь 2024",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\grunhelm_brh_n195d68\\images\\01.jpg",
+    "missing_refrigerators\\grunhelm_brh_n195d68\\images\\02.jpg",
+    "missing_refrigerators\\grunhelm_brh_n195d68\\images\\03.jpg",
+    "missing_refrigerators\\grunhelm_brh_n195d68\\images\\04.jpg",
+    "missing_refrigerators\\grunhelm_brh_n195d68\\images\\05.jpg",
+    "missing_refrigerators\\grunhelm_brh_n195d68\\images\\06.jpg",
+    "missing_refrigerators\\grunhelm_brh_n195d68\\images\\07.jpg",
+    "missing_refrigerators\\grunhelm_brh_n195d68\\images\\08.jpg",
+    "missing_refrigerators\\grunhelm_brh_n195d68\\images\\09.jpg",
+    "missing_refrigerators\\grunhelm_brh_n195d68\\images\\10.jpg",
+    "missing_refrigerators\\grunhelm_brh_n195d68\\images\\11.jpg",
+    "missing_refrigerators\\grunhelm_brh_n195d68\\images\\12.jpg",
+    "missing_refrigerators\\grunhelm_brh_n195d68\\images\\13.jpg"
+  ]
+}

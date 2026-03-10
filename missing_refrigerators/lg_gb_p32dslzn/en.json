@@ -1,0 +1,151 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/LG-GB-P32DSLZN.htm",
+    "actual_url": "https://ek.ua/en/LG-GB-P32DSLZN.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "LG",
+    "model": "GB-P32DSLZN silver",
+    "title": "LG GB-P32DSLZN silver",
+    "category": "E-Katalog category 200",
+    "year": 268,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 5
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "internal touch controls",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 268,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 36,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 59.5,
+      "depth": 67.5
+    },
+    "weight_kg": 78.0,
+    "country_of_origin": "Poland"
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "A mid-range two-chamber household refrigerator that boasts a reliable, energy-efficient and quiet inverter compressor, as well as separate cooling circuits for working chambers. The model was introduced to the market in 2020 and is positioned by the manufacturer in the middle price range. First of all, it is important to pay attention to the fact that with a standard case height of 2 m, the device boasts an increased capacity of up to 384 liters, which makes it a good choice, including for a large family of 3-4 people. Support for No Frost technology relieves the user of the need to periodically defrost the device, since ice and frost simply do not form on the walls of this model. The dynamic cooling system in combination with the Door Cooling+ door cooling system ensures the most even distribution of cold air inside the device, even when the doors are opened frequently. The 277 liter refrigerator compartment boasts five tempered glass shelves, as well as a special freshness zone for vegetables and fruits. And the freezer capacity of 107 liters is quite enough to freeze up to 12 kg of products for knocking. Among other things, the refrigerator has a practical minimalist design, low noise level (not higher than 36 dB), as well as good energy efficiency (corresponds to class A ++).",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1884318.jpg",
+    "https://mzimg.com/big/r1/gji8ejndvr1.jpg",
+    "https://mzimg.com/big/51/gji8ekm4151.jpg",
+    "https://mzimg.com/big/p1/gji8ekzg2p1.jpg",
+    "https://mzimg.com/big/p1/gji8el14vp1.jpg",
+    "https://mzimg.com/big/81/gji8elgaj81.jpg",
+    "https://mzimg.com/big/w1/gji8eltn4w1.jpg",
+    "https://mzimg.com/big/v1/gji8eluymv1.jpg",
+    "https://mzimg.com/big/01/gji8em5vx01.jpg",
+    "https://mzimg.com/big/z1/gji8ejm24z1.jpg",
+    "https://mzimg.com/big/p1/gji8ek422p1.jpg",
+    "https://mzimg.com/big/u1/gji8ek5eku1.jpg",
+    "https://s.ek.ua/jpg/1884318.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 15": "30 115 ₴",
+      "Luxmedia.com.ua →": "30 115 ₴",
+      "Colour Total capacity 384 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 Inverter compressor No Frost freezer / refrigerator compartments Features Features door alarm reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 277 L Number of shelves 5 Storage compartments fresh zone Dynamic air cooling Auto-defrost LED lighting": "October 2020",
+      "Total capacity": "384 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "door alarm reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "277 L",
+      "Number of shelves": "5",
+      "Storage compartments": "fresh zone",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "107 L",
+      "Freezer drawers": "3",
+      "Freezer temperature": "-24 °C",
+      "Autonomy time": "16 h",
+      "Freeze capacity": "12 kg/day",
+      "Controls": "internal touch controls",
+      "Energy class": "A++",
+      "Energy consumption per year": "268 kWh",
+      "Noise level": "36 dB",
+      "Dimensions (HxWxD)": "203x59.5x67.5 cm",
+      "Weight": "78 kg",
+      "Country of origin": "Poland",
+      "Official Website": "lg.com",
+      "Added to E-Catalog": "October 2020",
+      "Inverter compressor": "yes",
+      "LED lighting": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\lg_gb_p32dslzn\\images\\01.jpg",
+    "missing_refrigerators\\lg_gb_p32dslzn\\images\\02.jpg",
+    "missing_refrigerators\\lg_gb_p32dslzn\\images\\03.jpg",
+    "missing_refrigerators\\lg_gb_p32dslzn\\images\\04.jpg",
+    "missing_refrigerators\\lg_gb_p32dslzn\\images\\05.jpg",
+    "missing_refrigerators\\lg_gb_p32dslzn\\images\\06.jpg",
+    "missing_refrigerators\\lg_gb_p32dslzn\\images\\07.jpg",
+    "missing_refrigerators\\lg_gb_p32dslzn\\images\\08.jpg",
+    "missing_refrigerators\\lg_gb_p32dslzn\\images\\09.jpg",
+    "missing_refrigerators\\lg_gb_p32dslzn\\images\\10.jpg",
+    "missing_refrigerators\\lg_gb_p32dslzn\\images\\11.jpg",
+    "missing_refrigerators\\lg_gb_p32dslzn\\images\\12.jpg",
+    "missing_refrigerators\\lg_gb_p32dslzn\\images\\13.jpg"
+  ]
+}

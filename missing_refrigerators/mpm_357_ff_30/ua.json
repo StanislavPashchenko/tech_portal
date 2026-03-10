@@ -1,0 +1,129 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/MPM-357-FF-30.htm",
+    "actual_url": "https://ek.ua/ua/MPM-357-FF-30.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "MPM",
+    "model": "357-FF-30 нержавіюча сталь",
+    "title": "Холодильник MPM 357-FF-30 нержавіюча сталь",
+    "category": "E-Katalog category 200",
+    "year": 2021,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 315,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 218,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 97,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 20,
+    "freezing_capacity_kg_per_day": 15
+  },
+  "general": {
+    "control": "сенсорне зовнішнє",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": null,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 41,
+    "dimensions_cm": {
+      "height": 185.0,
+      "width": 60.0,
+      "depth": 69.0
+    },
+    "weight_kg": 74.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник MPM 357-FF-30 нержавіюча сталь за ціною від 24706 до 24706 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2055888.jpg",
+    "https://mzimg.com/big/j1/gsjxwgvzfj1.jpg",
+    "https://mzimg.com/big/f1/gsjxwgyzrf1.jpg",
+    "https://s.ek.ua/jpg/2055888.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 3": "від 24 706 грн. Купити! Холодильник MPM 357-FF-30/AA Full No Frost 185cm Dark Inox MPM357F30A Novateh.com.ua Менше року Доставка: у Дніпро з Новояворівська Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 315 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 No Frost морозильна / холодильна камери Функції та можливості Функції режим відпустки захист від дітей LED дисплей перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 218 л Полиць 3 шт Відсіки для зберігання зона свіжості Динамічне охолодження Автоматичне розморожування LED освітлення": "липень 2021",
+      "Загальний об'єм": "315 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "режим відпустки захист від дітей LED дисплей перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "218 л",
+      "Полиць": "3 шт",
+      "Відсіки для зберігання": "зона свіжості",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "97 л",
+      "Відділень морозильної камери": "3 шт",
+      "Температура морозилки": "-18 °C",
+      "Час збереження холоду": "20 год",
+      "Потужність заморожування": "15 кг/добу",
+      "Управління": "сенсорне зовнішнє",
+      "Клас енергоспоживання": "A+",
+      "Рівень шуму": "41 дБ",
+      "Габарити (ВхШхГ)": "185x60x69 см",
+      "Вага": "74 кг",
+      "Офіційний сайт": "mpm.pl",
+      "Дата додавання на E-Katalog": "липень 2021",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\mpm_357_ff_30\\images\\01.jpg",
+    "missing_refrigerators\\mpm_357_ff_30\\images\\02.jpg",
+    "missing_refrigerators\\mpm_357_ff_30\\images\\03.jpg",
+    "missing_refrigerators\\mpm_357_ff_30\\images\\04.jpg"
+  ]
+}

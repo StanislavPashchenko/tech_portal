@@ -8,8 +8,8 @@
         <h1>{{ page_heading }}</h1>
         <p>{{ intro_text }}</p>
         <div class="hero-actions">
-            <a class="button" href="{% url 'portal:category_index' %}">{% ui 'all_categories' %}</a>
-            <a class="button button--ghost" href="{% url 'portal:brand_list' %}">{% ui 'all_brands' %}</a>
+            <a class="button" href="{% url 'portal:error_list' %}">{% ui 'latest_error_codes' %}</a>
+            <a class="button button--ghost" href="{% url 'portal:search' %}">{% ui 'search' %}</a>
         </div>
     </div>
     <div class="hero-stack">
@@ -33,23 +33,43 @@
                 {% endfor %}
             </div>
         </section>
-
-        {% for section in category_sections %}
         <section class="section-block">
+            {% if product_appliance_types %}
             <div class="section-heading">
-                <h2>{% category_label section.category %}</h2>
-                <a href="{{ section.category.get_absolute_url }}">{% ui 'read_more' %}</a>
+                <h2>{% ui 'catalog_sections' %}</h2>
+                <a href="{% url 'portal:product_list' %}">{% ui 'read_more' %}</a>
             </div>
             <div class="card-grid">
-                {% for article in section.articles %}
-                    {% include "includes/article_card.html" with article=article %}
+                {% for appliance_type in product_appliance_types %}
+                <article class="card">
+                    <div class="card-body">
+                        <span class="eyebrow">{% ui 'products' %}</span>
+                        <h3><a href="{% url 'portal:product_type' type_slug=appliance_type.slug %}">{{ appliance_type.display_name }}</a></h3>
+                        {% if appliance_type.display_description %}
+                        <p>{{ appliance_type.display_description|truncatechars:140 }}</p>
+                        {% endif %}
+                        <div class="card-meta">
+                            <span>{{ appliance_type.product_count }} {% ui 'items_in_section' %}</span>
+                        </div>
+                    </div>
+                </article>
+                {% endfor %}
+            </div>
+            {% endif %}
+        </section>
+        <section class="section-block">
+            <div class="section-heading">
+                <h2>{% ui 'latest_products' %}</h2>
+                <a href="{% url 'portal:product_list' %}">{% ui 'read_more' %}</a>
+            </div>
+            <div class="card-grid">
+                {% for product in latest_products %}
+                    {% include "includes/product_card.html" with product=product %}
                 {% empty %}
                     <p class="empty-state">{% ui 'no_results' %}</p>
                 {% endfor %}
             </div>
         </section>
-        {% endfor %}
-
         <section class="section-block">
             <div class="section-heading">
                 <h2>{% ui 'latest_error_codes' %}</h2>
@@ -77,14 +97,6 @@
                 </a>
                 {% empty %}
                 <p class="empty-state">{% ui 'no_results' %}</p>
-                {% endfor %}
-            </div>
-        </section>
-        <section class="sidebar-panel">
-            <h3>{% ui 'top_brands' %}</h3>
-            <div class="tag-cloud">
-                {% for brand in top_brands %}
-                <a href="{{ brand.get_absolute_url }}">{{ brand.name }}</a>
                 {% endfor %}
             </div>
         </section>

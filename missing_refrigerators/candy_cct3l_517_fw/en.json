@@ -1,0 +1,151 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/CANDY-CCT3L-517-FW.htm",
+    "actual_url": "https://ek.ua/en/CANDY-CCT3L-517-FW.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Candy",
+    "model": "CCT3L 517 FW white",
+    "title": "Candy CCT3L 517 FW white",
+    "category": "E-Katalog category 200",
+    "year": 267,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "internal touch controls",
+    "energy_class_new": "F",
+    "annual_energy_consumption_kwh": 267,
+    "climate_class": [
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 176.0,
+      "width": 54.5,
+      "depth": 55.0
+    },
+    "weight_kg": 50.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "The Candy company's refrigerator successfully combines fairly simple characteristics, low cost, minimalist design and modern functions. This is a fairly narrow model with a width of 55 cm, making it a good choice for small kitchens with limited space. But the capacity of the device is far from the highest. The total usable volume is 260 liters, of which 186 liters are in the refrigerator compartment, and the remaining 74 liters in the freezer. The static cooling system ensures even temperature distribution and helps keep food fresh over time. And Low Frost technology reduces the formation of frost and ice by 20%. However, you will have to defrost the refrigerator manually. Candy CCT3L 517 FW can also be connected to the smart home ecosystem. In the hOn mobile app you will find useful tips, hints, help with settings and much more. There is also a convenient touch panel for control. A total of four cooling levels are available, as well as a Super Cool function for fast cooling. The refrigerator compartment has everything you need to properly organize your workspace: 4 durable glass shelves, a pull-out container for vegetables, fruits and herbs, egg trays and side shelves. LED lighting will be a useful addition. The freezer consists of three compartments. The freezing capacity is 3.3 kg per day, and in the absence of electricity, the cold will remain for 11 hours. For more convenient installation, the door can be re-hung. This means that you can independently choose which way the door opens depending on your kitchen layout.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2408664.jpg",
+    "https://mzimg.com/big/x1/hc7whzwmtx1.jpg",
+    "https://mzimg.com/big/c1/hc7whzx86c1.jpg",
+    "https://mzimg.com/big/f1/h9cqu5sv6f1.jpg",
+    "https://mzimg.com/big/81/h9cqu5tg281.jpg",
+    "https://mzimg.com/big/91/h9cqu627u91.jpg",
+    "https://mzimg.com/big/z1/h9cqu63euz1.jpg",
+    "https://mzimg.com/big/o1/h9cqu6cubo1.jpg",
+    "https://mzimg.com/big/v1/h9cqu6epov1.jpg",
+    "https://mzimg.com/big/g1/h9cqu6mwzg1.jpg",
+    "https://mzimg.com/big/c1/h9cqu6ojgc1.jpg",
+    "https://mzimg.com/big/g1/h9cqu6xxsg1.jpg",
+    "https://s.ek.ua/jpg/2408664.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 28": "12 259 ₴",
+      "575.in.ua →": "12 259 ₴",
+      "Colour Total capacity 260 L Number of chambers 2 Number of cooling circuits 1 Number of compressors 1 Features Features control via smartphone (Wi-Fi) reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 186 L Number of shelves 4 Fast cool Auto-defrost LED lighting": "March 2023",
+      "Total capacity": "260 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "Features": "control via smartphone (Wi-Fi) reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "186 L",
+      "Number of shelves": "4",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "74 L",
+      "Freezer drawers": "3",
+      "Autonomy time": "11 h",
+      "Freeze capacity": "3.3 kg/day",
+      "Controls": "internal touch controls",
+      "Energy class (new)": "F",
+      "Energy consumption per year": "267 kWh",
+      "Climate class": "N, ST (+16...+38 °С)",
+      "Noise class": "C",
+      "Noise level": "39 dB",
+      "Dimensions (HxWxD)": "176x54.5x55 cm",
+      "Weight": "50 kg",
+      "Official Website": "candy-home.com",
+      "Added to E-Catalog": "March 2023",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\candy_cct3l_517_fw\\images\\01.jpg",
+    "missing_refrigerators\\candy_cct3l_517_fw\\images\\02.jpg",
+    "missing_refrigerators\\candy_cct3l_517_fw\\images\\03.jpg",
+    "missing_refrigerators\\candy_cct3l_517_fw\\images\\04.jpg",
+    "missing_refrigerators\\candy_cct3l_517_fw\\images\\05.jpg",
+    "missing_refrigerators\\candy_cct3l_517_fw\\images\\06.jpg",
+    "missing_refrigerators\\candy_cct3l_517_fw\\images\\07.jpg",
+    "missing_refrigerators\\candy_cct3l_517_fw\\images\\08.jpg",
+    "missing_refrigerators\\candy_cct3l_517_fw\\images\\09.jpg",
+    "missing_refrigerators\\candy_cct3l_517_fw\\images\\10.jpg",
+    "missing_refrigerators\\candy_cct3l_517_fw\\images\\11.jpg",
+    "missing_refrigerators\\candy_cct3l_517_fw\\images\\12.jpg",
+    "missing_refrigerators\\candy_cct3l_517_fw\\images\\13.jpg"
+  ]
+}

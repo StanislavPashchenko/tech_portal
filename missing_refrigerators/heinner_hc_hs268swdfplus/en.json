@@ -1,0 +1,123 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/HEINNER-HC-HS268SWDFPLUS.htm",
+    "actual_url": "https://ek.ua/en/HEINNER-HC-HS268SWDFPLUS.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Heinner",
+    "model": "HC-HS268SWDF+ silver",
+    "title": "Heinner HC-HS268SWDF+ silver",
+    "category": "E-Katalog category 200",
+    "year": 263,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knobs",
+    "energy_class_new": "F",
+    "annual_energy_consumption_kwh": 263,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 180.0,
+      "width": 55.0,
+      "depth": 55.8
+    },
+    "weight_kg": 50.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Heinner HC-HS268SWDF+ silver at a price from 13599 to 13599 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2549882.jpg",
+    "https://mzimg.com/big/n1/hilnpdmbin1.jpg",
+    "https://s.ek.ua/jpg/2549882.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Colour Total capacity 268 L Number of chambers 2 Number of cooling circuits 1 Number of compressors 1 Features Features reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 197 L Number of shelves 4 Cold water dispenser external Auto-defrost LED lighting": "October 2023",
+      "Total capacity": "268 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "Features": "reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "197 L",
+      "Number of shelves": "4",
+      "Cold water dispenser": "external",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "71 L",
+      "Freezer drawers": "3",
+      "Freeze capacity": "3.2 kg/day",
+      "Controls": "rotary knobs",
+      "Energy class (new)": "F",
+      "Energy consumption per year": "263 kWh",
+      "Noise class": "C",
+      "Noise level": "39 dB",
+      "Dimensions (HxWxD)": "180х55х55.8 cm",
+      "Weight": "50 kg",
+      "Added to E-Catalog": "October 2023",
+      "LED lighting": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\heinner_hc_hs268swdfplus\\images\\01.jpg",
+    "missing_refrigerators\\heinner_hc_hs268swdfplus\\images\\02.jpg",
+    "missing_refrigerators\\heinner_hc_hs268swdfplus\\images\\03.jpg"
+  ]
+}

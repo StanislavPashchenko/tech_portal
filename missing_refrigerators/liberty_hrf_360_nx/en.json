@@ -1,0 +1,134 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/LIBERTY-HRF-360-NX.htm",
+    "actual_url": "https://ek.ua/en/LIBERTY-HRF-360-NX.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "LIBERTY",
+    "model": "HRF-360 NX stainless steel",
+    "title": "LIBERTY HRF-360 NX stainless steel",
+    "category": "E-Katalog category 200",
+    "year": 313,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "external touch controls",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": 313,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 43,
+    "dimensions_cm": {
+      "height": 195.0,
+      "width": 60.0,
+      "depth": 69.0
+    },
+    "weight_kg": 73.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge LIBERTY HRF-360 NX stainless steel at a price from 19544 to 22201 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1144420.jpg",
+    "https://mzimg.com/big/y1/fgyow6jj1y1.jpg",
+    "https://s.ek.ua/jpg/1144420.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Pro100market.com.ua →": "19 741 ₴",
+      "Elmag.ua →": "20 999 ₴",
+      "Tehnomaster.com →": "20 470 ₴",
+      "1smarty.com.ua →": "22 201 ₴",
+      "Colour Total capacity 338 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 No Frost freezer / refrigerator compartments Features Features holiday mode child lock LED display door alarm reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 243 L Dynamic air cooling Auto-defrost LED lighting": "June 2017",
+      "Total capacity": "338 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "holiday mode child lock LED display door alarm reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "243 L",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "95 L",
+      "Freezer temperature": "-24 °C",
+      "Autonomy time": "20 h",
+      "Freeze capacity": "15 kg/day",
+      "Controls": "external touch controls",
+      "Energy class": "A+",
+      "Energy consumption per year": "313 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Noise level": "43 dB",
+      "Dimensions (HxWxD)": "195x60x69 cm",
+      "Weight": "73 kg",
+      "Official Website": "liberty-electronics.com.ua",
+      "Added to E-Catalog": "June 2017",
+      "LED lighting": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\liberty_hrf_360_nx\\images\\01.jpg",
+    "missing_refrigerators\\liberty_hrf_360_nx\\images\\02.jpg",
+    "missing_refrigerators\\liberty_hrf_360_nx\\images\\03.jpg"
+  ]
+}

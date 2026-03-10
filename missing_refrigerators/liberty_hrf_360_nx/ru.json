@@ -1,0 +1,134 @@
+{
+  "source": {
+    "url": "https://ek.ua/LIBERTY-HRF-360-NX.htm",
+    "actual_url": "https://ek.ua/LIBERTY-HRF-360-NX.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "LIBERTY",
+    "model": "HRF-360 NX нержавейка",
+    "title": "Холодильник LIBERTY HRF-360 NX нержавейка",
+    "category": "E-Katalog category 200",
+    "year": 2017,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 338,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 243,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 95,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 20,
+    "freezing_capacity_kg_per_day": 15
+  },
+  "general": {
+    "control": "сенсорное внешнее",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": 313,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 43,
+    "dimensions_cm": {
+      "height": 195.0,
+      "width": 60.0,
+      "depth": 69.0
+    },
+    "weight_kg": 73.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник LIBERTY HRF-360 NX нержавейка по цене от 19544 до 22201 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1144420.jpg",
+    "https://mzimg.com/big/y1/fgyow6jj1y1.jpg",
+    "https://s.ek.ua/jpg/1144420.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Pro100market.com.ua →": "19 741 грн.",
+      "Elmag.ua →": "20 999 грн.",
+      "Tehnomaster.com →": "20 470 грн.",
+      "1smarty.com.ua →": "22 201 грн.",
+      "Цвет Общий объем 338 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 No Frost морозильная / холодильная камеры Функции и возможности Функции режим отпуска защита от детей LED дисплей индикатор закрытия дверцы перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 243 л Динамическое охлаждение Автоматическая разморозка LED освещение": "июнь 2017",
+      "Общий объем": "338 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "режим отпуска защита от детей LED дисплей индикатор закрытия дверцы перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "243 л",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "95 л",
+      "Температура морозилки": "-24 °C",
+      "Время сохранения холода": "20 ч",
+      "Мощность замораживания": "15 кг/сутки",
+      "Управление": "сенсорное внешнее",
+      "Класс энергопотребления": "A+",
+      "Потребление энергии в год": "313 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Уровень шума": "43 дБ",
+      "Габариты (ВхШхГ)": "195x60x69 см",
+      "Вес": "73 кг",
+      "Официальный сайт": "liberty-electronics.com.ua",
+      "Дата добавления на E-Katalog": "июнь 2017",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\liberty_hrf_360_nx\\images\\01.jpg",
+    "missing_refrigerators\\liberty_hrf_360_nx\\images\\02.jpg",
+    "missing_refrigerators\\liberty_hrf_360_nx\\images\\03.jpg"
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/LIEBHERR-CTPE-251.htm",
+    "actual_url": "https://ek.ua/en/LIEBHERR-CTPE-251.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liebherr",
+    "model": "CTPe 251 white",
+    "title": "Liebherr CTPe 251 white",
+    "category": "E-Katalog category 200",
+    "year": 190,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "top",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knobs",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 190,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 157.0,
+      "width": 55.0,
+      "depth": 63.0
+    },
+    "weight_kg": 66.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Liebherr CTPe 251 white at a price from 28609 to 28609 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2692010.jpg",
+    "https://mzimg.com/big/11/hpw8hd0s411.jpg",
+    "https://mzimg.com/big/h1/hpw8hd2s0h1.jpg",
+    "https://mzimg.com/big/51/hpw8hde4a51.jpg",
+    "https://mzimg.com/big/j1/hpw8hdh0jj1.jpg",
+    "https://s.ek.ua/jpg/2692010.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 5": "28 609 ₴ Buy! Liebherr CTPE 251-26 157.1см Білий холодильник CTPE251 Novateh.com.ua Less than year Delivery: to Dnipro from Novoyavorivsk Report add to list my lists add to comparison",
+      "Colour Total capacity 271 L Number of chambers 2 Number of cooling circuits 1 Number of compressors 1 Features Features reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 219 L Number of shelves 4 Auto-defrost LED lighting": "May 2024",
+      "Total capacity": "271 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "Features": "reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "219 L",
+      "Number of shelves": "4",
+      "Freezer compartment": "top",
+      "Freezer capacity": "52 L",
+      "Autonomy time": "20 h",
+      "Freeze capacity": "2.5 kg/day",
+      "Controls": "rotary knobs",
+      "Energy class (new)": "E",
+      "Energy consumption per year": "190 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Noise class": "C",
+      "Noise level": "37 dB",
+      "Dimensions (HxWxD)": "157x55x63 cm",
+      "Weight": "66 kg",
+      "Official Website": "home.liebherr.com",
+      "Added to E-Catalog": "May 2024",
+      "LED lighting": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\liebherr_ctpe_251\\images\\01.jpg",
+    "missing_refrigerators\\liebherr_ctpe_251\\images\\02.jpg",
+    "missing_refrigerators\\liebherr_ctpe_251\\images\\03.jpg",
+    "missing_refrigerators\\liebherr_ctpe_251\\images\\04.jpg",
+    "missing_refrigerators\\liebherr_ctpe_251\\images\\05.jpg",
+    "missing_refrigerators\\liebherr_ctpe_251\\images\\06.jpg"
+  ]
+}

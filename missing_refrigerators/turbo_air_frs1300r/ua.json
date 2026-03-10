@@ -1,0 +1,107 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/TURBO-AIR-FRS1300R.htm",
+    "actual_url": "https://ek.ua/ua/TURBO-AIR-FRS1300R.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Turbo",
+    "model": "air FRS1300R чорний",
+    "title": "Холодильник Turbo air FRS1300R чорний",
+    "category": "E-Katalog category 200",
+    "year": 2015,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "холодильна вітрина",
+    "total_volume_l": 1250,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 1250,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "немає",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": null,
+    "energy_class_new": null,
+    "annual_energy_consumption_kwh": null,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 202.0,
+      "width": 142.0,
+      "depth": 75.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Turbo air FRS1300R чорний за ціною від 85478 до 85478 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/537287.jpg",
+    "https://s.ek.ua/jpg/537287.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Колір Тип холодильна вітрина Загальний об'єм 1250 л Кількість камер 2 Контурів охолодження 1 Компресорів 1": "лютий 2015",
+      "Тип": "холодильна вітрина",
+      "Загальний об'єм": "1250 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "Об'єм холодильної камери": "1250 л",
+      "Морозильна камера": "немає",
+      "Габарити (ВхШхГ)": "202x142x75 см",
+      "Дата додавання на E-Katalog": "лютий 2015"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\turbo_air_frs1300r\\images\\01.jpg",
+    "missing_refrigerators\\turbo_air_frs1300r\\images\\02.jpg"
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/HEINNER-HC-V288BKEPLUSPLUS.htm",
+    "actual_url": "https://ek.ua/en/HEINNER-HC-V288BKEPLUSPLUS.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Heinner",
+    "model": "HC-V288BKE++ black",
+    "title": "Heinner HC-V288BKE++ black",
+    "category": "E-Katalog category 200",
+    "year": 224,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knobs",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 224,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 180.0,
+      "width": 54.0,
+      "depth": 59.5
+    },
+    "weight_kg": 51.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Heinner HC-V288BKE++ black at a price from 13209 to 13209 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2811205.jpg",
+    "https://mzimg.com/big/y1/hw6v35toty1.jpg",
+    "https://mzimg.com/big/11/hw6v35u9l11.jpg",
+    "https://mzimg.com/big/91/hw6v363vv91.png",
+    "https://s.ek.ua/jpg/2811205.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 4": "13 209 ₴ Buy! HEINNER HC-V288BKE++ BT-Shop.com.ua With us more than 10 years Delivery: to Dnipro from Kyiv Warranty: manufacturer Report add to list my lists add to comparison",
+      "Colour Total capacity 288 L Number of chambers 2 Number of cooling circuits 1 Number of compressors 1 Features Features reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 204 L Number of shelves 4 Auto-defrost LED lighting": "December 2024",
+      "Total capacity": "288 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "Features": "reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "204 L",
+      "Number of shelves": "4",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "84 L",
+      "Freezer drawers": "3",
+      "Freeze capacity": "3.9 kg/day",
+      "Controls": "rotary knobs",
+      "Energy class (new)": "E",
+      "Energy consumption per year": "224 kWh",
+      "Noise class": "C",
+      "Noise level": "40 dB",
+      "Dimensions (HxWxD)": "180х54х59.5 cm",
+      "Weight": "51 kg",
+      "Official Website": "heinner.com",
+      "Added to E-Catalog": "December 2024",
+      "LED lighting": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\heinner_hc_v288bkeplusplus\\images\\01.jpg",
+    "missing_refrigerators\\heinner_hc_v288bkeplusplus\\images\\02.jpg",
+    "missing_refrigerators\\heinner_hc_v288bkeplusplus\\images\\03.jpg",
+    "missing_refrigerators\\heinner_hc_v288bkeplusplus\\images\\04.png",
+    "missing_refrigerators\\heinner_hc_v288bkeplusplus\\images\\05.jpg"
+  ]
+}

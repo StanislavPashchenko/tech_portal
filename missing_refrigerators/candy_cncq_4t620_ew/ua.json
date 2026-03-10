@@ -1,0 +1,157 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/CANDY-CNCQ-4T620-EW.htm",
+    "actual_url": "https://ek.ua/ua/CANDY-CNCQ-4T620-EW.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Candy",
+    "model": "CNCQ 4T620 EW білий (34005810)",
+    "title": "Холодильник Candy CNCQ 4T620 EW білий (34005810)",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 409,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 289,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 120,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 11,
+    "freezing_capacity_kg_per_day": 10
+  },
+  "general": {
+    "control": "сенсорне внутрішнє",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 279,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 38,
+    "dimensions_cm": {
+      "height": 205.0,
+      "width": 59.5,
+      "depth": 66.7
+    },
+    "weight_kg": 78.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general",
+      "Ціни на Candy CNCQ 4T620 EW"
+    ]
+  },
+  "description": "Холодильник Candy CNCQ 4T620 EW білий (34005810) за ціною від 28609 до 28609 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2993659.jpg",
+    "https://mzimg.com/big/s1/i71hd2jrss1.jpg",
+    "https://mzimg.com/big/w1/i71hd2kodw1.jpg",
+    "https://mzimg.com/big/l1/i71hd2w57l1.jpg",
+    "https://mzimg.com/big/h1/i71hd2x2ph1.jpg",
+    "https://mzimg.com/big/c1/i71hd39ngc1.jpg",
+    "https://mzimg.com/big/71/i71hd3ac171.jpg",
+    "https://mzimg.com/big/91/i71hd3m8o91.jpg",
+    "https://mzimg.com/big/31/i71hd3uav31.jpg",
+    "https://mzimg.com/big/o1/i71hd43u9o1.jpg",
+    "https://mzimg.com/big/21/i71hd49tp21.jpg",
+    "https://mzimg.com/big/z1/i71hd4fgzz1.jpg",
+    "https://s.ek.ua/jpg/2993659.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 24": "від 28 609 грн. Купити! Холодильник Candy Fresco 500 CNCQ4T620EW Full No Frost 205см Камера свіжості Пульт білий CNQ4T620EW Novateh.com.ua Менше року Доставка: у Дніпро з Новояворівська Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 409 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 No Frost морозильна камера Функції та можливості Функції керування зі смартфона (Wi-Fi) індикатор закриття дверцят перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 289 л Полиць 4 шт Відсіки для зберігання зона свіжості зона вологості полиця для пляшок Динамічне охолодження Автоматичне розморожування LED освітлення": "34005810",
+      "Загальний об'єм": "409 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна камера",
+      "Функції": "керування зі смартфона (Wi-Fi) індикатор закриття дверцят перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "289 л",
+      "Полиць": "4 шт",
+      "Відсіки для зберігання": "зона свіжості зона вологості полиця для пляшок",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "120 л",
+      "Відділень морозильної камери": "3 шт",
+      "Температура морозилки": "-24 °C",
+      "Час збереження холоду": "11 год",
+      "Потужність заморожування": "10 кг/добу",
+      "Управління": "сенсорне внутрішнє",
+      "Клас енергоспоживання (new)": "E",
+      "Споживання енергії в рік": "279 кВт*год",
+      "Кліматичний клас": "SN, N, ST (+10...+38 °С)",
+      "Клас гучності": "C",
+      "Рівень шуму": "38 дБ",
+      "Габарити (ВхШхГ)": "205х59.5х66.7 см",
+      "Вага": "78 кг",
+      "Офіційний сайт": "candy-home.com",
+      "Дата додавання на E-Katalog": "листопад 2025",
+      "Маркування виробника": "34005810",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    },
+    "Ціни на Candy CNCQ 4T620 EW": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\candy_cncq_4t620_ew\\images\\01.jpg",
+    "missing_refrigerators\\candy_cncq_4t620_ew\\images\\02.jpg",
+    "missing_refrigerators\\candy_cncq_4t620_ew\\images\\03.jpg",
+    "missing_refrigerators\\candy_cncq_4t620_ew\\images\\04.jpg",
+    "missing_refrigerators\\candy_cncq_4t620_ew\\images\\05.jpg",
+    "missing_refrigerators\\candy_cncq_4t620_ew\\images\\06.jpg",
+    "missing_refrigerators\\candy_cncq_4t620_ew\\images\\07.jpg",
+    "missing_refrigerators\\candy_cncq_4t620_ew\\images\\08.jpg",
+    "missing_refrigerators\\candy_cncq_4t620_ew\\images\\09.jpg",
+    "missing_refrigerators\\candy_cncq_4t620_ew\\images\\10.jpg",
+    "missing_refrigerators\\candy_cncq_4t620_ew\\images\\11.jpg",
+    "missing_refrigerators\\candy_cncq_4t620_ew\\images\\12.jpg",
+    "missing_refrigerators\\candy_cncq_4t620_ew\\images\\13.jpg"
+  ]
+}

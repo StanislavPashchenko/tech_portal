@@ -1,0 +1,50 @@
+{
+  "summary": {
+    "total_items": 2797,
+    "matched_items": 2797,
+    "items_without_source_snapshot": 0,
+    "items_with_missing_specs": 0,
+    "items_with_missing_descriptions": 0,
+    "items_with_missing_images": 1
+  },
+  "top_missing_keys": {},
+  "items": [
+    {
+      "id": 14643,
+      "appliance_type": "washing-machines",
+      "brand": "Skyworth",
+      "model": "F70166WB white",
+      "slug": "f70166wb-white",
+      "source_url": "https://ek.ua/ua/SKYWORTH-F70166WB.htm",
+      "languages": {
+        "uk": {
+          "source_url": "https://ek.ua/ua/SKYWORTH-F70166WB.htm",
+          "source_found": true,
+          "missing_spec_keys": [],
+          "missing_description": false,
+          "missing_images": true,
+          "source_images_count": 9,
+          "catalog_images_count": 8
+        },
+        "ru": {
+          "source_url": "https://ek.ua/SKYWORTH-F70166WB.htm",
+          "source_found": true,
+          "missing_spec_keys": [],
+          "missing_description": false,
+          "missing_images": true,
+          "source_images_count": 9,
+          "catalog_images_count": 8
+        },
+        "en": {
+          "source_url": "https://ek.ua/en/SKYWORTH-F70166WB.htm",
+          "source_found": true,
+          "missing_spec_keys": [],
+          "missing_description": false,
+          "missing_images": true,
+          "source_images_count": 9,
+          "catalog_images_count": 8
+        }
+      }
+    }
+  ]
+}

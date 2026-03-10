@@ -1,0 +1,132 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/KERNAU-KFRT-14152-1-IX.htm",
+    "actual_url": "https://ek.ua/ua/KERNAU-KFRT-14152-1-IX.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Kernau",
+    "model": "KFRT 14152.1 IX нержавіюча сталь",
+    "title": "Холодильник Kernau KFRT 14152.1 IX нержавіюча сталь",
+    "category": "E-Katalog category 200",
+    "year": 2022,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 214,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 171,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "зверху",
+    "volume_l": 42,
+    "sections_count": 2,
+    "sections_details": "2 шт",
+    "cold_storage_time_h": 14,
+    "freezing_capacity_kg_per_day": 2
+  },
+  "general": {
+    "control": "поворотні перемикачі",
+    "energy_class_new": "F",
+    "annual_energy_consumption_kwh": 222,
+    "climate_class": [
+      "N"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 41,
+    "dimensions_cm": {
+      "height": 144.0,
+      "width": 54.0,
+      "depth": 57.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general",
+      "Ціни на Kernau KFRT 14152.1 IX"
+    ]
+  },
+  "description": "Холодильник Kernau KFRT 14152.1 IX нержавіюча сталь за ціною від 10099 до 10199 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2157179.jpg",
+    "https://mzimg.com/big/n1/gy366lv3jn1.jpg",
+    "https://mzimg.com/big/11/gr30qle4m11.jpg",
+    "https://s.ek.ua/jpg/2157179.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 3": "10 199 грн.",
+      "575.in.ua →": "10 199 грн.",
+      "Колір Загальний об'єм 214 л Кількість камер 2 Контурів охолодження 1 Компресорів 1 Функції та можливості Функції перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 171 л Полиць 4 шт Автоматичне розморожування LED освітлення": "січень 2022",
+      "Загальний об'єм": "214 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "Функції": "перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "171 л",
+      "Полиць": "4 шт",
+      "Морозильна камера": "зверху",
+      "Об'єм морозильної камери": "42 л",
+      "Відділень морозильної камери": "2 шт",
+      "Час збереження холоду": "14 год",
+      "Потужність заморожування": "2 кг/добу",
+      "Управління": "поворотні перемикачі",
+      "Клас енергоспоживання (new)": "F",
+      "Споживання енергії в рік": "222 кВт*год",
+      "Кліматичний клас": "нормальний N (+16...+32 °С)",
+      "Клас гучності": "C",
+      "Рівень шуму": "41 дБ",
+      "Габарити (ВхШхГ)": "144x54x57 см",
+      "Офіційний сайт": "kernau.com",
+      "Дата додавання на E-Katalog": "січень 2022",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    },
+    "Ціни на Kernau KFRT 14152.1 IX": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\kernau_kfrt_14152_1_ix\\images\\01.jpg",
+    "missing_refrigerators\\kernau_kfrt_14152_1_ix\\images\\02.jpg",
+    "missing_refrigerators\\kernau_kfrt_14152_1_ix\\images\\03.jpg",
+    "missing_refrigerators\\kernau_kfrt_14152_1_ix\\images\\04.jpg"
+  ]
+}

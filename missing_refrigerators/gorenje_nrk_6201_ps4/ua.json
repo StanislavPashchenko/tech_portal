@@ -1,0 +1,156 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/GORENJE-NRK-6201-PS4.htm",
+    "actual_url": "https://ek.ua/ua/GORENJE-NRK-6201-PS4.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Gorenje",
+    "model": "NRK 6201 PS4 сріблястий (737399)",
+    "title": "Холодильник Gorenje NRK 6201 PS4 сріблястий (737399)",
+    "category": "E-Katalog category 200",
+    "year": 2020,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 4
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 331,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 235,
+    "shelves_count": 5
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 96,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 17,
+    "freezing_capacity_kg_per_day": 12
+  },
+  "general": {
+    "control": "сенсорне внутрішнє",
+    "energy_class_new": "F",
+    "annual_energy_consumption_kwh": 307,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 38,
+    "dimensions_cm": {
+      "height": 200.0,
+      "width": 60.0,
+      "depth": 59.2
+    },
+    "weight_kg": 62.0,
+    "country_of_origin": "Сербія"
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general",
+      "Ціни на Gorenje NRK 6201 PS4"
+    ]
+  },
+  "description": "Представлений в 2020 році двокамерний холодильник виробника Gorenje належить до середнього класу пристроїв. Завдяки висоті 200 см модель порадує непоганий місткістю: корисний об'єм досягає 331 літра, чого повинно бути достатньо для сімей з двох-чотирьох осіб. Трудомісткого обслуговування, у тому числі ручного розморожування, холодильник Gorenje NRK 6201 PS4 не потребує, оскільки тут реалізована система Full No Frost. У 96-літрової морозилці передбачено три висувних ящика: один відкритий і два — з прозорою лицьовою стінкою. Тут за добу можна заморозити до 12 кг продуктів, у тому числі завдяки функції швидкого заморожування. В холодильному відділенні на 235 літрів крім відкритих полиць знаходиться контейнер для овочів CrispZone, а також є четвірка дверних кошиків. З інших корисних фішок слід виділити технологію AdaptTech, автоматично знижує температуру при частих відкриванні дверцят, наявність сенсорного управління з підтримкою режиму відпустки EcoMode. Важливо, що модель не створює особливого акустичного дискомфорту (шум до 38 дБ) і вельми економічна (клас A+). Крім версії в сріблястому кольорі у продажу можна зустріти аналогічний агрегат в білому кольорі.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1888240.jpg",
+    "https://mzimg.com/big/x1/gjrfrfu8zx1.jpg",
+    "https://mzimg.com/big/h1/gjrfrge84h1.jpg",
+    "https://mzimg.com/big/01/gjrfrgfo201.jpg",
+    "https://mzimg.com/big/y1/gjrfrhgmwy1.jpg",
+    "https://mzimg.com/big/m1/gjrfrhj2nm1.jpg",
+    "https://mzimg.com/big/81/gjrfrfvkp81.jpg",
+    "https://mzimg.com/big/l1/gjrfrgxq8l1.jpg",
+    "https://mzimg.com/big/81/gjrfrh0la81.jpg",
+    "https://s.ek.ua/jpg/1888240.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "575.in.ua →": "19 389 грн.",
+      "Колір Загальний об'єм 331 л Кількість камер 2 Контурів охолодження 1 Компресорів 1 No Frost морозильна / холодильна камери Функції та можливості Функції режим відпустки індикатор закриття дверцят перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 235 л Полиць 5 шт Відсіки для зберігання зона вологості / CrispZone / Динамічне охолодження Автоматичне розморожування LED освітлення": "737399",
+      "Загальний об'єм": "331 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "режим відпустки індикатор закриття дверцят перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "235 л",
+      "Полиць": "5 шт",
+      "Відсіки для зберігання": "зона вологості / CrispZone /",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "96 л",
+      "Відділень морозильної камери": "3 шт",
+      "Час збереження холоду": "17 год",
+      "Потужність заморожування": "12 кг/добу",
+      "Управління": "сенсорне внутрішнє",
+      "Клас енергоспоживання (new)": "F",
+      "Споживання енергії в рік": "307 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Клас гучності": "C",
+      "Рівень шуму": "38 дБ",
+      "Габарити (ВхШхГ)": "200x60x59.2 см",
+      "Вага": "62 кг",
+      "Країна виробництва": "Сербія",
+      "Офіційний сайт": "gorenje.ua",
+      "Дата додавання на E-Katalog": "жовтень 2020",
+      "Маркування виробника": "737399",
+      "Відгук корисний? Так 1 Ні 0": "14 червня 2021",
+      "відмінна модель, дуже сподобалося": "14 червня 2021",
+      "Відгук корисний? Так 1 Ні 0 (2)": "30 січня 2021",
+      "відмінна модель, дуже сподобалося (2)": "30 січня 2021",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    },
+    "Ціни на Gorenje NRK 6201 PS4": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\gorenje_nrk_6201_ps4\\images\\01.jpg",
+    "missing_refrigerators\\gorenje_nrk_6201_ps4\\images\\02.jpg",
+    "missing_refrigerators\\gorenje_nrk_6201_ps4\\images\\03.jpg",
+    "missing_refrigerators\\gorenje_nrk_6201_ps4\\images\\04.jpg",
+    "missing_refrigerators\\gorenje_nrk_6201_ps4\\images\\05.jpg",
+    "missing_refrigerators\\gorenje_nrk_6201_ps4\\images\\06.jpg",
+    "missing_refrigerators\\gorenje_nrk_6201_ps4\\images\\07.jpg",
+    "missing_refrigerators\\gorenje_nrk_6201_ps4\\images\\08.jpg",
+    "missing_refrigerators\\gorenje_nrk_6201_ps4\\images\\09.jpg",
+    "missing_refrigerators\\gorenje_nrk_6201_ps4\\images\\10.jpg"
+  ]
+}

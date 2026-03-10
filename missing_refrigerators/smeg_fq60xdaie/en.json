@@ -1,0 +1,147 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/SMEG-FQ60XDAIE.htm",
+    "actual_url": "https://ek.ua/en/SMEG-FQ60XDAIE.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Smeg",
+    "model": "FQ60XDAIE stainless steel",
+    "title": "Smeg FQ60XDAIE stainless steel",
+    "category": "E-Katalog category 200",
+    "year": 338,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "French door",
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 3,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 5,
+    "sections_details": "5 / 3 drawers, 2 shelves /",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "external touch controls",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 338,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 182.0,
+      "width": 90.8,
+      "depth": 75.0
+    },
+    "weight_kg": 128.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Smeg FQ60XDAIE stainless steel at a price from 179650 to 179650 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2909748.jpg",
+    "https://mzimg.com/big/61/i25mr378r61.jpg",
+    "https://mzimg.com/big/n1/i25mr36nkn1.jpg",
+    "https://mzimg.com/big/01/i25mr3lyo01.jpg",
+    "https://mzimg.com/big/c1/i25mr3mjxc1.jpg",
+    "https://mzimg.com/big/r1/i25mr3yfyr1.jpg",
+    "https://mzimg.com/big/r1/i25mr432gr1.jpg",
+    "https://s.ek.ua/jpg/2909748.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 7": "179 650 ₴ Buy! Холодильник FQ60XDAIE SMEG Viyar.ua New store Delivery: in Dnipro Warranty: manufacturer Report add to list my lists add to comparison",
+      "Colour Type French door Total capacity 572 L Number of chambers 3 Number of cooling circuits 3 Number of compressors 1 Inverter compressor No Frost freezer / refrigerator compartments Features Features holiday mode child lock LED display door alarm Refrigeration chamber Refrigerator capacity 376 L Number of shelves 3 Storage compartments fresh zone Fast cool Dynamic air cooling Auto-defrost LED lighting": "June 2025",
+      "Type": "French door",
+      "Total capacity": "572 L",
+      "Number of chambers": "3",
+      "Number of cooling circuits": "3",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "holiday mode child lock LED display door alarm",
+      "Refrigerator capacity": "376 L",
+      "Number of shelves": "3",
+      "Storage compartments": "fresh zone",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "196 L",
+      "Freezer drawers": "5 / 3 drawers, 2 shelves /",
+      "Autonomy time": "10 h",
+      "Freeze capacity": "4.6 kg/day",
+      "Ice maker": "internal",
+      "Controls": "external touch controls",
+      "Energy class (new)": "E",
+      "Energy consumption per year": "338 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Noise class": "C",
+      "Noise level": "37 dB",
+      "Dimensions (HxWxD)": "182x90.8x75 cm",
+      "Weight": "128 kg",
+      "Official Website": "smeg.com",
+      "Added to E-Catalog": "June 2025",
+      "Inverter compressor": "yes",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\smeg_fq60xdaie\\images\\01.jpg",
+    "missing_refrigerators\\smeg_fq60xdaie\\images\\02.jpg",
+    "missing_refrigerators\\smeg_fq60xdaie\\images\\03.jpg",
+    "missing_refrigerators\\smeg_fq60xdaie\\images\\04.jpg",
+    "missing_refrigerators\\smeg_fq60xdaie\\images\\05.jpg",
+    "missing_refrigerators\\smeg_fq60xdaie\\images\\06.jpg",
+    "missing_refrigerators\\smeg_fq60xdaie\\images\\07.jpg",
+    "missing_refrigerators\\smeg_fq60xdaie\\images\\08.jpg"
+  ]
+}

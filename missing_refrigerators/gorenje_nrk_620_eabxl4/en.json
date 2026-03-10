@@ -1,0 +1,155 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/GORENJE-NRK-620-EABXL4.htm",
+    "actual_url": "https://ek.ua/en/GORENJE-NRK-620-EABXL4.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Gorenje",
+    "model": "NRK 620 EABXL4 black",
+    "title": "Gorenje NRK 620 EABXL4 black",
+    "category": "E-Katalog category 200",
+    "year": 246,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "external touch controls",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 246,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 200.0,
+      "width": 60.0,
+      "depth": 59.2
+    },
+    "weight_kg": 63.0,
+    "country_of_origin": "China"
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "A high-tech refrigerator with a spectacular black body. This model is equipped with a wide range of innovative technologies, which allows you to store products in the most suitable conditions for this. The cooling system uses the dynamic principle of operation. Thanks to AdaptTech technology, the power unit is able to regulate the load on the circulation circuit, depending on the characteristics of the operation of the working chambers. The Gorenje NRK 620 EABXL4 refrigerator received 3D forced ventilation. This is a high-performance cooling system with Multiflow 360 multi-flow distribution. With this technology, cold is supplied to each shelf and section separately. An interesting feature of the model is the presence of a container with regulation of both humidity and temperature. This box can be made into a freshness zone or a moisture zone, depending on the products that need to be stored. To control the operating modes of the refrigerator, a touch panel with a screen is used. The rich black colour of the case makes the refrigerator even more prestigious. This is a spectacular-looking model that will make the kitchen look professional. The wide functionality of the refrigeration device will provide the products with the best storage conditions.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2016965.jpg",
+    "https://mzimg.com/big/61/gqfpn96lq61.jpg",
+    "https://mzimg.com/big/b1/gqfpn97wib1.jpg",
+    "https://mzimg.com/big/i1/gqfpn9ip1i1.jpg",
+    "https://mzimg.com/big/z1/gqfpn9kfmz1.jpg",
+    "https://mzimg.com/big/31/gqfpn9tvr31.jpg",
+    "https://mzimg.com/big/w1/gqfpn9yuyw1.jpg",
+    "https://mzimg.com/big/w1/gqfpna77cw1.jpg",
+    "https://mzimg.com/big/p1/gqfpnabo6p1.jpg",
+    "https://mzimg.com/big/f1/gqfpnal1xf1.jpg",
+    "https://mzimg.com/big/g1/gqfpnan7ig1.jpg",
+    "https://mzimg.com/big/31/gqfpnazv131.jpg",
+    "https://s.ek.ua/jpg/2016965.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Videos 2 Photos 15": "25 241 ₴",
+      "Viyar.ua →": "26 999 ₴",
+      "Tovary.com.ua →": "22 880 ₴",
+      "Moyo.ua →": "26 001 ₴",
+      "FOXTROT.UA →": "23 500 ₴",
+      "Openshop.ua →": "25 241 ₴",
+      "Colour Total capacity 331 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 No Frost freezer / refrigerator compartments Features Features LED display door alarm reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 235 L Number of shelves 4 Storage compartments fresh zone humidity zone bottle rack Dynamic air cooling Auto-defrost Deodorizer LED lighting": "May 2021",
+      "Total capacity": "331 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "LED display door alarm reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "235 L",
+      "Number of shelves": "4",
+      "Storage compartments": "fresh zone humidity zone bottle rack",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "96 L",
+      "Freezer drawers": "3",
+      "Autonomy time": "17 h",
+      "Freeze capacity": "12 kg/day",
+      "Controls": "external touch controls",
+      "Energy class (new)": "E",
+      "Energy consumption per year": "246 kWh",
+      "Noise class": "C",
+      "Noise level": "38 dB",
+      "Dimensions (HxWxD)": "200x60x59.2 cm",
+      "Weight": "63 kg",
+      "Country of origin": "China",
+      "Official Website": "ua.gorenje.com",
+      "Added to E-Catalog": "May 2021",
+      "LED lighting": "yes",
+      "Deodorizer": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\gorenje_nrk_620_eabxl4\\images\\01.jpg",
+    "missing_refrigerators\\gorenje_nrk_620_eabxl4\\images\\02.jpg",
+    "missing_refrigerators\\gorenje_nrk_620_eabxl4\\images\\03.jpg",
+    "missing_refrigerators\\gorenje_nrk_620_eabxl4\\images\\04.jpg",
+    "missing_refrigerators\\gorenje_nrk_620_eabxl4\\images\\05.jpg",
+    "missing_refrigerators\\gorenje_nrk_620_eabxl4\\images\\06.jpg",
+    "missing_refrigerators\\gorenje_nrk_620_eabxl4\\images\\07.jpg",
+    "missing_refrigerators\\gorenje_nrk_620_eabxl4\\images\\08.jpg",
+    "missing_refrigerators\\gorenje_nrk_620_eabxl4\\images\\09.jpg",
+    "missing_refrigerators\\gorenje_nrk_620_eabxl4\\images\\10.jpg",
+    "missing_refrigerators\\gorenje_nrk_620_eabxl4\\images\\11.jpg",
+    "missing_refrigerators\\gorenje_nrk_620_eabxl4\\images\\12.jpg",
+    "missing_refrigerators\\gorenje_nrk_620_eabxl4\\images\\13.jpg"
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "source": {
+    "url": "https://ek.ua/LIEBHERR-PEAK-CBNSTD-578I.htm",
+    "actual_url": "https://ek.ua/LIEBHERR-PEAK-CBNSTD-578I.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liebherr",
+    "model": "Peak CBNstd 578i нержавейка",
+    "title": "Холодильник Liebherr Peak CBNstd 578i нержавейка",
+    "category": "E-Katalog category 200",
+    "year": 2022,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 345,
+    "cameras_count": 3,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 251,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 94,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 24,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "сенсорное внешнее",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 261,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 36,
+    "dimensions_cm": {
+      "height": 201.5,
+      "width": 59.7,
+      "depth": 67.5
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general",
+      "Цены на Liebherr Peak CBNstd 578i"
+    ]
+  },
+  "description": "Холодильник Liebherr Peak CBNstd 578i нержавейка по цене от 114810 до 116610 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2304787.jpg",
+    "https://mzimg.com/big/m1/h7r0vswfnm1.jpg",
+    "https://mzimg.com/big/91/h7r0vswz991.jpg",
+    "https://mzimg.com/big/u1/h7r0vt91iu1.jpg",
+    "https://mzimg.com/big/41/h7r0vt9la41.jpg",
+    "https://mzimg.com/big/d1/h7r0vtktsd1.jpg",
+    "https://mzimg.com/big/w1/h7r0vtldqw1.jpg",
+    "https://mzimg.com/big/o1/h7r0vtwq7o1.jpg",
+    "https://mzimg.com/big/l1/h7r0vtycil1.jpg",
+    "https://s.ek.ua/jpg/2304787.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 9": "116 610 грн.",
+      "Hi-tech.com.ua →": "116 610 грн.",
+      "Цвет Общий объем 345 л Количество камер 3 Контуров охлаждения 2 Компрессоров 1 No Frost морозильная камера Функции и возможности Функции режим отпуска управление со смартфона (Wi-Fi) защита от детей TFT дисплей индикатор закрытия дверцы перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 251 л Полок 3 шт Отсеки для хранения зона свежести Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка Дезодоратор LED освещение Телескопические направляющие": "ноябрь 2022",
+      "Общий объем": "345 л",
+      "Количество камер": "3",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная камера",
+      "Функции": "режим отпуска управление со смартфона (Wi-Fi) защита от детей TFT дисплей индикатор закрытия дверцы перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "251 л",
+      "Полок": "3 шт",
+      "Отсеки для хранения": "зона свежести",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "94 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Температура морозилки": "-26 °C",
+      "Время сохранения холода": "24 ч",
+      "Управление": "сенсорное внешнее",
+      "Класс энергопотребления": "A++",
+      "Потребление энергии в год": "261 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Уровень шума": "36 дБ",
+      "Габариты (ВхШхГ)": "201.5x59.7x67.5 см",
+      "Официальный сайт": "home.liebherr.com",
+      "Дата добавления на E-Katalog": "ноябрь 2022",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да",
+      "Дезодоратор": "да"
+    },
+    "Цены на Liebherr Peak CBNstd 578i": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\liebherr_peak_cbnstd_578i\\images\\01.jpg",
+    "missing_refrigerators\\liebherr_peak_cbnstd_578i\\images\\02.jpg",
+    "missing_refrigerators\\liebherr_peak_cbnstd_578i\\images\\03.jpg",
+    "missing_refrigerators\\liebherr_peak_cbnstd_578i\\images\\04.jpg",
+    "missing_refrigerators\\liebherr_peak_cbnstd_578i\\images\\05.jpg",
+    "missing_refrigerators\\liebherr_peak_cbnstd_578i\\images\\06.jpg",
+    "missing_refrigerators\\liebherr_peak_cbnstd_578i\\images\\07.jpg",
+    "missing_refrigerators\\liebherr_peak_cbnstd_578i\\images\\08.jpg",
+    "missing_refrigerators\\liebherr_peak_cbnstd_578i\\images\\09.jpg",
+    "missing_refrigerators\\liebherr_peak_cbnstd_578i\\images\\10.jpg"
+  ]
+}

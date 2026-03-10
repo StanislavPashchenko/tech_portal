@@ -1,0 +1,133 @@
+{
+  "source": {
+    "url": "https://ek.ua/SMEG-FQ60NDE.htm",
+    "actual_url": "https://ek.ua/SMEG-FQ60NDE.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Smeg",
+    "model": "FQ60NDE черный",
+    "title": "Холодильник Smeg FQ60NDE черный",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "French-door (распашной)",
+    "total_volume_l": 572,
+    "cameras_count": 3,
+    "cooling_circuits": 3,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 376,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 196,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 10,
+    "freezing_capacity_kg_per_day": 5
+  },
+  "general": {
+    "control": "сенсорное внешнее",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 406,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 37,
+    "dimensions_cm": {
+      "height": 182.0,
+      "width": 90.8,
+      "depth": 72.0
+    },
+    "weight_kg": 130.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Smeg FQ60NDE черный по цене от 166300 до 166300 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2674042.jpg",
+    "https://mzimg.com/big/m1/hozu6lwzqm1.jpg",
+    "https://mzimg.com/big/w1/hoztuizgkw1.jpg",
+    "https://mzimg.com/big/91/hozu7y9f891.jpg",
+    "https://s.ek.ua/jpg/2674042.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 4": "166 300 грн. Купить! Холодильник FQ60NDE SMEG Viyar.ua Новый магазин Доставка: по Днепру Гарантия: от производителя Пожаловаться в список мои списки добавить в сравнение 11 272 zł 126 246 грн. 2 289 £ 126 311 грн.",
+      "Цвет Тип French-door (распашной) Общий объем 572 л Количество камер 3 Контуров охлаждения 3 Компрессоров 1 No Frost морозильная / холодильная камеры Функции и возможности Функции режим отпуска защита от детей LED дисплей индикатор закрытия дверцы Холодильное отделение Объем холодильной камеры 376 л Полок 3 шт Отсеки для хранения зона свежести Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "апрель 2024",
+      "Тип": "French-door (распашной)",
+      "Общий объем": "572 л",
+      "Количество камер": "3",
+      "Контуров охлаждения": "3",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "режим отпуска защита от детей LED дисплей индикатор закрытия дверцы",
+      "Объем холодильной камеры": "376 л",
+      "Полок": "3 шт",
+      "Отсеки для хранения": "зона свежести",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "196 л",
+      "Время сохранения холода": "10 ч",
+      "Мощность замораживания": "4.6 кг/сутки",
+      "Ледогенератор": "внутренний",
+      "Управление": "сенсорное внешнее",
+      "Класс энергопотребления (new)": "E",
+      "Потребление энергии в год": "406 кВт*ч",
+      "Класс шумности": "C",
+      "Уровень шума": "37 дБ",
+      "Габариты (ВхШхГ)": "182x90.8x72 см",
+      "Вес": "130 кг",
+      "Официальный сайт": "smeg.com",
+      "Дата добавления на E-Katalog": "апрель 2024",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\smeg_fq60nde\\images\\01.jpg",
+    "missing_refrigerators\\smeg_fq60nde\\images\\02.jpg",
+    "missing_refrigerators\\smeg_fq60nde\\images\\03.jpg",
+    "missing_refrigerators\\smeg_fq60nde\\images\\04.jpg",
+    "missing_refrigerators\\smeg_fq60nde\\images\\05.jpg"
+  ]
+}

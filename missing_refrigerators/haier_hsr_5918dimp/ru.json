@@ -1,0 +1,156 @@
+{
+  "source": {
+    "url": "https://ek.ua/HAIER-HSR-5918DIMP.htm",
+    "actual_url": "https://ek.ua/HAIER-HSR-5918DIMP.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Haier",
+    "model": "HSR-5918DIMP нержавейка",
+    "title": "Холодильник Haier HSR-5918DIMP нержавейка",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "Side-by-side",
+    "total_volume_l": 511,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 333,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "сбоку",
+    "volume_l": 178,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 5,
+    "freezing_capacity_kg_per_day": 10
+  },
+  "general": {
+    "control": "сенсорное внешнее",
+    "energy_class_new": "D",
+    "annual_energy_consumption_kwh": 253,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 40,
+    "dimensions_cm": {
+      "height": 177.5,
+      "width": 90.8,
+      "depth": 65.9
+    },
+    "weight_kg": 105.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Haier HSR-5918DIMP нержавейка по цене от 48870 до 48870 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2498622.jpg",
+    "https://mzimg.com/big/y1/hg3rwrtymy1.jpg",
+    "https://mzimg.com/big/91/hg3rwruoe91.jpg",
+    "https://mzimg.com/big/f1/hg3rws3tff1.jpg",
+    "https://mzimg.com/big/01/hg3rws6aj01.jpg",
+    "https://mzimg.com/big/81/hg3rwseeb81.jpg",
+    "https://mzimg.com/big/u1/hg3rwsixju1.jpg",
+    "https://mzimg.com/big/e1/hg3rwsp1me1.jpg",
+    "https://mzimg.com/big/l1/hg3rwsu5ml1.jpg",
+    "https://mzimg.com/big/g1/hg3rwt0nzg1.jpg",
+    "https://mzimg.com/big/51/hg3rwt69x51.jpg",
+    "https://mzimg.com/big/l1/hg3rwtb0pl1.jpg",
+    "https://s.ek.ua/jpg/2498622.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 21": "48 870 грн. Купить! Haier HSR5918DIMP Hi-tech.com.ua С нами более 10-ти лет Доставка: в Днепр из Киева Пожаловаться в список мои списки добавить в сравнение 4 900 zł 54 880 грн. 899 £ 49 597 грн.",
+      "Цвет Тип Side-by-side Общий объем 511 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 Инверторный компрессор No Frost морозильная / холодильная камеры Функции и возможности Функции режим отпуска защита от детей LED дисплей индикатор закрытия дверцы Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 333 л Полок 4 шт Диспенсер холодной воды внешний Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "июль 2023",
+      "Тип": "Side-by-side",
+      "Общий объем": "511 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "режим отпуска защита от детей LED дисплей индикатор закрытия дверцы",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "333 л",
+      "Полок": "4 шт",
+      "Диспенсер холодной воды": "внешний",
+      "Морозильная камера": "сбоку",
+      "Объем морозильной камеры": "178 л",
+      "Время сохранения холода": "5 ч",
+      "Мощность замораживания": "10 кг/сутки",
+      "Ледогенератор": "внутренний",
+      "Управление": "сенсорное внешнее",
+      "Класс энергопотребления (new)": "D",
+      "Потребление энергии в год": "253 кВт*ч",
+      "Климатический класс": "SN, N, ST (+10...+38 °С)",
+      "Класс шумности": "C",
+      "Уровень шума": "40 дБ",
+      "Габариты (ВхШхГ)": "177.5x90.8x65.9 см",
+      "Вес": "105 кг",
+      "Официальный сайт": "haier-europe.com",
+      "Дата добавления на E-Katalog": "июль 2023",
+      "Инверторный компрессор": "да",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\haier_hsr_5918dimp\\images\\01.jpg",
+    "missing_refrigerators\\haier_hsr_5918dimp\\images\\02.jpg",
+    "missing_refrigerators\\haier_hsr_5918dimp\\images\\03.jpg",
+    "missing_refrigerators\\haier_hsr_5918dimp\\images\\04.jpg",
+    "missing_refrigerators\\haier_hsr_5918dimp\\images\\05.jpg",
+    "missing_refrigerators\\haier_hsr_5918dimp\\images\\06.jpg",
+    "missing_refrigerators\\haier_hsr_5918dimp\\images\\07.jpg",
+    "missing_refrigerators\\haier_hsr_5918dimp\\images\\08.jpg",
+    "missing_refrigerators\\haier_hsr_5918dimp\\images\\09.jpg",
+    "missing_refrigerators\\haier_hsr_5918dimp\\images\\10.jpg",
+    "missing_refrigerators\\haier_hsr_5918dimp\\images\\11.jpg",
+    "missing_refrigerators\\haier_hsr_5918dimp\\images\\12.jpg",
+    "missing_refrigerators\\haier_hsr_5918dimp\\images\\13.jpg"
+  ]
+}

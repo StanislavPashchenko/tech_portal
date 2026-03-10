@@ -1,0 +1,152 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/SMEG-FAB50RRD.htm",
+    "actual_url": "https://ek.ua/ua/SMEG-FAB50RRD.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Smeg",
+    "model": "FAB50RRD червоний",
+    "title": "Холодильник Smeg FAB50RRD червоний",
+    "category": "E-Katalog category 200",
+    "year": 2019,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 6
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 412,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": false,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 315,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "зверху",
+    "volume_l": 97,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 10,
+    "freezing_capacity_kg_per_day": 6
+  },
+  "general": {
+    "control": "поворотні перемикачі",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 300,
+    "climate_class": [
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 44,
+    "dimensions_cm": {
+      "height": 187.0,
+      "width": 80.0,
+      "depth": 74.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general",
+      "Ціни на Smeg FAB50RRD"
+    ]
+  },
+  "description": "Холодильник Smeg FAB50RRD червоний за ціною від 158600 до 158600 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1522032.jpg",
+    "https://mzimg.com/big/y1/fv94wm61fy1.jpg",
+    "https://mzimg.com/big/d1/g052p6r7gd1.jpg",
+    "https://mzimg.com/big/o1/g052p708ho1.jpg",
+    "https://mzimg.com/big/r1/g052pvci0r1.jpg",
+    "https://mzimg.com/big/01/g05346en401.jpg",
+    "https://mzimg.com/big/j1/g053791y6j1.jpg",
+    "https://mzimg.com/big/a1/g053798ova1.jpg",
+    "https://mzimg.com/big/x1/g05379hlqx1.jpg",
+    "https://mzimg.com/big/r1/g0537uaatr1.jpg",
+    "https://mzimg.com/big/o1/g053doiu9o1.jpg",
+    "https://mzimg.com/big/11/g053dor6511.jpg",
+    "https://s.ek.ua/jpg/1522032.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Відео 1 Фото 19": "158 600 грн.",
+      "Viyar.ua →": "158 600 грн.",
+      "Колір Загальний об'єм 412 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 No Frost морозильна / холодильна камери Функції та можливості Додатково ретро дизайн Холодильне відділення Об'єм холодильної камери 315 л Відсіки для зберігання зона свіжості Динамічне охолодження Автоматичне розморожування LED освітлення": "лютий 2019",
+      "Загальний об'єм": "412 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Додатково": "ретро дизайн",
+      "Об'єм холодильної камери": "315 л",
+      "Відсіки для зберігання": "зона свіжості",
+      "Морозильна камера": "зверху",
+      "Об'єм морозильної камери": "97 л",
+      "Час збереження холоду": "10 год",
+      "Потужність заморожування": "6 кг/добу",
+      "Льодогенератор": "внутрішній",
+      "Управління": "поворотні перемикачі",
+      "Клас енергоспоживання": "A++",
+      "Споживання енергії в рік": "300 кВт*год",
+      "Кліматичний клас": "N, ST, T (+16...+43 °С)",
+      "Рівень шуму": "44 дБ",
+      "Габарити (ВхШхГ)": "187х80х74 см / глибина з ручкою: 78 см /",
+      "Офіційний сайт": "smeg.ua",
+      "Дата додавання на E-Katalog": "лютий 2019",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    },
+    "Ціни на Smeg FAB50RRD": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\smeg_fab50rrd\\images\\01.jpg",
+    "missing_refrigerators\\smeg_fab50rrd\\images\\02.jpg",
+    "missing_refrigerators\\smeg_fab50rrd\\images\\03.jpg",
+    "missing_refrigerators\\smeg_fab50rrd\\images\\04.jpg",
+    "missing_refrigerators\\smeg_fab50rrd\\images\\05.jpg",
+    "missing_refrigerators\\smeg_fab50rrd\\images\\06.jpg",
+    "missing_refrigerators\\smeg_fab50rrd\\images\\07.jpg",
+    "missing_refrigerators\\smeg_fab50rrd\\images\\08.jpg",
+    "missing_refrigerators\\smeg_fab50rrd\\images\\09.jpg",
+    "missing_refrigerators\\smeg_fab50rrd\\images\\10.jpg",
+    "missing_refrigerators\\smeg_fab50rrd\\images\\11.jpg",
+    "missing_refrigerators\\smeg_fab50rrd\\images\\12.jpg",
+    "missing_refrigerators\\smeg_fab50rrd\\images\\13.jpg"
+  ]
+}

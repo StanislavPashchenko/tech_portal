@@ -1,0 +1,156 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/SAMSUNG-BESPOKE-RF65DB960E22.htm",
+    "actual_url": "https://ek.ua/ua/SAMSUNG-BESPOKE-RF65DB960E22.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Samsung",
+    "model": "BeSpoke RF65DB960E22 чорний",
+    "title": "Холодильник Samsung BeSpoke RF65DB960E22 чорний",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "French-door (розпашний)",
+    "total_volume_l": 646,
+    "cameras_count": 3,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 396,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 250,
+    "sections_count": 6,
+    "sections_details": "6 шт",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": 12
+  },
+  "general": {
+    "control": "сенсорне внутрішнє",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 368,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 37,
+    "dimensions_cm": {
+      "height": 185.3,
+      "width": 91.2,
+      "depth": 73.1
+    },
+    "weight_kg": 157.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Samsung BeSpoke RF65DB960E22 чорний за ціною від 139600 до 167815 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2668935.jpg",
+    "https://mzimg.com/big/y1/hosoev312y1.jpg",
+    "https://mzimg.com/big/p1/hosoew1x8p1.jpg",
+    "https://mzimg.com/big/v1/hosoewu07v1.jpg",
+    "https://mzimg.com/big/p1/hosoex0bep1.jpg",
+    "https://mzimg.com/big/81/hosoexoq181.jpg",
+    "https://mzimg.com/big/s1/hosoezdsms1.jpg",
+    "https://mzimg.com/big/l1/hosoezyqcl1.jpg",
+    "https://mzimg.com/big/g1/hosoev1hig1.jpg",
+    "https://mzimg.com/big/m1/hosoey92wm1.jpg",
+    "https://s.ek.ua/jpg/2668935.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 10": "139 650 грн.",
+      "Tendo.com.ua →": "139 600 грн.",
+      "Novateh.com.ua →": "144 817 грн.",
+      "inSale.com.ua →": "139 650 грн.",
+      "Колір Тип French-door (розпашний) Загальний об'єм 646 л Кількість камер 3 Контурів охолодження 2 Компресорів 1 Інверторний компресор No Frost морозильна / холодильна камери Функції та можливості Функції LED дисплей індикатор закриття дверцят Додатково скляне оздоблення дверцят приховані ручки дверей змінні декоративні панелі Холодильне відділення Об'єм холодильної камери 396 л Полиць 3 шт Диспенсер холодної води внутрішній Швидкий доступ (міні-бар) Швидке охолодження Динамічне охолодження Автоматичне розморожування УФ лампа LED освітлення": "квітень 2024",
+      "Тип": "French-door (розпашний)",
+      "Загальний об'єм": "646 л",
+      "Кількість камер": "3",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "LED дисплей індикатор закриття дверцят",
+      "Додатково": "скляне оздоблення дверцят приховані ручки дверей змінні декоративні панелі",
+      "Об'єм холодильної камери": "396 л",
+      "Полиць": "3 шт",
+      "Диспенсер холодної води": "внутрішній",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "250 л",
+      "Відділень морозильної камери": "6 шт",
+      "Температура морозилки": "-23 °C",
+      "Потужність заморожування": "12 кг/добу",
+      "Льодогенератор": "внутрішній",
+      "Управління": "сенсорне внутрішнє",
+      "Клас енергоспоживання (new)": "E",
+      "Споживання енергії в рік": "368 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Рівень шуму": "37 дБ",
+      "Габарити (ВхШхГ)": "185.3x91.2x73.1 см",
+      "Вага": "157 кг",
+      "Офіційний сайт": "samsung.com",
+      "Дата додавання на E-Katalog": "квітень 2024",
+      "Інверторний компресор": "так",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\samsung_bespoke_rf65db960e22\\images\\01.jpg",
+    "missing_refrigerators\\samsung_bespoke_rf65db960e22\\images\\02.jpg",
+    "missing_refrigerators\\samsung_bespoke_rf65db960e22\\images\\03.jpg",
+    "missing_refrigerators\\samsung_bespoke_rf65db960e22\\images\\04.jpg",
+    "missing_refrigerators\\samsung_bespoke_rf65db960e22\\images\\05.jpg",
+    "missing_refrigerators\\samsung_bespoke_rf65db960e22\\images\\06.jpg",
+    "missing_refrigerators\\samsung_bespoke_rf65db960e22\\images\\07.jpg",
+    "missing_refrigerators\\samsung_bespoke_rf65db960e22\\images\\08.jpg",
+    "missing_refrigerators\\samsung_bespoke_rf65db960e22\\images\\09.jpg",
+    "missing_refrigerators\\samsung_bespoke_rf65db960e22\\images\\10.jpg",
+    "missing_refrigerators\\samsung_bespoke_rf65db960e22\\images\\11.jpg"
+  ]
+}

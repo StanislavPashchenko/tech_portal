@@ -1,0 +1,158 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/GORENJE-NRK-6201-PW4.htm",
+    "actual_url": "https://ek.ua/en/GORENJE-NRK-6201-PW4.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Gorenje",
+    "model": "NRK 6201 PW4 white",
+    "title": "Gorenje NRK 6201 PW4 white",
+    "category": "E-Katalog category 200",
+    "year": 307,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 3
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 5
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "internal touch controls",
+    "energy_class_new": "F",
+    "annual_energy_consumption_kwh": 307,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 200.0,
+      "width": 60.0,
+      "depth": 59.2
+    },
+    "weight_kg": 62.0,
+    "country_of_origin": "Serbia"
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general",
+      "Price for Gorenje NRK 6201 PW4"
+    ]
+  },
+  "description": "The thoughtful design of the refrigerator has a convenient storage of any products. This model is equipped with a CrispZone container, which makes it possible to significantly extend the shelf life of many fruits and vegetables that spoil quickly under standard conditions. The freezing zone is completed with the SpaceBox container. This is a special box that allows you to store much more than usual. It holds up to 38 liters. Refrigerator Gorenje NRK 6201 PW4 received a modern heat removal system. MultiFlow 360° technology makes the cooling screen more efficient than ever. Now the cold is distributed over the working compartments very quickly and extremely evenly. This refrigerator is efficient. This model is able to carry out high-quality freezing up to 12 kg of products per day. The operation of the refrigerator can be switched to holiday mode. This function allows you to keep the cold in the working chambers with minimal energy consumption. The model is equipped with handles with a hidden design. Hidden handles make the refrigerator look more modern. The refrigeration unit has a total volume of 331 liters, which will be enough to store food.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1888242.jpg",
+    "https://mzimg.com/big/d1/gjrfwvm0bd1.jpg",
+    "https://mzimg.com/big/41/gjrfwvndh41.jpg",
+    "https://mzimg.com/big/d1/gjrfww59ld1.jpg",
+    "https://mzimg.com/big/t1/gjrfww7c0t1.jpg",
+    "https://mzimg.com/big/j1/gjrfwwsngj1.jpg",
+    "https://mzimg.com/big/l1/gjrfwwowzl1.jpg",
+    "https://mzimg.com/big/j1/gjrfwx6xfj1.jpg",
+    "https://s.ek.ua/jpg/1888242.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 8": "20 664 ₴",
+      "Click.ua →": "18 806 ₴",
+      "Moyo.ua →": "20 412 ₴",
+      "FOXTROT.UA →": "19 835 ₴",
+      "Openshop.ua →": "20 431 ₴",
+      "Vodogreyka.com.ua →": "20 664 ₴",
+      "Colour Total capacity 331 L Number of chambers 2 Number of cooling circuits 1 Number of compressors 1 No Frost freezer / refrigerator compartments Features Features holiday mode door alarm reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 235 L Number of shelves 5 Storage compartments humidity zone / CrispZone / Dynamic air cooling Auto-defrost LED lighting": "October 2020",
+      "Total capacity": "331 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "holiday mode door alarm reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "235 L",
+      "Number of shelves": "5",
+      "Storage compartments": "humidity zone / CrispZone /",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "96 L",
+      "Freezer drawers": "3",
+      "Autonomy time": "17 h",
+      "Freeze capacity": "12 kg/day",
+      "Controls": "internal touch controls",
+      "Energy class (new)": "F",
+      "Energy consumption per year": "307 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Noise class": "C",
+      "Noise level": "38 dB",
+      "Dimensions (HxWxD)": "200x60x59.2 cm",
+      "Weight": "62 kg",
+      "Country of origin": "Serbia",
+      "Official Website": "gorenje-ua.com",
+      "Added to E-Catalog": "October 2020",
+      "Useful Review? Yes 1 No 0": "14 June 2021",
+      "great model, love it": "14 June 2021",
+      "Useful Review? Yes 1 No 0 (2)": "30 January 2021",
+      "great model, love it (2)": "30 January 2021",
+      "LED lighting": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    },
+    "Price for Gorenje NRK 6201 PW4": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\gorenje_nrk_6201_pw4\\images\\01.jpg",
+    "missing_refrigerators\\gorenje_nrk_6201_pw4\\images\\02.jpg",
+    "missing_refrigerators\\gorenje_nrk_6201_pw4\\images\\03.jpg",
+    "missing_refrigerators\\gorenje_nrk_6201_pw4\\images\\04.jpg",
+    "missing_refrigerators\\gorenje_nrk_6201_pw4\\images\\05.jpg",
+    "missing_refrigerators\\gorenje_nrk_6201_pw4\\images\\06.jpg",
+    "missing_refrigerators\\gorenje_nrk_6201_pw4\\images\\07.jpg",
+    "missing_refrigerators\\gorenje_nrk_6201_pw4\\images\\08.jpg",
+    "missing_refrigerators\\gorenje_nrk_6201_pw4\\images\\09.jpg"
+  ]
+}

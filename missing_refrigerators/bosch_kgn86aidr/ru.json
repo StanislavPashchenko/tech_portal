@@ -1,0 +1,146 @@
+{
+  "source": {
+    "url": "https://ek.ua/BOSCH-KGN86AIDR.htm",
+    "actual_url": "https://ek.ua/BOSCH-KGN86AIDR.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Bosch",
+    "model": "KGN86AIDR нержавейка",
+    "title": "Холодильник Bosch KGN86AIDR нержавейка",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 631,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 479,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 152,
+    "sections_count": 2,
+    "sections_details": "2 шт",
+    "cold_storage_time_h": 117,
+    "freezing_capacity_kg_per_day": 10
+  },
+  "general": {
+    "control": "сенсорное внешнее",
+    "energy_class_new": "D",
+    "annual_energy_consumption_kwh": 246,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 42,
+    "dimensions_cm": {
+      "height": 186.0,
+      "width": 86.0,
+      "depth": 81.0
+    },
+    "weight_kg": 108.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "По настоящему большой и вместительный двухкамерный холодильник премиум-класса, представленный на рынке популярным брендом Bosch в 2023 году и позиционируемый производителем в верхний ценовой сегмент. Корпус из нержавеющей стали имеет матовое покрытие с защитой от быстрого загрязнения AntiFinger. Вместительность устройства составляет 631 л. Холодильная камера вмещает 479 л, а размещенная снизу морозилка — 152 л. В холодильном отделении есть комбинированный ящик с зоной свежести. Дополнительно холодильник Bosch KGN86AIDR снабжен двойным контейнером VitaFresh plus, предназначенный для загрузки фруктов с овощами и зеленью. В этой модели предусмотрен инвертор с интеллектуальной системой управления мощностью работы устройства. Для повышения удобства настраивать рабочие режимы заморозки и охлаждения можно дистанционно. Каждая из рабочих камер имеет отдельный контур циркуляции. Также стоит обратить внимание на то, что это устройство можно размещать вплотную к стенам и мебели. Доступна световая и звуковая сигнализация открытых дверей и неправильной работе системы охлаждения. На верхнюю дверцу вынесен сенсорный блок панели управления. И при всем этом холодильник отличается достаточно оптимизированным электропитанием — расход электроэнергии всего 246 кВт*ч в год.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2368273.jpg",
+    "https://mzimg.com/big/q1/haf10mn0uq1.jpg",
+    "https://mzimg.com/big/61/haf10mo7t61.jpg",
+    "https://mzimg.com/big/u1/haf10n02tu1.jpg",
+    "https://mzimg.com/big/y1/haf10n2ciy1.jpg",
+    "https://mzimg.com/big/w1/haf10nbsew1.jpg",
+    "https://mzimg.com/big/y1/haf10ne2hy1.jpg",
+    "https://s.ek.ua/jpg/2368273.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 7": "67 297 грн.",
+      "inSale.com.ua →": "67 297 грн.",
+      "Цвет Общий объем 631 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 No Frost морозильная / холодильная камеры Функции и возможности Функции режим отпуска управление со смартфона (Wi-Fi) защита от детей LED дисплей индикатор закрытия дверцы перевешивание дверей Холодильное отделение Объем холодильной камеры 479 л Полок 3 шт Отсеки для хранения зона свежести Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "январь 2023",
+      "Общий объем": "631 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "режим отпуска управление со смартфона (Wi-Fi) защита от детей LED дисплей индикатор закрытия дверцы перевешивание дверей",
+      "Объем холодильной камеры": "479 л",
+      "Полок": "3 шт",
+      "Отсеки для хранения": "зона свежести",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "152 л",
+      "Отделений морозильной камеры": "2 шт",
+      "Температура морозилки": "-24 °C",
+      "Время сохранения холода": "117 ч",
+      "Мощность замораживания": "10 кг/сутки",
+      "Управление": "сенсорное внешнее",
+      "Класс энергопотребления (new)": "D",
+      "Потребление энергии в год": "246 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Класс шумности": "C",
+      "Уровень шума": "42 дБ",
+      "Габариты (ВхШхГ)": "186x86x81 см",
+      "Вес": "108 кг",
+      "Официальный сайт": "bosch-home.pl",
+      "Дата добавления на E-Katalog": "январь 2023",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\bosch_kgn86aidr\\images\\01.jpg",
+    "missing_refrigerators\\bosch_kgn86aidr\\images\\02.jpg",
+    "missing_refrigerators\\bosch_kgn86aidr\\images\\03.jpg",
+    "missing_refrigerators\\bosch_kgn86aidr\\images\\04.jpg",
+    "missing_refrigerators\\bosch_kgn86aidr\\images\\05.jpg",
+    "missing_refrigerators\\bosch_kgn86aidr\\images\\06.jpg",
+    "missing_refrigerators\\bosch_kgn86aidr\\images\\07.jpg",
+    "missing_refrigerators\\bosch_kgn86aidr\\images\\08.jpg"
+  ]
+}

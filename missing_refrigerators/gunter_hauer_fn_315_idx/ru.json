@@ -1,0 +1,153 @@
+{
+  "source": {
+    "url": "https://ek.ua/GUNTER-HAUER-FN-315-IDX.htm",
+    "actual_url": "https://ek.ua/GUNTER-HAUER-FN-315-IDX.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Gunter&Hauer",
+    "model": "FN 315 IDX нержавейка",
+    "title": "Холодильник Gunter&Hauer FN 315 IDX нержавейка",
+    "category": "E-Katalog category 200",
+    "year": 2021,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 315,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": false,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 119,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 97,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": 15
+  },
+  "general": {
+    "control": "сенсорное внешнее",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": null,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 40,
+    "dimensions_cm": {
+      "height": 184.0,
+      "width": 60.0,
+      "depth": 67.0
+    },
+    "weight_kg": 66.0,
+    "country_of_origin": "Китай"
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general",
+      "Цены на Gunter&Hauer FN 315 IDX"
+    ]
+  },
+  "description": "Холодильник Gunter&Hauer FN 315 IDX нержавейка по цене от 21999 до 21999 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1986421.jpg",
+    "https://mzimg.com/big/m1/gost301nim1.jpg",
+    "https://mzimg.com/big/x1/gost302z6x1.jpg",
+    "https://mzimg.com/big/71/gost31ytw71.jpg",
+    "https://mzimg.com/big/21/gost3a1xx21.jpg",
+    "https://mzimg.com/big/l1/gost3a3vol1.jpg",
+    "https://mzimg.com/big/w1/gost3bejkw1.jpg",
+    "https://mzimg.com/big/r1/gost3bu1yr1.jpg",
+    "https://mzimg.com/big/91/gost3cp2591.jpg",
+    "https://mzimg.com/big/j1/gost3dgonj1.jpg",
+    "https://mzimg.com/big/v1/gost3dznnv1.jpg",
+    "https://s.ek.ua/jpg/1986421.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 11": "21 999 грн. Купить! Холодильник Gunter&Hauer FN 315 IDX Kitchen-sinks.com.ua С нами 6 лет Доставка: в Днепр из Киева Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Общий объем 315 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 No Frost морозильная / холодильная камеры Функции и возможности Функции режим отпуска LED дисплей индикатор закрытия дверцы перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 119 л Полок 3 шт Отсеки для хранения зона свежести Зона свежести (нулевая камера) 19 л Динамическое охлаждение Автоматическая разморозка LED освещение": "март 2021",
+      "Общий объем": "315 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "режим отпуска LED дисплей индикатор закрытия дверцы перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "119 л",
+      "Полок": "3 шт",
+      "Отсеки для хранения": "зона свежести",
+      "Зона свежести (нулевая камера)": "19 л",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "97 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Мощность замораживания": "15 кг/сутки",
+      "Управление": "сенсорное внешнее",
+      "Класс энергопотребления": "A++",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Уровень шума": "40 дБ",
+      "Габариты (ВхШхГ)": "184x60x67 см",
+      "Вес": "66 кг",
+      "Страна производства": "Китай",
+      "Официальный сайт": "gunter-hauer.ua",
+      "Дата добавления на E-Katalog": "март 2021",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    },
+    "Цены на Gunter&Hauer FN 315 IDX": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\gunter_hauer_fn_315_idx\\images\\01.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_315_idx\\images\\02.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_315_idx\\images\\03.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_315_idx\\images\\04.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_315_idx\\images\\05.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_315_idx\\images\\06.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_315_idx\\images\\07.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_315_idx\\images\\08.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_315_idx\\images\\09.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_315_idx\\images\\10.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_315_idx\\images\\11.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_315_idx\\images\\12.jpg"
+  ]
+}

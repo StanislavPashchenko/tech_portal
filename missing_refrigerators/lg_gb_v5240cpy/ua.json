@@ -1,0 +1,151 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/LG-GB-V5240CPY.htm",
+    "actual_url": "https://ek.ua/ua/LG-GB-V5240CPY.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "LG",
+    "model": "GB-V5240CPY сріблястий",
+    "title": "Холодильник LG GB-V5240CPY сріблястий",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 387,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": false,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 233,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 110,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "сенсорне внутрішнє",
+    "energy_class_new": "C",
+    "annual_energy_consumption_kwh": 174,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 35,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 59.5,
+      "depth": 67.5
+    },
+    "weight_kg": 78.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник LG GB-V5240CPY сріблястий за ціною від 32717 до 35480 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2612357.jpg",
+    "https://mzimg.com/big/q1/hm3w4xj3rq1.jpg",
+    "https://mzimg.com/big/i1/hm3w4xk3wi1.jpg",
+    "https://mzimg.com/big/g1/hm3w4xvsog1.jpg",
+    "https://mzimg.com/big/o1/hm3w4yyyvo1.jpg",
+    "https://mzimg.com/big/11/hm3w4z65111.jpg",
+    "https://mzimg.com/big/01/hm3w4z9l901.jpg",
+    "https://mzimg.com/big/61/hm3w4zgob61.jpg",
+    "https://mzimg.com/big/81/hm3w4xwfr81.jpg",
+    "https://mzimg.com/big/a1/hm3w4y6f3a1.jpg",
+    "https://mzimg.com/big/n1/hm3w4y7yen1.jpg",
+    "https://mzimg.com/big/x1/hm3w4yhzkx1.jpg",
+    "https://s.ek.ua/jpg/2612357.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 16": "32 717 грн.",
+      "Luxmedia.com.ua →": "32 717 грн.",
+      "Колір Загальний об'єм 387 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 Інверторний компресор No Frost морозильна / холодильна камери Функції та можливості Функції перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 233 л Полиць 4 шт Відсіки для зберігання зона свіжості зона вологості полиця для пляшок Зона свіжості (нульова камера) 44 л Швидке охолодження Динамічне охолодження Автоматичне розморожування LED освітлення": "січень 2024",
+      "Загальний об'єм": "387 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "233 л",
+      "Полиць": "4 шт",
+      "Відсіки для зберігання": "зона свіжості зона вологості полиця для пляшок",
+      "Зона свіжості (нульова камера)": "44 л",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "110 л",
+      "Відділень морозильної камери": "3 шт",
+      "Управління": "сенсорне внутрішнє",
+      "Клас енергоспоживання (new)": "C",
+      "Споживання енергії в рік": "174 кВт*год",
+      "Кліматичний клас": "тропічний Т (+18...+43 °С)",
+      "Клас гучності": "B",
+      "Рівень шуму": "35 дБ",
+      "Габарити (ВхШхГ)": "203x59.5x67.5 см",
+      "Вага": "78 кг",
+      "Офіційний сайт": "lg.com",
+      "Дата додавання на E-Katalog": "січень 2024",
+      "Інверторний компресор": "так",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\lg_gb_v5240cpy\\images\\01.jpg",
+    "missing_refrigerators\\lg_gb_v5240cpy\\images\\02.jpg",
+    "missing_refrigerators\\lg_gb_v5240cpy\\images\\03.jpg",
+    "missing_refrigerators\\lg_gb_v5240cpy\\images\\04.jpg",
+    "missing_refrigerators\\lg_gb_v5240cpy\\images\\05.jpg",
+    "missing_refrigerators\\lg_gb_v5240cpy\\images\\06.jpg",
+    "missing_refrigerators\\lg_gb_v5240cpy\\images\\07.jpg",
+    "missing_refrigerators\\lg_gb_v5240cpy\\images\\08.jpg",
+    "missing_refrigerators\\lg_gb_v5240cpy\\images\\09.jpg",
+    "missing_refrigerators\\lg_gb_v5240cpy\\images\\10.jpg",
+    "missing_refrigerators\\lg_gb_v5240cpy\\images\\11.jpg",
+    "missing_refrigerators\\lg_gb_v5240cpy\\images\\12.jpg",
+    "missing_refrigerators\\lg_gb_v5240cpy\\images\\13.jpg"
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/ARDESTO-DTF-M212X143.htm",
+    "actual_url": "https://ek.ua/en/ARDESTO-DTF-M212X143.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Ardesto",
+    "model": "DTF-M212X143 silver",
+    "title": "Ardesto DTF-M212X143 silver",
+    "category": "E-Katalog category 200",
+    "year": 217,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "top",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knobs",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": 217,
+    "climate_class": [
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 40,
+    "dimensions_cm": {
+      "height": 143.0,
+      "width": 55.0,
+      "depth": 55.0
+    },
+    "weight_kg": 39.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Ardesto DTF-M212X143 silver at a price from 8065 to 11979 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1653520.jpg",
+    "https://mzimg.com/big/t1/g6x1r6jskt1.jpg",
+    "https://mzimg.com/big/71/g6x1r6s0x71.jpg",
+    "https://mzimg.com/big/61/g6x1r730m61.jpg",
+    "https://mzimg.com/big/m1/g6x1r7c1bm1.jpg",
+    "https://mzimg.com/big/71/g6x1r7ko671.jpg",
+    "https://mzimg.com/big/c1/g6x1r7vcic1.jpg",
+    "https://mzimg.com/big/s1/g6x1r85mds1.jpg",
+    "https://s.ek.ua/jpg/1653520.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 8": "8 599 ₴",
+      "Pro100market.com.ua →": "8 599 ₴",
+      "Xfrost.net.ua →": "8 599 ₴",
+      "Tendo.com.ua →": "8 599 ₴",
+      "Vodogreyka.com.ua →": "8 599 ₴",
+      "Elmag.ua →": "8 599 ₴",
+      "Colour Total capacity 204 L Number of chambers 2 Number of cooling circuits 1 Number of compressors 1 Features Features reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 164 L Auto-defrost": "September 2019",
+      "Total capacity": "204 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "Features": "reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "164 L",
+      "Freezer compartment": "top",
+      "Freezer capacity": "40 L",
+      "Autonomy time": "15 h",
+      "Controls": "rotary knobs",
+      "Energy class": "A+",
+      "Energy consumption per year": "217 kWh",
+      "Climate class": "N, ST, T (+16...+43 °С)",
+      "Noise level": "40 dB",
+      "Dimensions (HxWxD)": "143x55x55 cm",
+      "Weight": "39 kg",
+      "Official Website": "ardesto.com.ua",
+      "Added to E-Catalog": "September 2019",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\ardesto_dtf_m212x143\\images\\01.jpg",
+    "missing_refrigerators\\ardesto_dtf_m212x143\\images\\02.jpg",
+    "missing_refrigerators\\ardesto_dtf_m212x143\\images\\03.jpg",
+    "missing_refrigerators\\ardesto_dtf_m212x143\\images\\04.jpg",
+    "missing_refrigerators\\ardesto_dtf_m212x143\\images\\05.jpg",
+    "missing_refrigerators\\ardesto_dtf_m212x143\\images\\06.jpg",
+    "missing_refrigerators\\ardesto_dtf_m212x143\\images\\07.jpg",
+    "missing_refrigerators\\ardesto_dtf_m212x143\\images\\08.jpg",
+    "missing_refrigerators\\ardesto_dtf_m212x143\\images\\09.jpg"
+  ]
+}

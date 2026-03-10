@@ -1,0 +1,148 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/LIEBHERR-CNEF-5745.htm",
+    "actual_url": "https://ek.ua/ua/LIEBHERR-CNEF-5745.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liebherr",
+    "model": "CNef 5745 сріблястий",
+    "title": "Холодильник Liebherr CNef 5745 сріблястий",
+    "category": "E-Katalog category 200",
+    "year": 2020,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 397,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 294,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 103,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 24,
+    "freezing_capacity_kg_per_day": 16
+  },
+  "general": {
+    "control": "сенсорне внутрішнє",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 182,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 38,
+    "dimensions_cm": {
+      "height": 201.0,
+      "width": 70.0,
+      "depth": 66.5
+    },
+    "weight_kg": 81.0,
+    "country_of_origin": "Німеччина"
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Liebherr CNef 5745 сріблястий за ціною від 117587 до 117587 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1749003.jpg",
+    "https://mzimg.com/big/m1/gc7pkc9idm1.jpg",
+    "https://mzimg.com/big/g1/gc7pkcnv2g1.jpg",
+    "https://mzimg.com/big/y1/gc7pkd0dzy1.jpg",
+    "https://mzimg.com/big/t1/gc7pkdf3qt1.jpg",
+    "https://mzimg.com/big/u1/gc7pkdsoyu1.jpg",
+    "https://mzimg.com/big/11/gc7pke6ox11.jpg",
+    "https://mzimg.com/big/d1/gc7pkelhjd1.jpg",
+    "https://mzimg.com/big/s1/gc7pkf1lus1.jpg",
+    "https://mzimg.com/big/m1/gc7pmrntzm1.jpg",
+    "https://s.ek.ua/jpg/1749003.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 10": "117 587 грн. Купити! Холодильник Liebherr CNef 5745 inSale.com.ua Менше року Доставка: у Дніпро з Києва Гарантія: 12 міс. Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 397 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 No Frost морозильна камера Функції та можливості Функції режим відпустки захист від дітей індикатор закриття дверцят перевішування дверей Холодильне відділення Об'єм холодильної камери 294 л Швидке охолодження Динамічне охолодження Автоматичне розморожування Дезодоратор LED освітлення": "лютий 2020",
+      "Загальний об'єм": "397 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна камера",
+      "Функції": "режим відпустки захист від дітей індикатор закриття дверцят перевішування дверей",
+      "Об'єм холодильної камери": "294 л",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "103 л",
+      "Температура морозилки": "-24 °C",
+      "Час збереження холоду": "24 год",
+      "Потужність заморожування": "16 кг/добу",
+      "Управління": "сенсорне внутрішнє",
+      "Клас енергоспоживання": "A++",
+      "Споживання енергії в рік": "182 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Рівень шуму": "38 дБ",
+      "Габарити (ВхШхГ)": "201x70x66.5 см",
+      "Вага": "81 кг",
+      "Країна виробництва": "Німеччина",
+      "Дата додавання на E-Katalog": "лютий 2020",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так",
+      "Дезодоратор": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\liebherr_cnef_5745\\images\\01.jpg",
+    "missing_refrigerators\\liebherr_cnef_5745\\images\\02.jpg",
+    "missing_refrigerators\\liebherr_cnef_5745\\images\\03.jpg",
+    "missing_refrigerators\\liebherr_cnef_5745\\images\\04.jpg",
+    "missing_refrigerators\\liebherr_cnef_5745\\images\\05.jpg",
+    "missing_refrigerators\\liebherr_cnef_5745\\images\\06.jpg",
+    "missing_refrigerators\\liebherr_cnef_5745\\images\\07.jpg",
+    "missing_refrigerators\\liebherr_cnef_5745\\images\\08.jpg",
+    "missing_refrigerators\\liebherr_cnef_5745\\images\\09.jpg",
+    "missing_refrigerators\\liebherr_cnef_5745\\images\\10.jpg",
+    "missing_refrigerators\\liebherr_cnef_5745\\images\\11.jpg"
+  ]
+}

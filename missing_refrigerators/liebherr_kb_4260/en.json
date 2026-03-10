@@ -1,0 +1,124 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/LIEBHERR-KB-4260.htm",
+    "actual_url": "https://ek.ua/en/LIEBHERR-KB-4260.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liebherr",
+    "model": "KB 4260 white",
+    "title": "Liebherr KB 4260 white",
+    "category": "E-Katalog category 200",
+    "year": 133,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": true,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "in absent",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "internal touch controls",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 133,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 42,
+    "dimensions_cm": {
+      "height": 185.2,
+      "width": 60.0,
+      "depth": 63.0
+    },
+    "weight_kg": 81.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Liebherr KB 4260 white at a price from 67331 to 67331 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/69233.jpg",
+    "https://mzimg.com/big/21/g0njymlcd21.jpg",
+    "https://mzimg.com/big/41/g0njymqrb41.jpg",
+    "https://s.ek.ua/jpg/69233.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 3": "67 331 ₴ Buy! Холодильник Liebherr KB 4260 inSale.com.ua Less than year Delivery: to Dnipro from Kyiv Warranty: 12 month Report add to list my lists add to comparison",
+      "Colour Total capacity 358 L Number of chambers 2 Number of cooling circuits 1 Number of compressors 1 Features Features holiday mode child lock LED display door alarm reversible door Refrigeration chamber Refrigerator capacity 241 L Storage compartments fresh zone Fresh zone (zero chamber) 117 L / BioFresh / Fast cool Dynamic air cooling Auto-defrost LED lighting": "July 2008",
+      "Total capacity": "358 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "Features": "holiday mode child lock LED display door alarm reversible door",
+      "Refrigerator capacity": "241 L",
+      "Storage compartments": "fresh zone",
+      "Fresh zone (zero chamber)": "117 L / BioFresh /",
+      "Freezer compartment": "in absent",
+      "Controls": "internal touch controls",
+      "Energy class": "A++",
+      "Energy consumption per year": "133 kWh",
+      "Noise level": "42 dB",
+      "Dimensions (HxWxD)": "185.2x60x63 cm",
+      "Weight": "81 kg",
+      "Added to E-Catalog": "July 2008",
+      "User reviews 7 Write Review →": "1 2 0 4",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\liebherr_kb_4260\\images\\01.jpg",
+    "missing_refrigerators\\liebherr_kb_4260\\images\\02.jpg",
+    "missing_refrigerators\\liebherr_kb_4260\\images\\03.jpg",
+    "missing_refrigerators\\liebherr_kb_4260\\images\\04.jpg"
+  ]
+}

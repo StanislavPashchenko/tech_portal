@@ -1,0 +1,145 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/BOSCH-KGN39XI316.htm",
+    "actual_url": "https://ek.ua/en/BOSCH-KGN39XI316.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Bosch",
+    "model": "KGN39XI316 stainless steel",
+    "title": "Bosch KGN39XI316 stainless steel",
+    "category": "E-Katalog category 200",
+    "year": 273,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 2
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": false,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "external touch controls",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 273,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 60.0,
+      "depth": 66.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general",
+      "Price for Bosch KGN39XI316"
+    ]
+  },
+  "description": "The refrigerator, which represents the Serie 4 line of the German company Bosch, belongs to the mid-range models. The unit received two cooling circuits for independent temperature control in each of the chambers. It also supports the Full No Frost automatic defrost system, which will simplify the operation of the device. The Bosch KGN39XI316 refrigerator has an external touch control that allows you to select the optimal temperature, activate quick freezing or cooling, etc. The useful volume of the model is 366 liters, of which: 87 liters is a freezer, 255 liters is a refrigerator compartment, and 24 liters is a VitaFresh zero chamber. There is also a separate humidity zone, which is suitable for storing vegetables and fruits. The freezer is able to freeze up to 14 kg of food per day, and also keep cold in case of problems with electricity for 16 hours. It is also worth noting the efficiency of the model (energy class A ++), the presence of a door closing indicator and an acceptable noise level in operation (up to 39 dB).",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1478822.jpg",
+    "https://mzimg.com/big/l1/fxlpc7y6jl1.jpg",
+    "https://mzimg.com/big/v1/fxlpc88tiv1.jpg",
+    "https://mzimg.com/big/w1/fxlpc8iiaw1.jpg",
+    "https://mzimg.com/big/71/fxlpc8t9k71.jpg",
+    "https://mzimg.com/big/f1/fxlpc94rbf1.jpg",
+    "https://s.ek.ua/jpg/1478822.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 6": "32 630 ₴ Buy! Холодильник Bosch kgn39xi316 із нижньою морозильною камерою - 203x60x66/366 л/No-Frost/А++/нерж. сталь Tviy-Dim.com 6 year with us Delivery: to Dnipro from Kyiv Report add to list my lists add to comparison",
+      "Colour Total capacity 366 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 No Frost freezer / refrigerator compartments Features Features door alarm reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 255 L Storage compartments fresh zone humidity zone Fresh zone (zero chamber) 24 L Fast cool Dynamic air cooling Auto-defrost LED lighting": "November 2018",
+      "Total capacity": "366 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "door alarm reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "255 L",
+      "Storage compartments": "fresh zone humidity zone",
+      "Fresh zone (zero chamber)": "24 L",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "87 L",
+      "Freezer temperature": "-24 °C",
+      "Autonomy time": "16 h",
+      "Freeze capacity": "14 kg/day",
+      "Controls": "external touch controls",
+      "Energy class": "A++",
+      "Energy consumption per year": "273 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Noise level": "39 dB",
+      "Dimensions (HxWxD)": "203x60x66 cm",
+      "Official Website": "bosch-home.com.ua",
+      "Added to E-Catalog": "November 2018",
+      "Useful Review? Yes 0 No 0": "11 December 2023",
+      "I recommend buying it, it's one of the best refrigerators!": "11 December 2023",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    },
+    "Price for Bosch KGN39XI316": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\bosch_kgn39xi316\\images\\01.jpg",
+    "missing_refrigerators\\bosch_kgn39xi316\\images\\02.jpg",
+    "missing_refrigerators\\bosch_kgn39xi316\\images\\03.jpg",
+    "missing_refrigerators\\bosch_kgn39xi316\\images\\04.jpg",
+    "missing_refrigerators\\bosch_kgn39xi316\\images\\05.jpg",
+    "missing_refrigerators\\bosch_kgn39xi316\\images\\06.jpg",
+    "missing_refrigerators\\bosch_kgn39xi316\\images\\07.jpg"
+  ]
+}

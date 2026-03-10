@@ -1,0 +1,143 @@
+{
+  "source": {
+    "url": "https://ek.ua/SAMSUNG-BESPOKE-RB34A6B2F22.htm",
+    "actual_url": "https://ek.ua/SAMSUNG-BESPOKE-RB34A6B2F22.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Samsung",
+    "model": "BeSpoke RB34A6B2F22 черный",
+    "title": "Холодильник Samsung BeSpoke RB34A6B2F22 черный",
+    "category": "E-Katalog category 200",
+    "year": 2021,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 340,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 228,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 112,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 9,
+    "freezing_capacity_kg_per_day": 8
+  },
+  "general": {
+    "control": "сенсорное внутреннее",
+    "energy_class_new": "F",
+    "annual_energy_consumption_kwh": 295,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 37,
+    "dimensions_cm": {
+      "height": 185.3,
+      "width": 59.5,
+      "depth": 65.8
+    },
+    "weight_kg": 78.0,
+    "country_of_origin": "Польша"
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Samsung BeSpoke RB34A6B2F22 черный по цене от 174223 до 174223 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2137293.jpg",
+    "https://mzimg.com/big/s1/gwxeyzfdes1.jpg",
+    "https://mzimg.com/big/y1/gwxeyzvfjy1.jpg",
+    "https://mzimg.com/big/u1/gwxeyzwghu1.jpg",
+    "https://mzimg.com/big/k1/gwxeyzfv5k1.jpg",
+    "https://s.ek.ua/jpg/2137293.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 5": "174 223 грн. Купить! Холодильник Samsung RB34A6B2F22 inSale.com.ua Менее года Доставка: в Днепр из Киева Гарантия: 12 мес. Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Общий объем 340 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 Инверторный компрессор No Frost морозильная / холодильная камеры Функции и возможности Функции индикатор закрытия дверцы перевешивание дверей Дополнительно стеклянная отделка дверцы скрытые дверные ручки сменные декоративные панели / BeSpoke / Холодильное отделение Объем холодильной камеры 228 л Полок 4 шт Отсеки для хранения зона свежести полка для бутылок Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "ноябрь 2021",
+      "Общий объем": "340 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "индикатор закрытия дверцы перевешивание дверей",
+      "Дополнительно": "стеклянная отделка дверцы скрытые дверные ручки сменные декоративные панели / BeSpoke /",
+      "Объем холодильной камеры": "228 л",
+      "Полок": "4 шт",
+      "Отсеки для хранения": "зона свежести полка для бутылок",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "112 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Температура морозилки": "-23 °C",
+      "Время сохранения холода": "9 ч",
+      "Мощность замораживания": "8 кг/сутки",
+      "Управление": "сенсорное внутреннее",
+      "Класс энергопотребления (new)": "F",
+      "Потребление энергии в год": "295 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Уровень шума": "37 дБ",
+      "Габариты (ВхШхГ)": "185.3x59.5x65.8 см",
+      "Вес": "78 кг",
+      "Страна производства": "Польша",
+      "Официальный сайт": "samsung.com",
+      "Дата добавления на E-Katalog": "ноябрь 2021",
+      "Инверторный компрессор": "да",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\samsung_bespoke_rb34a6b2f22\\images\\01.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb34a6b2f22\\images\\02.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb34a6b2f22\\images\\03.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb34a6b2f22\\images\\04.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb34a6b2f22\\images\\05.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb34a6b2f22\\images\\06.jpg"
+  ]
+}

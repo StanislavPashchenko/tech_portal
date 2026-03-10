@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% load portal_tags %}
+
+{% block content %}
+<section class="content-with-sidebar">
+    <div>
+        <section class="section-block">
+            <div class="section-heading">
+                <h1>{{ page_heading }}</h1>
+                <p>{{ page_intro }}</p>
+            </div>
+            <div class="card-grid">
+                {% for appliance in appliance_groups %}
+                <article class="card">
+                    <div class="card-body">
+                        <span class="eyebrow">{{ brand_label }}</span>
+                        <h3><a href="{{ appliance.url }}">{{ appliance.label }}</a></h3>
+                        <p>{{ appliance.total }} {% ui 'error_codes' %}</p>
+                    </div>
+                </article>
+                {% empty %}
+                    <p class="empty-state">{% ui 'no_results' %}</p>
+                {% endfor %}
+            </div>
+        </section>
+    </div>
+    <aside class="sidebar">
+        {% include "includes/ad_block.html" with key="ad_sidebar" %}
+    </aside>
+</section>
+{% endblock %}

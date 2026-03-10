@@ -1,0 +1,149 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/BOSCH-KGN76VIE0N.htm",
+    "actual_url": "https://ek.ua/ua/BOSCH-KGN76VIE0N.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Bosch",
+    "model": "KGN76VIE0N нержавіюча сталь",
+    "title": "Холодильник Bosch KGN76VIE0N нержавіюча сталь",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 20
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 526,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 406,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 120,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 27,
+    "freezing_capacity_kg_per_day": 9
+  },
+  "general": {
+    "control": "кнопкове внутрішнє",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 274,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 40,
+    "dimensions_cm": {
+      "height": 186.0,
+      "width": 75.0,
+      "depth": 80.0
+    },
+    "weight_kg": 94.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Bosch KGN76VIE0N нержавіюча сталь за ціною від 41668 до 52110 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2989854.jpg",
+    "https://mzimg.com/big/i1/i6tktg6cqi1.jpg",
+    "https://mzimg.com/big/m1/i6tktg79lm1.jpg",
+    "https://mzimg.com/big/g1/i6tkth9tgg1.jpg",
+    "https://mzimg.com/big/91/i6tkthc0s91.jpg",
+    "https://mzimg.com/big/w1/i6tkti9s9w1.jpg",
+    "https://s.ek.ua/jpg/2989854.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 6": "44 887 грн.",
+      "BS-market.com.ua →": "47 499 грн.",
+      "Bs-partner.com.ua →": "47 499 грн.",
+      "Pro100market.com.ua →": "47 499 грн.",
+      "Bosch Україна →": "52 099 грн.",
+      "Vodogreyka.com.ua →": "44 887 грн.",
+      "Колір Загальний об'єм 526 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 No Frost морозильна / холодильна камери Функції та можливості Функції індикатор закриття дверцят перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 406 л Полиць 3 шт Відсіки для зберігання зона свіжості зона вологості Швидке охолодження Динамічне охолодження Автоматичне розморожування LED освітлення": "жовтень 2025",
+      "Загальний об'єм": "526 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "індикатор закриття дверцят перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "406 л",
+      "Полиць": "3 шт",
+      "Відсіки для зберігання": "зона свіжості зона вологості",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "120 л",
+      "Відділень морозильної камери": "3 шт",
+      "Температура морозилки": "-24 °C",
+      "Час збереження холоду": "27 год",
+      "Потужність заморожування": "9 кг/добу",
+      "Управління": "кнопкове внутрішнє",
+      "Клас енергоспоживання (new)": "E",
+      "Споживання енергії в рік": "274 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Клас гучності": "C",
+      "Рівень шуму": "40 дБ",
+      "Габарити (ВхШхГ)": "186х75х80 см",
+      "Вага": "94 кг",
+      "Офіційний сайт": "bosch-home.com.ua",
+      "Дата додавання на E-Katalog": "жовтень 2025",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\bosch_kgn76vie0n\\images\\01.jpg",
+    "missing_refrigerators\\bosch_kgn76vie0n\\images\\02.jpg",
+    "missing_refrigerators\\bosch_kgn76vie0n\\images\\03.jpg",
+    "missing_refrigerators\\bosch_kgn76vie0n\\images\\04.jpg",
+    "missing_refrigerators\\bosch_kgn76vie0n\\images\\05.jpg",
+    "missing_refrigerators\\bosch_kgn76vie0n\\images\\06.jpg",
+    "missing_refrigerators\\bosch_kgn76vie0n\\images\\07.jpg"
+  ]
+}

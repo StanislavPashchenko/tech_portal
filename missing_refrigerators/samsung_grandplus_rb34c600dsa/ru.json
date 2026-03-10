@@ -1,0 +1,152 @@
+{
+  "source": {
+    "url": "https://ek.ua/SAMSUNG-GRANDPLUS-RB34C600DSA.htm",
+    "actual_url": "https://ek.ua/SAMSUNG-GRANDPLUS-RB34C600DSA.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Samsung",
+    "model": "Grand+ RB34C600DSA серебристый",
+    "title": "Холодильник Samsung Grand+ RB34C600DSA серебристый",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 344,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 230,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 114,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 9,
+    "freezing_capacity_kg_per_day": 8
+  },
+  "general": {
+    "control": "сенсорное внутреннее",
+    "energy_class_new": "D",
+    "annual_energy_consumption_kwh": 204,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 35,
+    "dimensions_cm": {
+      "height": 183.5,
+      "width": 59.5,
+      "depth": 65.8
+    },
+    "weight_kg": 63.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Достаточно продвинутый холодильник от популярного южнокорейского бренда Samsung, прежде всего примечательный хорошей вместительностью, полной поддержкой технологии No Frost, инверторным компрессором и возможностью интеграции в систему умный дом. Производитель снабдил устройство ультратонким высокоэффективным утеплителем, что позволило расширить вместительность модели при достаточно стандартных габаритных размерах корпуса. Так, общий полезный объем рабочих камер достигает 344 л. Вместительность холодильного отделения составляет 230 л, а размещенной под ним морозилки — 114 л. «Умный» холодильник Samsung Grand+ RB34C600DSA среди прочего может похвастаться двойным контуром охлаждения, благодаря чему рабочие камеры имеют отдельные теплообменники и раздельную систему вентиляции. Также благодаря этому появляется и возможность для более тонкой настройки температуры в холодильной и морозильной камерах. Дополнительно предотвращается смешивание запахом между отделениями. Задняя сторона холодильника, где находится конденсор, полностью перекрыта защитной накладкой, благодаря чему изделие можно подвигать вплотную к стенам, а также монтировать в кухонную мебель. Для компрессора использована инверторная силовая установка Digital Inverter. Это цифровой инвертор с 7-мью ступенями производительности.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2499210.jpg",
+    "https://mzimg.com/big/l1/hg4v09xhzl1.jpg",
+    "https://mzimg.com/big/d1/hg4v09y0kd1.jpg",
+    "https://mzimg.com/big/21/hg4v0a9ou21.jpg",
+    "https://mzimg.com/big/y1/hg4v0aaz6y1.jpg",
+    "https://mzimg.com/big/v1/hg4v0amk8v1.jpg",
+    "https://mzimg.com/big/11/hg4v0aoyk11.jpg",
+    "https://mzimg.com/big/h1/hg4v0avmch1.jpg",
+    "https://mzimg.com/big/x1/hg4v0ayoix1.jpg",
+    "https://s.ek.ua/jpg/2499210.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Tendo.com.ua →": "30 277 грн.",
+      "Магазин Samsung →": "29 996 грн.",
+      "Цвет Общий объем 344 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 Инверторный компрессор No Frost морозильная / холодильная камеры Функции и возможности Функции режим отпуска управление со смартфона (Wi-Fi) LED дисплей индикатор закрытия дверцы перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 230 л Полок 4 шт Отсеки для хранения зона влажности полка для бутылок Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "июль 2023",
+      "Общий объем": "344 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "режим отпуска управление со смартфона (Wi-Fi) LED дисплей индикатор закрытия дверцы перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "230 л",
+      "Полок": "4 шт",
+      "Отсеки для хранения": "зона влажности полка для бутылок",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "114 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Температура морозилки": "-23 °C",
+      "Время сохранения холода": "9 ч",
+      "Мощность замораживания": "8 кг/сутки",
+      "Управление": "сенсорное внутреннее",
+      "Класс энергопотребления (new)": "D",
+      "Потребление энергии в год": "204 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Класс шумности": "B",
+      "Уровень шума": "35 дБ",
+      "Габариты (ВхШхГ)": "183.5x59.5x65.8 см",
+      "Вес": "63 кг",
+      "Официальный сайт": "samsung.com",
+      "Дата добавления на E-Katalog": "июль 2023",
+      "Инверторный компрессор": "да",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\samsung_grandplus_rb34c600dsa\\images\\01.jpg",
+    "missing_refrigerators\\samsung_grandplus_rb34c600dsa\\images\\02.jpg",
+    "missing_refrigerators\\samsung_grandplus_rb34c600dsa\\images\\03.jpg",
+    "missing_refrigerators\\samsung_grandplus_rb34c600dsa\\images\\04.jpg",
+    "missing_refrigerators\\samsung_grandplus_rb34c600dsa\\images\\05.jpg",
+    "missing_refrigerators\\samsung_grandplus_rb34c600dsa\\images\\06.jpg",
+    "missing_refrigerators\\samsung_grandplus_rb34c600dsa\\images\\07.jpg",
+    "missing_refrigerators\\samsung_grandplus_rb34c600dsa\\images\\08.jpg",
+    "missing_refrigerators\\samsung_grandplus_rb34c600dsa\\images\\09.jpg",
+    "missing_refrigerators\\samsung_grandplus_rb34c600dsa\\images\\10.jpg"
+  ]
+}

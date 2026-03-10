@@ -1,0 +1,152 @@
+{
+  "source": {
+    "url": "https://ek.ua/GORENJE-NRKE-62-W.htm",
+    "actual_url": "https://ek.ua/GORENJE-NRKE-62-W.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Gorenje",
+    "model": "NRKE 62 W белый (736945)",
+    "title": "Холодильник Gorenje NRKE 62 W белый (736945)",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 300,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 204,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 96,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 10,
+    "freezing_capacity_kg_per_day": 10
+  },
+  "general": {
+    "control": "сенсорное внутреннее",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 242,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 38,
+    "dimensions_cm": {
+      "height": 185.0,
+      "width": 60.0,
+      "depth": 59.2
+    },
+    "weight_kg": 57.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general",
+      "Цены на Gorenje NRKE 62 W"
+    ]
+  },
+  "description": "Холодильник Gorenje NRKE 62 W белый (736945) по цене от 17999 до 17999 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2497393.jpg",
+    "https://mzimg.com/big/81/hg2d4c3zj81.jpg",
+    "https://mzimg.com/big/r1/hg2d4c4u8r1.jpg",
+    "https://mzimg.com/big/71/hg2d4cdbe71.jpg",
+    "https://mzimg.com/big/81/hg2d4cfqq81.jpg",
+    "https://mzimg.com/big/71/hg2d4cp2671.jpg",
+    "https://mzimg.com/big/o1/hg2d4ctqio1.jpg",
+    "https://mzimg.com/big/u1/hg2d4cyvcu1.jpg",
+    "https://mzimg.com/big/z1/hg2d4d8bmz1.jpg",
+    "https://mzimg.com/big/a1/hg2d4dcqua1.jpg",
+    "https://mzimg.com/big/61/hg2d4dkvt61.jpg",
+    "https://mzimg.com/big/q1/hg2d4dneaq1.jpg",
+    "https://s.ek.ua/jpg/2497393.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 13": "17 999 грн.",
+      "575.in.ua →": "17 999 грн.",
+      "Цвет Общий объем 300 л Количество камер 2 Контуров охлаждения 1 Компрессоров 1 No Frost морозильная / холодильная камеры Функции и возможности Функции индикатор закрытия дверцы перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 204 л Полок 4 шт Динамическое охлаждение Автоматическая разморозка Дезодоратор LED освещение": "736945",
+      "Общий объем": "300 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "индикатор закрытия дверцы перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "204 л",
+      "Полок": "4 шт",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "96 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Время сохранения холода": "10 ч",
+      "Мощность замораживания": "10 кг/сутки",
+      "Управление": "сенсорное внутреннее",
+      "Класс энергопотребления (new)": "E",
+      "Потребление энергии в год": "242 кВт*ч",
+      "Класс шумности": "C",
+      "Уровень шума": "38 дБ",
+      "Габариты (ВхШхГ)": "185x60x59.2 см",
+      "Вес": "57 кг",
+      "Официальный сайт": "international.gorenje.com",
+      "Дата добавления на E-Katalog": "июль 2023",
+      "Маркировка производителя": "736945",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да",
+      "Дезодоратор": "да"
+    },
+    "Цены на Gorenje NRKE 62 W": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\gorenje_nrke_62_w\\images\\01.jpg",
+    "missing_refrigerators\\gorenje_nrke_62_w\\images\\02.jpg",
+    "missing_refrigerators\\gorenje_nrke_62_w\\images\\03.jpg",
+    "missing_refrigerators\\gorenje_nrke_62_w\\images\\04.jpg",
+    "missing_refrigerators\\gorenje_nrke_62_w\\images\\05.jpg",
+    "missing_refrigerators\\gorenje_nrke_62_w\\images\\06.jpg",
+    "missing_refrigerators\\gorenje_nrke_62_w\\images\\07.jpg",
+    "missing_refrigerators\\gorenje_nrke_62_w\\images\\08.jpg",
+    "missing_refrigerators\\gorenje_nrke_62_w\\images\\09.jpg",
+    "missing_refrigerators\\gorenje_nrke_62_w\\images\\10.jpg",
+    "missing_refrigerators\\gorenje_nrke_62_w\\images\\11.jpg",
+    "missing_refrigerators\\gorenje_nrke_62_w\\images\\12.jpg",
+    "missing_refrigerators\\gorenje_nrke_62_w\\images\\13.jpg"
+  ]
+}

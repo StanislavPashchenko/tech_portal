@@ -1,0 +1,131 @@
+{
+  "source": {
+    "url": "https://ek.ua/BOSCH-KGN392ICF.htm",
+    "actual_url": "https://ek.ua/BOSCH-KGN392ICF.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Bosch",
+    "model": "KGN392ICF нержавейка",
+    "title": "Холодильник Bosch KGN392ICF нержавейка",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 363,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 260,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 103,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 15,
+    "freezing_capacity_kg_per_day": 10
+  },
+  "general": {
+    "control": "сенсорное внутреннее",
+    "energy_class_new": "C",
+    "annual_energy_consumption_kwh": 162,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 35,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 60.0,
+      "depth": 66.5
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Bosch KGN392ICF нержавейка по цене от 49792 до 49792 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2409852.jpg",
+    "https://s.ek.ua/jpg/2409852.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Цвет Общий объем 363 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 No Frost морозильная / холодильная камеры Функции и возможности Функции индикатор закрытия дверцы перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 260 л Полок 4 шт Отсеки для хранения зона свежести полка для бутылок Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "март 2023",
+      "Общий объем": "363 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "индикатор закрытия дверцы перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "260 л",
+      "Полок": "4 шт",
+      "Отсеки для хранения": "зона свежести полка для бутылок",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "103 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Температура морозилки": "-24 °C",
+      "Время сохранения холода": "15 ч",
+      "Мощность замораживания": "10 кг/сутки",
+      "Управление": "сенсорное внутреннее",
+      "Класс энергопотребления (new)": "C",
+      "Потребление энергии в год": "162 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Класс шумности": "B",
+      "Уровень шума": "35 дБ",
+      "Габариты (ВхШхГ)": "203x60x66.5 см",
+      "Дата добавления на E-Katalog": "март 2023",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\bosch_kgn392icf\\images\\01.jpg",
+    "missing_refrigerators\\bosch_kgn392icf\\images\\02.jpg"
+  ]
+}

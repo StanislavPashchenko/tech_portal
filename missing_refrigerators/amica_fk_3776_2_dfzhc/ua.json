@@ -1,0 +1,135 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/AMICA-FK-3776-2-DFZHC.htm",
+    "actual_url": "https://ek.ua/ua/AMICA-FK-3776-2-DFZHC.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Amica",
+    "model": "FK 3776.2 DFZHC графіт",
+    "title": "Холодильник Amica FK 3776.2 DFZHC графіт",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 356,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 260,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 96,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 8,
+    "freezing_capacity_kg_per_day": 6
+  },
+  "general": {
+    "control": "сенсорне зовнішнє",
+    "energy_class_new": "C",
+    "annual_energy_consumption_kwh": 157,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 37,
+    "dimensions_cm": {
+      "height": 200.0,
+      "width": 59.5,
+      "depth": 63.5
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Amica FK 3776.2 DFZHC графіт за ціною від 42920 до 42920 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2665692.jpg",
+    "https://mzimg.com/big/11/holy2znev11.jpg",
+    "https://mzimg.com/big/w1/holy2zq51w1.jpg",
+    "https://mzimg.com/big/41/holy303jz41.jpg",
+    "https://mzimg.com/big/l1/holy305z8l1.jpg",
+    "https://mzimg.com/big/u1/holy30jo0u1.jpg",
+    "https://s.ek.ua/jpg/2665692.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 6": "від 42 920 грн. Купити! Холодильник Amica FK3776.2DFZHC Full No Frost 200 см black Inox FK3776.2HC Novateh.com.ua Менше року Доставка: у Дніпро з Новояворівська Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 356 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 Функції та можливості Функції режим відпустки захист від дітей LED дисплей індикатор закриття дверцят перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 260 л Полиць 4 шт Відсіки для зберігання зона свіжості зона вологості Швидке охолодження Динамічне охолодження Автоматичне розморожування LED освітлення": "квітень 2024",
+      "Загальний об'єм": "356 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "Функції": "режим відпустки захист від дітей LED дисплей індикатор закриття дверцят перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "260 л",
+      "Полиць": "4 шт",
+      "Відсіки для зберігання": "зона свіжості зона вологості",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "96 л",
+      "Відділень морозильної камери": "3 шт",
+      "Час збереження холоду": "8 год",
+      "Потужність заморожування": "6 кг/добу",
+      "Управління": "сенсорне зовнішнє",
+      "Клас енергоспоживання (new)": "C",
+      "Споживання енергії в рік": "157 кВт*год",
+      "Клас гучності": "C",
+      "Рівень шуму": "37 дБ",
+      "Габарити (ВхШхГ)": "200x59.5x63.5 см",
+      "Офіційний сайт": "amica.pl",
+      "Дата додавання на E-Katalog": "квітень 2024",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\amica_fk_3776_2_dfzhc\\images\\01.jpg",
+    "missing_refrigerators\\amica_fk_3776_2_dfzhc\\images\\02.jpg",
+    "missing_refrigerators\\amica_fk_3776_2_dfzhc\\images\\03.jpg",
+    "missing_refrigerators\\amica_fk_3776_2_dfzhc\\images\\04.jpg",
+    "missing_refrigerators\\amica_fk_3776_2_dfzhc\\images\\05.jpg",
+    "missing_refrigerators\\amica_fk_3776_2_dfzhc\\images\\06.jpg",
+    "missing_refrigerators\\amica_fk_3776_2_dfzhc\\images\\07.jpg"
+  ]
+}

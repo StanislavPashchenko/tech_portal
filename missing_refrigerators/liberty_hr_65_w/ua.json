@@ -1,0 +1,124 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/LIBERTY-HR-65-W.htm",
+    "actual_url": "https://ek.ua/ua/LIBERTY-HR-65-W.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "LIBERTY",
+    "model": "HR-65 W білий",
+    "title": "Холодильник LIBERTY HR-65 W білий",
+    "category": "E-Katalog category 200",
+    "year": 2018,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 20
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 47,
+    "cameras_count": 1,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 47,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "немає",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "поворотні перемикачі",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": 106,
+    "climate_class": [
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 41,
+    "dimensions_cm": {
+      "height": 51.0,
+      "width": 44.0,
+      "depth": 47.0
+    },
+    "weight_kg": 15.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник LIBERTY HR-65 W білий за ціною від 4599 до 7046 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1392043.jpg",
+    "https://s.ek.ua/jpg/1392043.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Pro100market.com.ua →": "5 319 грн.",
+      "Openshop.ua →": "5 243 грн.",
+      "Elmag.ua →": "5 319 грн.",
+      "ТЕХНОточка →": "5 191 грн.",
+      "Comtrading.ua →": "7 046 грн.",
+      "Колір Загальний об'єм 47 л Кількість камер 1 Контурів охолодження 1 Компресорів 1 Функції та можливості Функції перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 47 л Відсіки для зберігання низькотемпературний відсік": "липень 2018",
+      "Загальний об'єм": "47 л",
+      "Кількість камер": "1",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "Функції": "перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "47 л",
+      "Відсіки для зберігання": "низькотемпературний відсік",
+      "Морозильна камера": "немає",
+      "Управління": "поворотні перемикачі",
+      "Клас енергоспоживання": "A+",
+      "Споживання енергії в рік": "106 кВт*год",
+      "Кліматичний клас": "N, ST, T (+16...+43 °С)",
+      "Рівень шуму": "41 дБ",
+      "Габарити (ВхШхГ)": "51x44x47 см",
+      "Вага": "15 кг",
+      "Дата додавання на E-Katalog": "липень 2018"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\liberty_hr_65_w\\images\\01.jpg",
+    "missing_refrigerators\\liberty_hr_65_w\\images\\02.jpg"
+  ]
+}

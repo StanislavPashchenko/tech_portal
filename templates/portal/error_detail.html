@@ -9,10 +9,11 @@
 <section class="article-layout">
     <article class="article-main">
         <header class="article-header">
-            <span class="eyebrow">{{ error_code.brand.display_name }} / {{ error_code.code }}</span>
+            <span class="eyebrow">{{ error_code.display_appliance_type }} / {{ error_code.display_brand_name }} / {{ error_code.display_model_name }}</span>
             <h1>{{ error_code.display_title }}</h1>
             <p class="article-excerpt">{{ error_code.display_description }}</p>
             <div class="article-meta">
+                <span>{{ error_code.code }}</span>
                 <span>{{ error_code.views }} {% ui 'views' %}</span>
                 <span>{{ request.LANGUAGE_CODE|upper }}</span>
             </div>

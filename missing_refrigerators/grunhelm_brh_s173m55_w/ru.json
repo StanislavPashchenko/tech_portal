@@ -1,0 +1,127 @@
+{
+  "source": {
+    "url": "https://ek.ua/GRUNHELM-BRH-S173M55-W.htm",
+    "actual_url": "https://ek.ua/GRUNHELM-BRH-S173M55-W.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Grunhelm",
+    "model": "BRH-S173M55-W белый",
+    "title": "Холодильник Grunhelm BRH-S173M55-W белый",
+    "category": "E-Katalog category 200",
+    "year": 2021,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 246,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 143,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 103,
+    "sections_count": 4,
+    "sections_details": "4 шт",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": 5
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": null,
+    "annual_energy_consumption_kwh": 252,
+    "climate_class": [
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 42,
+    "dimensions_cm": {
+      "height": 173.0,
+      "width": 54.5,
+      "depth": 58.0
+    },
+    "weight_kg": null,
+    "country_of_origin": "Китай"
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Grunhelm BRH-S173M55-W белый по цене от 10965 до 10965 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2078336.jpg",
+    "https://mzimg.com/big/41/gtucido1j41.jpg",
+    "https://mzimg.com/big/d1/gtucidp8zd1.jpg",
+    "https://mzimg.com/big/81/gtucie2a381.jpg",
+    "https://s.ek.ua/jpg/2078336.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 4": "10 965 грн. Купить! Холодильник двокамерний GRUNHELM BRH-S173M55-W Маркетплейс: Rozetka.ua BPM С нами 7 лет Доставка: в Днепр из Киева Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Общий объем 246 л Количество камер 2 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Функции перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 143 л Полок 3 шт Автоматическая разморозка": "август 2021",
+      "Общий объем": "246 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Функции": "перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "143 л",
+      "Полок": "3 шт",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "103 л",
+      "Отделений морозильной камеры": "4 шт",
+      "Мощность замораживания": "5 кг/сутки",
+      "Управление": "поворотные переключатели",
+      "Потребление энергии в год": "252 кВт*ч",
+      "Климатический класс": "субтропический ST (+18...+38 °С)",
+      "Уровень шума": "42 дБ",
+      "Габариты (ВхШхГ)": "173x54.5x58 см",
+      "Страна производства": "Китай",
+      "Дата добавления на E-Katalog": "август 2021",
+      "Автоматическая разморозка": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\grunhelm_brh_s173m55_w\\images\\01.jpg",
+    "missing_refrigerators\\grunhelm_brh_s173m55_w\\images\\02.jpg",
+    "missing_refrigerators\\grunhelm_brh_s173m55_w\\images\\03.jpg",
+    "missing_refrigerators\\grunhelm_brh_s173m55_w\\images\\04.jpg",
+    "missing_refrigerators\\grunhelm_brh_s173m55_w\\images\\05.jpg"
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "source": {
+    "url": "https://ek.ua/LIEBHERR-CBNBS-4835.htm",
+    "actual_url": "https://ek.ua/LIEBHERR-CBNBS-4835.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liebherr",
+    "model": "CBNbs 4835 нержавейка",
+    "title": "Холодильник Liebherr CBNbs 4835 нержавейка",
+    "category": "E-Katalog category 200",
+    "year": 2020,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 4835
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 343,
+    "cameras_count": 3,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": false,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 148,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 101,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 24,
+    "freezing_capacity_kg_per_day": 16
+  },
+  "general": {
+    "control": "сенсорное внутреннее",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 186,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 34,
+    "dimensions_cm": {
+      "height": 201.0,
+      "width": 60.0,
+      "depth": 67.0
+    },
+    "weight_kg": 81.0,
+    "country_of_origin": "Германия"
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general",
+      "Цены на Liebherr CBNbs 4835"
+    ]
+  },
+  "description": "Дебютировавший в продаже зимой 2020 года холодильник немецкого производителя Liebherr представляет линейку Comfort и относится к моделям продвинутого уровня. Холодильное отделение и морозильник, расположенный снизу, дополняет так называемая нулевая камера BioFresh с парой изолированных от других полок выдвижных контейнеров. Их суммарная вместительность составляет 94 литра, что позволит хранить здесь как мясо или рыбу, так и овощи с фруктами. Холодильник Liebherr CBNbs 4835 имеет полезный объем в 343 литра, из которых 101 л приходятся на морозильную камеру. Она предусматривает 3 выдвижных ящика и способна заморозить до 16 кг продуктов в сутки. При отключении электричества агрегат сохранит холод не менее 24 часов. 148-литровая холодильная камера (это объем без учета зоны свежести) имеет дезодоратор, удаляющий неприятные запахи, а 3 из 4 полок можно регулировать по высоте. К немаловажным достоинствам модели относится тихая работа (до 34 дБ), поддержка системы автоматической разморозки NoFrost во всех отделениях и наличие сенсорного внутреннего управления (2.4-дюймового дисплея). Еще один плюс — экономичное энергопотребление на уровне 186 кВт*ч в год (класс A++).",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1751182.jpg",
+    "https://mzimg.com/big/f1/gcb9zlmwhf1.jpg",
+    "https://mzimg.com/big/u1/gcb9zm1t5u1.jpg",
+    "https://mzimg.com/big/61/gcb9zmgxe61.jpg",
+    "https://mzimg.com/big/41/gcb9zmupm41.jpg",
+    "https://mzimg.com/big/f1/gcb9zn9e9f1.jpg",
+    "https://mzimg.com/big/a1/gcb9znpwha1.jpg",
+    "https://s.ek.ua/jpg/1751182.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Видео 1 Фото 7": "129 224 грн. Купить! Холодильник Liebherr CBNbs 4835 inSale.com.ua Менее года Доставка: в Днепр из Киева Гарантия: 12 мес. Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Общий объем 343 л Количество камер 3 Контуров охлаждения 2 Компрессоров 1 No Frost морозильная камера Функции и возможности Функции защита от детей LED дисплей индикатор закрытия дверцы перевешивание дверей Холодильное отделение Объем холодильной камеры 148 л Полок 4 шт Отсеки для хранения зона свежести Зона свежести (нулевая камера) 94 л Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка Дезодоратор LED освещение Телескопические направляющие": "февраль 2020",
+      "Общий объем": "343 л",
+      "Количество камер": "3",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная камера",
+      "Функции": "защита от детей LED дисплей индикатор закрытия дверцы перевешивание дверей",
+      "Объем холодильной камеры": "148 л",
+      "Полок": "4 шт",
+      "Отсеки для хранения": "зона свежести",
+      "Зона свежести (нулевая камера)": "94 л",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "101 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Температура морозилки": "-24 °C",
+      "Время сохранения холода": "24 ч",
+      "Мощность замораживания": "16 кг/сутки",
+      "Управление": "сенсорное внутреннее",
+      "Класс энергопотребления": "A++",
+      "Потребление энергии в год": "186 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Уровень шума": "34 дБ",
+      "Габариты (ВхШхГ)": "201x60x67 см",
+      "Вес": "81 кг",
+      "Страна производства": "Германия",
+      "Дата добавления на E-Katalog": "февраль 2020",
+      "Отзыв полезен? Да 3 Нет 0": "anonim 8 мая 2025, 17:08",
+      "Видимо время Liebherr прошло.": "10 февраля 2021",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да",
+      "Дезодоратор": "да"
+    },
+    "Цены на Liebherr CBNbs 4835": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\liebherr_cbnbs_4835\\images\\01.jpg",
+    "missing_refrigerators\\liebherr_cbnbs_4835\\images\\02.jpg",
+    "missing_refrigerators\\liebherr_cbnbs_4835\\images\\03.jpg",
+    "missing_refrigerators\\liebherr_cbnbs_4835\\images\\04.jpg",
+    "missing_refrigerators\\liebherr_cbnbs_4835\\images\\05.jpg",
+    "missing_refrigerators\\liebherr_cbnbs_4835\\images\\06.jpg",
+    "missing_refrigerators\\liebherr_cbnbs_4835\\images\\07.jpg",
+    "missing_refrigerators\\liebherr_cbnbs_4835\\images\\08.jpg"
+  ]
+}

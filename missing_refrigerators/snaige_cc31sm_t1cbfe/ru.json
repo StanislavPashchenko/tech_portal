@@ -1,0 +1,130 @@
+{
+  "source": {
+    "url": "https://ek.ua/SNAIGE-CC31SM-T1CBFE.htm",
+    "actual_url": "https://ek.ua/SNAIGE-CC31SM-T1CBFE.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Snaige",
+    "model": "CC31SM-T1CBFE нержавейка",
+    "title": "Холодильник Snaige CC31SM-T1CBFE нержавейка",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 20
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 309,
+    "cameras_count": 1,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 309,
+    "shelves_count": 6
+  },
+  "freezer_compartment": {
+    "location": "отсутствует",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 108,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 41,
+    "dimensions_cm": {
+      "height": 163.0,
+      "width": 60.0,
+      "depth": 65.0
+    },
+    "weight_kg": 52.0,
+    "country_of_origin": "Литва"
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Snaige CC31SM-T1CBFE нержавейка по цене от 19672 до 26610 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2811614.jpg",
+    "https://mzimg.com/big/k1/hw84a9ugxk1.jpg",
+    "https://mzimg.com/big/q1/hw84a9vfcq1.jpg",
+    "https://mzimg.com/big/i1/hw84aaeyri1.jpg",
+    "https://mzimg.com/big/31/hw84aageg31.jpg",
+    "https://s.ek.ua/jpg/2811614.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 5": "21 999 грн.",
+      "Pro100market.com.ua →": "22 264 грн.",
+      "Xfrost.net.ua →": "21 298 грн.",
+      "Stylus.ua →": "20 911 грн.",
+      "Vodogreyka.com.ua →": "21 999 грн.",
+      "Elmag.ua →": "21 999 грн.",
+      "Цвет Общий объем 309 л Количество камер 1 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Функции перевешивание дверей Холодильное отделение Объем холодильной камеры 309 л Полок 6 шт Автоматическая разморозка LED освещение": "декабрь 2024",
+      "Общий объем": "309 л",
+      "Количество камер": "1",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Функции": "перевешивание дверей",
+      "Объем холодильной камеры": "309 л",
+      "Полок": "6 шт",
+      "Морозильная камера": "отсутствует",
+      "Управление": "поворотные переключатели",
+      "Класс энергопотребления": "A++",
+      "Потребление энергии в год": "108 кВт*ч",
+      "Уровень шума": "41 дБ",
+      "Габариты (ВхШхГ)": "163х60х65 см",
+      "Вес": "52 кг",
+      "Страна производства": "Литва",
+      "Дата добавления на E-Katalog": "декабрь 2024",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\snaige_cc31sm_t1cbfe\\images\\01.jpg",
+    "missing_refrigerators\\snaige_cc31sm_t1cbfe\\images\\02.jpg",
+    "missing_refrigerators\\snaige_cc31sm_t1cbfe\\images\\03.jpg",
+    "missing_refrigerators\\snaige_cc31sm_t1cbfe\\images\\04.jpg",
+    "missing_refrigerators\\snaige_cc31sm_t1cbfe\\images\\05.jpg",
+    "missing_refrigerators\\snaige_cc31sm_t1cbfe\\images\\06.jpg"
+  ]
+}

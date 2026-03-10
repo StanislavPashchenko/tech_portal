@@ -1,0 +1,149 @@
+{
+  "source": {
+    "url": "https://ek.ua/SAMSUNG-GRANDPLUS-RB38C601DB1.htm",
+    "actual_url": "https://ek.ua/SAMSUNG-GRANDPLUS-RB38C601DB1.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Samsung",
+    "model": "Grand+ RB38C601DB1 графит",
+    "title": "Холодильник Samsung Grand+ RB38C601DB1 графит",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 390,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 276,
+    "shelves_count": 6
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 114,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 9,
+    "freezing_capacity_kg_per_day": 8
+  },
+  "general": {
+    "control": "сенсорное внутреннее",
+    "energy_class_new": "D",
+    "annual_energy_consumption_kwh": 211,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 35,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 59.5,
+      "depth": 65.8
+    },
+    "weight_kg": 73.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Samsung Grand+ RB38C601DB1 графит по цене от 46454 до 46454 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2683655.jpg",
+    "https://mzimg.com/big/t1/hph14pbgbt1.jpg",
+    "https://mzimg.com/big/k1/hph14pnt6k1.jpg",
+    "https://mzimg.com/big/01/hph14pp2701.jpg",
+    "https://mzimg.com/big/71/hph14q3u871.jpg",
+    "https://mzimg.com/big/81/hph14oq1o81.jpg",
+    "https://mzimg.com/big/t1/hph14orl5t1.jpg",
+    "https://mzimg.com/big/91/hph14p2qx91.jpg",
+    "https://mzimg.com/big/k1/hph14q21tk1.jpg",
+    "https://mzimg.com/big/l1/hph14qfawl1.jpg",
+    "https://s.ek.ua/jpg/2683655.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 10": "46 454 грн. Купить! Холодильник Samsung RB38C601DB1 inSale.com.ua Менее года Доставка: в Днепр из Киева Гарантия: 12 мес. Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Общий объем 390 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 No Frost морозильная / холодильная камеры Функции и возможности Функции управление со смартфона (Wi-Fi) LED дисплей индикатор закрытия дверцы перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 276 л Полок 6 шт Складная полка Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "май 2024",
+      "Общий объем": "390 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "управление со смартфона (Wi-Fi) LED дисплей индикатор закрытия дверцы перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "276 л",
+      "Полок": "6 шт",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "114 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Время сохранения холода": "9 ч",
+      "Мощность замораживания": "8 кг/сутки",
+      "Управление": "сенсорное внутреннее",
+      "Класс энергопотребления (new)": "D",
+      "Потребление энергии в год": "211 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Уровень шума": "35 дБ",
+      "Габариты (ВхШхГ)": "203x59.5x65.8 см",
+      "Вес": "73 кг",
+      "Официальный сайт": "samsung.com",
+      "Дата добавления на E-Katalog": "май 2024",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\samsung_grandplus_rb38c601db1\\images\\01.jpg",
+    "missing_refrigerators\\samsung_grandplus_rb38c601db1\\images\\02.jpg",
+    "missing_refrigerators\\samsung_grandplus_rb38c601db1\\images\\03.jpg",
+    "missing_refrigerators\\samsung_grandplus_rb38c601db1\\images\\04.jpg",
+    "missing_refrigerators\\samsung_grandplus_rb38c601db1\\images\\05.jpg",
+    "missing_refrigerators\\samsung_grandplus_rb38c601db1\\images\\06.jpg",
+    "missing_refrigerators\\samsung_grandplus_rb38c601db1\\images\\07.jpg",
+    "missing_refrigerators\\samsung_grandplus_rb38c601db1\\images\\08.jpg",
+    "missing_refrigerators\\samsung_grandplus_rb38c601db1\\images\\09.jpg",
+    "missing_refrigerators\\samsung_grandplus_rb38c601db1\\images\\10.jpg",
+    "missing_refrigerators\\samsung_grandplus_rb38c601db1\\images\\11.jpg"
+  ]
+}

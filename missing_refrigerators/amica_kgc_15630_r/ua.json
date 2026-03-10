@@ -1,0 +1,132 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/AMICA-KGC-15630-R.htm",
+    "actual_url": "https://ek.ua/ua/AMICA-KGC-15630-R.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Amica",
+    "model": "KGC 15630 R червоний",
+    "title": "Холодильник Amica KGC 15630 R червоний",
+    "category": "E-Katalog category 200",
+    "year": 2020,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 252,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": false,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 208,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "зверху",
+    "volume_l": 44,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 12,
+    "freezing_capacity_kg_per_day": 2
+  },
+  "general": {
+    "control": "поворотні перемикачі",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 172,
+    "climate_class": [
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 40,
+    "dimensions_cm": {
+      "height": 144.0,
+      "width": 55.0,
+      "depth": 61.5
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general",
+      "Ціни на Amica KGC 15630 R"
+    ]
+  },
+  "description": "Холодильник Amica KGC 15630 R червоний за ціною від 27308 до 27308 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1896941.jpg",
+    "https://mzimg.com/big/41/gk7fddbnq41.jpg",
+    "https://mzimg.com/big/c1/gk7fddcznc1.jpg",
+    "https://mzimg.com/big/l1/gk7fddx2dl1.jpg",
+    "https://mzimg.com/big/e1/gk7fddzgxe1.jpg",
+    "https://s.ek.ua/jpg/1896941.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 5": "від 27 308 грн. Купити! Холодильник Amica KGC15630R 144cm red Novateh.com.ua Менше року Доставка: у Дніпро з Новояворівська Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 252 л Кількість камер 2 Контурів охолодження 1 Компресорів 1 Функції та можливості Додатково ретро дизайн Холодильне відділення Об'єм холодильної камери 208 л Полиць 4 шт Автоматичне розморожування LED освітлення": "жовтень 2020",
+      "Загальний об'єм": "252 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "Додатково": "ретро дизайн",
+      "Об'єм холодильної камери": "208 л",
+      "Полиць": "4 шт",
+      "Морозильна камера": "зверху",
+      "Об'єм морозильної камери": "44 л",
+      "Час збереження холоду": "12 год",
+      "Потужність заморожування": "2.5 кг/добу",
+      "Управління": "поворотні перемикачі",
+      "Клас енергоспоживання": "A++",
+      "Споживання енергії в рік": "172 кВт*год",
+      "Кліматичний клас": "субтропічний ST (+18...+38 °С)",
+      "Рівень шуму": "40 дБ",
+      "Габарити (ВхШхГ)": "144x55x61.5 см",
+      "Офіційний сайт": "amica.pl",
+      "Дата додавання на E-Katalog": "жовтень 2020",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    },
+    "Ціни на Amica KGC 15630 R": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\amica_kgc_15630_r\\images\\01.jpg",
+    "missing_refrigerators\\amica_kgc_15630_r\\images\\02.jpg",
+    "missing_refrigerators\\amica_kgc_15630_r\\images\\03.jpg",
+    "missing_refrigerators\\amica_kgc_15630_r\\images\\04.jpg",
+    "missing_refrigerators\\amica_kgc_15630_r\\images\\05.jpg",
+    "missing_refrigerators\\amica_kgc_15630_r\\images\\06.jpg"
+  ]
+}

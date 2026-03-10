@@ -1,0 +1,129 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/GRUNHELM-GNC-185HLW.htm",
+    "actual_url": "https://ek.ua/en/GRUNHELM-GNC-185HLW.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Grunhelm",
+    "model": "GNC-185HLW white",
+    "title": "Grunhelm GNC-185HLW white",
+    "category": "E-Katalog category 200",
+    "year": 2019,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knobs",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": null,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 43,
+    "dimensions_cm": {
+      "height": 185.5,
+      "width": 60.0,
+      "depth": 67.5
+    },
+    "weight_kg": 66.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Grunhelm GNC-185HLW white at a price from 17760 to 17760 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1701495.jpg",
+    "https://mzimg.com/big/61/g9iez6xh661.jpg",
+    "https://mzimg.com/big/r1/g9iez7b3ir1.jpg",
+    "https://mzimg.com/big/d1/g9iez7r1id1.jpg",
+    "https://s.ek.ua/jpg/1701495.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 4": "from 17 760 ₴ Buy! Холодильник Grunhelm GNC-185HLW2 Marketplace: Rozetka.ua Лідери 7 year with us Delivery: to Dnipro from Kyiv Report add to list my lists add to comparison",
+      "Colour Total capacity 320 L Number of chambers 2 Number of cooling circuits 1 Number of compressors 1 No Frost freezer / refrigerator compartments Features Features reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 225 L Dynamic air cooling Auto-defrost": "November 2019",
+      "Total capacity": "320 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "225 L",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "95 L",
+      "Freeze capacity": "4.5 kg/day",
+      "Controls": "rotary knobs",
+      "Energy class": "A+",
+      "Climate class": "SN, N, ST (+10...+38 °С)",
+      "Noise level": "43 dB",
+      "Dimensions (HxWxD)": "185.5x60х67.5 cm",
+      "Weight": "66 kg",
+      "Added to E-Catalog": "November 2019",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\grunhelm_gnc_185hlw\\images\\01.jpg",
+    "missing_refrigerators\\grunhelm_gnc_185hlw\\images\\02.jpg",
+    "missing_refrigerators\\grunhelm_gnc_185hlw\\images\\03.jpg",
+    "missing_refrigerators\\grunhelm_gnc_185hlw\\images\\04.jpg",
+    "missing_refrigerators\\grunhelm_gnc_185hlw\\images\\05.jpg"
+  ]
+}

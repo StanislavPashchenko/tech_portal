@@ -1,0 +1,125 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/HEINNER-HF-HS94SEPLUSPLUS.htm",
+    "actual_url": "https://ek.ua/ua/HEINNER-HF-HS94SEPLUSPLUS.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Heinner",
+    "model": "HF-HS94SE++ нержавіюча сталь",
+    "title": "Холодильник Heinner HF-HS94SE++ нержавіюча сталь",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 94,
+    "cameras_count": 1,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 94,
+    "shelves_count": 2
+  },
+  "freezer_compartment": {
+    "location": "немає",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "поворотні перемикачі",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 86,
+    "climate_class": [
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 36,
+    "dimensions_cm": {
+      "height": 84.0,
+      "width": 47.5,
+      "depth": 45.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Heinner HF-HS94SE++ нержавіюча сталь за ціною від 7379 до 7379 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2908377.jpg",
+    "https://mzimg.com/big/e1/i23bpzwaje1.jpg",
+    "https://s.ek.ua/jpg/2908377.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Колір Загальний об'єм 94 л Кількість камер 1 Контурів охолодження 1 Компресорів 1 Функції та можливості Функції перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 94 л Полиць 2 шт Відсіки для зберігання низькотемпературний відсік Динамічне охолодження LED освітлення": "червень 2025",
+      "Загальний об'єм": "94 л",
+      "Кількість камер": "1",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "Функції": "перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "94 л",
+      "Полиць": "2 шт",
+      "Відсіки для зберігання": "низькотемпературний відсік",
+      "Морозильна камера": "немає",
+      "Управління": "поворотні перемикачі",
+      "Клас енергоспоживання (new)": "E",
+      "Споживання енергії в рік": "86 кВт*год",
+      "Кліматичний клас": "N, ST, T (+16...+43 °С)",
+      "Клас гучності": "C",
+      "Рівень шуму": "36 дБ",
+      "Габарити (ВхШхГ)": "84х47.5х45 см",
+      "Офіційний сайт": "heinner.com",
+      "Дата додавання на E-Katalog": "червень 2025",
+      "Динамічне охолодження": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\heinner_hf_hs94seplusplus\\images\\01.jpg",
+    "missing_refrigerators\\heinner_hf_hs94seplusplus\\images\\02.jpg",
+    "missing_refrigerators\\heinner_hf_hs94seplusplus\\images\\03.jpg"
+  ]
+}

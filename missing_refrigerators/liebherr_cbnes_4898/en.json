@@ -1,0 +1,153 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/LIEBHERR-CBNES-4898.htm",
+    "actual_url": "https://ek.ua/en/LIEBHERR-CBNES-4898.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liebherr",
+    "model": "CBNes 4898 stainless steel",
+    "title": "Liebherr CBNes 4898 stainless steel",
+    "category": "E-Katalog category 200",
+    "year": 183,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": false,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "external touch controls",
+    "energy_class_new": "A+++",
+    "annual_energy_consumption_kwh": 183,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 36,
+    "dimensions_cm": {
+      "height": 201.0,
+      "width": 60.0,
+      "depth": 66.5
+    },
+    "weight_kg": 113.0,
+    "country_of_origin": "Germany"
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Liebherr CBNes 4898 stainless steel at a price from 159583 to 159583 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1784447.jpg",
+    "https://mzimg.com/big/q1/ge2sg7wmvq1.jpg",
+    "https://mzimg.com/big/f1/ge2sg88ibf1.jpg",
+    "https://mzimg.com/big/y1/ge2sg9yq4y1.jpg",
+    "https://mzimg.com/big/41/ge2sgailg41.jpg",
+    "https://mzimg.com/big/11/ge2sgavtl11.jpg",
+    "https://mzimg.com/big/s1/ge2sgbh7ps1.jpg",
+    "https://mzimg.com/big/r1/ge2sg8ks4r1.jpg",
+    "https://mzimg.com/big/r1/ge2sg900fr1.jpg",
+    "https://mzimg.com/big/v1/ge2sg9dopv1.jpg",
+    "https://s.ek.ua/jpg/1784447.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 10": "159 583 ₴ Buy! Холодильник Liebherr CBNes 4898 inSale.com.ua Less than year Delivery: to Dnipro from Kyiv Warranty: 12 month Report add to list my lists add to comparison",
+      "Colour Total capacity 338 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 No Frost freezer location Features Features holiday mode child lock TFT display door alarm reversible door Refrigeration chamber Refrigerator capacity 146 L Storage compartments fresh zone Fresh zone (zero chamber) 94 L Dynamic air cooling Auto-defrost LED lighting": "April 2020",
+      "Total capacity": "338 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer location",
+      "Features": "holiday mode child lock TFT display door alarm reversible door",
+      "Refrigerator capacity": "146 L",
+      "Storage compartments": "fresh zone",
+      "Fresh zone (zero chamber)": "94 L",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "98 L",
+      "Freezer temperature": "-32 °C",
+      "Autonomy time": "24 h",
+      "Freeze capacity": "16 kg/day",
+      "Ice maker": "internal",
+      "Controls": "external touch controls",
+      "Energy class": "A+++",
+      "Energy consumption per year": "183 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Noise level": "36 dB",
+      "Dimensions (HxWxD)": "201x60x66.5 cm",
+      "Weight": "113 kg",
+      "Country of origin": "Germany",
+      "Added to E-Catalog": "April 2020",
+      "Useful Review? Yes 0 No 0": "19 February 2022",
+      "High-quality iron construction and as always the most disgraceful software execution!": "19 February 2022",
+      "Useful Review? Yes 0 No 0 (2)": "11 March 2022",
+      "Do not take it, Liebherr is no longer the same and the service is zero. Customer focused on yourself": "11 March 2022",
+      "LED lighting": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\liebherr_cbnes_4898\\images\\01.jpg",
+    "missing_refrigerators\\liebherr_cbnes_4898\\images\\02.jpg",
+    "missing_refrigerators\\liebherr_cbnes_4898\\images\\03.jpg",
+    "missing_refrigerators\\liebherr_cbnes_4898\\images\\04.jpg",
+    "missing_refrigerators\\liebherr_cbnes_4898\\images\\05.jpg",
+    "missing_refrigerators\\liebherr_cbnes_4898\\images\\06.jpg",
+    "missing_refrigerators\\liebherr_cbnes_4898\\images\\07.jpg",
+    "missing_refrigerators\\liebherr_cbnes_4898\\images\\08.jpg",
+    "missing_refrigerators\\liebherr_cbnes_4898\\images\\09.jpg",
+    "missing_refrigerators\\liebherr_cbnes_4898\\images\\10.jpg",
+    "missing_refrigerators\\liebherr_cbnes_4898\\images\\11.jpg"
+  ]
+}

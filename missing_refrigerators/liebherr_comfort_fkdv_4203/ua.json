@@ -1,0 +1,124 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/LIEBHERR-COMFORT-FKDV-4203.htm",
+    "actual_url": "https://ek.ua/ua/LIEBHERR-COMFORT-FKDV-4203.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liebherr",
+    "model": "Comfort FKDv 4203 білий",
+    "title": "Холодильник Liebherr Comfort FKDv 4203 білий",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "холодильна вітрина",
+    "total_volume_l": 403,
+    "cameras_count": 1,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 403,
+    "shelves_count": 5
+  },
+  "freezer_compartment": {
+    "location": "немає",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "поворотні перемикачі",
+    "energy_class_new": "C",
+    "annual_energy_consumption_kwh": 527,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 201.0,
+      "width": 60.0,
+      "depth": 68.7
+    },
+    "weight_kg": 78.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Liebherr Comfort FKDv 4203 білий за ціною від 48999 до 48999 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2471793.jpg",
+    "https://mzimg.com/big/x1/hf0bvn7vhx1.jpg",
+    "https://mzimg.com/big/j1/hf0bvnal7j1.jpg",
+    "https://mzimg.com/big/81/hf0bvnije81.jpg",
+    "https://s.ek.ua/jpg/2471793.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 4": "48 999 грн.",
+      "575.in.ua →": "48 999 грн.",
+      "Колір Тип холодильна вітрина Загальний об'єм 403 л Кількість камер 1 Контурів охолодження 1 Компресорів 1 Функції та можливості Функції перевішування дверей Холодильне відділення Об'єм холодильної камери 403 л Полиць 5 шт Динамічне охолодження Автоматичне розморожування": "червень 2023",
+      "Тип": "холодильна вітрина",
+      "Загальний об'єм": "403 л",
+      "Кількість камер": "1",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "Функції": "перевішування дверей",
+      "Об'єм холодильної камери": "403 л",
+      "Полиць": "5 шт",
+      "Морозильна камера": "немає",
+      "Управління": "поворотні перемикачі",
+      "Клас енергоспоживання (new)": "C",
+      "Споживання енергії в рік": "527 кВт*год",
+      "Габарити (ВхШхГ)": "201x60x68.7 см",
+      "Вага": "78 кг",
+      "Офіційний сайт": "home.liebherr.com",
+      "Дата додавання на E-Katalog": "червень 2023",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\liebherr_comfort_fkdv_4203\\images\\01.jpg",
+    "missing_refrigerators\\liebherr_comfort_fkdv_4203\\images\\02.jpg",
+    "missing_refrigerators\\liebherr_comfort_fkdv_4203\\images\\03.jpg",
+    "missing_refrigerators\\liebherr_comfort_fkdv_4203\\images\\04.jpg",
+    "missing_refrigerators\\liebherr_comfort_fkdv_4203\\images\\05.jpg"
+  ]
+}

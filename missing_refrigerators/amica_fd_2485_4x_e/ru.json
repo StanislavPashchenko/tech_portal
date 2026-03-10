@@ -1,0 +1,135 @@
+{
+  "source": {
+    "url": "https://ek.ua/AMICA-FD-2485-4X-E.htm",
+    "actual_url": "https://ek.ua/AMICA-FD-2485-4X-E.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Amica",
+    "model": "FD 2485.4X(E) нержавейка",
+    "title": "Холодильник Amica FD 2485.4X(E) нержавейка",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 211,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 170,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "сверху",
+    "volume_l": 41,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 13,
+    "freezing_capacity_kg_per_day": 2
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 176,
+    "climate_class": [
+      "N"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 41,
+    "dimensions_cm": {
+      "height": 145.0,
+      "width": 54.0,
+      "depth": 57.0
+    },
+    "weight_kg": 40.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general",
+      "Цены на Amica FD 2485.4X(E)"
+    ]
+  },
+  "description": "Холодильник Amica FD 2485.4X(E) нержавейка по цене от 16249 до 16249 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2665678.jpg",
+    "https://mzimg.com/big/l1/holvsrle2l1.jpg",
+    "https://mzimg.com/big/o1/holvsrmz1o1.jpg",
+    "https://mzimg.com/big/w1/holvqkeczw1.jpg",
+    "https://mzimg.com/big/b1/holvqkfysb1.jpg",
+    "https://s.ek.ua/jpg/2665678.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 5": "16 249 грн. Купить! Холодильник Amica FD2485.4X(E) 144cm Inox FD2485.4XE Novateh.com.ua Менее года Доставка: в Днепр из Новояворовска Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Общий объем 211 л Количество камер 2 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Функции перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 170 л Полок 3 шт Автоматическая разморозка LED освещение": "апрель 2024",
+      "Общий объем": "211 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Функции": "перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "170 л",
+      "Полок": "3 шт",
+      "Морозильная камера": "сверху",
+      "Объем морозильной камеры": "41 л",
+      "Время сохранения холода": "13 ч",
+      "Мощность замораживания": "2 кг/сутки",
+      "Управление": "поворотные переключатели",
+      "Класс энергопотребления (new)": "E",
+      "Потребление энергии в год": "176 кВт*ч",
+      "Климатический класс": "нормальный N (+16...+32 °С)",
+      "Класс шумности": "C",
+      "Уровень шума": "41 дБ",
+      "Габариты (ВхШхГ)": "145х54х57 см",
+      "Вес": "40 кг",
+      "Официальный сайт": "amica.pl",
+      "Дата добавления на E-Katalog": "апрель 2024",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    },
+    "Цены на Amica FD 2485.4X(E)": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\amica_fd_2485_4x_e\\images\\01.jpg",
+    "missing_refrigerators\\amica_fd_2485_4x_e\\images\\02.jpg",
+    "missing_refrigerators\\amica_fd_2485_4x_e\\images\\03.jpg",
+    "missing_refrigerators\\amica_fd_2485_4x_e\\images\\04.jpg",
+    "missing_refrigerators\\amica_fd_2485_4x_e\\images\\05.jpg",
+    "missing_refrigerators\\amica_fd_2485_4x_e\\images\\06.jpg"
+  ]
+}

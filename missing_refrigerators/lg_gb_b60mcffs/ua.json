@@ -1,0 +1,143 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/LG-GB-B60MCFFS.htm",
+    "actual_url": "https://ek.ua/ua/LG-GB-B60MCFFS.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "LG",
+    "model": "GB-B60MCFFS чорний",
+    "title": "Холодильник LG GB-B60MCFFS чорний",
+    "category": "E-Katalog category 200",
+    "year": 2018,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 343,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 250,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 93,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 16,
+    "freezing_capacity_kg_per_day": 14
+  },
+  "general": {
+    "control": "сенсорне зовнішнє",
+    "energy_class_new": "A+++",
+    "annual_energy_consumption_kwh": null,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 201.0,
+      "width": 60.0,
+      "depth": 65.0
+    },
+    "weight_kg": 81.0,
+    "country_of_origin": "Польща"
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник LG GB-B60MCFFS чорний за ціною від 72589 до 72589 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1380848.jpg",
+    "https://mzimg.com/big/t1/fsbumfyn6t1.jpg",
+    "https://mzimg.com/big/u1/fsbumg3cou1.jpg",
+    "https://mzimg.com/big/h1/fsbumg8ifh1.jpg",
+    "https://mzimg.com/big/q1/fsbumgctjq1.jpg",
+    "https://mzimg.com/big/t1/fsbumghhmt1.jpg",
+    "https://mzimg.com/big/r1/fsbumgo62r1.jpg",
+    "https://mzimg.com/big/i1/fsbumgtr6i1.jpg",
+    "https://mzimg.com/big/31/fsbumgy9k31.jpg",
+    "https://mzimg.com/big/91/fsbumh4ft91.jpg",
+    "https://mzimg.com/big/41/fsbumh9uk41.jpg",
+    "https://s.ek.ua/jpg/1380848.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 11": "72 589 грн. Купити! Холодильник LG GBB60MCFFS inSale.com.ua Менше року Доставка: у Дніпро з Києва Гарантія: 12 міс. Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 343 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 Інверторний компресор No Frost морозильна / холодильна камери Функції та можливості Функції керування зі смартфона (Wi-Fi) захист від дітей LED дисплей індикатор закриття дверцят перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 250 л Відсіки для зберігання зона свіжості / FRESH Converter / зона вологості / FRESH Balancer / Динамічне охолодження / Multi Air Flow / Автоматичне розморожування LED освітлення": "червень 2018",
+      "Загальний об'єм": "343 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "керування зі смартфона (Wi-Fi) захист від дітей LED дисплей індикатор закриття дверцят перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "250 л",
+      "Відсіки для зберігання": "зона свіжості / FRESH Converter / зона вологості / FRESH Balancer /",
+      "Динамічне охолодження": "/ Multi Air Flow /",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "93 л",
+      "Час збереження холоду": "16 год",
+      "Потужність заморожування": "14 кг/добу",
+      "Управління": "сенсорне зовнішнє",
+      "Клас енергоспоживання": "A+++",
+      "Габарити (ВхШхГ)": "201x60x65 см",
+      "Вага": "81 кг",
+      "Країна виробництва": "Польща",
+      "Офіційний сайт": "lg.com",
+      "Дата додавання на E-Katalog": "червень 2018",
+      "Інверторний компресор": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\lg_gb_b60mcffs\\images\\01.jpg",
+    "missing_refrigerators\\lg_gb_b60mcffs\\images\\02.jpg",
+    "missing_refrigerators\\lg_gb_b60mcffs\\images\\03.jpg",
+    "missing_refrigerators\\lg_gb_b60mcffs\\images\\04.jpg",
+    "missing_refrigerators\\lg_gb_b60mcffs\\images\\05.jpg",
+    "missing_refrigerators\\lg_gb_b60mcffs\\images\\06.jpg",
+    "missing_refrigerators\\lg_gb_b60mcffs\\images\\07.jpg",
+    "missing_refrigerators\\lg_gb_b60mcffs\\images\\08.jpg",
+    "missing_refrigerators\\lg_gb_b60mcffs\\images\\09.jpg",
+    "missing_refrigerators\\lg_gb_b60mcffs\\images\\10.jpg",
+    "missing_refrigerators\\lg_gb_b60mcffs\\images\\11.jpg",
+    "missing_refrigerators\\lg_gb_b60mcffs\\images\\12.jpg"
+  ]
+}

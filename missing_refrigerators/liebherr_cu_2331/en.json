@@ -1,0 +1,133 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/LIEBHERR-CU-2331.htm",
+    "actual_url": "https://ek.ua/en/LIEBHERR-CU-2331.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liebherr",
+    "model": "CU 2331 white",
+    "title": "Liebherr CU 2331 white",
+    "category": "E-Katalog category 200",
+    "year": 160,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knobs",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 160,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 137.2,
+      "width": 55.0,
+      "depth": 63.0
+    },
+    "weight_kg": 50.0,
+    "country_of_origin": "Bulgaria"
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general",
+      "Price for Liebherr CU 2331"
+    ]
+  },
+  "description": "Relatively small and inexpensive refrigerator, introduced to the market in 2019. The model is dressed in a case with a height of only 137.2 cm, while the total useful volume of the Liebherr CU 2331 refrigerator is 209 liters, making the model a good choice for small kitchens. The model is two-chamber with separate access doors to each of the chambers. A 53-liter freezer is located below, its capacity is enough to completely freeze up to 4 kg of fresh food per day, which is not so much. But at the same time, the device boasts excellent thermal insulation of the walls, thanks to which it is able to keep the cold inside for 25 hours without electricity. The capacity of the refrigerator compartment is 156 liters, inside there are three tempered glass shelves, as well as two drawers for vegetables and fruits. Among other things, it is important to note the fact that the model is quite economical - the device has been assigned an A++ energy class.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1529016.jpg",
+    "https://mzimg.com/big/l1/g0ixproqfl1.jpg",
+    "https://mzimg.com/big/p1/g0ixprvltp1.jpg",
+    "https://mzimg.com/big/d1/g0ixps3uqd1.jpg",
+    "https://s.ek.ua/jpg/1529016.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 4": "25 241 ₴ Buy! Холодильник Liebherr CU 2331 inSale.com.ua Less than year Delivery: to Dnipro from Kyiv Warranty: 12 month Report add to list my lists add to comparison",
+      "Colour Total capacity 209 L Number of chambers 2 Number of cooling circuits 1 Number of compressors 1 Features Features reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 156 L Auto-defrost LED lighting": "February 2019",
+      "Total capacity": "209 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "Features": "reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "156 L",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "53 L",
+      "Autonomy time": "25 h",
+      "Freeze capacity": "4 kg/day",
+      "Controls": "rotary knobs",
+      "Energy class": "A++",
+      "Energy consumption per year": "160 kWh",
+      "Climate class": "SN, N, ST (+10...+38 °С)",
+      "Noise level": "39 dB",
+      "Dimensions (HxWxD)": "137.2x55x63 cm",
+      "Weight": "50 kg",
+      "Country of origin": "Bulgaria",
+      "Added to E-Catalog": "February 2019",
+      "LED lighting": "yes",
+      "Auto-defrost": "yes"
+    },
+    "Price for Liebherr CU 2331": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\liebherr_cu_2331\\images\\01.jpg",
+    "missing_refrigerators\\liebherr_cu_2331\\images\\02.jpg",
+    "missing_refrigerators\\liebherr_cu_2331\\images\\03.jpg",
+    "missing_refrigerators\\liebherr_cu_2331\\images\\04.jpg",
+    "missing_refrigerators\\liebherr_cu_2331\\images\\05.jpg"
+  ]
+}

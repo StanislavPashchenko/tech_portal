@@ -1,0 +1,137 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/RAVANSON-LKK-250RB.htm",
+    "actual_url": "https://ek.ua/ua/RAVANSON-LKK-250RB.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Ravanson",
+    "model": "LKK-250RB чорний",
+    "title": "Холодильник Ravanson LKK-250RB чорний",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 250,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": false,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 186,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 64,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 14,
+    "freezing_capacity_kg_per_day": 3
+  },
+  "general": {
+    "control": "поворотні перемикачі",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": null,
+    "climate_class": [
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 41,
+    "dimensions_cm": {
+      "height": 184.3,
+      "width": 54.5,
+      "depth": 58.5
+    },
+    "weight_kg": 52.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general",
+      "Ціни на Ravanson LKK-250RB"
+    ]
+  },
+  "description": "Холодильник Ravanson LKK-250RB чорний за ціною від 26397 до 26397 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2370943.jpg",
+    "https://mzimg.com/big/v1/hag8cmz4yv1.jpg",
+    "https://mzimg.com/big/81/hag8disr381.jpg",
+    "https://mzimg.com/big/31/h9crejpoi31.jpg",
+    "https://mzimg.com/big/o1/h9crejq8ro1.jpg",
+    "https://s.ek.ua/jpg/2370943.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 5": "26 397 грн. Купити! Ravanson LKK-250RB холодильник 184.3 см LKK250RB Novateh.com.ua Менше року Доставка: у Дніпро з Новояворівська Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 250 л Кількість камер 2 Контурів охолодження 1 Компресорів 1 Функції та можливості Додатково ретро дизайн Холодильне відділення Об'єм холодильної камери 186 л Полиць 3 шт Відсіки для зберігання полиця для пляшок Автоматичне розморожування LED освітлення Морозильне відділення Морозильна камера знизу Об'єм морозильної камери 64 л Відділень морозильної камери 3 шт Температура морозилки -18 °C Час збереження холоду 14 год Потужність заморожування 3 кг/добу": "січень 2023",
+      "Загальний об'єм": "250 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "Додатково": "ретро дизайн",
+      "Об'єм холодильної камери": "186 л",
+      "Полиць": "3 шт",
+      "Відсіки для зберігання": "полиця для пляшок",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "64 л",
+      "Відділень морозильної камери": "3 шт",
+      "Температура морозилки": "-18 °C",
+      "Час збереження холоду": "14 год",
+      "Потужність заморожування": "3 кг/добу",
+      "Управління": "поворотні перемикачі",
+      "Клас енергоспоживання (new)": "E",
+      "Кліматичний клас": "N, ST (+16...+38 °С)",
+      "Клас гучності": "C",
+      "Рівень шуму": "41 дБ",
+      "Габарити (ВхШхГ)": "184.3x54.5x58.5 см",
+      "Вага": "52 кг",
+      "Офіційний сайт": "ravanson.pl",
+      "Дата додавання на E-Katalog": "січень 2023",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    },
+    "Ціни на Ravanson LKK-250RB": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\ravanson_lkk_250rb\\images\\01.jpg",
+    "missing_refrigerators\\ravanson_lkk_250rb\\images\\02.jpg",
+    "missing_refrigerators\\ravanson_lkk_250rb\\images\\03.jpg",
+    "missing_refrigerators\\ravanson_lkk_250rb\\images\\04.jpg",
+    "missing_refrigerators\\ravanson_lkk_250rb\\images\\05.jpg",
+    "missing_refrigerators\\ravanson_lkk_250rb\\images\\06.jpg"
+  ]
+}

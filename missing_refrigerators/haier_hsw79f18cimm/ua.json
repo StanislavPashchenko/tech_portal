@@ -1,0 +1,159 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/HAIER-HSW79F18CIMM.htm",
+    "actual_url": "https://ek.ua/ua/HAIER-HSW79F18CIMM.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Haier",
+    "model": "HSW79F18CIMM нержавіюча сталь (34005334)",
+    "title": "Холодильник Haier HSW79F18CIMM нержавіюча сталь (34005334)",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "Side-by-side",
+    "total_volume_l": 601,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 391,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 210,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 5,
+    "freezing_capacity_kg_per_day": 10
+  },
+  "general": {
+    "control": "сенсорне зовнішнє",
+    "energy_class_new": "C",
+    "annual_energy_consumption_kwh": 214,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 35,
+    "dimensions_cm": {
+      "height": 177.5,
+      "width": 90.5,
+      "depth": 72.6
+    },
+    "weight_kg": 125.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Haier HSW79F18CIMM нержавіюча сталь (34005334) за ціною від 91057 до 91057 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2908146.jpg",
+    "https://mzimg.com/big/g1/i22dk8prig1.jpg",
+    "https://mzimg.com/big/y1/i22dk8qd9y1.jpg",
+    "https://mzimg.com/big/h1/i22dk90gih1.jpg",
+    "https://mzimg.com/big/p1/i22dk912ep1.jpg",
+    "https://mzimg.com/big/y1/i22dk9g3cy1.jpg",
+    "https://mzimg.com/big/21/i22dk9gp421.jpg",
+    "https://mzimg.com/big/n1/i22dk9r5gn1.jpg",
+    "https://mzimg.com/big/s1/i22dk9rrcs1.jpg",
+    "https://mzimg.com/big/51/i22dka1y951.jpg",
+    "https://mzimg.com/big/p1/i22dka3hrp1.jpg",
+    "https://mzimg.com/big/01/i22dkaavj01.jpg",
+    "https://s.ek.ua/jpg/2908146.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 30": "від 91 057 грн. Купити! Холодильник Haier Series 7 SBS HSW79F18CIMM Full No Frost 177,5 см Диспенсер для води Пульт дистанційного керування Platinum Novateh.com.ua Менше року Доставка: у Дніпро з Новояворівська Поскаржитись в список мої списки додати до порівняння 5 691 zł 63 739 грн. 1 199 £ 66 148 грн.",
+      "Колір Тип Side-by-side Загальний об'єм 601 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 Інверторний компресор No Frost морозильна / холодильна камери Функції та можливості Функції режим відпустки керування зі смартфона (Wi-Fi) захист від дітей LED дисплей індикатор закриття дверцят Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 391 л Полиць 4 шт Відсіки для зберігання зона вологості полиця для пляшок Диспенсер холодної води зовнішній Швидке охолодження Динамічне охолодження Автоматичне розморожування LED освітлення": "34005334",
+      "Тип": "Side-by-side",
+      "Загальний об'єм": "601 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "режим відпустки керування зі смартфона (Wi-Fi) захист від дітей LED дисплей індикатор закриття дверцят",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "391 л",
+      "Полиць": "4 шт",
+      "Відсіки для зберігання": "зона вологості полиця для пляшок",
+      "Диспенсер холодної води": "зовнішній",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "210 л",
+      "Температура морозилки": "-24 °C",
+      "Час збереження холоду": "5 год",
+      "Потужність заморожування": "10 кг/добу",
+      "Льодогенератор": "зовнішній диспенсер",
+      "Управління": "сенсорне зовнішнє",
+      "Клас енергоспоживання (new)": "C",
+      "Споживання енергії в рік": "214 кВт*год",
+      "Кліматичний клас": "SN, N, ST (+10...+38 °С)",
+      "Клас гучності": "C",
+      "Рівень шуму": "35 дБ",
+      "Габарити (ВхШхГ)": "177.5х90.5x72.6 см",
+      "Вага": "125 кг",
+      "Офіційний сайт": "haier-europe.com",
+      "Дата додавання на E-Katalog": "червень 2025",
+      "Маркування виробника": "34005334",
+      "Інверторний компресор": "так",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\haier_hsw79f18cimm\\images\\01.jpg",
+    "missing_refrigerators\\haier_hsw79f18cimm\\images\\02.jpg",
+    "missing_refrigerators\\haier_hsw79f18cimm\\images\\03.jpg",
+    "missing_refrigerators\\haier_hsw79f18cimm\\images\\04.jpg",
+    "missing_refrigerators\\haier_hsw79f18cimm\\images\\05.jpg",
+    "missing_refrigerators\\haier_hsw79f18cimm\\images\\06.jpg",
+    "missing_refrigerators\\haier_hsw79f18cimm\\images\\07.jpg",
+    "missing_refrigerators\\haier_hsw79f18cimm\\images\\08.jpg",
+    "missing_refrigerators\\haier_hsw79f18cimm\\images\\09.jpg",
+    "missing_refrigerators\\haier_hsw79f18cimm\\images\\10.jpg",
+    "missing_refrigerators\\haier_hsw79f18cimm\\images\\11.jpg",
+    "missing_refrigerators\\haier_hsw79f18cimm\\images\\12.jpg",
+    "missing_refrigerators\\haier_hsw79f18cimm\\images\\13.jpg"
+  ]
+}

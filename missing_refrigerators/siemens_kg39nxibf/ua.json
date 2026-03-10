@@ -1,0 +1,149 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/SIEMENS-KG39NXIBF.htm",
+    "actual_url": "https://ek.ua/ua/SIEMENS-KG39NXIBF.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Siemens",
+    "model": "KG39NXIBF нержавіюча сталь",
+    "title": "Холодильник Siemens KG39NXIBF нержавіюча сталь",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 363,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 260,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 103,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 18,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "сенсорне зовнішнє",
+    "energy_class_new": "B",
+    "annual_energy_consumption_kwh": 129,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 33,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 60.0,
+      "depth": 66.5
+    },
+    "weight_kg": 84.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Siemens KG39NXIBF нержавіюча сталь за ціною від 59490 до 59490 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2806966.jpg",
+    "https://mzimg.com/big/31/hwp8ucryf31.jpg",
+    "https://mzimg.com/big/s1/hwp8ucslys1.jpg",
+    "https://mzimg.com/big/x1/hwp8ud9iax1.jpg",
+    "https://mzimg.com/big/m1/hwp8udb90m1.jpg",
+    "https://mzimg.com/big/u1/hwp8udm9uu1.jpg",
+    "https://mzimg.com/big/21/hwp8udnma21.jpg",
+    "https://mzimg.com/big/21/hwp8ue1oa21.jpg",
+    "https://mzimg.com/big/y1/hwp8ue338y1.jpg",
+    "https://s.ek.ua/jpg/2806966.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 9": "59 490 грн. Купити! Siemens KG39NXIBF Hi-tech.com.ua З нами більше 10-ти років Доставка: у Дніпро з Києва Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 363 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 No Frost морозильна / холодильна камери Функції та можливості Функції режим відпустки індикатор закриття дверцят перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 260 л Полиць 4 шт Відсіки для зберігання зона свіжості полиця для пляшок Швидке охолодження Динамічне охолодження Автоматичне розморожування LED освітлення": "грудень 2024",
+      "Загальний об'єм": "363 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "режим відпустки індикатор закриття дверцят перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "260 л",
+      "Полиць": "4 шт",
+      "Відсіки для зберігання": "зона свіжості полиця для пляшок",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "103 л",
+      "Відділень морозильної камери": "3 шт",
+      "Температура морозилки": "-24 °C",
+      "Час збереження холоду": "18 год",
+      "Управління": "сенсорне зовнішнє",
+      "Клас енергоспоживання (new)": "B",
+      "Споживання енергії в рік": "129 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Клас гучності": "B",
+      "Рівень шуму": "33 дБ",
+      "Габарити (ВхШхГ)": "203x60x66.5 см",
+      "Вага": "84 кг",
+      "Офіційний сайт": "siemens-home.bsh-group.com",
+      "Дата додавання на E-Katalog": "грудень 2024",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\siemens_kg39nxibf\\images\\01.jpg",
+    "missing_refrigerators\\siemens_kg39nxibf\\images\\02.jpg",
+    "missing_refrigerators\\siemens_kg39nxibf\\images\\03.jpg",
+    "missing_refrigerators\\siemens_kg39nxibf\\images\\04.jpg",
+    "missing_refrigerators\\siemens_kg39nxibf\\images\\05.jpg",
+    "missing_refrigerators\\siemens_kg39nxibf\\images\\06.jpg",
+    "missing_refrigerators\\siemens_kg39nxibf\\images\\07.jpg",
+    "missing_refrigerators\\siemens_kg39nxibf\\images\\08.jpg",
+    "missing_refrigerators\\siemens_kg39nxibf\\images\\09.jpg",
+    "missing_refrigerators\\siemens_kg39nxibf\\images\\10.jpg"
+  ]
+}

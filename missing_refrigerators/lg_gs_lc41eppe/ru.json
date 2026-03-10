@@ -1,0 +1,153 @@
+{
+  "source": {
+    "url": "https://ek.ua/LG-GS-LC41EPPE.htm",
+    "actual_url": "https://ek.ua/LG-GS-LC41EPPE.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "LG",
+    "model": "GS-LC41EPPE графит",
+    "title": "Холодильник LG GS-LC41EPPE графит",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "Side-by-side",
+    "total_volume_l": 641,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": false,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 420,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "сбоку",
+    "volume_l": 221,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": 12
+  },
+  "general": {
+    "control": "сенсорное внутреннее",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 348,
+    "climate_class": [
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 36,
+    "dimensions_cm": {
+      "height": 179.0,
+      "width": 91.3,
+      "depth": 73.5
+    },
+    "weight_kg": 105.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник LG GS-LC41EPPE графит по цене от 55560 до 68225 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2848560.jpg",
+    "https://mzimg.com/big/k1/hynurkyatk1.jpg",
+    "https://mzimg.com/big/o1/hynurkz0fo1.jpg",
+    "https://mzimg.com/big/i1/hynurl7mni1.jpg",
+    "https://mzimg.com/big/51/hynurl95c51.jpg",
+    "https://mzimg.com/big/a1/hynurlfpea1.jpg",
+    "https://mzimg.com/big/o1/hynurli0no1.jpg",
+    "https://mzimg.com/big/01/hynurlodb01.jpg",
+    "https://mzimg.com/big/a1/hynurluj8a1.jpg",
+    "https://mzimg.com/big/01/hynurm2fo01.jpg",
+    "https://mzimg.com/big/z1/hynurm764z1.jpg",
+    "https://mzimg.com/big/c1/hynurmdb1c1.jpg",
+    "https://s.ek.ua/jpg/2848560.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Hi-tech.com.ua →": "62 435 грн.",
+      "Цвет Тип Side-by-side Общий объем 641 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 Инверторный компрессор No Frost морозильная / холодильная камеры Функции и возможности Функции LED дисплей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 420 л Полок 4 шт Диспенсер холодной воды внешний Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "февраль 2025",
+      "Тип": "Side-by-side",
+      "Общий объем": "641 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "LED дисплей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "420 л",
+      "Полок": "4 шт",
+      "Диспенсер холодной воды": "внешний",
+      "Морозильная камера": "сбоку",
+      "Объем морозильной камеры": "221 л",
+      "Мощность замораживания": "12 кг/сутки",
+      "Ледогенератор": "внешний диспенсер",
+      "Управление": "сенсорное внутреннее",
+      "Класс энергопотребления (new)": "E",
+      "Потребление энергии в год": "348 кВт*ч",
+      "Климатический класс": "тропический T (+18...+43 °С)",
+      "Класс шумности": "C",
+      "Уровень шума": "36 дБ",
+      "Габариты (ВхШхГ)": "179х91.3х73.5 см",
+      "Вес": "105 кг",
+      "Официальный сайт": "lg.com",
+      "Дата добавления на E-Katalog": "февраль 2025",
+      "Инверторный компрессор": "да",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\lg_gs_lc41eppe\\images\\01.jpg",
+    "missing_refrigerators\\lg_gs_lc41eppe\\images\\02.jpg",
+    "missing_refrigerators\\lg_gs_lc41eppe\\images\\03.jpg",
+    "missing_refrigerators\\lg_gs_lc41eppe\\images\\04.jpg",
+    "missing_refrigerators\\lg_gs_lc41eppe\\images\\05.jpg",
+    "missing_refrigerators\\lg_gs_lc41eppe\\images\\06.jpg",
+    "missing_refrigerators\\lg_gs_lc41eppe\\images\\07.jpg",
+    "missing_refrigerators\\lg_gs_lc41eppe\\images\\08.jpg",
+    "missing_refrigerators\\lg_gs_lc41eppe\\images\\09.jpg",
+    "missing_refrigerators\\lg_gs_lc41eppe\\images\\10.jpg",
+    "missing_refrigerators\\lg_gs_lc41eppe\\images\\11.jpg",
+    "missing_refrigerators\\lg_gs_lc41eppe\\images\\12.jpg",
+    "missing_refrigerators\\lg_gs_lc41eppe\\images\\13.jpg"
+  ]
+}

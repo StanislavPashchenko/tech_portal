@@ -1,0 +1,129 @@
+{
+  "source": {
+    "url": "https://ek.ua/SHARP-ES-NFA-612-DWB-PL.htm",
+    "actual_url": "https://ek.ua/SHARP-ES-NFA-612-DWB-PL.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Стиральная",
+    "model": "машина Sharp ES-NFA 612 DWB-PL белый",
+    "title": "Стиральная машина Sharp ES-NFA 612 DWB-PL белый",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "фронтальная загрузка",
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": null,
+    "compressors_count": null,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": null,
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "поворотная ручка + кнопки",
+    "energy_class_new": "D",
+    "annual_energy_consumption_kwh": null,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 75,
+    "dimensions_cm": {
+      "height": 84.5,
+      "width": 59.7,
+      "depth": 41.6
+    },
+    "weight_kg": null,
+    "country_of_origin": "Турция"
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Стиральная машина Sharp ES-NFA 612 DWB-PL белый по цене от 15620 до 16304 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2676623.jpg",
+    "https://mzimg.com/big/f1/hp33g80d1f1.jpg",
+    "https://mzimg.com/big/b1/hp33g82ihb1.jpg",
+    "https://mzimg.com/big/c1/hp33g8dpac1.jpg",
+    "https://mzimg.com/big/p1/hp33g8gnop1.jpg",
+    "https://mzimg.com/big/11/hp33g8zsu11.jpg",
+    "https://s.ek.ua/jpg/2676623.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 6": "15 620 грн.",
+      "Novateh.com.ua →": "15 620 грн.",
+      "Цвет Характеристики Тип загрузки фронтальная загрузка Загрузка 6 кг Макс. скорость отжима 1200 об/мин Расход воды за цикл 43 л Сушилка Материал бака пластик Материал ТЭНа нержавеющая сталь Функции и возможности Количество программ 15 шт Дополнительные программы быстрая стирка деликатная стирка гигиена (детская одежда) джинсовая одежда": "апрель 2024",
+      "Тип загрузки": "фронтальная загрузка",
+      "Загрузка": "6 кг",
+      "Макс. скорость отжима": "1200 об/мин",
+      "Расход воды за цикл": "43 л",
+      "Материал бака": "пластик",
+      "Материал ТЭНа": "нержавеющая сталь",
+      "Количество программ": "15 шт",
+      "Дополнительные программы": "быстрая стирка деликатная стирка гигиена (детская одежда) джинсовая одежда",
+      "Класс отжима": "B",
+      "Класс энергопотребления (new)": "D",
+      "Класс шумности": "B",
+      "Управление": "поворотная ручка + кнопки",
+      "Дисплей": "LED",
+      "Открытие дверцы": "влево",
+      "Уровень шума (отжим)": "75 дБ",
+      "Габариты (ВхШхГ)": "84.5x59.7x41.6 см",
+      "Страна производства": "Турция",
+      "Официальный сайт": "sharp.com.ua",
+      "Дата добавления на E-Katalog": "апрель 2024"
+    }
+  },
+  "local_images": [
+    "missing_washing_machines\\sharp_es_nfa_612_dwb_pl\\images\\01.jpg",
+    "missing_washing_machines\\sharp_es_nfa_612_dwb_pl\\images\\02.jpg",
+    "missing_washing_machines\\sharp_es_nfa_612_dwb_pl\\images\\03.jpg",
+    "missing_washing_machines\\sharp_es_nfa_612_dwb_pl\\images\\04.jpg",
+    "missing_washing_machines\\sharp_es_nfa_612_dwb_pl\\images\\05.jpg",
+    "missing_washing_machines\\sharp_es_nfa_612_dwb_pl\\images\\06.jpg",
+    "missing_washing_machines\\sharp_es_nfa_612_dwb_pl\\images\\07.jpg"
+  ]
+}

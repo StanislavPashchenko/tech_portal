@@ -1,0 +1,146 @@
+{
+  "source": {
+    "url": "https://ek.ua/LG-GS-LV31DSXE.htm",
+    "actual_url": "https://ek.ua/LG-GS-LV31DSXE.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "LG",
+    "model": "GS-LV31DSXE нержавейка",
+    "title": "Холодильник LG GS-LV31DSXE нержавейка",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 634,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 416,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 218,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "сенсорное внешнее",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 349,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 36,
+    "dimensions_cm": {
+      "height": 179.0,
+      "width": 91.3,
+      "depth": 74.3
+    },
+    "weight_kg": 111.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник LG GS-LV31DSXE нержавейка по цене от 47380 до 47380 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2578960.jpg",
+    "https://mzimg.com/big/m1/hk1tp41pnm1.jpg",
+    "https://mzimg.com/big/e1/hk1tp42uve1.jpg",
+    "https://mzimg.com/big/m1/hk1tp4f1am1.jpg",
+    "https://mzimg.com/big/m1/hk1tp4g7zm1.jpg",
+    "https://mzimg.com/big/f1/hk1tp4r6yf1.jpg",
+    "https://mzimg.com/big/31/hk1tp4ufy31.jpg",
+    "https://mzimg.com/big/a1/hk1tp54ixa1.jpg",
+    "https://mzimg.com/big/61/hk1tp56ot61.jpg",
+    "https://mzimg.com/big/51/hk1tp5grb51.jpg",
+    "https://mzimg.com/big/k1/hk1tp5kepk1.jpg",
+    "https://s.ek.ua/jpg/2578960.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 11": "47 380 грн. Купить! Холодильник LG GSLV31DSXE inSale.com.ua Менее года Доставка: в Днепр из Киева Гарантия: 12 мес. Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Общий объем 634 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 Инверторный компрессор No Frost морозильная / холодильная камеры Функции и возможности Функции режим отпуска защита от детей LED дисплей индикатор закрытия дверцы Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 416 л Полок 4 шт Диспенсер холодной воды внешний Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "ноябрь 2023",
+      "Общий объем": "634 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "режим отпуска защита от детей LED дисплей индикатор закрытия дверцы",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "416 л",
+      "Полок": "4 шт",
+      "Диспенсер холодной воды": "внешний",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "218 л",
+      "Ледогенератор": "внешний диспенсер",
+      "Управление": "сенсорное внешнее",
+      "Класс энергопотребления (new)": "E",
+      "Потребление энергии в год": "349 кВт*ч",
+      "Класс шумности": "C",
+      "Уровень шума": "36 дБ",
+      "Габариты (ВхШхГ)": "179x91.3x74.3 см",
+      "Вес": "111 кг",
+      "Официальный сайт": "lg.com",
+      "Дата добавления на E-Katalog": "ноябрь 2023",
+      "Инверторный компрессор": "да",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\lg_gs_lv31dsxe\\images\\01.jpg",
+    "missing_refrigerators\\lg_gs_lv31dsxe\\images\\02.jpg",
+    "missing_refrigerators\\lg_gs_lv31dsxe\\images\\03.jpg",
+    "missing_refrigerators\\lg_gs_lv31dsxe\\images\\04.jpg",
+    "missing_refrigerators\\lg_gs_lv31dsxe\\images\\05.jpg",
+    "missing_refrigerators\\lg_gs_lv31dsxe\\images\\06.jpg",
+    "missing_refrigerators\\lg_gs_lv31dsxe\\images\\07.jpg",
+    "missing_refrigerators\\lg_gs_lv31dsxe\\images\\08.jpg",
+    "missing_refrigerators\\lg_gs_lv31dsxe\\images\\09.jpg",
+    "missing_refrigerators\\lg_gs_lv31dsxe\\images\\10.jpg",
+    "missing_refrigerators\\lg_gs_lv31dsxe\\images\\11.jpg",
+    "missing_refrigerators\\lg_gs_lv31dsxe\\images\\12.jpg"
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/LIEBHERR-GKWE-1455-6.htm",
+    "actual_url": "https://ek.ua/en/LIEBHERR-GKWE-1455-6.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liebherr",
+    "model": "GKwe 1455-6 white",
+    "title": "Liebherr GKwe 1455-6 white",
+    "category": "E-Katalog category 200",
+    "year": 181,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "top",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knobs",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 181,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 140.1,
+      "width": 55.0,
+      "depth": 63.0
+    },
+    "weight_kg": 49.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Liebherr GKwe 1455-6 white at a price from 17550 to 17550 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2875489.jpg",
+    "https://mzimg.com/big/j1/i01g9zf0pj1.jpg",
+    "https://mzimg.com/big/i1/i01g9zg09i1.jpg",
+    "https://s.ek.ua/jpg/2875489.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 3": "from 17 550 ₴ Buy! Холодильник Liebherr GKwe 1455-6 140,1 см Камера свіжості white GKWE1455 Novateh.com.ua Less than year Delivery: to Dnipro from Novoyavorivsk Report add to list my lists add to comparison",
+      "Colour Total capacity 234 L Number of chambers 2 Number of cooling circuits 1 Number of compressors 1 Features Features reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 190 L Number of shelves 3 Dynamic air cooling Auto-defrost LED lighting": "April 2025",
+      "Total capacity": "234 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "Features": "reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "190 L",
+      "Number of shelves": "3",
+      "Freezer compartment": "top",
+      "Freezer capacity": "44 L",
+      "Autonomy time": "17 h",
+      "Freeze capacity": "2.5 kg/day",
+      "Controls": "rotary knobs",
+      "Energy class (new)": "E",
+      "Energy consumption per year": "181 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Noise class": "C",
+      "Noise level": "37 dB",
+      "Dimensions (HxWxD)": "140.1х55х63 cm",
+      "Weight": "49 kg",
+      "Official Website": "liebherr.com",
+      "Added to E-Catalog": "April 2025",
+      "LED lighting": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\liebherr_gkwe_1455_6\\images\\01.jpg",
+    "missing_refrigerators\\liebherr_gkwe_1455_6\\images\\02.jpg",
+    "missing_refrigerators\\liebherr_gkwe_1455_6\\images\\03.jpg",
+    "missing_refrigerators\\liebherr_gkwe_1455_6\\images\\04.jpg"
+  ]
+}

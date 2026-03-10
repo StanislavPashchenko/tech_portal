@@ -1,0 +1,148 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/MIDEA-MDRM-691-MIE46.htm",
+    "actual_url": "https://ek.ua/en/MIDEA-MDRM-691-MIE46.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Midea",
+    "model": "MDRM 691 MIE46 stainless steel",
+    "title": "Midea MDRM 691 MIE46 stainless steel",
+    "category": "E-Katalog category 200",
+    "year": 442,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "French door",
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 3,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 6,
+    "sections_details": "6 / 4 drawers, 2 shelves /",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "external touch controls",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": 442,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 35,
+    "dimensions_cm": {
+      "height": 189.8,
+      "width": 83.0,
+      "depth": 65.3
+    },
+    "weight_kg": 94.0,
+    "country_of_origin": "China"
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Midea MDRM 691 MIE46 stainless steel at a price from 38898 to 45435 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2811867.jpg",
+    "https://mzimg.com/big/w1/hw8xqobmnw1.jpg",
+    "https://mzimg.com/big/g1/hw8xqoc8zg1.jpg",
+    "https://mzimg.com/big/s1/hw8xqopfvs1.jpg",
+    "https://mzimg.com/big/s1/hw8xtbbwts1.jpg",
+    "https://s.ek.ua/jpg/2811867.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 5": "45 435 ₴",
+      "Itbox.ua →": "38 998 ₴",
+      "АЛЛО →": "38 999 ₴",
+      "Q-techno.com.ua →": "39 397 ₴",
+      "Comtrading.ua →": "40 637 ₴",
+      "Elmir.ua →": "45 435 ₴",
+      "Colour Type French door Total capacity 530 L Number of chambers 3 Number of cooling circuits 3 Number of compressors 1 Inverter compressor No Frost freezer / refrigerator compartments Features Features holiday mode control via smartphone (Wi-Fi) child lock TFT display door alarm More features hidden door handles Refrigeration chamber Refrigerator capacity 355 L Number of shelves 4 Storage compartments fresh zone Fast cool Dynamic air cooling Auto-defrost LED lighting": "December 2024",
+      "Type": "French door",
+      "Total capacity": "530 L",
+      "Number of chambers": "3",
+      "Number of cooling circuits": "3",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "holiday mode control via smartphone (Wi-Fi) child lock TFT display door alarm",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "355 L",
+      "Number of shelves": "4",
+      "Storage compartments": "fresh zone",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "175 L",
+      "Freezer drawers": "6 / 4 drawers, 2 shelves /",
+      "Freezer temperature": "-24 °C",
+      "Autonomy time": "10 h",
+      "Freeze capacity": "10 kg/day",
+      "Controls": "external touch controls",
+      "Energy class": "A+",
+      "Energy consumption per year": "442 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Noise level": "35 dB",
+      "Dimensions (HxWxD)": "189.8х83х65.3 cm",
+      "Weight": "94 kg",
+      "Country of origin": "China",
+      "Added to E-Catalog": "December 2024",
+      "Inverter compressor": "yes",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\midea_mdrm_691_mie46\\images\\01.jpg",
+    "missing_refrigerators\\midea_mdrm_691_mie46\\images\\02.jpg",
+    "missing_refrigerators\\midea_mdrm_691_mie46\\images\\03.jpg",
+    "missing_refrigerators\\midea_mdrm_691_mie46\\images\\04.jpg",
+    "missing_refrigerators\\midea_mdrm_691_mie46\\images\\05.jpg",
+    "missing_refrigerators\\midea_mdrm_691_mie46\\images\\06.jpg"
+  ]
+}

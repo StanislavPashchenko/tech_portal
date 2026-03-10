@@ -1,0 +1,127 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/GRIFON-NFN-185BG.htm",
+    "actual_url": "https://ek.ua/en/GRIFON-NFN-185BG.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Grifon",
+    "model": "NFN-185BG beige",
+    "title": "Grifon NFN-185BG beige",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "internal push-buttons",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": null,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 41,
+    "dimensions_cm": {
+      "height": 185.0,
+      "width": 59.5,
+      "depth": 60.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Grifon NFN-185BG beige at a price from 16896 to 17829 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2578903.jpg",
+    "https://mzimg.com/big/h1/hk1rvg7vgh1.jpg",
+    "https://mzimg.com/big/i1/hk1rvg8gci1.jpg",
+    "https://mzimg.com/big/p1/hk1rvghr9p1.jpg",
+    "https://mzimg.com/big/n1/hk1rvgim2n1.jpg",
+    "https://s.ek.ua/jpg/2578903.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Tviy-Dim.com →": "16 896 ₴",
+      "Colour Total capacity 290 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 No Frost freezer / refrigerator compartments Features Features reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 201 L Number of shelves 4 Dynamic air cooling Auto-defrost LED lighting": "November 2023",
+      "Total capacity": "290 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "201 L",
+      "Number of shelves": "4",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "89 L",
+      "Freezer drawers": "3",
+      "Controls": "internal push-buttons",
+      "Energy class": "A+",
+      "Noise level": "41 dB",
+      "Dimensions (HxWxD)": "185x59.5x60 cm",
+      "Added to E-Catalog": "November 2023",
+      "LED lighting": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\grifon_nfn_185bg\\images\\01.jpg",
+    "missing_refrigerators\\grifon_nfn_185bg\\images\\02.jpg",
+    "missing_refrigerators\\grifon_nfn_185bg\\images\\03.jpg",
+    "missing_refrigerators\\grifon_nfn_185bg\\images\\04.jpg",
+    "missing_refrigerators\\grifon_nfn_185bg\\images\\05.jpg",
+    "missing_refrigerators\\grifon_nfn_185bg\\images\\06.jpg"
+  ]
+}

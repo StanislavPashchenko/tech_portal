@@ -1,0 +1,127 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/LIEBHERR-GKW-1455.htm",
+    "actual_url": "https://ek.ua/en/LIEBHERR-GKW-1455.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liebherr",
+    "model": "GKw 1455 white",
+    "title": "Liebherr GKw 1455 white",
+    "category": "E-Katalog category 200",
+    "year": 212,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "top",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knobs",
+    "energy_class_new": "F",
+    "annual_energy_consumption_kwh": 212,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 140.1,
+      "width": 55.0,
+      "depth": 63.0
+    },
+    "weight_kg": 56.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "A simple and relatively inexpensive two-chamber refrigerator with a classic layout, introduced to the market by Liebherr in 2022. It is positioned by the manufacturer in an affordable price segment and is mainly aimed at users who just need a small but high-quality refrigerator. It can serve as a good choice for families of 1-2 people, as a solution for summer cottages, as well as for furnishing hotel rooms. The total useful volume of the Liebherr GKw 1455 refrigerator is 234 liters. The manufacturer provides two chambers, each of which is equipped with its own access door. A small freezer for 44 liters is placed on top. The special SmartFrost technology reduces the amount of ice and frost that forms on the inner walls of the chamber. Thanks to this, the user is less likely to have to defrost the chamber for cleaning. The capacity of the refrigerator compartment is 190 liters, while all this volume is divided between three shelves and a large roomy compartment for vegetables and fruits. In addition, the model is quite quiet - the level of generated noise does not exceed 37 dB.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2197215.jpg",
+    "https://mzimg.com/big/g1/h2295bkblg1.jpg",
+    "https://mzimg.com/big/e1/h2295bl12e1.jpg",
+    "https://s.ek.ua/jpg/2197215.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 3": "14 962 ₴ Buy! Холодильник Liebherr GKw 1455-1 inSale.com.ua Less than year Delivery: to Dnipro from Kyiv Warranty: 12 month Report add to list my lists add to comparison",
+      "Colour Total capacity 234 L Number of chambers 2 Number of cooling circuits 1 Number of compressors 1 Features Features reversible door Refrigeration chamber Refrigerator capacity 190 L Number of shelves 3 LED lighting": "May 2022",
+      "Total capacity": "234 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "Features": "reversible door",
+      "Refrigerator capacity": "190 L",
+      "Number of shelves": "3",
+      "Freezer compartment": "top",
+      "Freezer capacity": "44 L",
+      "Controls": "rotary knobs",
+      "Energy class (new)": "F",
+      "Energy consumption per year": "212 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Noise class": "C",
+      "Noise level": "37 dB",
+      "Dimensions (HxWxD)": "140.1x55x63 cm",
+      "Weight": "56 kg",
+      "Added to E-Catalog": "May 2022",
+      "LED lighting": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\liebherr_gkw_1455\\images\\01.jpg",
+    "missing_refrigerators\\liebherr_gkw_1455\\images\\02.jpg",
+    "missing_refrigerators\\liebherr_gkw_1455\\images\\03.jpg",
+    "missing_refrigerators\\liebherr_gkw_1455\\images\\04.jpg"
+  ]
+}

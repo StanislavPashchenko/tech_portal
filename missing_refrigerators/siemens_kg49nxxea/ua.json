@@ -1,0 +1,144 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/SIEMENS-KG49NXXEA.htm",
+    "actual_url": "https://ek.ua/ua/SIEMENS-KG49NXXEA.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Siemens",
+    "model": "KG49NXXEA нержавіюча сталь",
+    "title": "Холодильник Siemens KG49NXXEA нержавіюча сталь",
+    "category": "E-Katalog category 200",
+    "year": 2022,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 438,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 330,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 108,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 16,
+    "freezing_capacity_kg_per_day": 12
+  },
+  "general": {
+    "control": "сенсорне зовнішнє",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 259,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 40,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 70.0,
+      "depth": 67.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Двокамерний холодильник у забарвленні BlackSteel (темна нержавіюча сталь) поповнив лінійку iQ300 бренду Siemens 2022 року. Хоча серія об'єднує моделі стандарт-класу, агрегат можна віднести до просунутих рішень. Відповідний статус підтверджує наочне зовнішнє сенсорне управління та наявність двох контурів охолодження, завдяки чому можна незалежно регулювати температурні режими у двох відділеннях. Також до фішок приладу відноситься система Full No Frost, яка сприяє більш рівномірному розподілу холоду всередині, так і простому догляду (не потрібно ручне розморожування). При габаритах 203x70x67 см холодильник Siemens KG49NXXEA вміщує 438 літрів, що здатне задовольнити потреби великих родин. Морозильник на 108 літрів знаходиться знизу, він розділений на 3 висувні контейнери і характеризується гарною продуктивністю (до 12 кг на добу). А при відключеннях світла псування продуктам у морозильній камері не загрожує протягом 16 годин. У 330-літровому холодильному відділенні є зони свіжості (для м'яса та риби) та вологості (для фруктів та овочів), а також 4 відкриті полиці та дверні кишені, підвісний тримач для пляшок. З інших фішок варто виділити індикатор закриття дверцят, помірну шумність (клас C — до 40 дБ) та енергоспоживання E (аналогічно A+ за звичним маркуванням).",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2188722.jpg",
+    "https://mzimg.com/big/o1/h0tg5k4tao1.jpg",
+    "https://mzimg.com/big/v1/h0tg5k7swv1.jpg",
+    "https://mzimg.com/big/71/h0tg5l3jg71.jpg",
+    "https://mzimg.com/big/g1/h0tg5l46bg1.jpg",
+    "https://s.ek.ua/jpg/2188722.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Tendo.com.ua →": "43 945 грн.",
+      "Stylus.ua →": "41 276 грн.",
+      "Hi-tech.com.ua →": "41 619 грн.",
+      "Denika.ua →": "41 266 грн.",
+      "Колір Загальний об'єм 438 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 No Frost морозильна / холодильна камери Функції та можливості Функції індикатор закриття дверцят перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 330 л Полиць 4 шт Відсіки для зберігання зона свіжості зона вологості полиця для пляшок Швидке охолодження Динамічне охолодження Автоматичне розморожування LED освітлення": "березень 2022",
+      "Загальний об'єм": "438 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "індикатор закриття дверцят перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "330 л",
+      "Полиць": "4 шт",
+      "Відсіки для зберігання": "зона свіжості зона вологості полиця для пляшок",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "108 л",
+      "Відділень морозильної камери": "3 шт",
+      "Температура морозилки": "-24 °C",
+      "Час збереження холоду": "16 год",
+      "Потужність заморожування": "12 кг/добу",
+      "Управління": "сенсорне зовнішнє",
+      "Клас енергоспоживання (new)": "E",
+      "Споживання енергії в рік": "259 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Клас гучності": "C",
+      "Рівень шуму": "40 дБ",
+      "Габарити (ВхШхГ)": "203x70x67 см",
+      "Офіційний сайт": "siemens-home.bsh-group.com",
+      "Дата додавання на E-Katalog": "березень 2022",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\siemens_kg49nxxea\\images\\01.jpg",
+    "missing_refrigerators\\siemens_kg49nxxea\\images\\02.jpg",
+    "missing_refrigerators\\siemens_kg49nxxea\\images\\03.jpg",
+    "missing_refrigerators\\siemens_kg49nxxea\\images\\04.jpg",
+    "missing_refrigerators\\siemens_kg49nxxea\\images\\05.jpg",
+    "missing_refrigerators\\siemens_kg49nxxea\\images\\06.jpg"
+  ]
+}

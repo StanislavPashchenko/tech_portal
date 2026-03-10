@@ -1,0 +1,145 @@
+{
+  "source": {
+    "url": "https://ek.ua/MIDEA-MDRS-619-FGF46.htm",
+    "actual_url": "https://ek.ua/MIDEA-MDRS-619-FGF46.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Midea",
+    "model": "MDRS 619 FGF46 нержавейка",
+    "title": "Холодильник Midea MDRS 619 FGF46 нержавейка",
+    "category": "E-Katalog category 200",
+    "year": 2021,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "Side-by-side",
+    "total_volume_l": 460,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 271,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "сбоку",
+    "volume_l": 189,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 18,
+    "freezing_capacity_kg_per_day": 10
+  },
+  "general": {
+    "control": "сенсорное внешнее",
+    "energy_class_new": "F",
+    "annual_energy_consumption_kwh": 365,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 41,
+    "dimensions_cm": {
+      "height": 177.5,
+      "width": 83.5,
+      "depth": 63.5
+    },
+    "weight_kg": 81.0,
+    "country_of_origin": "Китай"
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Это большой, вместительный и мощный холодильник Side-by-side. Общего объема 460 л хватит, чтобы хранить запас продуктов на большую семью, 4-5 человек. Вместительная холодильная камера объемом 271 л снабжена 4 полками и 2 ящиками. На дверцу навешены 3 вспомогательные подставки. Аналогичным устройством располагает и морозильное отделение, которое имеет объем на уровне 189 л. Холодильный контур использует сразу два теплообменника, что гарантирует точную настройку и высокую надежность работы системы охлаждения. Холодильник Midea MDRS 619 FGF46 имеет функцию No Frost, которая автоматически размораживает обе рабочие камеры. Модель оснащена внешним экраном с удобным сенсорным блоком. При необходимости доступ к панели настройки можно заблокировать. Эта холодильная установка снабжена зонами влажности и свежести, микроклимат которых можно подстроить под хранение тех или иных продуктов. Яркая LED-подсветка даст возможность быстро находить необходимое. При загрузке в морозильник свежих продуктов можно включить функцию быстрой заморозки. В данном случае свежина быстро заморозится не в ущерб тем продуктам, которые уже были в рабочей камере.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2105480.jpg",
+    "https://mzimg.com/big/i1/gv6ssb80fi1.jpg",
+    "https://mzimg.com/big/01/gv6ssbaid01.jpg",
+    "https://mzimg.com/big/k1/hk4er2y57k1.jpg",
+    "https://mzimg.com/big/c1/hk4er2yqtc1.jpeg",
+    "https://mzimg.com/big/d1/hk4erfay2d1.jpg",
+    "https://s.ek.ua/jpg/2105480.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 6": "26 899 грн. Купить! MIDEA MDRS619FGF46 575.in.ua С нами 5 лет Доставка: в Днепр из Киева Гарантия: от производителя Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Тип Side-by-side Общий объем 460 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 Инверторный компрессор No Frost морозильная / холодильная камеры Функции и возможности Функции защита от детей LED дисплей индикатор закрытия дверцы Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 271 л Полок 4 шт Отсеки для хранения зона влажности Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "октябрь 2021",
+      "Тип": "Side-by-side",
+      "Общий объем": "460 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "защита от детей LED дисплей индикатор закрытия дверцы",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "271 л",
+      "Полок": "4 шт",
+      "Отсеки для хранения": "зона влажности",
+      "Морозильная камера": "сбоку",
+      "Объем морозильной камеры": "189 л",
+      "Время сохранения холода": "18 ч",
+      "Мощность замораживания": "10 кг/сутки",
+      "Управление": "сенсорное внешнее",
+      "Класс энергопотребления (new)": "F",
+      "Потребление энергии в год": "365 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Класс шумности": "C",
+      "Уровень шума": "41 дБ",
+      "Габариты (ВхШхГ)": "177.5x83.5x63.5 см",
+      "Вес": "81 кг",
+      "Страна производства": "Китай",
+      "Официальный сайт": "midea.com",
+      "Дата добавления на E-Katalog": "октябрь 2021",
+      "Инверторный компрессор": "да",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\midea_mdrs_619_fgf46\\images\\01.jpg",
+    "missing_refrigerators\\midea_mdrs_619_fgf46\\images\\02.jpg",
+    "missing_refrigerators\\midea_mdrs_619_fgf46\\images\\03.jpg",
+    "missing_refrigerators\\midea_mdrs_619_fgf46\\images\\04.jpg",
+    "missing_refrigerators\\midea_mdrs_619_fgf46\\images\\05.jpeg",
+    "missing_refrigerators\\midea_mdrs_619_fgf46\\images\\06.jpg",
+    "missing_refrigerators\\midea_mdrs_619_fgf46\\images\\07.jpg"
+  ]
+}

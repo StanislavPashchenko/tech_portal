@@ -1,0 +1,130 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/SIEMENS-KG49NAI31.htm",
+    "actual_url": "https://ek.ua/ua/SIEMENS-KG49NAI31.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Siemens",
+    "model": "KG49NAI31 нержавіюча сталь",
+    "title": "Холодильник Siemens KG49NAI31 нержавіюча сталь",
+    "category": "E-Katalog category 200",
+    "year": 2017,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 435,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 330,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 105,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 20,
+    "freezing_capacity_kg_per_day": 15
+  },
+  "general": {
+    "control": "сенсорне зовнішнє",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 303,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 40,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 70.0,
+      "depth": 67.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Двокамерний холодильник серії iQ500 — це прогресивна ' модель в лінійці торговельної марки Siemens. За рахунок збільшеної до 70 см ширини при висоті 203 см прилад має хорошу ємність: корисний об'єм дорівнює 435 літрів, чого повинно бути достатньо навіть для сім'ї з 4 – 5 осіб. Зручність в управлінні забезпечує зовнішня сенсорна панель з функцією захисту від дітей, а простоту і легкість у догляді — система автоматичного розморожування Full No Frost. Холодильник Siemens KG49NAI31 отримав 2 контуру охолодження і характеризується економічним енергоспоживанням — до 303 кВт*год (клас A++). 330-літрова холодильна камера передбачає зону свіжості hyperFresh Box і підвісну грати з металу для розміщення пляшок. Морозильна камера на 105 літрів примітна потужним заморожуванням (до 15 кг за добу). Вона розділена на 3 відсіки прозорими висувними боксами. З інших особливостей моделі можна виділити помірний рівень шуму (до 40 дБ), наявність індикатор закриття дверцят і покриття antiFingerprint, що перешкоджає появі слідів від пальців на лицьових поверхнях корпусу.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1088298.jpg",
+    "https://mzimg.com/big/x1/fec1fp7tex1.jpg",
+    "https://s.ek.ua/jpg/1088298.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Колір Загальний об'єм 435 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 No Frost морозильна / холодильна камери Функції та можливості Функції режим відпустки захист від дітей LED дисплей індикатор закриття дверцят перевішування дверей Холодильне відділення Об'єм холодильної камери 330 л Відсіки для зберігання зона свіжості Швидке охолодження Динамічне охолодження Автоматичне розморожування LED освітлення": "квітень 2017",
+      "Загальний об'єм": "435 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "режим відпустки захист від дітей LED дисплей індикатор закриття дверцят перевішування дверей",
+      "Об'єм холодильної камери": "330 л",
+      "Відсіки для зберігання": "зона свіжості",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "105 л",
+      "Температура морозилки": "-24 °C",
+      "Час збереження холоду": "20 год",
+      "Потужність заморожування": "15 кг/добу",
+      "Управління": "сенсорне зовнішнє",
+      "Клас енергоспоживання": "A++",
+      "Споживання енергії в рік": "303 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Рівень шуму": "40 дБ",
+      "Габарити (ВхШхГ)": "203x70x67 см",
+      "Офіційний сайт": "siemens-home.bsh-group.com",
+      "Дата додавання на E-Katalog": "квітень 2017",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\siemens_kg49nai31\\images\\01.jpg",
+    "missing_refrigerators\\siemens_kg49nai31\\images\\02.jpg",
+    "missing_refrigerators\\siemens_kg49nai31\\images\\03.jpg"
+  ]
+}

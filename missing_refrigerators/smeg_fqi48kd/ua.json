@@ -1,0 +1,147 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/SMEG-FQI48KD.htm",
+    "actual_url": "https://ek.ua/ua/SMEG-FQI48KD.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Smeg",
+    "model": "FQI48KD чорний",
+    "title": "Холодильник Smeg FQI48KD чорний",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "French-door (розпашний)",
+    "total_volume_l": 488,
+    "cameras_count": 3,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 322,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 166,
+    "sections_count": 5,
+    "sections_details": "5 шт / 4 ящики, 1 полиця /",
+    "cold_storage_time_h": 11,
+    "freezing_capacity_kg_per_day": 9
+  },
+  "general": {
+    "control": "сенсорне зовнішнє",
+    "energy_class_new": "D",
+    "annual_energy_consumption_kwh": 244,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 179.0,
+      "width": 84.0,
+      "depth": 69.0
+    },
+    "weight_kg": 102.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Smeg FQI48KD чорний за ціною від 73018 до 123500 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2890077.jpg",
+    "https://mzimg.com/big/11/i16269xve11.jpg",
+    "https://mzimg.com/big/d1/i16269ygdd1.jpg",
+    "https://mzimg.com/big/11/i1626agc911.jpg",
+    "https://mzimg.com/big/w1/i1626agx3w1.jpg",
+    "https://s.ek.ua/jpg/2890077.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 5": "73 329 грн.",
+      "Denika.ua →": "74 999 грн.",
+      "Eldom.com.ua →": "123 500 грн.",
+      "Rozetka.ua →": "73 329 грн.",
+      "Колір Тип French-door (розпашний) Загальний об'єм 488 л Кількість камер 3 Контурів охолодження 2 Компресорів 1 Інверторний компресор No Frost морозильна / холодильна камери Функції та можливості Функції режим відпустки захист від дітей LED дисплей індикатор закриття дверцят Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 322 л Полиць 3 шт Відсіки для зберігання зона вологості Динамічне охолодження Автоматичне розморожування Дезодоратор LED освітлення": "травень 2025",
+      "Тип": "French-door (розпашний)",
+      "Загальний об'єм": "488 л",
+      "Кількість камер": "3",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "режим відпустки захист від дітей LED дисплей індикатор закриття дверцят",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "322 л",
+      "Полиць": "3 шт",
+      "Відсіки для зберігання": "зона вологості",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "166 л",
+      "Відділень морозильної камери": "5 шт / 4 ящики, 1 полиця /",
+      "Час збереження холоду": "11 год",
+      "Потужність заморожування": "8.7 кг/добу",
+      "Льодогенератор": "внутрішній",
+      "Управління": "сенсорне зовнішнє",
+      "Клас енергоспоживання (new)": "D",
+      "Споживання енергії в рік": "244 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Клас гучності": "C",
+      "Рівень шуму": "39 дБ",
+      "Габарити (ВхШхГ)": "179x84x69 см",
+      "Вага": "102 кг",
+      "Офіційний сайт": "smeg.com",
+      "Дата додавання на E-Katalog": "травень 2025",
+      "Інверторний компресор": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так",
+      "Дезодоратор": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\smeg_fqi48kd\\images\\01.jpg",
+    "missing_refrigerators\\smeg_fqi48kd\\images\\02.jpg",
+    "missing_refrigerators\\smeg_fqi48kd\\images\\03.jpg",
+    "missing_refrigerators\\smeg_fqi48kd\\images\\04.jpg",
+    "missing_refrigerators\\smeg_fqi48kd\\images\\05.jpg",
+    "missing_refrigerators\\smeg_fqi48kd\\images\\06.jpg"
+  ]
+}

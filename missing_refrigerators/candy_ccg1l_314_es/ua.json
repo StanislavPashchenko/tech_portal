@@ -1,0 +1,132 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/CANDY-CCG1L-314-ES.htm",
+    "actual_url": "https://ek.ua/ua/CANDY-CCG1L-314-ES.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Candy",
+    "model": "CCG1L 314 ES сріблястий",
+    "title": "Холодильник Candy CCG1L 314 ES сріблястий",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 157,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 109,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 48,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 7,
+    "freezing_capacity_kg_per_day": 2
+  },
+  "general": {
+    "control": null,
+    "energy_class_new": null,
+    "annual_energy_consumption_kwh": null,
+    "climate_class": [
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 144.0,
+      "width": 47.0,
+      "depth": 49.5
+    },
+    "weight_kg": 38.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Candy CCG1L 314 ES сріблястий за ціною від 16900 до 16900 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2589635.jpg",
+    "https://mzimg.com/big/y1/hklehskk1y1.jpg",
+    "https://mzimg.com/big/u1/hklehslyfu1.jpg",
+    "https://mzimg.com/big/x1/hklehsyk0x1.jpg",
+    "https://mzimg.com/big/p1/hklehszysp1.jpg",
+    "https://mzimg.com/big/a1/hklehtaiga1.jpg",
+    "https://s.ek.ua/jpg/2589635.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 6": "від 16 900 грн. Купити! Холодильник Candy CCG1L314ES 144см срібний Novateh.com.ua Менше року Доставка: у Дніпро з Новояворівська Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 157 л Кількість камер 2 Контурів охолодження 1 Компресорів 1 Функції та можливості Функції перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 109 л Полиць 3 шт Автоматичне розморожування LED освітлення": "грудень 2023",
+      "Загальний об'єм": "157 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "Функції": "перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "109 л",
+      "Полиць": "3 шт",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "48 л",
+      "Відділень морозильної камери": "3 шт",
+      "Час збереження холоду": "7 год",
+      "Потужність заморожування": "2.2 кг/добу",
+      "Кліматичний клас": "N, ST (+16...+38 °С)",
+      "Рівень шуму": "39 дБ",
+      "Габарити (ВхШхГ)": "144x47x49.5 см",
+      "Вага": "38 кг",
+      "Дата додавання на E-Katalog": "грудень 2023",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\candy_ccg1l_314_es\\images\\01.jpg",
+    "missing_refrigerators\\candy_ccg1l_314_es\\images\\02.jpg",
+    "missing_refrigerators\\candy_ccg1l_314_es\\images\\03.jpg",
+    "missing_refrigerators\\candy_ccg1l_314_es\\images\\04.jpg",
+    "missing_refrigerators\\candy_ccg1l_314_es\\images\\05.jpg",
+    "missing_refrigerators\\candy_ccg1l_314_es\\images\\06.jpg",
+    "missing_refrigerators\\candy_ccg1l_314_es\\images\\07.jpg"
+  ]
+}

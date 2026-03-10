@@ -1,0 +1,130 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/HEINNER-HCNF-V366SEPLUSPLUS.htm",
+    "actual_url": "https://ek.ua/ua/HEINNER-HCNF-V366SEPLUSPLUS.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Heinner",
+    "model": "HCNF-V366SE++ сріблястий",
+    "title": "Холодильник Heinner HCNF-V366SE++ сріблястий",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 7
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 367,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 266,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 101,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "сенсорне зовнішнє",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 250,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 41,
+    "dimensions_cm": {
+      "height": 201.0,
+      "width": 59.5,
+      "depth": 65.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general",
+      "Ціни на Heinner HCNF-V366SE++"
+    ]
+  },
+  "description": "Холодильник Heinner HCNF-V366SE++ сріблястий за ціною від 20188 до 23474 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2408555.jpg",
+    "https://mzimg.com/big/h1/hc7syc4edh1.jpg",
+    "https://s.ek.ua/jpg/2408555.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "FOXTROT.UA →": "20 226 грн.",
+      "Цифра →": "22 999 грн.",
+      "Denika.ua →": "22 999 грн.",
+      "Tv-mir.com.ua →": "23 474 грн.",
+      "Колір Загальний об'єм 367 л Кількість камер 2 Контурів охолодження 1 Компресорів 1 Функції та можливості Функції індикатор закриття дверцят перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 266 л Полиць 4 шт Швидке охолодження Динамічне охолодження Автоматичне розморожування LED освітлення": "березень 2023",
+      "Загальний об'єм": "367 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "Функції": "індикатор закриття дверцят перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "266 л",
+      "Полиць": "4 шт",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "101 л",
+      "Відділень морозильної камери": "3 шт",
+      "Температура морозилки": "-24 °C",
+      "Управління": "сенсорне зовнішнє",
+      "Клас енергоспоживання (new)": "E",
+      "Споживання енергії в рік": "250 кВт*год",
+      "Клас гучності": "C",
+      "Рівень шуму": "41 дБ",
+      "Габарити (ВхШхГ)": "201x59.5x65 см",
+      "Офіційний сайт": "heinner.com",
+      "Дата додавання на E-Katalog": "березень 2023",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    },
+    "Ціни на Heinner HCNF-V366SE++": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\heinner_hcnf_v366seplusplus\\images\\01.jpg",
+    "missing_refrigerators\\heinner_hcnf_v366seplusplus\\images\\02.jpg",
+    "missing_refrigerators\\heinner_hcnf_v366seplusplus\\images\\03.jpg"
+  ]
+}

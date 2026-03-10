@@ -1,0 +1,141 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/BOSCH-KSV33VLEPG.htm",
+    "actual_url": "https://ek.ua/en/BOSCH-KSV33VLEPG.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Bosch",
+    "model": "KSV33VLEPG silver",
+    "title": "Bosch KSV33VLEPG silver",
+    "category": "E-Katalog category 200",
+    "year": 113,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 5
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 6
+  },
+  "freezer_compartment": {
+    "location": "in absent",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knobs",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 113,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 176.0,
+      "width": 60.0,
+      "depth": 65.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general",
+      "Price for Bosch KSV33VLEPG"
+    ]
+  },
+  "description": "Fridge Bosch KSV33VLEPG silver at a price from 42144 to 45257 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2369191.jpg",
+    "https://mzimg.com/big/l1/hafe93m2jl1.jpg",
+    "https://mzimg.com/big/h1/hafe93mqyh1.jpg",
+    "https://mzimg.com/big/h1/hafe940szh1.jpg",
+    "https://mzimg.com/big/81/hafe941p781.jpg",
+    "https://mzimg.com/big/m1/hafe94c4lm1.jpg",
+    "https://mzimg.com/big/61/hafe94e4w61.jpg",
+    "https://s.ek.ua/jpg/2369191.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Bosch Україна →": "44 056 ₴",
+      "TEHNOS.UA →": "42 144 ₴",
+      "Colour Total capacity 324 L Number of chambers 1 Number of cooling circuits 1 Number of compressors 1 Features Features reversible door Refrigeration chamber Refrigerator capacity 324 L Number of shelves 6 Storage compartments humidity zone bottle rack Fast cool Dynamic air cooling Auto-defrost LED lighting": "January 2023",
+      "Total capacity": "324 L",
+      "Number of chambers": "1",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "Features": "reversible door",
+      "Refrigerator capacity": "324 L",
+      "Number of shelves": "6",
+      "Storage compartments": "humidity zone bottle rack",
+      "Freezer compartment": "in absent",
+      "Controls": "rotary knobs",
+      "Energy class (new)": "E",
+      "Energy consumption per year": "113 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Noise class": "C",
+      "Noise level": "39 dB",
+      "Dimensions (HxWxD)": "176x60x65 cm",
+      "Official Website": "bosch-home.co.uk",
+      "Added to E-Catalog": "January 2023",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    },
+    "Price for Bosch KSV33VLEPG": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\bosch_ksv33vlepg\\images\\01.jpg",
+    "missing_refrigerators\\bosch_ksv33vlepg\\images\\02.jpg",
+    "missing_refrigerators\\bosch_ksv33vlepg\\images\\03.jpg",
+    "missing_refrigerators\\bosch_ksv33vlepg\\images\\04.jpg",
+    "missing_refrigerators\\bosch_ksv33vlepg\\images\\05.jpg",
+    "missing_refrigerators\\bosch_ksv33vlepg\\images\\06.jpg",
+    "missing_refrigerators\\bosch_ksv33vlepg\\images\\07.jpg",
+    "missing_refrigerators\\bosch_ksv33vlepg\\images\\08.jpg"
+  ]
+}

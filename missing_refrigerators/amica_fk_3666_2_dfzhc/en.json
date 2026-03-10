@@ -1,0 +1,149 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/AMICA-FK-3666-2-DFZHC.htm",
+    "actual_url": "https://ek.ua/en/AMICA-FK-3666-2-DFZHC.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Amica",
+    "model": "FK 3666.2 DFZHC black (HWAMILK2DFK3666)",
+    "title": "Amica FK 3666.2 DFZHC black (HWAMILK2DFK3666)",
+    "category": "E-Katalog category 200",
+    "year": 156,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "external touch controls",
+    "energy_class_new": "C",
+    "annual_energy_consumption_kwh": 156,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 186.5,
+      "width": 59.5,
+      "depth": 63.5
+    },
+    "weight_kg": 70.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Amica FK 3666.2 DFZHC black (HWAMILK2DFK3666) at a price from 40318 to 40318 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2623380.jpg",
+    "https://mzimg.com/big/q1/hmmch1366q1.jpg",
+    "https://mzimg.com/big/71/hmmch148j71.jpg",
+    "https://mzimg.com/big/91/hmmch1irt91.jpg",
+    "https://mzimg.com/big/r1/hmmch1mcjr1.jpg",
+    "https://mzimg.com/big/o1/hmmch1y52o1.jpg",
+    "https://mzimg.com/big/s1/hmmch2258s1.jpg",
+    "https://mzimg.com/big/61/hmmch2df061.jpg",
+    "https://mzimg.com/big/b1/hmmch2lxzb1.jpg",
+    "https://mzimg.com/big/x1/hmmch2vvvx1.jpg",
+    "https://mzimg.com/big/41/hmmch33tc41.jpg",
+    "https://mzimg.com/big/o1/hmmch3dqao1.jpg",
+    "https://s.ek.ua/jpg/2623380.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 13": "40 318 ₴ Buy! Холодильник Amica FK3666.2DFZHC No Frost 186,5cm black FK3666.2HC Novateh.com.ua Less than year Delivery: to Dnipro from Novoyavorivsk Report add to list my lists add to comparison",
+      "Colour Total capacity 322 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 Inverter compressor No Frost freezer / refrigerator compartments Features Features holiday mode LED display door alarm reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 226 L Number of shelves 3 Storage compartments fresh zone humidity zone Fast cool Dynamic air cooling Auto-defrost LED lighting": "HWAMILK2DFK3666",
+      "Total capacity": "322 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "holiday mode LED display door alarm reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "226 L",
+      "Number of shelves": "3",
+      "Storage compartments": "fresh zone humidity zone",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "96 L",
+      "Freezer drawers": "3",
+      "Controls": "external touch controls",
+      "Energy class (new)": "C",
+      "Energy consumption per year": "156 kWh",
+      "Noise class": "C",
+      "Noise level": "37 dB",
+      "Dimensions (HxWxD)": "186.5x59.5x63.5 cm",
+      "Weight": "70 kg",
+      "Official Website": "amica.pl",
+      "Added to E-Catalog": "February 2024",
+      "P/N": "HWAMILK2DFK3666",
+      "Inverter compressor": "yes",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\amica_fk_3666_2_dfzhc\\images\\01.jpg",
+    "missing_refrigerators\\amica_fk_3666_2_dfzhc\\images\\02.jpg",
+    "missing_refrigerators\\amica_fk_3666_2_dfzhc\\images\\03.jpg",
+    "missing_refrigerators\\amica_fk_3666_2_dfzhc\\images\\04.jpg",
+    "missing_refrigerators\\amica_fk_3666_2_dfzhc\\images\\05.jpg",
+    "missing_refrigerators\\amica_fk_3666_2_dfzhc\\images\\06.jpg",
+    "missing_refrigerators\\amica_fk_3666_2_dfzhc\\images\\07.jpg",
+    "missing_refrigerators\\amica_fk_3666_2_dfzhc\\images\\08.jpg",
+    "missing_refrigerators\\amica_fk_3666_2_dfzhc\\images\\09.jpg",
+    "missing_refrigerators\\amica_fk_3666_2_dfzhc\\images\\10.jpg",
+    "missing_refrigerators\\amica_fk_3666_2_dfzhc\\images\\11.jpg",
+    "missing_refrigerators\\amica_fk_3666_2_dfzhc\\images\\12.jpg",
+    "missing_refrigerators\\amica_fk_3666_2_dfzhc\\images\\13.jpg"
+  ]
+}

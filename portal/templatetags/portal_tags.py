@@ -32,3 +32,10 @@ def switch_lang_path(context, lang_code):
     if not request:
         return "/"
     return localized_path(request.get_full_path(), lang_code)
+
+
+@register.filter
+def get_item(mapping, key):
+    if not mapping:
+        return []
+    return mapping.get(key, [])

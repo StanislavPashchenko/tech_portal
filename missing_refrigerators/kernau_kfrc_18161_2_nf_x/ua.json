@@ -1,0 +1,136 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/KERNAU-KFRC-18161-2-NF-X.htm",
+    "actual_url": "https://ek.ua/ua/KERNAU-KFRC-18161-2-NF-X.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Kernau",
+    "model": "KFRC 18161.2 NF X нержавіюча сталь",
+    "title": "Холодильник Kernau KFRC 18161.2 NF X нержавіюча сталь",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 295,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 207,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 88,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 10,
+    "freezing_capacity_kg_per_day": 5
+  },
+  "general": {
+    "control": "сенсорне внутрішнє",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 239,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 186.0,
+      "width": 59.5,
+      "depth": 60.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Kernau KFRC 18161.2 NF X нержавіюча сталь за ціною від 22312 до 22312 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2890064.jpg",
+    "https://mzimg.com/big/n1/i14vp0352n1.jpg",
+    "https://mzimg.com/big/11/i14vgc5d211.jpg",
+    "https://mzimg.com/big/s1/i14vgc6bvs1.jpg",
+    "https://s.ek.ua/jpg/2890064.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 4": "22 312 грн. Купити! Холодильник Kernau KFRC 18161.2 NF X Tendo.com.ua З нами 9 років Доставка: у Дніпро з Києва Гарантія: 12 міс. Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 295 л Кількість камер 2 Контурів охолодження 1 Компресорів 1 No Frost морозильна / холодильна камери Функції та можливості Функції LED дисплей перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 207 л Полиць 4 шт Динамічне охолодження Автоматичне розморожування LED освітлення": "травень 2025",
+      "Загальний об'єм": "295 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "LED дисплей перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "207 л",
+      "Полиць": "4 шт",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "88 л",
+      "Відділень морозильної камери": "3 шт",
+      "Час збереження холоду": "10 год",
+      "Потужність заморожування": "5 кг/добу",
+      "Управління": "сенсорне внутрішнє",
+      "Клас енергоспоживання (new)": "E",
+      "Споживання енергії в рік": "239 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Клас гучності": "C",
+      "Рівень шуму": "39 дБ",
+      "Габарити (ВхШхГ)": "186x59.5x60 см",
+      "Офіційний сайт": "kernau.com",
+      "Дата додавання на E-Katalog": "травень 2025",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\kernau_kfrc_18161_2_nf_x\\images\\01.jpg",
+    "missing_refrigerators\\kernau_kfrc_18161_2_nf_x\\images\\02.jpg",
+    "missing_refrigerators\\kernau_kfrc_18161_2_nf_x\\images\\03.jpg",
+    "missing_refrigerators\\kernau_kfrc_18161_2_nf_x\\images\\04.jpg",
+    "missing_refrigerators\\kernau_kfrc_18161_2_nf_x\\images\\05.jpg"
+  ]
+}

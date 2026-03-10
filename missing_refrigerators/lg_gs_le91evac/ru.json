@@ -1,0 +1,154 @@
+{
+  "source": {
+    "url": "https://ek.ua/LG-GS-LE91EVAC.htm",
+    "actual_url": "https://ek.ua/LG-GS-LE91EVAC.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "LG",
+    "model": "GS-LE91EVAC графит",
+    "title": "Холодильник LG GS-LE91EVAC графит",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "Side-by-side",
+    "total_volume_l": 628,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": false,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 407,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "сбоку",
+    "volume_l": 221,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": 12
+  },
+  "general": {
+    "control": "сенсорное внутреннее",
+    "energy_class_new": "C",
+    "annual_energy_consumption_kwh": 224,
+    "climate_class": [
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 34,
+    "dimensions_cm": {
+      "height": 179.0,
+      "width": 91.3,
+      "depth": 73.5
+    },
+    "weight_kg": 135.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник LG GS-LE91EVAC графит по цене от 99513 до 99513 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2848573.jpg",
+    "https://mzimg.com/big/u1/hynv7949lu1.jpg",
+    "https://mzimg.com/big/51/hynv795iy51.jpg",
+    "https://mzimg.com/big/r1/hynv78o90r1.jpg",
+    "https://mzimg.com/big/o1/hynv78ou2o1.jpg",
+    "https://mzimg.com/big/71/hynv79bxs71.jpg",
+    "https://mzimg.com/big/s1/hynv79e65s1.jpg",
+    "https://mzimg.com/big/91/hynv79jwx91.jpg",
+    "https://mzimg.com/big/31/hynv79njl31.jpg",
+    "https://mzimg.com/big/y1/hynv79sipy1.jpg",
+    "https://mzimg.com/big/i1/hynv79w6xi1.jpg",
+    "https://mzimg.com/big/n1/hynv7a4min1.jpg",
+    "https://s.ek.ua/jpg/2848573.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 19": "99 513 грн. Купить! Холодильник LG SBS GSLE91EVAC AI Full No Frost 179 см Dark Graphite Steel Novateh.com.ua Менее года Доставка: в Днепр из Новояворовска Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Тип Side-by-side Общий объем 628 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 Инверторный компрессор No Frost морозильная / холодильная камеры Функции и возможности Функции управление со смартфона (Wi-Fi) LED дисплей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 407 л Полок 4 шт Отсеки для хранения зона влажности полка для бутылок Диспенсер холодной воды внешний Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "февраль 2025",
+      "Тип": "Side-by-side",
+      "Общий объем": "628 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "управление со смартфона (Wi-Fi) LED дисплей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "407 л",
+      "Полок": "4 шт",
+      "Отсеки для хранения": "зона влажности полка для бутылок",
+      "Диспенсер холодной воды": "внешний",
+      "Морозильная камера": "сбоку",
+      "Объем морозильной камеры": "221 л",
+      "Мощность замораживания": "12 кг/сутки",
+      "Ледогенератор": "внешний диспенсер",
+      "Управление": "сенсорное внутреннее",
+      "Класс энергопотребления (new)": "C",
+      "Потребление энергии в год": "224 кВт*ч",
+      "Климатический класс": "тропический T (+18...+43 °С)",
+      "Класс шумности": "B",
+      "Уровень шума": "34 дБ",
+      "Габариты (ВхШхГ)": "179х91.3х73.5 см",
+      "Вес": "135 кг",
+      "Официальный сайт": "lg.com",
+      "Дата добавления на E-Katalog": "февраль 2025",
+      "Инверторный компрессор": "да",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\lg_gs_le91evac\\images\\01.jpg",
+    "missing_refrigerators\\lg_gs_le91evac\\images\\02.jpg",
+    "missing_refrigerators\\lg_gs_le91evac\\images\\03.jpg",
+    "missing_refrigerators\\lg_gs_le91evac\\images\\04.jpg",
+    "missing_refrigerators\\lg_gs_le91evac\\images\\05.jpg",
+    "missing_refrigerators\\lg_gs_le91evac\\images\\06.jpg",
+    "missing_refrigerators\\lg_gs_le91evac\\images\\07.jpg",
+    "missing_refrigerators\\lg_gs_le91evac\\images\\08.jpg",
+    "missing_refrigerators\\lg_gs_le91evac\\images\\09.jpg",
+    "missing_refrigerators\\lg_gs_le91evac\\images\\10.jpg",
+    "missing_refrigerators\\lg_gs_le91evac\\images\\11.jpg",
+    "missing_refrigerators\\lg_gs_le91evac\\images\\12.jpg",
+    "missing_refrigerators\\lg_gs_le91evac\\images\\13.jpg"
+  ]
+}

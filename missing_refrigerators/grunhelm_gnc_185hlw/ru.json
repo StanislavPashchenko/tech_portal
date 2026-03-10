@@ -1,0 +1,129 @@
+{
+  "source": {
+    "url": "https://ek.ua/GRUNHELM-GNC-185HLW.htm",
+    "actual_url": "https://ek.ua/GRUNHELM-GNC-185HLW.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Grunhelm",
+    "model": "GNC-185HLW белый",
+    "title": "Холодильник Grunhelm GNC-185HLW белый",
+    "category": "E-Katalog category 200",
+    "year": 2019,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 320,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 225,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 95,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": 4
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": null,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 43,
+    "dimensions_cm": {
+      "height": 185.5,
+      "width": 60.0,
+      "depth": 67.5
+    },
+    "weight_kg": 66.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Grunhelm GNC-185HLW белый по цене от 17760 до 17760 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1701495.jpg",
+    "https://mzimg.com/big/61/g9iez6xh661.jpg",
+    "https://mzimg.com/big/r1/g9iez7b3ir1.jpg",
+    "https://mzimg.com/big/d1/g9iez7r1id1.jpg",
+    "https://s.ek.ua/jpg/1701495.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 4": "от 17 760 грн. Купить! Холодильник Grunhelm GNC-185HLW2 Маркетплейс: Rozetka.ua Лідери С нами 7 лет Доставка: в Днепр из Киева Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Общий объем 320 л Количество камер 2 Контуров охлаждения 1 Компрессоров 1 No Frost морозильная / холодильная камеры Функции и возможности Функции перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 225 л Динамическое охлаждение Автоматическая разморозка": "ноябрь 2019",
+      "Общий объем": "320 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "225 л",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "95 л",
+      "Мощность замораживания": "4.5 кг/сутки",
+      "Управление": "поворотные переключатели",
+      "Класс энергопотребления": "A+",
+      "Климатический класс": "SN, N, ST (+10...+38 °С)",
+      "Уровень шума": "43 дБ",
+      "Габариты (ВхШхГ)": "185.5x60х67.5 см",
+      "Вес": "66 кг",
+      "Дата добавления на E-Katalog": "ноябрь 2019",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\grunhelm_gnc_185hlw\\images\\01.jpg",
+    "missing_refrigerators\\grunhelm_gnc_185hlw\\images\\02.jpg",
+    "missing_refrigerators\\grunhelm_gnc_185hlw\\images\\03.jpg",
+    "missing_refrigerators\\grunhelm_gnc_185hlw\\images\\04.jpg",
+    "missing_refrigerators\\grunhelm_gnc_185hlw\\images\\05.jpg"
+  ]
+}

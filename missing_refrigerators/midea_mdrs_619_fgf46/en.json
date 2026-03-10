@@ -1,0 +1,145 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/MIDEA-MDRS-619-FGF46.htm",
+    "actual_url": "https://ek.ua/en/MIDEA-MDRS-619-FGF46.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Midea",
+    "model": "MDRS 619 FGF46 stainless steel",
+    "title": "Midea MDRS 619 FGF46 stainless steel",
+    "category": "E-Katalog category 200",
+    "year": 365,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "Side-by-side",
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "side",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "external touch controls",
+    "energy_class_new": "F",
+    "annual_energy_consumption_kwh": 365,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 177.5,
+      "width": 83.5,
+      "depth": 63.5
+    },
+    "weight_kg": 81.0,
+    "country_of_origin": "China"
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "This is a large, roomy and powerful side-by-side refrigerator. The total volume of 460 liters is enough to store food for a large family, 4-5 people. The capacious refrigerating chamber with a volume of 271 liters is equipped with 4 shelves and 2 drawers. 3 auxiliary stands are hung on the door. The freezer compartment has a similar device, which has a volume of 189 liters. The refrigeration circuit uses two heat exchangers at once, which guarantees precise adjustment and high reliability of the cooling system. The Midea MDRS 619 FGF46 refrigerator has the No Frost function, which automatically defrosts both working chambers. The model is equipped with an external screen with a convenient touch unit. If necessary, access to the settings panel can be blocked. This refrigeration unit is equipped with zones of humidity and freshness, the microclimate of which can be adjusted to the storage of certain products. The bright LED backlight makes it easy to find what you need quickly. When loading fresh food into the freezer, you can turn on the quick freeze function. In this case, the freshness will quickly freeze without prejudice to those products that were already in the working chamber.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2105480.jpg",
+    "https://mzimg.com/big/i1/gv6ssb80fi1.jpg",
+    "https://mzimg.com/big/01/gv6ssbaid01.jpg",
+    "https://mzimg.com/big/k1/hk4er2y57k1.jpg",
+    "https://mzimg.com/big/c1/hk4er2yqtc1.jpeg",
+    "https://mzimg.com/big/d1/hk4erfay2d1.jpg",
+    "https://s.ek.ua/jpg/2105480.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 6": "26 899 ₴ Buy! MIDEA MDRS619FGF46 575.in.ua 5 year with us Delivery: to Dnipro from Kyiv Warranty: manufacturer Report add to list my lists add to comparison",
+      "Colour Type Side-by-side Total capacity 460 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 Inverter compressor No Frost freezer / refrigerator compartments Features Features child lock LED display door alarm More features hidden door handles Refrigeration chamber Refrigerator capacity 271 L Number of shelves 4 Storage compartments humidity zone Fast cool Dynamic air cooling Auto-defrost LED lighting": "October 2021",
+      "Type": "Side-by-side",
+      "Total capacity": "460 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "child lock LED display door alarm",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "271 L",
+      "Number of shelves": "4",
+      "Storage compartments": "humidity zone",
+      "Freezer compartment": "side",
+      "Freezer capacity": "189 L",
+      "Autonomy time": "18 h",
+      "Freeze capacity": "10 kg/day",
+      "Controls": "external touch controls",
+      "Energy class (new)": "F",
+      "Energy consumption per year": "365 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Noise class": "C",
+      "Noise level": "41 dB",
+      "Dimensions (HxWxD)": "177.5x83.5x63.5 cm",
+      "Weight": "81 kg",
+      "Country of origin": "China",
+      "Official Website": "midea.com",
+      "Added to E-Catalog": "October 2021",
+      "Inverter compressor": "yes",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\midea_mdrs_619_fgf46\\images\\01.jpg",
+    "missing_refrigerators\\midea_mdrs_619_fgf46\\images\\02.jpg",
+    "missing_refrigerators\\midea_mdrs_619_fgf46\\images\\03.jpg",
+    "missing_refrigerators\\midea_mdrs_619_fgf46\\images\\04.jpg",
+    "missing_refrigerators\\midea_mdrs_619_fgf46\\images\\05.jpeg",
+    "missing_refrigerators\\midea_mdrs_619_fgf46\\images\\06.jpg",
+    "missing_refrigerators\\midea_mdrs_619_fgf46\\images\\07.jpg"
+  ]
+}

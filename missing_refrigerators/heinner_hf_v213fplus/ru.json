@@ -1,0 +1,133 @@
+{
+  "source": {
+    "url": "https://ek.ua/HEINNER-HF-V213FPLUS.htm",
+    "actual_url": "https://ek.ua/HEINNER-HF-V213FPLUS.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Heinner",
+    "model": "HF-V213F+ белый",
+    "title": "Холодильник Heinner HF-V213F+ белый",
+    "category": "E-Katalog category 200",
+    "year": 2022,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 213,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 171,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "сверху",
+    "volume_l": 42,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": 3
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": "F",
+    "annual_energy_consumption_kwh": 222,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 41,
+    "dimensions_cm": {
+      "height": 144.0,
+      "width": 54.0,
+      "depth": 57.0
+    },
+    "weight_kg": 39.0,
+    "country_of_origin": "Китай"
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general",
+      "Цены на Heinner HF-V213F+"
+    ]
+  },
+  "description": "Холодильник Heinner HF-V213F+ белый по цене от 9999 до 9999 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2279417.jpg",
+    "https://mzimg.com/big/t1/h6fthh5lht1.jpg",
+    "https://mzimg.com/big/g1/h6fthh6k5g1.jpg",
+    "https://mzimg.com/big/41/h6fthhhom41.jpg",
+    "https://mzimg.com/big/11/h6fthhid211.jpg",
+    "https://mzimg.com/big/a1/h6fthhv7ba1.jpg",
+    "https://s.ek.ua/jpg/2279417.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 6": "9 999 грн. Купить! HEINNER HF-V213F+ BT-Shop.com.ua С нами более 10-ти лет Доставка: в Днепр из Киева Гарантия: от производителя Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Общий объем 213 л Количество камер 2 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Функции перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 171 л Полок 4 шт Автоматическая разморозка LED освещение": "сентябрь 2022",
+      "Общий объем": "213 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Функции": "перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "171 л",
+      "Полок": "4 шт",
+      "Морозильная камера": "сверху",
+      "Объем морозильной камеры": "42 л",
+      "Мощность замораживания": "2.6 кг/сутки",
+      "Управление": "поворотные переключатели",
+      "Класс энергопотребления (new)": "F",
+      "Потребление энергии в год": "222 кВт*ч",
+      "Класс шумности": "C",
+      "Уровень шума": "41 дБ",
+      "Габариты (ВхШхГ)": "144x54x57 см",
+      "Вес": "39 кг",
+      "Страна производства": "Китай",
+      "Дата добавления на E-Katalog": "сентябрь 2022",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    },
+    "Цены на Heinner HF-V213F+": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\heinner_hf_v213fplus\\images\\01.jpg",
+    "missing_refrigerators\\heinner_hf_v213fplus\\images\\02.jpg",
+    "missing_refrigerators\\heinner_hf_v213fplus\\images\\03.jpg",
+    "missing_refrigerators\\heinner_hf_v213fplus\\images\\04.jpg",
+    "missing_refrigerators\\heinner_hf_v213fplus\\images\\05.jpg",
+    "missing_refrigerators\\heinner_hf_v213fplus\\images\\06.jpg",
+    "missing_refrigerators\\heinner_hf_v213fplus\\images\\07.jpg"
+  ]
+}

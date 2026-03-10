@@ -1,0 +1,156 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/SAMSUNG-BESPOKE-RB34C7B5DAP.htm",
+    "actual_url": "https://ek.ua/ua/SAMSUNG-BESPOKE-RB34C7B5DAP.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Samsung",
+    "model": "Bespoke RB34C7B5DAP",
+    "title": "Холодильник Samsung Bespoke RB34C7B5DAP",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 344,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 230,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 114,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 9,
+    "freezing_capacity_kg_per_day": 8
+  },
+  "general": {
+    "control": "сенсорне внутрішнє",
+    "energy_class_new": "D",
+    "annual_energy_consumption_kwh": 204,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 35,
+    "dimensions_cm": {
+      "height": 185.3,
+      "width": 59.5,
+      "depth": 65.8
+    },
+    "weight_kg": 84.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Samsung Bespoke RB34C7B5DAP за ціною від 27929 до 33499 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2535786.jpg",
+    "https://mzimg.com/big/81/hhxnkio1c81.jpg",
+    "https://mzimg.com/big/11/hhxnkir3v11.jpg",
+    "https://mzimg.com/big/m1/hhxnkiyxym1.jpg",
+    "https://mzimg.com/big/a1/hhxnkj1roa1.jpg",
+    "https://mzimg.com/big/q1/hhxnkj86qq1.jpg",
+    "https://mzimg.com/big/11/hhxnkjcll11.jpg",
+    "https://mzimg.com/big/x1/hhxnkji46x1.jpg",
+    "https://mzimg.com/big/s1/hhxnkjomgs1.jpg",
+    "https://mzimg.com/big/51/hhxnkjudf51.jpg",
+    "https://mzimg.com/big/n1/hhxnkjza5n1.jpg",
+    "https://s.ek.ua/jpg/2535786.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 11": "27 929 грн.",
+      "Hotsale.lviv.ua →": "27 929 грн.",
+      "Колір Загальний об'єм 344 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 Інверторний компресор No Frost морозильна / холодильна камери Функції та можливості Функції режим відпустки керування зі смартфона (Wi-Fi) LED дисплей індикатор закриття дверцят перевішування дверей Додатково приховані ручки дверей змінні декоративні панелі Холодильне відділення Об'єм холодильної камери 230 л Полиць 4 шт Відсіки для зберігання зона свіжості зона вологості Швидке охолодження Динамічне охолодження Автоматичне розморожування LED освітлення": "вересень 2023",
+      "Загальний об'єм": "344 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "режим відпустки керування зі смартфона (Wi-Fi) LED дисплей індикатор закриття дверцят перевішування дверей",
+      "Додатково": "приховані ручки дверей змінні декоративні панелі",
+      "Об'єм холодильної камери": "230 л",
+      "Полиць": "4 шт",
+      "Відсіки для зберігання": "зона свіжості зона вологості",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "114 л",
+      "Відділень морозильної камери": "3 шт",
+      "Температура морозилки": "-23 °C",
+      "Час збереження холоду": "9 год",
+      "Потужність заморожування": "8 кг/добу",
+      "Управління": "сенсорне внутрішнє",
+      "Клас енергоспоживання (new)": "D",
+      "Споживання енергії в рік": "204 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Клас гучності": "B",
+      "Рівень шуму": "35 дБ",
+      "Габарити (ВхШхГ)": "185.3x59.5x65.8 см",
+      "Вага": "84 кг",
+      "Офіційний сайт": "samsung.com",
+      "Дата додавання на E-Katalog": "вересень 2023",
+      "Інверторний компресор": "так",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\samsung_bespoke_rb34c7b5dap\\images\\01.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb34c7b5dap\\images\\02.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb34c7b5dap\\images\\03.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb34c7b5dap\\images\\04.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb34c7b5dap\\images\\05.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb34c7b5dap\\images\\06.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb34c7b5dap\\images\\07.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb34c7b5dap\\images\\08.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb34c7b5dap\\images\\09.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb34c7b5dap\\images\\10.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb34c7b5dap\\images\\11.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb34c7b5dap\\images\\12.jpg"
+  ]
+}

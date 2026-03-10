@@ -1,0 +1,133 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/LIEBHERR-CU-2331.htm",
+    "actual_url": "https://ek.ua/ua/LIEBHERR-CU-2331.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liebherr",
+    "model": "CU 2331 білий",
+    "title": "Холодильник Liebherr CU 2331 білий",
+    "category": "E-Katalog category 200",
+    "year": 2019,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 2331
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 209,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 156,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 53,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 25,
+    "freezing_capacity_kg_per_day": 4
+  },
+  "general": {
+    "control": "поворотні перемикачі",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 160,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 137.2,
+      "width": 55.0,
+      "depth": 63.0
+    },
+    "weight_kg": 50.0,
+    "country_of_origin": "Болгарія"
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general",
+      "Ціни на Liebherr CU 2331"
+    ]
+  },
+  "description": "Відносно невеликий і недорогий холодильник, представлений на ринку в 2019 році. Модель одягнена в корпус висотою всього 137,2 см, при цьому загальний корисний об'єм холодильника Liebherr CU 2331 становить 209 л, завдяки чому модель може послужити хорошим вибором для невеликих кухонь. Модель двокамерна з роздільними дверцятами доступу до кожної з камер. Морозилка на 53 л розміщена знизу, її потужностей достатньо для того, щоб повністю заморожувати до 4 кг свіжих продуктів за добу, що не так і багато. Але при цьому пристрій може похвалитися відмінною теплоізоляцією стінок, завдяки якій здатне зберігати холод всередині протягом 25 год без подачі електрики. Ємність холодильного відділення становить 156 л, всередині передбачені три полиці із загартованого скла, а також два ящики для розміщення овочів і фруктів. Серед іншого важливо відзначити той факт, що модель досить економна-пристрою присвоєно клас енергоспоживання А++.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1529016.jpg",
+    "https://mzimg.com/big/l1/g0ixproqfl1.jpg",
+    "https://mzimg.com/big/p1/g0ixprvltp1.jpg",
+    "https://mzimg.com/big/d1/g0ixps3uqd1.jpg",
+    "https://s.ek.ua/jpg/1529016.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 4": "25 241 грн. Купити! Холодильник Liebherr CU 2331 inSale.com.ua Менше року Доставка: у Дніпро з Києва Гарантія: 12 міс. Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 209 л Кількість камер 2 Контурів охолодження 1 Компресорів 1 Функції та можливості Функції перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 156 л Автоматичне розморожування LED освітлення": "лютий 2019",
+      "Загальний об'єм": "209 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "Функції": "перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "156 л",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "53 л",
+      "Час збереження холоду": "25 год",
+      "Потужність заморожування": "4 кг/добу",
+      "Управління": "поворотні перемикачі",
+      "Клас енергоспоживання": "A++",
+      "Споживання енергії в рік": "160 кВт*год",
+      "Кліматичний клас": "SN, N, ST (+10...+38 °С)",
+      "Рівень шуму": "39 дБ",
+      "Габарити (ВхШхГ)": "137.2x55x63 см",
+      "Вага": "50 кг",
+      "Країна виробництва": "Болгарія",
+      "Дата додавання на E-Katalog": "лютий 2019",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    },
+    "Ціни на Liebherr CU 2331": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\liebherr_cu_2331\\images\\01.jpg",
+    "missing_refrigerators\\liebherr_cu_2331\\images\\02.jpg",
+    "missing_refrigerators\\liebherr_cu_2331\\images\\03.jpg",
+    "missing_refrigerators\\liebherr_cu_2331\\images\\04.jpg",
+    "missing_refrigerators\\liebherr_cu_2331\\images\\05.jpg"
+  ]
+}

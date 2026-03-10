@@ -1,0 +1,129 @@
+{
+  "source": {
+    "url": "https://ek.ua/HEINNER-HCNF-V366EPLUSPLUS.htm",
+    "actual_url": "https://ek.ua/HEINNER-HCNF-V366EPLUSPLUS.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Heinner",
+    "model": "HCNF-V366E++ белый",
+    "title": "Холодильник Heinner HCNF-V366E++ белый",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 7
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 367,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 266,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 101,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "сенсорное внешнее",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 250,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 41,
+    "dimensions_cm": {
+      "height": 201.0,
+      "width": 59.5,
+      "depth": 65.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general",
+      "Цены на Heinner HCNF-V366E++"
+    ]
+  },
+  "description": "Холодильник Heinner HCNF-V366E++ белый по цене от 19825 до 22499 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2579027.jpg",
+    "https://mzimg.com/big/h1/hc7syc4edh1.jpg",
+    "https://s.ek.ua/jpg/2579027.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "FOXTROT.UA →": "19 825 грн.",
+      "Zhuk.ua →": "19 829 грн.",
+      "Венкон →": "22 499 грн.",
+      "Цвет Общий объем 367 л Количество камер 2 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Функции индикатор закрытия дверцы перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 266 л Полок 4 шт Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "ноябрь 2023",
+      "Общий объем": "367 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Функции": "индикатор закрытия дверцы перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "266 л",
+      "Полок": "4 шт",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "101 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Температура морозилки": "-24 °C",
+      "Управление": "сенсорное внешнее",
+      "Класс энергопотребления (new)": "E",
+      "Потребление энергии в год": "250 кВт*ч",
+      "Класс шумности": "C",
+      "Уровень шума": "41 дБ",
+      "Габариты (ВхШхГ)": "201x59.5x65 см",
+      "Официальный сайт": "heinner.com",
+      "Дата добавления на E-Katalog": "ноябрь 2023",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    },
+    "Цены на Heinner HCNF-V366E++": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\heinner_hcnf_v366eplusplus\\images\\01.jpg",
+    "missing_refrigerators\\heinner_hcnf_v366eplusplus\\images\\02.jpg",
+    "missing_refrigerators\\heinner_hcnf_v366eplusplus\\images\\03.jpg"
+  ]
+}

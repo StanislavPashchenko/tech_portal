@@ -1,0 +1,137 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/LIEBHERR-CT-2131.htm",
+    "actual_url": "https://ek.ua/en/LIEBHERR-CT-2131.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liebherr",
+    "model": "CT 2131 white",
+    "title": "Liebherr CT 2131 white",
+    "category": "E-Katalog category 200",
+    "year": 176,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "top",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knobs",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 176,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 124.0,
+      "width": 55.0,
+      "depth": 63.0
+    },
+    "weight_kg": 49.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general",
+      "Price for Liebherr CT 2131"
+    ]
+  },
+  "description": "The inexpensive and fairly compact Liebherr refrigerator has a total volume of 196 liters, so it will be a good option for small families and kitchens with limited space. Its dimensions are 124x55x63 cm. But inside there is everything necessary for the proper organization of useful space. The refrigerator compartment with a volume of 152 liters is divided into three compartments by shelves made of durable tempered glass, and also has a pull-out container for storing vegetables, fruits and herbs. Two shelves are adjustable in height, allowing you to place large products and dishes of non-standard shape. In addition, the refrigerator compartment has three side shelves where you can place bottles, eggs, etc. The Liebherr CT 2131 freezer is located on top and has a small volume of only 44 liters. It is divided into two compartments by a shelf and can freeze up to 4 kg of food per day. In the event of a power outage, the optimal temperature is maintained for 22 hours. Thanks to SmartFrost technology, the refrigerator compartment defrosts automatically: the evaporator removes excess moisture and prevents the formation of frost. But the freezer will have to be defrosted manually. The temperature is regulated using standard rotary switches, LED lighting of the refrigerator will help you find what you need in the evening or at night. And the ability to reposition the doors allows you to decide for yourself which way it will open, taking into account the layout and features of the kitchen.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1543511.jpg",
+    "https://mzimg.com/big/q1/g19bbdy46q1.jpg",
+    "https://mzimg.com/big/91/g19bbe7xt91.jpg",
+    "https://mzimg.com/big/b1/g19bbeg16b1.jpg",
+    "https://mzimg.com/big/41/g19bbepl241.jpg",
+    "https://mzimg.com/big/o1/g19bbeymro1.jpg",
+    "https://s.ek.ua/jpg/1543511.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 6": "18 453 ₴ Buy! Холодильник Liebherr CT 2131 inSale.com.ua Less than year Delivery: to Dnipro from Kyiv Warranty: 12 month Report add to list my lists add to comparison",
+      "Colour Total capacity 196 L Number of chambers 2 Number of cooling circuits 1 Number of compressors 1 Features Features reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 152 L Auto-defrost LED lighting": "March 2019",
+      "Total capacity": "196 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "Features": "reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "152 L",
+      "Freezer compartment": "top",
+      "Freezer capacity": "44 L",
+      "Autonomy time": "22 h",
+      "Freeze capacity": "4 kg/day",
+      "Controls": "rotary knobs",
+      "Energy class": "A++",
+      "Energy consumption per year": "176 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Noise level": "39 dB",
+      "Dimensions (HxWxD)": "124x55x63 cm",
+      "Weight": "49 kg",
+      "Added to E-Catalog": "March 2019",
+      "LED lighting": "yes",
+      "Auto-defrost": "yes"
+    },
+    "Price for Liebherr CT 2131": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\liebherr_ct_2131\\images\\01.jpg",
+    "missing_refrigerators\\liebherr_ct_2131\\images\\02.jpg",
+    "missing_refrigerators\\liebherr_ct_2131\\images\\03.jpg",
+    "missing_refrigerators\\liebherr_ct_2131\\images\\04.jpg",
+    "missing_refrigerators\\liebherr_ct_2131\\images\\05.jpg",
+    "missing_refrigerators\\liebherr_ct_2131\\images\\06.jpg",
+    "missing_refrigerators\\liebherr_ct_2131\\images\\07.jpg"
+  ]
+}

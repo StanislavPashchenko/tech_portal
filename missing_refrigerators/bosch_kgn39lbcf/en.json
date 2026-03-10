@@ -1,0 +1,148 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/BOSCH-KGN39LBCF.htm",
+    "actual_url": "https://ek.ua/en/BOSCH-KGN39LBCF.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Bosch",
+    "model": "KGN39LBCF black",
+    "title": "Bosch KGN39LBCF black",
+    "category": "E-Katalog category 200",
+    "year": 162,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "internal touch controls",
+    "energy_class_new": "C",
+    "annual_energy_consumption_kwh": 162,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 60.0,
+      "depth": 66.5
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "A stylish, easy-to-use and functional two-chamber refrigerator from the popular Bosch brand, presented by the manufacturer as part of the Serie 6 line in 2022. First of all, the device boasts good capacity and separate cooling circuits for the working chambers. The total useful capacity of the model is 363 liters. The refrigeration compartment has a volume of 260 liters and is equipped with four tempered glass shelves, while one of the shelves has a folding Flex Shelf design. Instead of the standard back wall, a Metal Backwall panel is used, which makes the internal temperature more uniform and stable. The Bosch KGN39LBCF two-chamber refrigerator is equipped with a set of VitaFresh XXL drawers designed for storing fish, meat and vegetables with fruits at a temperature of about 0 ° C. The 103-liter freezer is located below, its capacity is quite sufficient to completely freeze up to 10 kg of food per day. The upper threshold of noise generated during operation of the refrigerator does not exceed 35 dB. The device consumes electricity within 162 kW*h per year. The model received an insulated fireproof case, which allows you to move the device to walls and furniture without a gap.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2221763.jpg",
+    "https://mzimg.com/big/j1/h3hfiuh3cj1.jpg",
+    "https://mzimg.com/big/m1/h3hfiuihtm1.jpg",
+    "https://mzimg.com/big/81/h3hfiutgr81.jpg",
+    "https://mzimg.com/big/l1/h3hfiux5el1.jpg",
+    "https://mzimg.com/big/m1/h3hfiv5ekm1.jpg",
+    "https://mzimg.com/big/t1/h3hfiv9a4t1.jpg",
+    "https://mzimg.com/big/o1/h3hfivh8no1.jpg",
+    "https://mzimg.com/big/z1/h3hfivnzxz1.jpg",
+    "https://s.ek.ua/jpg/2221763.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 9": "from 47 011 ₴ Buy! Холодильник Bosch KGN39LBCF Denika.ua With us more than 10 years Delivery: to Dnipro from Kharkiv Warranty: 12 month Report add to list my lists add to comparison",
+      "Colour Total capacity 363 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 No Frost freezer / refrigerator compartments Features Features door alarm More features hidden door handles Refrigeration chamber Refrigerator capacity 260 L Number of shelves 4 Foldable shelf Storage compartments fresh zone bottle rack Fast cool Dynamic air cooling Auto-defrost LED lighting": "June 2022",
+      "Total capacity": "363 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "door alarm",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "260 L",
+      "Number of shelves": "4",
+      "Storage compartments": "fresh zone bottle rack",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "103 L",
+      "Freezer temperature": "-24 °C",
+      "Autonomy time": "15 h",
+      "Freeze capacity": "10 kg/day",
+      "Controls": "internal touch controls",
+      "Energy class (new)": "C",
+      "Energy consumption per year": "162 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Noise class": "B",
+      "Noise level": "35 dB",
+      "Dimensions (HxWxD)": "203x60x66.5 cm",
+      "Official Website": "bosch-home.pl",
+      "Added to E-Catalog": "June 2022",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\bosch_kgn39lbcf\\images\\01.jpg",
+    "missing_refrigerators\\bosch_kgn39lbcf\\images\\02.jpg",
+    "missing_refrigerators\\bosch_kgn39lbcf\\images\\03.jpg",
+    "missing_refrigerators\\bosch_kgn39lbcf\\images\\04.jpg",
+    "missing_refrigerators\\bosch_kgn39lbcf\\images\\05.jpg",
+    "missing_refrigerators\\bosch_kgn39lbcf\\images\\06.jpg",
+    "missing_refrigerators\\bosch_kgn39lbcf\\images\\07.jpg",
+    "missing_refrigerators\\bosch_kgn39lbcf\\images\\08.jpg",
+    "missing_refrigerators\\bosch_kgn39lbcf\\images\\09.jpg",
+    "missing_refrigerators\\bosch_kgn39lbcf\\images\\10.jpg"
+  ]
+}

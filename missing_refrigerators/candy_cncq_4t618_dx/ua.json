@@ -1,0 +1,156 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/CANDY-CNCQ-4T618-DX.htm",
+    "actual_url": "https://ek.ua/ua/CANDY-CNCQ-4T618-DX.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Candy",
+    "model": "CNCQ 4T618 DX нержавіюча сталь (34005757)",
+    "title": "Холодильник Candy CNCQ 4T618 DX нержавіюча сталь (34005757)",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 355,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 235,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 120,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 11,
+    "freezing_capacity_kg_per_day": 10
+  },
+  "general": {
+    "control": "сенсорне внутрішнє",
+    "energy_class_new": "D",
+    "annual_energy_consumption_kwh": 216,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 35,
+    "dimensions_cm": {
+      "height": 185.0,
+      "width": 59.5,
+      "depth": 66.7
+    },
+    "weight_kg": 71.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general",
+      "Ціни на Candy CNCQ 4T618 DX"
+    ]
+  },
+  "description": "Холодильник Candy CNCQ 4T618 DX нержавіюча сталь (34005757) за ціною від 30744 до 30744 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2857686.jpg",
+    "https://mzimg.com/big/a1/hz52wrjxfa1.jpg",
+    "https://mzimg.com/big/x1/hz52wrkk4x1.jpg",
+    "https://mzimg.com/big/t1/hz52ws529t1.jpg",
+    "https://mzimg.com/big/81/hz52ws6ef81.jpg",
+    "https://mzimg.com/big/z1/hz52wsel9z1.jpg",
+    "https://mzimg.com/big/h1/hz52wsf9ah1.jpg",
+    "https://mzimg.com/big/q1/hz52wspfvq1.jpg",
+    "https://mzimg.com/big/41/hz52wsq1w41.jpg",
+    "https://mzimg.com/big/z1/hz52wsyv3z1.jpg",
+    "https://mzimg.com/big/g1/hz52wt7i5g1.jpg",
+    "https://mzimg.com/big/f1/hz52wt9lpf1.jpg",
+    "https://s.ek.ua/jpg/2857686.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 23": "від 30 744 грн. Купити! Холодильник з морозильною камерою Candy CNCQ4T618DX Tendo.com.ua З нами 9 років Доставка: у Дніпро з Києва Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 355 л Кількість камер 2 Контурів охолодження 1 Компресорів 1 No Frost морозильна камера Функції та можливості Функції керування зі смартфона (Wi-Fi) перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 235 л Полиць 3 шт Відсіки для зберігання зона свіжості зона вологості Динамічне охолодження Автоматичне розморожування LED освітлення": "34005757",
+      "Загальний об'єм": "355 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "No Frost": "морозильна камера",
+      "Функції": "керування зі смартфона (Wi-Fi) перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "235 л",
+      "Полиць": "3 шт",
+      "Відсіки для зберігання": "зона свіжості зона вологості",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "120 л",
+      "Час збереження холоду": "11 год",
+      "Потужність заморожування": "10 кг/добу",
+      "Управління": "сенсорне внутрішнє",
+      "Клас енергоспоживання (new)": "D",
+      "Споживання енергії в рік": "216 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Клас гучності": "B",
+      "Рівень шуму": "35 дБ",
+      "Габарити (ВхШхГ)": "185х59.5x66.7 см",
+      "Вага": "71 кг",
+      "Офіційний сайт": "candy-home.com",
+      "Дата додавання на E-Katalog": "березень 2025",
+      "Маркування виробника": "34005757",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    },
+    "Ціни на Candy CNCQ 4T618 DX": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\candy_cncq_4t618_dx\\images\\01.jpg",
+    "missing_refrigerators\\candy_cncq_4t618_dx\\images\\02.jpg",
+    "missing_refrigerators\\candy_cncq_4t618_dx\\images\\03.jpg",
+    "missing_refrigerators\\candy_cncq_4t618_dx\\images\\04.jpg",
+    "missing_refrigerators\\candy_cncq_4t618_dx\\images\\05.jpg",
+    "missing_refrigerators\\candy_cncq_4t618_dx\\images\\06.jpg",
+    "missing_refrigerators\\candy_cncq_4t618_dx\\images\\07.jpg",
+    "missing_refrigerators\\candy_cncq_4t618_dx\\images\\08.jpg",
+    "missing_refrigerators\\candy_cncq_4t618_dx\\images\\09.jpg",
+    "missing_refrigerators\\candy_cncq_4t618_dx\\images\\10.jpg",
+    "missing_refrigerators\\candy_cncq_4t618_dx\\images\\11.jpg",
+    "missing_refrigerators\\candy_cncq_4t618_dx\\images\\12.jpg",
+    "missing_refrigerators\\candy_cncq_4t618_dx\\images\\13.jpg"
+  ]
+}

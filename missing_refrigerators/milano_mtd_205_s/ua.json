@@ -1,0 +1,127 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/MILANO-MTD-205-S.htm",
+    "actual_url": "https://ek.ua/ua/MILANO-MTD-205-S.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Milano",
+    "model": "MTD 205 S сріблястий",
+    "title": "Холодильник Milano MTD 205 S сріблястий",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 16
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 205,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 168,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "зверху",
+    "volume_l": 37,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "поворотні перемикачі",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": 215,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 42,
+    "dimensions_cm": {
+      "height": 143.0,
+      "width": 55.0,
+      "depth": 55.0
+    },
+    "weight_kg": 38.0,
+    "country_of_origin": "Китай"
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general",
+      "Ціни на Milano MTD 205 S"
+    ]
+  },
+  "description": "Холодильник Milano MTD 205 S сріблястий за ціною від 8748 до 10433 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2550002.jpg",
+    "https://mzimg.com/big/b1/hg3jmmvfrb1.jpg",
+    "https://s.ek.ua/jpg/2550002.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "FOXTROT.UA →": "10 433 грн.",
+      "Elmag.ua →": "9 072 грн.",
+      "Zhuk.ua →": "9 072 грн.",
+      "Comtrading.ua →": "8 748 грн.",
+      "Tv-mir.com.ua →": "8 868 грн.",
+      "Колір Загальний об'єм 205 л Кількість камер 2 Контурів охолодження 1 Компресорів 1 Функції та можливості Функції перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 168 л Полиць 4 шт Автоматичне розморожування LED освітлення": "жовтень 2023",
+      "Загальний об'єм": "205 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "Функції": "перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "168 л",
+      "Полиць": "4 шт",
+      "Морозильна камера": "зверху",
+      "Об'єм морозильної камери": "37 л",
+      "Управління": "поворотні перемикачі",
+      "Клас енергоспоживання": "A+",
+      "Споживання енергії в рік": "215 кВт*год",
+      "Рівень шуму": "42 дБ",
+      "Габарити (ВхШхГ)": "143x55x55 см",
+      "Вага": "38 кг",
+      "Країна виробництва": "Китай",
+      "Дата додавання на E-Katalog": "жовтень 2023",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    },
+    "Ціни на Milano MTD 205 S": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\milano_mtd_205_s\\images\\01.jpg",
+    "missing_refrigerators\\milano_mtd_205_s\\images\\02.jpg",
+    "missing_refrigerators\\milano_mtd_205_s\\images\\03.jpg"
+  ]
+}

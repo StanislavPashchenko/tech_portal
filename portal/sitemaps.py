@@ -3,7 +3,7 @@ from django.contrib.sitemaps import Sitemap
 from django.urls import reverse
 from django.utils import translation
 
-from portal.models import Article, Brand, Category, ErrorCode
+from portal.models import Article, CatalogItem, ErrorCode
 
 
 class ArticleSitemap(Sitemap):
@@ -25,7 +25,29 @@ class ErrorCodeSitemap(Sitemap):
     priority = 0.8
 
     def items(self):
-        return ErrorCode.objects.select_related("brand")
+        return ErrorCode.objects.select_related(
+            "repair_model",
+            "repair_model__repair_brand",
+            "repair_model__repair_brand__appliance_type",
+        )
+
+    def lastmod(self, obj):
+        return obj.updated_at
+
+    def location(self, obj):
+        return obj.get_absolute_url()
+
+
+class CatalogItemSitemap(Sitemap):
+    changefreq = "weekly"
+    priority = 0.85
+
+    def items(self):
+        return CatalogItem.objects.select_related(
+            "repair_model",
+            "repair_model__repair_brand",
+            "repair_model__repair_brand__appliance_type",
+        )
 
     def lastmod(self, obj):
         return obj.updated_at
@@ -44,8 +66,8 @@ class LocalizedStaticViewSitemap(Sitemap):
             pages.extend(
                 [
                     (language, "portal:home"),
-                    (language, "portal:category_index"),
-                    (language, "portal:brand_list"),
+                    (language, "portal:error_list"),
+                    (language, "portal:product_list"),
                 ]
             )
         return pages
@@ -56,50 +78,9 @@ class LocalizedStaticViewSitemap(Sitemap):
             return reverse(view_name)
 
 
-class BrandSitemap(Sitemap):
-    changefreq = "weekly"
-    priority = 0.6
-
-    def items(self):
-        return [
-            (language, brand)
-            for language, _ in settings.LANGUAGES
-            for brand in Brand.objects.all()
-        ]
-
-    def location(self, item):
-        language, brand = item
-        with translation.override(language):
-            return brand.get_absolute_url()
-
-    def lastmod(self, item):
-        return item[1].updated_at
-
-
-class CategorySitemap(Sitemap):
-    changefreq = "weekly"
-    priority = 0.6
-
-    def items(self):
-        return [
-            (language, category)
-            for language, _ in settings.LANGUAGES
-            for category in Category.objects.all()
-        ]
-
-    def location(self, item):
-        language, category = item
-        with translation.override(language):
-            return category.get_absolute_url()
-
-    def lastmod(self, item):
-        return item[1].updated_at
-
-
 sitemaps = {
     "static": LocalizedStaticViewSitemap,
-    "categories": CategorySitemap,
-    "brands": BrandSitemap,
     "articles": ArticleSitemap,
+    "products": CatalogItemSitemap,
     "errors": ErrorCodeSitemap,
 }

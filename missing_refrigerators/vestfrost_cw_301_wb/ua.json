@@ -1,0 +1,134 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/VESTFROST-CW-301-WB.htm",
+    "actual_url": "https://ek.ua/ua/VESTFROST-CW-301-WB.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Vestfrost",
+    "model": "CW 301 WB білий",
+    "title": "Холодильник Vestfrost CW 301 WB білий",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 270,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 186,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 84,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": 2
+  },
+  "general": {
+    "control": "поворотні перемикачі",
+    "energy_class_new": null,
+    "annual_energy_consumption_kwh": null,
+    "climate_class": [
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 41,
+    "dimensions_cm": {
+      "height": 170.0,
+      "width": 54.0,
+      "depth": 61.0
+    },
+    "weight_kg": 55.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Vestfrost CW 301 WB білий за ціною від 13555 до 13555 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2547999.jpg",
+    "https://mzimg.com/big/j1/hijawwlewj1.jpg",
+    "https://mzimg.com/big/n1/hijawwmsfn1.jpg",
+    "https://mzimg.com/big/h1/hijawwvdlh1.jpg",
+    "https://mzimg.com/big/g1/hijawwxtwg1.jpg",
+    "https://mzimg.com/big/91/hijawx5rh91.jpg",
+    "https://s.ek.ua/jpg/2547999.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 6": "13 555 грн. Купити! Vestfrost CW301WB COMFY.ua З нами більше 10-ти років Доставка: по Дніпру Гарантія: від виробника Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 270 л Кількість камер 2 Контурів охолодження 1 Компресорів 1 Функції та можливості Функції перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 186 л Полиць 4 шт Автоматичне розморожування LED освітлення": "жовтень 2023",
+      "Загальний об'єм": "270 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "Функції": "перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "186 л",
+      "Полиць": "4 шт",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "84 л",
+      "Відділень морозильної камери": "3 шт",
+      "Потужність заморожування": "2 кг/добу",
+      "Управління": "поворотні перемикачі",
+      "Кліматичний клас": "N, ST, T (+16...+43 °С)",
+      "Рівень шуму": "41 дБ",
+      "Габарити (ВхШхГ)": "170x54x61 см",
+      "Вага": "55 кг",
+      "Офіційний сайт": "vestfrost.ua",
+      "Дата додавання на E-Katalog": "жовтень 2023",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\vestfrost_cw_301_wb\\images\\01.jpg",
+    "missing_refrigerators\\vestfrost_cw_301_wb\\images\\02.jpg",
+    "missing_refrigerators\\vestfrost_cw_301_wb\\images\\03.jpg",
+    "missing_refrigerators\\vestfrost_cw_301_wb\\images\\04.jpg",
+    "missing_refrigerators\\vestfrost_cw_301_wb\\images\\05.jpg",
+    "missing_refrigerators\\vestfrost_cw_301_wb\\images\\06.jpg",
+    "missing_refrigerators\\vestfrost_cw_301_wb\\images\\07.jpg"
+  ]
+}

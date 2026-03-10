@@ -1,0 +1,129 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/KERNAU-KFRT-12153-W-R.htm",
+    "actual_url": "https://ek.ua/en/KERNAU-KFRT-12153-W-R.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Kernau",
+    "model": "KFRT 12153 W R white",
+    "title": "Kernau KFRT 12153 W R white",
+    "category": "E-Katalog category 200",
+    "year": 177,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "top",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knobs",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 177,
+    "climate_class": [
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 122.0,
+      "width": 50.0,
+      "depth": 58.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Kernau KFRT 12153 W R white at a price from 10495 to 10495 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2891616.jpg",
+    "https://mzimg.com/big/s1/i14zzxllys1.jpg",
+    "https://mzimg.com/big/u1/i14zzxm80u1.jpg",
+    "https://s.ek.ua/jpg/2891616.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 3": "10 495 ₴ Buy! Холодильник Kernau KFRT 12153 W R Tendo.com.ua 9 year with us Delivery: to Dnipro from Kyiv Warranty: 12 month Report add to list my lists add to comparison",
+      "Colour Total capacity 151 L Number of chambers 2 Number of cooling circuits 1 Number of compressors 1 Features Features reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 112 L Number of shelves 3 Auto-defrost LED lighting": "May 2025",
+      "Total capacity": "151 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "Features": "reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "112 L",
+      "Number of shelves": "3",
+      "Freezer compartment": "top",
+      "Freezer capacity": "39 L",
+      "Autonomy time": "14 h",
+      "Freeze capacity": "2.4 kg/day",
+      "Controls": "rotary knobs",
+      "Energy class (new)": "E",
+      "Energy consumption per year": "177 kWh",
+      "Climate class": "N, ST (+16...+38 °С)",
+      "Noise class": "C",
+      "Noise level": "40 dB",
+      "Dimensions (HxWxD)": "122х50х58 cm",
+      "Official Website": "kernau.com",
+      "Added to E-Catalog": "May 2025",
+      "LED lighting": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\kernau_kfrt_12153_w_r\\images\\01.jpg",
+    "missing_refrigerators\\kernau_kfrt_12153_w_r\\images\\02.jpg",
+    "missing_refrigerators\\kernau_kfrt_12153_w_r\\images\\03.jpg",
+    "missing_refrigerators\\kernau_kfrt_12153_w_r\\images\\04.jpg"
+  ]
+}

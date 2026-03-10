@@ -1,0 +1,155 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/SAMSUNG-BESPOKE-RB38A6B2E22.htm",
+    "actual_url": "https://ek.ua/ua/SAMSUNG-BESPOKE-RB38A6B2E22.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Samsung",
+    "model": "Bespoke RB38A6B2E22 чорний (RB38A6B2E22/EF)",
+    "title": "Холодильник Samsung Bespoke RB38A6B2E22 чорний (RB38A6B2E22/EF)",
+    "category": "E-Katalog category 200",
+    "year": 2022,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 22
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 390,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 276,
+    "shelves_count": 6
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 114,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 9,
+    "freezing_capacity_kg_per_day": 8
+  },
+  "general": {
+    "control": "сенсорне внутрішнє",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 264,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 35,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 59.5,
+      "depth": 65.8
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general",
+      "Ціни на Samsung Bespoke RB38A6B2E22"
+    ]
+  },
+  "description": "Холодильник Samsung Bespoke RB38A6B2E22 чорний (RB38A6B2E22/EF) за ціною від 35061 до 35061 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2160903.jpg",
+    "https://mzimg.com/big/c1/gydc3lmf8c1.jpg",
+    "https://mzimg.com/big/d1/gydc3lngdd1.jpg",
+    "https://mzimg.com/big/j1/gydc3m0xlj1.jpg",
+    "https://mzimg.com/big/11/gydc3m1jl11.jpg",
+    "https://mzimg.com/big/91/gydc3mecm91.jpg",
+    "https://mzimg.com/big/u1/gydc3mfl2u1.jpg",
+    "https://mzimg.com/big/o1/gydc3ms2xo1.jpg",
+    "https://mzimg.com/big/i1/gydc3myhfi1.jpg",
+    "https://mzimg.com/big/y1/gydc3nbuxy1.jpg",
+    "https://s.ek.ua/jpg/2160903.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 10": "35 061 грн. Купити! Холодильник Samsung Bespoke RB38A6B2E22 inSale.com.ua Менше року Доставка: у Дніпро з Києва Гарантія: 12 міс. Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 390 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 Інверторний компресор No Frost морозильна / холодильна камери Функції та можливості Функції LED дисплей індикатор закриття дверцят перевішування дверей Додатково скляне оздоблення дверцят приховані ручки дверей змінні декоративні панелі / BeSpoke / Холодильне відділення Об'єм холодильної камери 276 л Полиць 6 шт Відсіки для зберігання зона вологості полиця для пляшок Швидке охолодження Динамічне охолодження Автоматичне розморожування LED освітлення": "RB38A6B2E22/EF",
+      "Загальний об'єм": "390 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "LED дисплей індикатор закриття дверцят перевішування дверей",
+      "Додатково": "скляне оздоблення дверцят приховані ручки дверей змінні декоративні панелі / BeSpoke /",
+      "Об'єм холодильної камери": "276 л",
+      "Полиць": "6 шт",
+      "Відсіки для зберігання": "зона вологості полиця для пляшок",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "114 л",
+      "Відділень морозильної камери": "3 шт",
+      "Температура морозилки": "-23 °C",
+      "Час збереження холоду": "9 год",
+      "Потужність заморожування": "8 кг/добу",
+      "Управління": "сенсорне внутрішнє",
+      "Клас енергоспоживання (new)": "E",
+      "Споживання енергії в рік": "264 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Клас гучності": "B",
+      "Рівень шуму": "35 дБ",
+      "Габарити (ВхШхГ)": "203x59.5x65.8 см",
+      "Офіційний сайт": "samsung.com",
+      "Дата додавання на E-Katalog": "січень 2022",
+      "Маркування виробника": "RB38A6B2E22/EF",
+      "Інверторний компресор": "так",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    },
+    "Ціни на Samsung Bespoke RB38A6B2E22": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\samsung_bespoke_rb38a6b2e22\\images\\01.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb38a6b2e22\\images\\02.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb38a6b2e22\\images\\03.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb38a6b2e22\\images\\04.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb38a6b2e22\\images\\05.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb38a6b2e22\\images\\06.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb38a6b2e22\\images\\07.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb38a6b2e22\\images\\08.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb38a6b2e22\\images\\09.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb38a6b2e22\\images\\10.jpg",
+    "missing_refrigerators\\samsung_bespoke_rb38a6b2e22\\images\\11.jpg"
+  ]
+}

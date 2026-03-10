@@ -1,0 +1,146 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/AMICA-FM-107-4.htm",
+    "actual_url": "https://ek.ua/ua/AMICA-FM-107-4.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Amica",
+    "model": "FM 107.4 білий",
+    "title": "Холодильник Amica FM 107.4 білий",
+    "category": "E-Katalog category 200",
+    "year": 2022,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 83,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 75,
+    "shelves_count": 2
+  },
+  "freezer_compartment": {
+    "location": "зверху",
+    "volume_l": 8,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 3,
+    "freezing_capacity_kg_per_day": 2
+  },
+  "general": {
+    "control": "поворотні перемикачі",
+    "energy_class_new": "F",
+    "annual_energy_consumption_kwh": 125,
+    "climate_class": [
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 41,
+    "dimensions_cm": {
+      "height": 84.0,
+      "width": 48.0,
+      "depth": 49.5
+    },
+    "weight_kg": 24.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Amica FM 107.4 білий за ціною від 11155 до 11155 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2189206.jpg",
+    "https://mzimg.com/big/01/h0xpzgxdq01.jpg",
+    "https://mzimg.com/big/t1/h0xpzgybyt1.jpg",
+    "https://mzimg.com/big/41/h0xpzherp41.jpg",
+    "https://mzimg.com/big/k1/h0xpzhu5tk1.jpg",
+    "https://mzimg.com/big/c1/h0xpzicl1c1.jpg",
+    "https://mzimg.com/big/e1/h0xpzihi4e1.jpg",
+    "https://mzimg.com/big/s1/h0xpzix4ts1.jpg",
+    "https://mzimg.com/big/81/h0xpzj91i81.jpg",
+    "https://mzimg.com/big/m1/h0xpzjcykm1.jpg",
+    "https://mzimg.com/big/e1/h0xpzjrkhe1.jpg",
+    "https://mzimg.com/big/v1/h0xpzk4vrv1.jpg",
+    "https://s.ek.ua/jpg/2189206.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 14": "від 11 155 грн. Купити! Холодильник з морозильною камерою Amica FM107.4 Semtech.com.ua Менше року Доставка: у Дніпро з Луцька Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 83 л Кількість камер 2 Контурів охолодження 1 Компресорів 1 Функції та можливості Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 75 л Полиць 2 шт Морозильне відділення Морозильна камера зверху Об'єм морозильної камери 8 л Температура морозилки -18 °C Час збереження холоду 3 год Потужність заморожування 2 кг/добу": "квітень 2022",
+      "Загальний об'єм": "83 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "75 л",
+      "Полиць": "2 шт",
+      "Морозильна камера": "зверху",
+      "Об'єм морозильної камери": "8 л",
+      "Температура морозилки": "-18 °C",
+      "Час збереження холоду": "3 год",
+      "Потужність заморожування": "2 кг/добу",
+      "Управління": "поворотні перемикачі",
+      "Клас енергоспоживання (new)": "F",
+      "Споживання енергії в рік": "125 кВт*год",
+      "Кліматичний клас": "N, ST (+16...+38 °С)",
+      "Клас гучності": "C",
+      "Рівень шуму": "41 дБ",
+      "Габарити (ВхШхГ)": "84x48x49.5 см",
+      "Вага": "24 кг",
+      "Офіційний сайт": "amica.pl",
+      "Дата додавання на E-Katalog": "квітень 2022"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\amica_fm_107_4\\images\\01.jpg",
+    "missing_refrigerators\\amica_fm_107_4\\images\\02.jpg",
+    "missing_refrigerators\\amica_fm_107_4\\images\\03.jpg",
+    "missing_refrigerators\\amica_fm_107_4\\images\\04.jpg",
+    "missing_refrigerators\\amica_fm_107_4\\images\\05.jpg",
+    "missing_refrigerators\\amica_fm_107_4\\images\\06.jpg",
+    "missing_refrigerators\\amica_fm_107_4\\images\\07.jpg",
+    "missing_refrigerators\\amica_fm_107_4\\images\\08.jpg",
+    "missing_refrigerators\\amica_fm_107_4\\images\\09.jpg",
+    "missing_refrigerators\\amica_fm_107_4\\images\\10.jpg",
+    "missing_refrigerators\\amica_fm_107_4\\images\\11.jpg",
+    "missing_refrigerators\\amica_fm_107_4\\images\\12.jpg",
+    "missing_refrigerators\\amica_fm_107_4\\images\\13.jpg"
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "source": {
+    "url": "https://ek.ua/LG-GB-V3100CEP.htm",
+    "actual_url": "https://ek.ua/LG-GB-V3100CEP.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "LG",
+    "model": "GB-V3100CEP черный",
+    "title": "Холодильник LG GB-V3100CEP черный",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 344,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": false,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 190,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 110,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "сенсорное внутреннее",
+    "energy_class_new": "C",
+    "annual_energy_consumption_kwh": 171,
+    "climate_class": [
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 35,
+    "dimensions_cm": {
+      "height": 186.0,
+      "width": 59.5,
+      "depth": 67.5
+    },
+    "weight_kg": 73.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general",
+      "Цены на LG GB-V3100CEP"
+    ]
+  },
+  "description": "Холодильник LG GB-V3100CEP черный по цене от 29096 до 32518 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2589628.jpg",
+    "https://mzimg.com/big/a1/hkldwm7cna1.jpg",
+    "https://mzimg.com/big/e1/hkldwmaf8e1.jpg",
+    "https://mzimg.com/big/l1/hkldwmhjql1.jpg",
+    "https://mzimg.com/big/q1/hkldwmk0gq1.jpg",
+    "https://mzimg.com/big/y1/hkldwmtfhy1.jpg",
+    "https://mzimg.com/big/t1/hkldwmw82t1.jpg",
+    "https://mzimg.com/big/x1/hkldwn43ex1.jpg",
+    "https://mzimg.com/big/t1/hkldwn7v4t1.jpg",
+    "https://mzimg.com/big/w1/hkldwng4gw1.jpg",
+    "https://mzimg.com/big/b1/hkldwnkgob1.jpg",
+    "https://mzimg.com/big/01/hkldwnq2y01.jpg",
+    "https://s.ek.ua/jpg/2589628.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Hi-tech.com.ua →": "32 518 грн.",
+      "Цвет Общий объем 344 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 Инверторный компрессор No Frost морозильная / холодильная камеры Функции и возможности Функции индикатор закрытия дверцы перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 190 л Полок 3 шт Отсеки для хранения зона свежести зона влажности Зона свежести (нулевая камера) 44 л Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "декабрь 2023",
+      "Общий объем": "344 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "индикатор закрытия дверцы перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "190 л",
+      "Полок": "3 шт",
+      "Отсеки для хранения": "зона свежести зона влажности",
+      "Зона свежести (нулевая камера)": "44 л",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "110 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Температура морозилки": "-23 °C",
+      "Управление": "сенсорное внутреннее",
+      "Класс энергопотребления (new)": "C",
+      "Потребление энергии в год": "171 кВт*ч",
+      "Климатический класс": "тропический T (+18...+43 °С)",
+      "Класс шумности": "B",
+      "Уровень шума": "35 дБ",
+      "Габариты (ВхШхГ)": "186x59.5x67.5 см",
+      "Вес": "73 кг",
+      "Официальный сайт": "lg.com",
+      "Дата добавления на E-Katalog": "декабрь 2023",
+      "Инверторный компрессор": "да",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    },
+    "Цены на LG GB-V3100CEP": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\lg_gb_v3100cep\\images\\01.jpg",
+    "missing_refrigerators\\lg_gb_v3100cep\\images\\02.jpg",
+    "missing_refrigerators\\lg_gb_v3100cep\\images\\03.jpg",
+    "missing_refrigerators\\lg_gb_v3100cep\\images\\04.jpg",
+    "missing_refrigerators\\lg_gb_v3100cep\\images\\05.jpg",
+    "missing_refrigerators\\lg_gb_v3100cep\\images\\06.jpg",
+    "missing_refrigerators\\lg_gb_v3100cep\\images\\07.jpg",
+    "missing_refrigerators\\lg_gb_v3100cep\\images\\08.jpg",
+    "missing_refrigerators\\lg_gb_v3100cep\\images\\09.jpg",
+    "missing_refrigerators\\lg_gb_v3100cep\\images\\10.jpg",
+    "missing_refrigerators\\lg_gb_v3100cep\\images\\11.jpg",
+    "missing_refrigerators\\lg_gb_v3100cep\\images\\12.jpg",
+    "missing_refrigerators\\lg_gb_v3100cep\\images\\13.jpg"
+  ]
+}

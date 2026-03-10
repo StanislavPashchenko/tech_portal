@@ -1,0 +1,141 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/LIEBHERR-KGLE-1655-2-6.htm",
+    "actual_url": "https://ek.ua/ua/LIEBHERR-KGLE-1655-2-6.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liebherr",
+    "model": "KGle 1655-2.6 нержавіюча сталь",
+    "title": "Холодильник Liebherr KGle 1655-2.6 нержавіюча сталь",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 266,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 212,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 54,
+    "sections_count": 2,
+    "sections_details": "2 шт",
+    "cold_storage_time_h": 14,
+    "freezing_capacity_kg_per_day": 3
+  },
+  "general": {
+    "control": "поворотні перемикачі",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 192,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 38,
+    "dimensions_cm": {
+      "height": 161.2,
+      "width": 55.0,
+      "depth": 63.0
+    },
+    "weight_kg": 57.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Liebherr KGle 1655-2.6 нержавіюча сталь за ціною від 26007 до 26007 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2958196.jpg",
+    "https://mzimg.com/big/x1/i50m4mqf2x1.jpg",
+    "https://mzimg.com/big/k1/i50m4mr1lk1.jpg",
+    "https://mzimg.com/big/y1/i50m4n6qdy1.jpg",
+    "https://mzimg.com/big/f1/i50m4nc70f1.jpg",
+    "https://mzimg.com/big/c1/i50m4nha8c1.jpg",
+    "https://mzimg.com/big/p1/i50m4nrzsp1.jpg",
+    "https://s.ek.ua/jpg/2958196.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 7": "від 26 007 грн. Купити! Liebherr kgle 1655 161.2см срібний холодильник KGLE1655 Novateh.com.ua Менше року Доставка: у Дніпро з Новояворівська Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 266 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 Функції та можливості Функції перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 212 л Полиць 4 шт Відсіки для зберігання полиця для пляшок Автоматичне розморожування LED освітлення": "вересень 2025",
+      "Загальний об'єм": "266 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "Функції": "перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "212 л",
+      "Полиць": "4 шт",
+      "Відсіки для зберігання": "полиця для пляшок",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "54 л",
+      "Відділень морозильної камери": "2 шт",
+      "Час збереження холоду": "14 год",
+      "Потужність заморожування": "3 кг/добу",
+      "Управління": "поворотні перемикачі",
+      "Клас енергоспоживання (new)": "E",
+      "Споживання енергії в рік": "192 кВт*год",
+      "Кліматичний клас": "SN, N, ST (+10...+38 °С)",
+      "Клас гучності": "C",
+      "Рівень шуму": "38 дБ",
+      "Габарити (ВхШхГ)": "161.2х55х63 см",
+      "Вага": "57 кг",
+      "Офіційний сайт": "liebherr.com",
+      "Дата додавання на E-Katalog": "вересень 2025",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\liebherr_kgle_1655_2_6\\images\\01.jpg",
+    "missing_refrigerators\\liebherr_kgle_1655_2_6\\images\\02.jpg",
+    "missing_refrigerators\\liebherr_kgle_1655_2_6\\images\\03.jpg",
+    "missing_refrigerators\\liebherr_kgle_1655_2_6\\images\\04.jpg",
+    "missing_refrigerators\\liebherr_kgle_1655_2_6\\images\\05.jpg",
+    "missing_refrigerators\\liebherr_kgle_1655_2_6\\images\\06.jpg",
+    "missing_refrigerators\\liebherr_kgle_1655_2_6\\images\\07.jpg",
+    "missing_refrigerators\\liebherr_kgle_1655_2_6\\images\\08.jpg"
+  ]
+}

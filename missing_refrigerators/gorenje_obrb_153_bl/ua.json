@@ -1,0 +1,138 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/GORENJE-OBRB-153-BL.htm",
+    "actual_url": "https://ek.ua/ua/GORENJE-OBRB-153-BL.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Gorenje",
+    "model": "OBRB 153 BL синій",
+    "title": "Холодильник Gorenje OBRB 153 BL синій",
+    "category": "E-Katalog category 200",
+    "year": 2017,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 254,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": false,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 229,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "зверху",
+    "volume_l": 25,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 17,
+    "freezing_capacity_kg_per_day": 2
+  },
+  "general": {
+    "control": "поворотні перемикачі",
+    "energy_class_new": "A+++",
+    "annual_energy_consumption_kwh": 124,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 40,
+    "dimensions_cm": {
+      "height": 154.0,
+      "width": 60.0,
+      "depth": 67.0
+    },
+    "weight_kg": 58.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Gorenje OBRB 153 BL синій за ціною від 72448 до 72448 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1087795.jpg",
+    "https://mzimg.com/big/r1/feazqg2pxr1.jpg",
+    "https://mzimg.com/big/e1/feazqgpjse1.jpg",
+    "https://mzimg.com/big/r1/feazqhf97r1.jpg",
+    "https://mzimg.com/big/t1/feazqhpgxt1.jpg",
+    "https://mzimg.com/big/h1/feazqhziqh1.jpg",
+    "https://s.ek.ua/jpg/1087795.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 6": "72 448 грн. Купити! Холодильник Gorenje OBRB153BL inSale.com.ua Менше року Доставка: у Дніпро з Києва Гарантія: 12 міс. Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 254 л Кількість камер 2 Контурів охолодження 1 Компресорів 1 Функції та можливості Додатково ретро дизайн Холодильне відділення Об'єм холодильної камери 229 л Відсіки для зберігання зона свіжості полиця для пляшок Динамічне охолодження Автоматичне розморожування Дезодоратор LED освітлення": "квітень 2017",
+      "Загальний об'єм": "254 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "Додатково": "ретро дизайн",
+      "Об'єм холодильної камери": "229 л",
+      "Відсіки для зберігання": "зона свіжості полиця для пляшок",
+      "Морозильна камера": "зверху",
+      "Об'єм морозильної камери": "25 л",
+      "Час збереження холоду": "17 год",
+      "Потужність заморожування": "2 кг/добу",
+      "Управління": "поворотні перемикачі",
+      "Клас енергоспоживання": "A+++",
+      "Споживання енергії в рік": "124 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Рівень шуму": "40 дБ",
+      "Габарити (ВхШхГ)": "154x60x67 см",
+      "Вага": "58 кг",
+      "Офіційний сайт": "gorenje.ua",
+      "Дата додавання на E-Katalog": "квітень 2017",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так",
+      "Дезодоратор": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\gorenje_obrb_153_bl\\images\\01.jpg",
+    "missing_refrigerators\\gorenje_obrb_153_bl\\images\\02.jpg",
+    "missing_refrigerators\\gorenje_obrb_153_bl\\images\\03.jpg",
+    "missing_refrigerators\\gorenje_obrb_153_bl\\images\\04.jpg",
+    "missing_refrigerators\\gorenje_obrb_153_bl\\images\\05.jpg",
+    "missing_refrigerators\\gorenje_obrb_153_bl\\images\\06.jpg",
+    "missing_refrigerators\\gorenje_obrb_153_bl\\images\\07.jpg"
+  ]
+}

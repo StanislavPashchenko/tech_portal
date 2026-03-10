@@ -1,0 +1,125 @@
+{
+  "source": {
+    "url": "https://ek.ua/MIDEA-MDRD-86-SLF01.htm",
+    "actual_url": "https://ek.ua/MIDEA-MDRD-86-SLF01.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Midea",
+    "model": "MDRD 86 SLF01 белый",
+    "title": "Холодильник Midea MDRD 86 SLF01 белый",
+    "category": "E-Katalog category 200",
+    "year": 2021,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 47,
+    "cameras_count": 1,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": false,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 47,
+    "shelves_count": 1
+  },
+  "freezer_compartment": {
+    "location": "отсутствует",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": 108,
+    "climate_class": [
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 42,
+    "dimensions_cm": {
+      "height": 50.0,
+      "width": 48.5,
+      "depth": 44.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Midea MDRD 86 SLF01 белый по цене от 4499 до 6133 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2022566.jpg",
+    "https://mzimg.com/big/s1/gqqbaopp2s1.jpg",
+    "https://mzimg.com/big/k1/gqqbg9crok1.jpg",
+    "https://s.ek.ua/jpg/2022566.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 3": "4 499 грн.",
+      "Midea Україна →": "4 499 грн.",
+      "Цвет Общий объем 47 л Количество камер 1 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Функции перевешивание дверей Дополнительно ретро дизайн Холодильное отделение Объем холодильной камеры 47 л Полок 1 шт Отсеки для хранения низкотемпературный отсек": "май 2021",
+      "Общий объем": "47 л",
+      "Количество камер": "1",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Функции": "перевешивание дверей",
+      "Дополнительно": "ретро дизайн",
+      "Объем холодильной камеры": "47 л",
+      "Полок": "1 шт",
+      "Отсеки для хранения": "низкотемпературный отсек",
+      "Морозильная камера": "отсутствует",
+      "Управление": "поворотные переключатели",
+      "Класс энергопотребления": "A+",
+      "Потребление энергии в год": "108 кВт*ч",
+      "Климатический класс": "N, ST, T (+16...+43 °С)",
+      "Уровень шума": "42 дБ",
+      "Габариты (ВхШхГ)": "50x48.5x44 см",
+      "Дата добавления на E-Katalog": "май 2021"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\midea_mdrd_86_slf01\\images\\01.jpg",
+    "missing_refrigerators\\midea_mdrd_86_slf01\\images\\02.jpg",
+    "missing_refrigerators\\midea_mdrd_86_slf01\\images\\03.jpg",
+    "missing_refrigerators\\midea_mdrd_86_slf01\\images\\04.jpg"
+  ]
+}

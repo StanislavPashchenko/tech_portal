@@ -1,0 +1,118 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/SNAIGE-CD40DM-S3002.htm",
+    "actual_url": "https://ek.ua/ua/SNAIGE-CD40DM-S3002.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Snaige",
+    "model": "CD40DM-S3002 білий",
+    "title": "Холодильник Snaige CD40DM-S3002 білий",
+    "category": "E-Katalog category 200",
+    "year": 2016,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 20
+  },
+  "summary": {
+    "type": "холодильна вітрина",
+    "total_volume_l": 360,
+    "cameras_count": 1,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 360,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "немає",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "поворотні перемикачі",
+    "energy_class_new": null,
+    "annual_energy_consumption_kwh": null,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 60.0,
+      "depth": 60.0
+    },
+    "weight_kg": null,
+    "country_of_origin": "Литва"
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Snaige CD40DM-S3002 білий за ціною від 25199 до 35804 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1016111.jpg",
+    "https://s.ek.ua/jpg/1016111.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Pro100market.com.ua →": "31 369 грн.",
+      "Xfrost.net.ua →": "29 999 грн.",
+      "Tendo.com.ua →": "30 010 грн.",
+      "Vodogreyka.com.ua →": "30 999 грн.",
+      "Itbox.ua →": "29 999 грн.",
+      "Колір Тип холодильна вітрина Загальний об'єм 360 л Кількість камер 1 Контурів охолодження 1 Компресорів 1 Функції та можливості Функції перевішування дверей Додатково приховані ручки дверей": "грудень 2016",
+      "Тип": "холодильна вітрина",
+      "Загальний об'єм": "360 л",
+      "Кількість камер": "1",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "Функції": "перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "360 л",
+      "Морозильна камера": "немає",
+      "Управління": "поворотні перемикачі",
+      "Габарити (ВхШхГ)": "203x60x60 см",
+      "Країна виробництва": "Литва",
+      "Дата додавання на E-Katalog": "грудень 2016",
+      "Відгук корисний? Так 0 Ні 0": "9 січня 2021",
+      "Лутчі не багато доповісти та купити UBS": "9 січня 2021"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\snaige_cd40dm_s3002\\images\\01.jpg",
+    "missing_refrigerators\\snaige_cd40dm_s3002\\images\\02.jpg"
+  ]
+}

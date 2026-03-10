@@ -1,0 +1,133 @@
+{
+  "source": {
+    "url": "https://ek.ua/INTERLUX-ILR-0213MW.htm",
+    "actual_url": "https://ek.ua/INTERLUX-ILR-0213MW.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Interlux",
+    "model": "ILR-0213MW белый",
+    "title": "Холодильник Interlux ILR-0213MW белый",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 5
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 213,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 171,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "сверху",
+    "volume_l": 42,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 12,
+    "freezing_capacity_kg_per_day": 2
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": 216,
+    "climate_class": [
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 40,
+    "dimensions_cm": {
+      "height": 143.0,
+      "width": 55.0,
+      "depth": 55.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Interlux ILR-0213MW белый по цене от 7597 до 8499 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2599761.jpg",
+    "https://mzimg.com/big/t1/hl7ml3pwrt1.jpg",
+    "https://mzimg.com/big/11/hl7ml3r7s11.jpg",
+    "https://mzimg.com/big/01/hl7ml43yq01.jpg",
+    "https://s.ek.ua/jpg/2599761.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 4": "7 977 грн.",
+      "Elmag.ua →": "7 952 грн.",
+      "Denika.ua →": "8 499 грн.",
+      "Axm.com.ua →": "7 952 грн.",
+      "Enko.com.ua →": "8 499 грн.",
+      "Rozetka.ua →": "7 977 грн.",
+      "Цвет Общий объем 213 л Количество камер 2 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Функции перевешивание дверей Холодильное отделение Объем холодильной камеры 171 л Полок 4 шт LED освещение": "декабрь 2023",
+      "Общий объем": "213 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Функции": "перевешивание дверей",
+      "Объем холодильной камеры": "171 л",
+      "Полок": "4 шт",
+      "Морозильная камера": "сверху",
+      "Объем морозильной камеры": "42 л",
+      "Время сохранения холода": "12 ч",
+      "Мощность замораживания": "2 кг/сутки",
+      "Управление": "поворотные переключатели",
+      "Класс энергопотребления": "A+",
+      "Потребление энергии в год": "216 кВт*ч",
+      "Климатический класс": "N, ST (+16...+38 °С)",
+      "Уровень шума": "40 дБ",
+      "Габариты (ВхШхГ)": "143x55x55 см",
+      "Официальный сайт": "inter-lux.com.ua",
+      "Дата добавления на E-Katalog": "декабрь 2023",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\interlux_ilr_0213mw\\images\\01.jpg",
+    "missing_refrigerators\\interlux_ilr_0213mw\\images\\02.jpg",
+    "missing_refrigerators\\interlux_ilr_0213mw\\images\\03.jpg",
+    "missing_refrigerators\\interlux_ilr_0213mw\\images\\04.jpg",
+    "missing_refrigerators\\interlux_ilr_0213mw\\images\\05.jpg"
+  ]
+}

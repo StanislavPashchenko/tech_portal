@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% load portal_tags %}
+
+{% block content %}
+<section class="content-with-sidebar">
+    <div>
+        <section class="section-block">
+            <div class="section-heading">
+                <h1>{{ page_heading }}</h1>
+                <p>{{ page_intro }}</p>
+            </div>
+            <div class="card-grid">
+                {% for repair_brand in repair_brands %}
+                <article class="card">
+                    <div class="card-body">
+                        <span class="eyebrow">{{ appliance_type.display_name }}</span>
+                        <h3>
+                            <a href="{% url 'portal:error_brand' type_slug=appliance_type.slug brand_slug=repair_brand.slug %}">
+                                {{ repair_brand.display_name }}
+                            </a>
+                        </h3>
+                        {% if repair_brand.display_description %}
+                        <p>{{ repair_brand.display_description }}</p>
+                        {% endif %}
+                    </div>
+                </article>
+                {% empty %}
+                    <p class="empty-state">{% ui 'no_results' %}</p>
+                {% endfor %}
+            </div>
+        </section>
+    </div>
+    <aside class="sidebar">
+        {% include "includes/ad_block.html" with key="ad_sidebar" %}
+    </aside>
+</section>
+{% endblock %}

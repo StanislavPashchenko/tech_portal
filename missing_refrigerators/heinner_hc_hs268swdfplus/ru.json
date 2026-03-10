@@ -1,0 +1,123 @@
+{
+  "source": {
+    "url": "https://ek.ua/HEINNER-HC-HS268SWDFPLUS.htm",
+    "actual_url": "https://ek.ua/HEINNER-HC-HS268SWDFPLUS.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Heinner",
+    "model": "HC-HS268SWDF+ серебристый",
+    "title": "Холодильник Heinner HC-HS268SWDF+ серебристый",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 268,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 197,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 71,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": 3
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": "F",
+    "annual_energy_consumption_kwh": 263,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 180.0,
+      "width": 55.0,
+      "depth": 55.8
+    },
+    "weight_kg": 50.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Heinner HC-HS268SWDF+ серебристый по цене от 13599 до 13599 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2549882.jpg",
+    "https://mzimg.com/big/n1/hilnpdmbin1.jpg",
+    "https://s.ek.ua/jpg/2549882.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Цвет Общий объем 268 л Количество камер 2 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Функции перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 197 л Полок 4 шт Диспенсер холодной воды внешний Автоматическая разморозка LED освещение": "октябрь 2023",
+      "Общий объем": "268 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Функции": "перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "197 л",
+      "Полок": "4 шт",
+      "Диспенсер холодной воды": "внешний",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "71 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Мощность замораживания": "3.2 кг/сутки",
+      "Управление": "поворотные переключатели",
+      "Класс энергопотребления (new)": "F",
+      "Потребление энергии в год": "263 кВт*ч",
+      "Класс шумности": "C",
+      "Уровень шума": "39 дБ",
+      "Габариты (ВхШхГ)": "180х55х55.8 см",
+      "Вес": "50 кг",
+      "Дата добавления на E-Katalog": "октябрь 2023",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\heinner_hc_hs268swdfplus\\images\\01.jpg",
+    "missing_refrigerators\\heinner_hc_hs268swdfplus\\images\\02.jpg",
+    "missing_refrigerators\\heinner_hc_hs268swdfplus\\images\\03.jpg"
+  ]
+}

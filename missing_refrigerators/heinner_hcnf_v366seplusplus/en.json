@@ -1,0 +1,130 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/HEINNER-HCNF-V366SEPLUSPLUS.htm",
+    "actual_url": "https://ek.ua/en/HEINNER-HCNF-V366SEPLUSPLUS.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Heinner",
+    "model": "HCNF-V366SE++ silver",
+    "title": "Heinner HCNF-V366SE++ silver",
+    "category": "E-Katalog category 200",
+    "year": 250,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 9
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "external touch controls",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 250,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 201.0,
+      "width": 59.5,
+      "depth": 65.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general",
+      "Price for Heinner HCNF-V366SE++"
+    ]
+  },
+  "description": "Fridge Heinner HCNF-V366SE++ silver at a price from 20188 to 23474 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2408555.jpg",
+    "https://mzimg.com/big/h1/hc7syc4edh1.jpg",
+    "https://s.ek.ua/jpg/2408555.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "FOXTROT.UA →": "20 226 ₴",
+      "Цифра →": "22 999 ₴",
+      "Denika.ua →": "22 999 ₴",
+      "Tv-mir.com.ua →": "23 474 ₴",
+      "Colour Total capacity 367 L Number of chambers 2 Number of cooling circuits 1 Number of compressors 1 Features Features door alarm reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 266 L Number of shelves 4 Fast cool Dynamic air cooling Auto-defrost LED lighting": "March 2023",
+      "Total capacity": "367 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "Features": "door alarm reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "266 L",
+      "Number of shelves": "4",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "101 L",
+      "Freezer drawers": "3",
+      "Freezer temperature": "-24 °C",
+      "Controls": "external touch controls",
+      "Energy class (new)": "E",
+      "Energy consumption per year": "250 kWh",
+      "Noise class": "C",
+      "Noise level": "41 dB",
+      "Dimensions (HxWxD)": "201x59.5x65 cm",
+      "Official Website": "heinner.com",
+      "Added to E-Catalog": "March 2023",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    },
+    "Price for Heinner HCNF-V366SE++": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\heinner_hcnf_v366seplusplus\\images\\01.jpg",
+    "missing_refrigerators\\heinner_hcnf_v366seplusplus\\images\\02.jpg",
+    "missing_refrigerators\\heinner_hcnf_v366seplusplus\\images\\03.jpg"
+  ]
+}

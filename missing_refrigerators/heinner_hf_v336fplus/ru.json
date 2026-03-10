@@ -1,0 +1,129 @@
+{
+  "source": {
+    "url": "https://ek.ua/HEINNER-HF-V336FPLUS.htm",
+    "actual_url": "https://ek.ua/HEINNER-HF-V336FPLUS.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Heinner",
+    "model": "HF-V336F+ белый",
+    "title": "Холодильник Heinner HF-V336F+ белый",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 341,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 234,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 107,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": 5
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": "F",
+    "annual_energy_consumption_kwh": 302,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 186.0,
+      "width": 60.0,
+      "depth": 65.0
+    },
+    "weight_kg": 64.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Heinner HF-V336F+ белый по цене от 16830 до 17345 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2811234.jpg",
+    "https://mzimg.com/big/f1/hw6wy3fuhf1.jpg",
+    "https://mzimg.com/big/w1/hw6wy3grgw1.jpg",
+    "https://mzimg.com/big/q1/hw6wy3pg6q1.jpg",
+    "https://mzimg.com/big/01/hw6wy3r5t01.jpg",
+    "https://s.ek.ua/jpg/2811234.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "FOXTROT.UA →": "16 830 грн.",
+      "Цвет Общий объем 341 л Количество камер 2 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Функции перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 234 л Полок 4 шт Отсеки для хранения зона влажности Автоматическая разморозка LED освещение": "декабрь 2024",
+      "Общий объем": "341 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Функции": "перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "234 л",
+      "Полок": "4 шт",
+      "Отсеки для хранения": "зона влажности",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "107 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Мощность замораживания": "5.2 кг/сутки",
+      "Управление": "поворотные переключатели",
+      "Класс энергопотребления (new)": "F",
+      "Потребление энергии в год": "302 кВт*ч",
+      "Уровень шума": "39 дБ",
+      "Габариты (ВхШхГ)": "186х60х65 см",
+      "Вес": "64 кг",
+      "Дата добавления на E-Katalog": "декабрь 2024",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\heinner_hf_v336fplus\\images\\01.jpg",
+    "missing_refrigerators\\heinner_hf_v336fplus\\images\\02.jpg",
+    "missing_refrigerators\\heinner_hf_v336fplus\\images\\03.jpg",
+    "missing_refrigerators\\heinner_hf_v336fplus\\images\\04.jpg",
+    "missing_refrigerators\\heinner_hf_v336fplus\\images\\05.jpg",
+    "missing_refrigerators\\heinner_hf_v336fplus\\images\\06.jpg"
+  ]
+}

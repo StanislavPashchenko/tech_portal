@@ -1,0 +1,124 @@
+{
+  "source": {
+    "url": "https://ek.ua/LIEBHERR-KB-4260.htm",
+    "actual_url": "https://ek.ua/LIEBHERR-KB-4260.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liebherr",
+    "model": "KB 4260 белый",
+    "title": "Холодильник Liebherr KB 4260 белый",
+    "category": "E-Katalog category 200",
+    "year": 2008,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 358,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": true,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 241,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "отсутствует",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "сенсорное внутреннее",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 133,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 42,
+    "dimensions_cm": {
+      "height": 185.2,
+      "width": 60.0,
+      "depth": 63.0
+    },
+    "weight_kg": 81.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Liebherr KB 4260 белый по цене от 67331 до 67331 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/69233.jpg",
+    "https://mzimg.com/big/21/g0njymlcd21.jpg",
+    "https://mzimg.com/big/41/g0njymqrb41.jpg",
+    "https://s.ek.ua/jpg/69233.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 3": "67 331 грн. Купить! Холодильник Liebherr KB 4260 inSale.com.ua Менее года Доставка: в Днепр из Киева Гарантия: 12 мес. Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Общий объем 358 л Количество камер 2 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Функции режим отпуска защита от детей LED дисплей индикатор закрытия дверцы перевешивание дверей Холодильное отделение Объем холодильной камеры 241 л Отсеки для хранения зона свежести Зона свежести (нулевая камера) 117 л / BioFresh / Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "июль 2008",
+      "Общий объем": "358 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Функции": "режим отпуска защита от детей LED дисплей индикатор закрытия дверцы перевешивание дверей",
+      "Объем холодильной камеры": "241 л",
+      "Отсеки для хранения": "зона свежести",
+      "Зона свежести (нулевая камера)": "117 л / BioFresh /",
+      "Морозильная камера": "отсутствует",
+      "Управление": "сенсорное внутреннее",
+      "Класс энергопотребления": "A++",
+      "Потребление энергии в год": "133 кВт*ч",
+      "Уровень шума": "42 дБ",
+      "Габариты (ВхШхГ)": "185.2x60x63 см",
+      "Вес": "81 кг",
+      "Дата добавления на E-Katalog": "июль 2008",
+      "Отзывы 7 Написать отзыв →": "1 2 0 4",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\liebherr_kb_4260\\images\\01.jpg",
+    "missing_refrigerators\\liebherr_kb_4260\\images\\02.jpg",
+    "missing_refrigerators\\liebherr_kb_4260\\images\\03.jpg",
+    "missing_refrigerators\\liebherr_kb_4260\\images\\04.jpg"
+  ]
+}

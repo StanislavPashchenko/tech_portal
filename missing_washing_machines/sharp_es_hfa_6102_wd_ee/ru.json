@@ -1,0 +1,127 @@
+{
+  "source": {
+    "url": "https://ek.ua/SHARP-ES-HFA-6102-WD-EE.htm",
+    "actual_url": "https://ek.ua/SHARP-ES-HFA-6102-WD-EE.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Стиральная",
+    "model": "машина Sharp ES-HFA 6102 WD-EE белый",
+    "title": "Стиральная машина Sharp ES-HFA 6102 WD-EE белый",
+    "category": "E-Katalog category 200",
+    "year": 2022,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "фронтальная загрузка",
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": null,
+    "compressors_count": null,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": null,
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "поворотная ручка + кнопки",
+    "energy_class_new": "A+++",
+    "annual_energy_consumption_kwh": null,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 75,
+    "dimensions_cm": {
+      "height": 85.0,
+      "width": 60.0,
+      "depth": 42.0
+    },
+    "weight_kg": null,
+    "country_of_origin": "Турция"
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Стиральная машина Sharp ES-HFA 6102 WD-EE белый по цене от 17838 до 17838 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2342294.jpg",
+    "https://mzimg.com/big/j1/h9dwseklkj1.jpg",
+    "https://mzimg.com/big/d1/h9dwsen15d1.jpg",
+    "https://mzimg.com/big/31/h9dwsey7g31.jpg",
+    "https://mzimg.com/big/11/h9dwsf1pd11.jpg",
+    "https://mzimg.com/big/81/h9dwsfb5481.jpg",
+    "https://mzimg.com/big/u1/h9dwsfe5gu1.jpg",
+    "https://s.ek.ua/jpg/2342294.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 7": "от 17 838 грн. Купить! Пральна машина автоматична Sharp ES-HFA6102WD Semtech.com.ua Менее года Доставка: в Днепр из Луцка Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Характеристики Тип загрузки фронтальная загрузка Загрузка 6 кг Макс. скорость отжима 1000 об/мин Расход воды за цикл 45 л Сушилка Материал бака пластик Материал ТЭНа нержавеющая сталь Функции и возможности Количество программ 15 шт Дополнительные программы быстрая стирка": "декабрь 2022",
+      "Тип загрузки": "фронтальная загрузка",
+      "Загрузка": "6 кг",
+      "Макс. скорость отжима": "1000 об/мин",
+      "Расход воды за цикл": "45 л",
+      "Материал бака": "пластик",
+      "Материал ТЭНа": "нержавеющая сталь",
+      "Количество программ": "15 шт",
+      "Дополнительные программы": "быстрая стирка",
+      "Класс отжима": "C",
+      "Класс энергопотребления": "A+++",
+      "Управление": "поворотная ручка + кнопки",
+      "Открытие дверцы": "влево",
+      "Уровень шума (отжим)": "75 дБ",
+      "Габариты (ВхШхГ)": "85x60x42 см",
+      "Страна производства": "Турция",
+      "Дата добавления на E-Katalog": "декабрь 2022"
+    }
+  },
+  "local_images": [
+    "missing_washing_machines\\sharp_es_hfa_6102_wd_ee\\images\\01.jpg",
+    "missing_washing_machines\\sharp_es_hfa_6102_wd_ee\\images\\02.jpg",
+    "missing_washing_machines\\sharp_es_hfa_6102_wd_ee\\images\\03.jpg",
+    "missing_washing_machines\\sharp_es_hfa_6102_wd_ee\\images\\04.jpg",
+    "missing_washing_machines\\sharp_es_hfa_6102_wd_ee\\images\\05.jpg",
+    "missing_washing_machines\\sharp_es_hfa_6102_wd_ee\\images\\06.jpg",
+    "missing_washing_machines\\sharp_es_hfa_6102_wd_ee\\images\\07.jpg",
+    "missing_washing_machines\\sharp_es_hfa_6102_wd_ee\\images\\08.jpg"
+  ]
+}

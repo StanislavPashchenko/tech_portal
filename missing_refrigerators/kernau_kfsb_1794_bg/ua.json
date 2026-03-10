@@ -1,0 +1,134 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/KERNAU-KFSB-1794-BG.htm",
+    "actual_url": "https://ek.ua/ua/KERNAU-KFSB-1794-BG.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Kernau",
+    "model": "KFSB 1794 BG чорний",
+    "title": "Холодильник Kernau KFSB 1794 BG чорний",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "Side-by-side",
+    "total_volume_l": 532,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 347,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "збоку",
+    "volume_l": 185,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 9,
+    "freezing_capacity_kg_per_day": 14
+  },
+  "general": {
+    "control": "сенсорне зовнішнє",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 313,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 177.0,
+      "width": 91.0,
+      "depth": 67.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Kernau KFSB 1794 BG чорний за ціною від 39913 до 41817 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2482541.jpg",
+    "https://mzimg.com/big/c1/hfeb3rs81c1.jpg",
+    "https://s.ek.ua/jpg/2482541.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Tendo.com.ua →": "41 687 грн.",
+      "Колір Тип Side-by-side Загальний об'єм 532 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 No Frost морозильна / холодильна камери Функції та можливості Функції захист від дітей індикатор закриття дверцят Додатково скляне оздоблення дверцят приховані ручки дверей Холодильне відділення Об'єм холодильної камери 347 л Полиць 4 шт Швидке охолодження Динамічне охолодження Автоматичне розморожування LED освітлення": "червень 2023",
+      "Тип": "Side-by-side",
+      "Загальний об'єм": "532 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "захист від дітей індикатор закриття дверцят",
+      "Додатково": "скляне оздоблення дверцят приховані ручки дверей",
+      "Об'єм холодильної камери": "347 л",
+      "Полиць": "4 шт",
+      "Морозильна камера": "збоку",
+      "Об'єм морозильної камери": "185 л",
+      "Температура морозилки": "-22 °C",
+      "Час збереження холоду": "9 год",
+      "Потужність заморожування": "14 кг/добу",
+      "Управління": "сенсорне зовнішнє",
+      "Клас енергоспоживання (new)": "E",
+      "Споживання енергії в рік": "313 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Клас гучності": "C",
+      "Рівень шуму": "39 дБ",
+      "Габарити (ВхШхГ)": "177x91x67 см",
+      "Офіційний сайт": "kernau.com",
+      "Дата додавання на E-Katalog": "червень 2023",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\kernau_kfsb_1794_bg\\images\\01.jpg",
+    "missing_refrigerators\\kernau_kfsb_1794_bg\\images\\02.jpg",
+    "missing_refrigerators\\kernau_kfsb_1794_bg\\images\\03.jpg"
+  ]
+}

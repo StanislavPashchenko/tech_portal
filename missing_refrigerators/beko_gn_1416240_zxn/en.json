@@ -1,0 +1,153 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/BEKO-GN-1416240-ZXN.htm",
+    "actual_url": "https://ek.ua/en/BEKO-GN-1416240-ZXN.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Beko",
+    "model": "GN 1416240 ZXN stainless steel (7295548785)",
+    "title": "Beko GN 1416240 ZXN stainless steel (7295548785)",
+    "category": "E-Katalog category 200",
+    "year": 338,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "French door",
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": false,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 6,
+    "sections_details": "6",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": null,
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 338,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 182.0,
+      "width": 90.8,
+      "depth": 70.5
+    },
+    "weight_kg": 127.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Beko GN 1416240 ZXN stainless steel (7295548785) at a price from 70241 to 70241 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2646852.jpg",
+    "https://mzimg.com/big/u1/hnqkwsfu5u1.jpg",
+    "https://mzimg.com/big/01/hnqkwt1zt01.jpg",
+    "https://mzimg.com/big/x1/hnqkwt31wx1.jpg",
+    "https://mzimg.com/big/s1/hnqkwubups1.jpg",
+    "https://mzimg.com/big/d1/hnqkwserhd1.jpg",
+    "https://mzimg.com/big/21/hnqkwtpeq21.jpg",
+    "https://mzimg.com/big/x1/hnqkwtqk3x1.jpg",
+    "https://mzimg.com/big/51/hnqkwudjr51.jpg",
+    "https://s.ek.ua/jpg/2646852.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 9": "from 70 241 ₴ Buy! Холодильник Beko GN1416240ZXN Full No Frost 182см Камера свіжості сталь GN1416240Z Novateh.com.ua Less than year Delivery: to Dnipro from Novoyavorivsk Report add to list my lists add to comparison",
+      "Colour Type French door Total capacity 572 L Number of chambers 3 Number of cooling circuits 2 Number of compressors 1 Inverter compressor No Frost freezer / refrigerator compartments Features Features holiday mode child lock LED display door alarm More features hidden door handles Refrigeration chamber Refrigerator capacity 346 L Number of shelves 3 Storage compartments fresh zone Fresh zone (zero chamber) 30 L Fast cool Dynamic air cooling Auto-defrost LED lighting": "7295548785",
+      "Type": "French door",
+      "Total capacity": "572 L",
+      "Number of chambers": "3",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "holiday mode child lock LED display door alarm",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "346 L",
+      "Number of shelves": "3",
+      "Storage compartments": "fresh zone",
+      "Fresh zone (zero chamber)": "30 L",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "196 L",
+      "Freezer drawers": "6",
+      "Autonomy time": "10 h",
+      "Freeze capacity": "4.6 kg/day",
+      "Ice maker": "internal",
+      "Energy class (new)": "E",
+      "Energy consumption per year": "338 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Noise class": "C",
+      "Noise level": "37 dB",
+      "Dimensions (HxWxD)": "182x90.8x70.5 cm",
+      "Weight": "127 kg",
+      "Official Website": "beko.com",
+      "Added to E-Catalog": "March 2024",
+      "P/N": "7295548785",
+      "Inverter compressor": "yes",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\beko_gn_1416240_zxn\\images\\01.jpg",
+    "missing_refrigerators\\beko_gn_1416240_zxn\\images\\02.jpg",
+    "missing_refrigerators\\beko_gn_1416240_zxn\\images\\03.jpg",
+    "missing_refrigerators\\beko_gn_1416240_zxn\\images\\04.jpg",
+    "missing_refrigerators\\beko_gn_1416240_zxn\\images\\05.jpg",
+    "missing_refrigerators\\beko_gn_1416240_zxn\\images\\06.jpg",
+    "missing_refrigerators\\beko_gn_1416240_zxn\\images\\07.jpg",
+    "missing_refrigerators\\beko_gn_1416240_zxn\\images\\08.jpg",
+    "missing_refrigerators\\beko_gn_1416240_zxn\\images\\09.jpg",
+    "missing_refrigerators\\beko_gn_1416240_zxn\\images\\10.jpg"
+  ]
+}

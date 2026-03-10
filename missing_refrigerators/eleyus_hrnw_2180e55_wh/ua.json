@@ -1,0 +1,153 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/ELEYUS-HRNW-2180E55-WH.htm",
+    "actual_url": "https://ek.ua/ua/ELEYUS-HRNW-2180E55-WH.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "ELEYUS",
+    "model": "HRNW 2180E55 WH білий",
+    "title": "Холодильник ELEYUS HRNW 2180E55 WH білий",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 20
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 237,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 182,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 55,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 12,
+    "freezing_capacity_kg_per_day": 2
+  },
+  "general": {
+    "control": "поворотні перемикачі",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": 256,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 42,
+    "dimensions_cm": {
+      "height": 181.0,
+      "width": 54.5,
+      "depth": 59.6
+    },
+    "weight_kg": 51.0,
+    "country_of_origin": "Китай"
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general",
+      "Ціни на ELEYUS HRNW 2180E55 WH"
+    ]
+  },
+  "description": "Холодильник ELEYUS HRNW 2180E55 WH білий за ціною від 14723 до 17174 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2604999.jpg",
+    "https://mzimg.com/big/z1/hlng35srzz1.jpg",
+    "https://mzimg.com/big/z1/hlng35tdaz1.jpg",
+    "https://mzimg.com/big/e1/hlng3649me1.jpg",
+    "https://mzimg.com/big/c1/hlng364s4c1.jpg",
+    "https://mzimg.com/big/g1/hlng36i5dg1.jpg",
+    "https://mzimg.com/big/r1/hlng36jnqr1.jpg",
+    "https://mzimg.com/big/w1/hlng36ug7w1.jpg",
+    "https://mzimg.com/big/61/hlng36ydy61.jpg",
+    "https://mzimg.com/big/21/hlng375bs21.jpg",
+    "https://mzimg.com/big/u1/hlng37a3wu1.jpg",
+    "https://mzimg.com/big/o1/hlng37i5qo1.jpg",
+    "https://s.ek.ua/jpg/2604999.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 13": "15 829 грн.",
+      "Pro100market.com.ua →": "15 829 грн.",
+      "Openshop.ua →": "14 872 грн.",
+      "Elmag.ua →": "15 354 грн.",
+      "Tehnomart.com →": "15 829 грн.",
+      "Denika.ua →": "15 829 грн.",
+      "Колір Загальний об'єм 237 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 No Frost морозильна / холодильна камери Функції та можливості Функції перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 182 л Полиць 4 шт Динамічне охолодження Автоматичне розморожування LED освітлення": "січень 2024",
+      "Загальний об'єм": "237 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "182 л",
+      "Полиць": "4 шт",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "55 л",
+      "Відділень морозильної камери": "3 шт",
+      "Час збереження холоду": "12 год",
+      "Потужність заморожування": "2.5 кг/добу",
+      "Управління": "поворотні перемикачі",
+      "Клас енергоспоживання": "A+",
+      "Споживання енергії в рік": "256 кВт*год",
+      "Рівень шуму": "42 дБ",
+      "Габарити (ВхШхГ)": "181x54.5x59,6 см",
+      "Вага": "51 кг",
+      "Країна виробництва": "Китай",
+      "Дата додавання на E-Katalog": "січень 2024",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    },
+    "Ціни на ELEYUS HRNW 2180E55 WH": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\eleyus_hrnw_2180e55_wh\\images\\01.jpg",
+    "missing_refrigerators\\eleyus_hrnw_2180e55_wh\\images\\02.jpg",
+    "missing_refrigerators\\eleyus_hrnw_2180e55_wh\\images\\03.jpg",
+    "missing_refrigerators\\eleyus_hrnw_2180e55_wh\\images\\04.jpg",
+    "missing_refrigerators\\eleyus_hrnw_2180e55_wh\\images\\05.jpg",
+    "missing_refrigerators\\eleyus_hrnw_2180e55_wh\\images\\06.jpg",
+    "missing_refrigerators\\eleyus_hrnw_2180e55_wh\\images\\07.jpg",
+    "missing_refrigerators\\eleyus_hrnw_2180e55_wh\\images\\08.jpg",
+    "missing_refrigerators\\eleyus_hrnw_2180e55_wh\\images\\09.jpg",
+    "missing_refrigerators\\eleyus_hrnw_2180e55_wh\\images\\10.jpg",
+    "missing_refrigerators\\eleyus_hrnw_2180e55_wh\\images\\11.jpg",
+    "missing_refrigerators\\eleyus_hrnw_2180e55_wh\\images\\12.jpg",
+    "missing_refrigerators\\eleyus_hrnw_2180e55_wh\\images\\13.jpg"
+  ]
+}

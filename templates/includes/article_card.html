@@ -6,7 +6,6 @@
     </a>
     {% endif %}
     <div class="card-body">
-        <span class="eyebrow">{% category_label article.category %}</span>
         <h3><a href="{{ article.get_absolute_url }}">{{ article.display_title }}</a></h3>
         <p>{{ article.display_excerpt }}</p>
         <div class="card-meta">

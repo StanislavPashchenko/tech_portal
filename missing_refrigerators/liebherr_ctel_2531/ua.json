@@ -1,0 +1,135 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/LIEBHERR-CTEL-2531.htm",
+    "actual_url": "https://ek.ua/ua/LIEBHERR-CTEL-2531.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liebherr",
+    "model": "CTel 2531 сріблястий",
+    "title": "Холодильник Liebherr CTel 2531 сріблястий",
+    "category": "E-Katalog category 200",
+    "year": 2019,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 233,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 189,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "зверху",
+    "volume_l": 44,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 22,
+    "freezing_capacity_kg_per_day": 4
+  },
+  "general": {
+    "control": "поворотні перемикачі",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 170,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 140.1,
+      "width": 55.0,
+      "depth": 63.0
+    },
+    "weight_kg": 48.0,
+    "country_of_origin": "Болгарія"
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Liebherr CTel 2531 сріблястий за ціною від 24645 до 28999 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1529027.jpg",
+    "https://mzimg.com/big/c1/g0ixyhpfkc1.jpg",
+    "https://mzimg.com/big/e1/g0ixyhxdee1.jpg",
+    "https://mzimg.com/big/81/g0ixyi81m81.jpg",
+    "https://mzimg.com/big/01/g0ixyigsd01.jpg",
+    "https://s.ek.ua/jpg/1529027.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Tendo.com.ua →": "28 999 грн.",
+      "Elmag.ua →": "28 999 грн.",
+      "Колір Загальний об'єм 233 л Кількість камер 2 Контурів охолодження 1 Компресорів 1 Функції та можливості Функції перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 189 л Автоматичне розморожування LED освітлення": "лютий 2019",
+      "Загальний об'єм": "233 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "Функції": "перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "189 л",
+      "Морозильна камера": "зверху",
+      "Об'єм морозильної камери": "44 л",
+      "Час збереження холоду": "22 год",
+      "Потужність заморожування": "4 кг/добу",
+      "Управління": "поворотні перемикачі",
+      "Клас енергоспоживання": "A++",
+      "Споживання енергії в рік": "170 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Рівень шуму": "39 дБ",
+      "Габарити (ВхШхГ)": "140.1x55x63 см",
+      "Вага": "48 кг",
+      "Країна виробництва": "Болгарія",
+      "Дата додавання на E-Katalog": "лютий 2019",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\liebherr_ctel_2531\\images\\01.jpg",
+    "missing_refrigerators\\liebherr_ctel_2531\\images\\02.jpg",
+    "missing_refrigerators\\liebherr_ctel_2531\\images\\03.jpg",
+    "missing_refrigerators\\liebherr_ctel_2531\\images\\04.jpg",
+    "missing_refrigerators\\liebherr_ctel_2531\\images\\05.jpg",
+    "missing_refrigerators\\liebherr_ctel_2531\\images\\06.jpg"
+  ]
+}

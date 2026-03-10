@@ -1,0 +1,110 @@
+{
+  "source": {
+    "url": "https://ek.ua/DIGITAL-DW-74WB.htm",
+    "actual_url": "https://ek.ua/DIGITAL-DW-74WB.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Стиральная",
+    "model": "машина Digital DW-74WB белый",
+    "title": "Стиральная машина Digital DW-74WB белый",
+    "category": "E-Katalog category 200",
+    "year": 2018,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 14
+  },
+  "summary": {
+    "type": "вертикальная загрузка",
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": null,
+    "compressors_count": null,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": null,
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "поворотная ручка",
+    "energy_class_new": null,
+    "annual_energy_consumption_kwh": null,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 79.0,
+      "width": 46.0,
+      "depth": 40.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Стиральная машина Digital DW-74WB белый по цене от 4159 до 4989 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1284631.jpg",
+    "https://s.ek.ua/jpg/1284631.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Stylus.ua →": "4 159 грн.",
+      "АЛЛО →": "4 891 грн.",
+      "Denika.ua →": "4 423 грн.",
+      "Enko.com.ua →": "4 985 грн.",
+      "АЛЛО → (2)": "4 312 грн.",
+      "Цвет Тип загрузки вертикальная загрузка Загрузка 7 кг Сушилка Материал бака пластик Материал ТЭНа ТЭН отсутствует Управление поворотная ручка Габариты (ВхШхГ) 79x46x40 см Дата добавления на E-Katalog январь 2018": "январь 2018",
+      "Тип загрузки": "вертикальная загрузка",
+      "Загрузка": "7 кг",
+      "Материал бака": "пластик",
+      "Материал ТЭНа": "ТЭН отсутствует",
+      "Управление": "поворотная ручка",
+      "Габариты (ВхШхГ)": "79x46x40 см",
+      "Дата добавления на E-Katalog": "январь 2018"
+    }
+  },
+  "local_images": [
+    "missing_washing_machines\\digital_dw_74wb\\images\\01.jpg",
+    "missing_washing_machines\\digital_dw_74wb\\images\\02.jpg"
+  ]
+}

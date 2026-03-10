@@ -1,0 +1,135 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/BLAUFISCH-BRD-1755W.htm",
+    "actual_url": "https://ek.ua/ua/BLAUFISCH-BRD-1755W.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Blaufisch",
+    "model": "BRD-1755W білий",
+    "title": "Холодильник Blaufisch BRD-1755W білий",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 6
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 249,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 136,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 113,
+    "sections_count": 4,
+    "sections_details": "4 шт",
+    "cold_storage_time_h": 20,
+    "freezing_capacity_kg_per_day": 5
+  },
+  "general": {
+    "control": "поворотні перемикачі",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": null,
+    "climate_class": [
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 42,
+    "dimensions_cm": {
+      "height": 172.0,
+      "width": 55.0,
+      "depth": 57.0
+    },
+    "weight_kg": 52.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general",
+      "Ціни на Blaufisch BRD-1755W"
+    ]
+  },
+  "description": "Холодильник Blaufisch BRD-1755W білий за ціною від 11283 до 13314 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2811393.jpg",
+    "https://mzimg.com/big/o1/hw7tj03hvo1.jpg",
+    "https://mzimg.com/big/t1/hw7tce2u3t1.jpg",
+    "https://s.ek.ua/jpg/2811393.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 3": "13 314 грн.",
+      "Elmag.ua →": "11 396 грн.",
+      "Denika.ua →": "11 396 грн.",
+      "Axm.com.ua →": "12 797 грн.",
+      "Elmir.ua →": "12 934 грн.",
+      "Rozetka.ua →": "13 314 грн.",
+      "Колір Загальний об'єм 249 л Кількість камер 2 Контурів охолодження 1 Компресорів 1 Функції та можливості Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 136 л Полиць 3 шт LED освітлення Морозильне відділення Морозильна камера знизу Об'єм морозильної камери 113 л Відділень морозильної камери 4 шт Температура морозилки -24 °C Час збереження холоду 20 год Потужність заморожування 5 кг/добу": "грудень 2024",
+      "Загальний об'єм": "249 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "136 л",
+      "Полиць": "3 шт",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "113 л",
+      "Відділень морозильної камери": "4 шт",
+      "Температура морозилки": "-24 °C",
+      "Час збереження холоду": "20 год",
+      "Потужність заморожування": "5 кг/добу",
+      "Управління": "поворотні перемикачі",
+      "Клас енергоспоживання": "A+",
+      "Кліматичний клас": "N, ST (+16...+38 °С)",
+      "Рівень шуму": "42 дБ",
+      "Габарити (ВхШхГ)": "172х55х57 см",
+      "Вага": "52 кг",
+      "Офіційний сайт": "blaufisch.com.ua",
+      "Дата додавання на E-Katalog": "грудень 2024",
+      "LED освітлення": "так"
+    },
+    "Ціни на Blaufisch BRD-1755W": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\blaufisch_brd_1755w\\images\\01.jpg",
+    "missing_refrigerators\\blaufisch_brd_1755w\\images\\02.jpg",
+    "missing_refrigerators\\blaufisch_brd_1755w\\images\\03.jpg",
+    "missing_refrigerators\\blaufisch_brd_1755w\\images\\04.jpg"
+  ]
+}

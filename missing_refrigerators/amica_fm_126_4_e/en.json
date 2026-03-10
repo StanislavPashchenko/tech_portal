@@ -1,0 +1,136 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/AMICA-FM-126-4-E.htm",
+    "actual_url": "https://ek.ua/en/AMICA-FM-126-4-E.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Amica",
+    "model": "FM 126.4(E) white",
+    "title": "Amica FM 126.4(E) white",
+    "category": "E-Katalog category 200",
+    "year": 85,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "in absent",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knobs",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 85,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 85.0,
+      "width": 48.0,
+      "depth": 51.5
+    },
+    "weight_kg": 21.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Amica FM 126.4(E) white at a price from 11899 to 11956 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2681656.jpg",
+    "https://mzimg.com/big/91/hpb9k8zrb91.jpg",
+    "https://mzimg.com/big/31/hpb9k91dw31.jpg",
+    "https://mzimg.com/big/41/hpb9k9luf41.jpg",
+    "https://mzimg.com/big/o1/hpb9ka7yfo1.jpg",
+    "https://mzimg.com/big/r1/hpb9kamgcr1.jpg",
+    "https://mzimg.com/big/01/hpb9k9o9r01.jpg",
+    "https://mzimg.com/big/51/hpb9ka3kl51.jpg",
+    "https://mzimg.com/big/z1/hpb9katcsz1.jpg",
+    "https://s.ek.ua/jpg/2681656.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 9": "11 899 ₴",
+      "Novateh.com.ua →": "11 899 ₴",
+      "Colour Total capacity 91 L Number of chambers 1 Number of cooling circuits 1 Number of compressors 1 Features Features reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 91 L Number of shelves 3 Auto-defrost LED lighting": "May 2024",
+      "Total capacity": "91 L",
+      "Number of chambers": "1",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "Features": "reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "91 L",
+      "Number of shelves": "3",
+      "Freezer compartment": "in absent",
+      "Controls": "rotary knobs",
+      "Energy class (new)": "E",
+      "Energy consumption per year": "85 kWh",
+      "Noise class": "C",
+      "Noise level": "39 dB",
+      "Dimensions (HxWxD)": "85x48x51.5 cm",
+      "Weight": "21 kg",
+      "Official Website": "amica.pl",
+      "Added to E-Catalog": "May 2024",
+      "LED lighting": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\amica_fm_126_4_e\\images\\01.jpg",
+    "missing_refrigerators\\amica_fm_126_4_e\\images\\02.jpg",
+    "missing_refrigerators\\amica_fm_126_4_e\\images\\03.jpg",
+    "missing_refrigerators\\amica_fm_126_4_e\\images\\04.jpg",
+    "missing_refrigerators\\amica_fm_126_4_e\\images\\05.jpg",
+    "missing_refrigerators\\amica_fm_126_4_e\\images\\06.jpg",
+    "missing_refrigerators\\amica_fm_126_4_e\\images\\07.jpg",
+    "missing_refrigerators\\amica_fm_126_4_e\\images\\08.jpg",
+    "missing_refrigerators\\amica_fm_126_4_e\\images\\09.jpg",
+    "missing_refrigerators\\amica_fm_126_4_e\\images\\10.jpg"
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "source": {
+    "url": "https://ek.ua/AMICA-FM-107-4-E.htm",
+    "actual_url": "https://ek.ua/AMICA-FM-107-4-E.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Amica",
+    "model": "FM 107.4(E) белый",
+    "title": "Холодильник Amica FM 107.4(E) белый",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 83,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 75,
+    "shelves_count": 2
+  },
+  "freezer_compartment": {
+    "location": "сверху",
+    "volume_l": 8,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 3,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 128,
+    "climate_class": [
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 84.0,
+      "width": 48.0,
+      "depth": 51.0
+    },
+    "weight_kg": 24.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Amica FM 107.4(E) белый по цене от 9744 до 9744 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2665691.jpg",
+    "https://mzimg.com/big/g1/holwfmn88g1.jpg",
+    "https://mzimg.com/big/y1/holwfn1tjy1.jpg",
+    "https://mzimg.com/big/b1/holwfn8c6b1.jpg",
+    "https://mzimg.com/big/j1/holwfno1ej1.jpg",
+    "https://mzimg.com/big/91/holwfl2io91.jpg",
+    "https://mzimg.com/big/s1/holwfl42ts1.jpg",
+    "https://mzimg.com/big/61/holwflip961.jpg",
+    "https://mzimg.com/big/t1/holwflmgxt1.jpg",
+    "https://mzimg.com/big/d1/holwfm0j5d1.jpg",
+    "https://mzimg.com/big/p1/holwfm5utp1.jpg",
+    "https://mzimg.com/big/q1/holwfmj08q1.jpg",
+    "https://s.ek.ua/jpg/2665691.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 12": "9 744 грн. Купить! Холодильник Amica FM107.4(E) 84 см white FM107.4E Novateh.com.ua Менее года Доставка: в Днепр из Новояворовска Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Общий объем 83 л Количество камер 2 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Функции перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 75 л Полок 2 шт Морозильное отделение Морозильная камера сверху Объем морозильной камеры 8 л Температура морозилки -18 °C Время сохранения холода 3 ч": "апрель 2024",
+      "Общий объем": "83 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Функции": "перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "75 л",
+      "Полок": "2 шт",
+      "Морозильная камера": "сверху",
+      "Объем морозильной камеры": "8 л",
+      "Температура морозилки": "-18 °C",
+      "Время сохранения холода": "3 ч",
+      "Управление": "поворотные переключатели",
+      "Класс энергопотребления (new)": "E",
+      "Потребление энергии в год": "128 кВт*ч",
+      "Климатический класс": "N, ST (+16...+38 °С)",
+      "Класс шумности": "C",
+      "Уровень шума": "39 дБ",
+      "Габариты (ВхШхГ)": "84x48x51 см",
+      "Вес": "24 кг",
+      "Официальный сайт": "amica.pl",
+      "Дата добавления на E-Katalog": "апрель 2024"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\amica_fm_107_4_e\\images\\01.jpg",
+    "missing_refrigerators\\amica_fm_107_4_e\\images\\02.jpg",
+    "missing_refrigerators\\amica_fm_107_4_e\\images\\03.jpg",
+    "missing_refrigerators\\amica_fm_107_4_e\\images\\04.jpg",
+    "missing_refrigerators\\amica_fm_107_4_e\\images\\05.jpg",
+    "missing_refrigerators\\amica_fm_107_4_e\\images\\06.jpg",
+    "missing_refrigerators\\amica_fm_107_4_e\\images\\07.jpg",
+    "missing_refrigerators\\amica_fm_107_4_e\\images\\08.jpg",
+    "missing_refrigerators\\amica_fm_107_4_e\\images\\09.jpg",
+    "missing_refrigerators\\amica_fm_107_4_e\\images\\10.jpg",
+    "missing_refrigerators\\amica_fm_107_4_e\\images\\11.jpg",
+    "missing_refrigerators\\amica_fm_107_4_e\\images\\12.jpg",
+    "missing_refrigerators\\amica_fm_107_4_e\\images\\13.jpg"
+  ]
+}

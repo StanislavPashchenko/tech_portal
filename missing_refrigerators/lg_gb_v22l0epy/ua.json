@@ -1,0 +1,150 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/LG-GB-V22L0EPY.htm",
+    "actual_url": "https://ek.ua/ua/LG-GB-V22L0EPY.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "LG",
+    "model": "GB-V22L0EPY сріблястий",
+    "title": "Холодильник LG GB-V22L0EPY сріблястий",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 387,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 277,
+    "shelves_count": 5
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 110,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": 8
+  },
+  "general": {
+    "control": "сенсорне внутрішнє",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 257,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 35,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 59.5,
+      "depth": 68.2
+    },
+    "weight_kg": 74.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник LG GB-V22L0EPY сріблястий за ціною від 31122 до 31413 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2859198.jpg",
+    "https://mzimg.com/big/11/hz691d86611.jpg",
+    "https://mzimg.com/big/31/hz691d8zt31.jpg",
+    "https://mzimg.com/big/71/hz691dhb271.jpg",
+    "https://mzimg.com/big/x1/hz691dk0rx1.jpg",
+    "https://mzimg.com/big/p1/hz691dqdip1.jpg",
+    "https://mzimg.com/big/w1/hz691dw6jw1.jpg",
+    "https://mzimg.com/big/g1/hz691e01fg1.jpg",
+    "https://mzimg.com/big/p1/hz691e6c6p1.jpg",
+    "https://mzimg.com/big/21/hz691eaky21.jpg",
+    "https://mzimg.com/big/x1/hz691eg5hx1.jpg",
+    "https://mzimg.com/big/h1/hz691ekqwh1.jpg",
+    "https://s.ek.ua/jpg/2859198.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 12": "31 122 грн.",
+      "Denika.ua →": "31 122 грн.",
+      "Колір Загальний об'єм 387 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 Інверторний компресор No Frost морозильна / холодильна камери Функції та можливості Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 277 л Полиць 5 шт Швидке охолодження Динамічне охолодження Автоматичне розморожування LED освітлення": "березень 2025",
+      "Загальний об'єм": "387 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "277 л",
+      "Полиць": "5 шт",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "110 л",
+      "Відділень морозильної камери": "3 шт",
+      "Температура морозилки": "-23 °C",
+      "Потужність заморожування": "8 кг/добу",
+      "Управління": "сенсорне внутрішнє",
+      "Клас енергоспоживання (new)": "E",
+      "Споживання енергії в рік": "257 кВт*год",
+      "Кліматичний клас": "тропічний Т (+18...+43 °С)",
+      "Клас гучності": "B",
+      "Рівень шуму": "35 дБ",
+      "Габарити (ВхШхГ)": "203х59.5х68.2 см",
+      "Вага": "74 кг",
+      "Офіційний сайт": "lg.com",
+      "Дата додавання на E-Katalog": "березень 2025",
+      "Інверторний компресор": "так",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\lg_gb_v22l0epy\\images\\01.jpg",
+    "missing_refrigerators\\lg_gb_v22l0epy\\images\\02.jpg",
+    "missing_refrigerators\\lg_gb_v22l0epy\\images\\03.jpg",
+    "missing_refrigerators\\lg_gb_v22l0epy\\images\\04.jpg",
+    "missing_refrigerators\\lg_gb_v22l0epy\\images\\05.jpg",
+    "missing_refrigerators\\lg_gb_v22l0epy\\images\\06.jpg",
+    "missing_refrigerators\\lg_gb_v22l0epy\\images\\07.jpg",
+    "missing_refrigerators\\lg_gb_v22l0epy\\images\\08.jpg",
+    "missing_refrigerators\\lg_gb_v22l0epy\\images\\09.jpg",
+    "missing_refrigerators\\lg_gb_v22l0epy\\images\\10.jpg",
+    "missing_refrigerators\\lg_gb_v22l0epy\\images\\11.jpg",
+    "missing_refrigerators\\lg_gb_v22l0epy\\images\\12.jpg",
+    "missing_refrigerators\\lg_gb_v22l0epy\\images\\13.jpg"
+  ]
+}

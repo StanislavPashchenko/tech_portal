@@ -1,0 +1,134 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/MPM-185-CJI-18.htm",
+    "actual_url": "https://ek.ua/en/MPM-185-CJI-18.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "MPM",
+    "model": "185-CJI-18 white",
+    "title": "MPM 185-CJI-18 white",
+    "category": "E-Katalog category 200",
+    "year": 146,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "top",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "internal push-buttons",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 146,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 123.0,
+      "width": 54.0,
+      "depth": 54.0
+    },
+    "weight_kg": 36.0,
+    "country_of_origin": "Poland"
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge MPM 185-CJI-18 white at a price from 13680 to 17704 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2788683.jpg",
+    "https://mzimg.com/big/h1/huxqnhxwyh1.jpg",
+    "https://mzimg.com/big/r1/huxqnic3br1.jpg",
+    "https://mzimg.com/big/u1/huxqv0do0u1.jpg",
+    "https://s.ek.ua/jpg/2788683.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 4": "14 999 ₴",
+      "FOXTROT.UA →": "13 680 ₴",
+      "Stylus.ua →": "17 550 ₴",
+      "Semtech.com.ua →": "14 999 ₴",
+      "Colour Total capacity 181 L Number of chambers 2 Number of cooling circuits 1 Number of compressors 1 Features Features reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 167 L Number of shelves 3 LED lighting": "October 2024",
+      "Total capacity": "181 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "Features": "reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "167 L",
+      "Number of shelves": "3",
+      "Freezer compartment": "top",
+      "Freezer capacity": "14 L",
+      "Autonomy time": "7 h",
+      "Freeze capacity": "2 kg/day",
+      "Controls": "internal push-buttons",
+      "Energy class (new)": "E",
+      "Energy consumption per year": "146 kWh",
+      "Climate class": "SN, N, ST (+10...+38 °С)",
+      "Noise level": "39 dB",
+      "Dimensions (HxWxD)": "123х54х54 cm",
+      "Weight": "36 kg",
+      "Country of origin": "Poland",
+      "Added to E-Catalog": "October 2024",
+      "LED lighting": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\mpm_185_cji_18\\images\\01.jpg",
+    "missing_refrigerators\\mpm_185_cji_18\\images\\02.jpg",
+    "missing_refrigerators\\mpm_185_cji_18\\images\\03.jpg",
+    "missing_refrigerators\\mpm_185_cji_18\\images\\04.jpg",
+    "missing_refrigerators\\mpm_185_cji_18\\images\\05.jpg"
+  ]
+}

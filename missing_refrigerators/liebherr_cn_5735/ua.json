@@ -1,0 +1,145 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/LIEBHERR-CN-5735.htm",
+    "actual_url": "https://ek.ua/ua/LIEBHERR-CN-5735.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liebherr",
+    "model": "CN 5735 білий",
+    "title": "Холодильник Liebherr CN 5735 білий",
+    "category": "E-Katalog category 200",
+    "year": 2020,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 402,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 296,
+    "shelves_count": 5
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 106,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 24,
+    "freezing_capacity_kg_per_day": 16
+  },
+  "general": {
+    "control": "сенсорне внутрішнє",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 183,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 38,
+    "dimensions_cm": {
+      "height": 201.0,
+      "width": 70.0,
+      "depth": 66.5
+    },
+    "weight_kg": 91.0,
+    "country_of_origin": "Німеччина"
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Liebherr CN 5735 білий за ціною від 101634 до 101634 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1749298.jpg",
+    "https://mzimg.com/big/n1/gc7xf54jqn1.jpg",
+    "https://mzimg.com/big/k1/gc7xf5i34k1.jpg",
+    "https://mzimg.com/big/j1/gc7xf5wwuj1.jpg",
+    "https://mzimg.com/big/61/gc7xf6dul61.jpg",
+    "https://mzimg.com/big/41/gc7xf6s2t41.jpg",
+    "https://mzimg.com/big/e1/gc7xf77pqe1.jpg",
+    "https://s.ek.ua/jpg/1749298.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 7": "101 634 грн. Купити! Холодильник Liebherr CN 5735 inSale.com.ua Менше року Доставка: у Дніпро з Києва Гарантія: 12 міс. Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 402 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 No Frost морозильна камера Функції та можливості Функції режим відпустки захист від дітей LED дисплей індикатор закриття дверцят перевішування дверей Холодильне відділення Об'єм холодильної камери 296 л Полиць 5 шт Відсіки для зберігання зона свіжості зона вологості полиця для пляшок Швидке охолодження Динамічне охолодження Автоматичне розморожування Дезодоратор LED освітлення": "лютий 2020",
+      "Загальний об'єм": "402 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна камера",
+      "Функції": "режим відпустки захист від дітей LED дисплей індикатор закриття дверцят перевішування дверей",
+      "Об'єм холодильної камери": "296 л",
+      "Полиць": "5 шт",
+      "Відсіки для зберігання": "зона свіжості зона вологості полиця для пляшок",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "106 л",
+      "Відділень морозильної камери": "3 шт",
+      "Температура морозилки": "-24 °C",
+      "Час збереження холоду": "24 год",
+      "Потужність заморожування": "16 кг/добу",
+      "Управління": "сенсорне внутрішнє",
+      "Клас енергоспоживання": "A++",
+      "Споживання енергії в рік": "183 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Рівень шуму": "38 дБ",
+      "Габарити (ВхШхГ)": "201x70x66.5 см",
+      "Вага": "91 кг",
+      "Країна виробництва": "Німеччина",
+      "Дата додавання на E-Katalog": "лютий 2020",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так",
+      "Дезодоратор": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\liebherr_cn_5735\\images\\01.jpg",
+    "missing_refrigerators\\liebherr_cn_5735\\images\\02.jpg",
+    "missing_refrigerators\\liebherr_cn_5735\\images\\03.jpg",
+    "missing_refrigerators\\liebherr_cn_5735\\images\\04.jpg",
+    "missing_refrigerators\\liebherr_cn_5735\\images\\05.jpg",
+    "missing_refrigerators\\liebherr_cn_5735\\images\\06.jpg",
+    "missing_refrigerators\\liebherr_cn_5735\\images\\07.jpg",
+    "missing_refrigerators\\liebherr_cn_5735\\images\\08.jpg"
+  ]
+}

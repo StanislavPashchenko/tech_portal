@@ -1,0 +1,157 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/GORENJE-NRC-620-BSXL4.htm",
+    "actual_url": "https://ek.ua/en/GORENJE-NRC-620-BSXL4.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Gorenje",
+    "model": "NRC 620 BSXL4 stainless steel (742488)",
+    "title": "Gorenje NRC 620 BSXL4 stainless steel (742488)",
+    "category": "E-Katalog category 200",
+    "year": 135,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "internal touch controls",
+    "energy_class_new": "B",
+    "annual_energy_consumption_kwh": 135,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 200.0,
+      "width": 60.0,
+      "depth": 66.3
+    },
+    "weight_kg": 77.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Gorenje NRC 620 BSXL4 stainless steel (742488) at a price from 45421 to 45421 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2826479.jpg",
+    "https://mzimg.com/big/k1/hxchfxu37k1.jpg",
+    "https://mzimg.com/big/u1/hxchfy30tu1.jpg",
+    "https://mzimg.com/big/p1/hxchfxti3p1.jpg",
+    "https://mzimg.com/big/s1/hxchfy4els1.jpg",
+    "https://mzimg.com/big/h1/hxchfydbfh1.jpg",
+    "https://mzimg.com/big/x1/hxchfyh4cx1.jpg",
+    "https://mzimg.com/big/j1/hxchfyn6oj1.jpg",
+    "https://mzimg.com/big/e1/hxchfysqpe1.jpg",
+    "https://mzimg.com/big/a1/hxchfywloa1.jpg",
+    "https://mzimg.com/big/y1/hxchfz26iy1.jpg",
+    "https://mzimg.com/big/21/hxchfz8ba21.jpg",
+    "https://s.ek.ua/jpg/2826479.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 19": "45 421 ₴ Buy! Холодильник Gorenje NRC620BSXL4 inSale.com.ua Less than year Delivery: to Dnipro from Kyiv Warranty: 12 month Report add to list my lists add to comparison",
+      "Colour Total capacity 361 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 Inverter compressor No Frost freezer / refrigerator compartments Features Features door alarm reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 255 L Number of shelves 4 Storage compartments fresh zone humidity zone multizone bottle rack Dynamic air cooling Auto-defrost LED lighting": "742488",
+      "Total capacity": "361 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "door alarm reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "255 L",
+      "Number of shelves": "4",
+      "Storage compartments": "fresh zone humidity zone multizone bottle rack",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "106 L",
+      "Freezer drawers": "3",
+      "Freezer temperature": "-20 °C",
+      "Autonomy time": "20 h",
+      "Freeze capacity": "13 kg/day",
+      "Controls": "internal touch controls",
+      "Energy class (new)": "B",
+      "Energy consumption per year": "135 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Noise class": "B",
+      "Noise level": "35 dB",
+      "Dimensions (HxWxD)": "200х60х66.3 cm",
+      "Weight": "77 kg",
+      "Official Website": "international.gorenje.com",
+      "Added to E-Catalog": "January 2025",
+      "P/N": "742488",
+      "Inverter compressor": "yes",
+      "LED lighting": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\gorenje_nrc_620_bsxl4\\images\\01.jpg",
+    "missing_refrigerators\\gorenje_nrc_620_bsxl4\\images\\02.jpg",
+    "missing_refrigerators\\gorenje_nrc_620_bsxl4\\images\\03.jpg",
+    "missing_refrigerators\\gorenje_nrc_620_bsxl4\\images\\04.jpg",
+    "missing_refrigerators\\gorenje_nrc_620_bsxl4\\images\\05.jpg",
+    "missing_refrigerators\\gorenje_nrc_620_bsxl4\\images\\06.jpg",
+    "missing_refrigerators\\gorenje_nrc_620_bsxl4\\images\\07.jpg",
+    "missing_refrigerators\\gorenje_nrc_620_bsxl4\\images\\08.jpg",
+    "missing_refrigerators\\gorenje_nrc_620_bsxl4\\images\\09.jpg",
+    "missing_refrigerators\\gorenje_nrc_620_bsxl4\\images\\10.jpg",
+    "missing_refrigerators\\gorenje_nrc_620_bsxl4\\images\\11.jpg",
+    "missing_refrigerators\\gorenje_nrc_620_bsxl4\\images\\12.jpg",
+    "missing_refrigerators\\gorenje_nrc_620_bsxl4\\images\\13.jpg"
+  ]
+}

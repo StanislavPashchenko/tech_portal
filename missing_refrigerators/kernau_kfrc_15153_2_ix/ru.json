@@ -1,0 +1,135 @@
+{
+  "source": {
+    "url": "https://ek.ua/KERNAU-KFRC-15153-2-IX.htm",
+    "actual_url": "https://ek.ua/KERNAU-KFRC-15153-2-IX.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Kernau",
+    "model": "KFRC 15153.2 IX нержавейка",
+    "title": "Холодильник Kernau KFRC 15153.2 IX нержавейка",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 230,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 146,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 84,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 14,
+    "freezing_capacity_kg_per_day": 4
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 212,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 152.0,
+      "width": 54.0,
+      "depth": 59.5
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general",
+      "Цены на Kernau KFRC 15153.2 IX"
+    ]
+  },
+  "description": "Холодильник Kernau KFRC 15153.2 IX нержавейка по цене от 16731 до 16731 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2890054.jpg",
+    "https://mzimg.com/big/g1/i14ubgk4ag1.jpg",
+    "https://mzimg.com/big/f1/i14ulinrhf1.jpg",
+    "https://mzimg.com/big/11/i14uliodj11.jpg",
+    "https://s.ek.ua/jpg/2890054.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 4": "16 731 грн. Купить! Холодильник Kernau KFRC 15153.2 IX Tendo.com.ua С нами 9 лет Доставка: в Днепр из Киева Гарантия: 12 мес. Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Общий объем 230 л Количество камер 2 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Функции перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 146 л Полок 3 шт Автоматическая разморозка LED освещение": "май 2025",
+      "Общий объем": "230 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Функции": "перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "146 л",
+      "Полок": "3 шт",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "84 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Время сохранения холода": "14 ч",
+      "Мощность замораживания": "3.9 кг/сутки",
+      "Управление": "поворотные переключатели",
+      "Класс энергопотребления (new)": "E",
+      "Потребление энергии в год": "212 кВт*ч",
+      "Климатический класс": "SN, N, ST (+10...+38 °С)",
+      "Класс шумности": "C",
+      "Уровень шума": "39 дБ",
+      "Габариты (ВхШхГ)": "152x54x59.5 см",
+      "Официальный сайт": "kernau.com",
+      "Дата добавления на E-Katalog": "май 2025",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    },
+    "Цены на Kernau KFRC 15153.2 IX": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\kernau_kfrc_15153_2_ix\\images\\01.jpg",
+    "missing_refrigerators\\kernau_kfrc_15153_2_ix\\images\\02.jpg",
+    "missing_refrigerators\\kernau_kfrc_15153_2_ix\\images\\03.jpg",
+    "missing_refrigerators\\kernau_kfrc_15153_2_ix\\images\\04.jpg",
+    "missing_refrigerators\\kernau_kfrc_15153_2_ix\\images\\05.jpg"
+  ]
+}

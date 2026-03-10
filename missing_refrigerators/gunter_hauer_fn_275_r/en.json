@@ -1,0 +1,137 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/GUNTER-HAUER-FN-275-R.htm",
+    "actual_url": "https://ek.ua/en/GUNTER-HAUER-FN-275-R.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Gunter&Hauer",
+    "model": "FN 275 R red",
+    "title": "Gunter&Hauer FN 275 R red",
+    "category": "E-Katalog category 200",
+    "year": 197,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 2
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "top",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knobs",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 197,
+    "climate_class": [
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 172.5,
+      "width": 56.0,
+      "depth": 63.0
+    },
+    "weight_kg": 50.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general",
+      "Price for Gunter&Hauer FN 275 R"
+    ]
+  },
+  "description": "The key feature of this model is a bright and unusual design in retro style, thanks to which this refrigerator can become the main highlight in the kitchen. In technical terms, we have a classic two-chamber refrigerator with a total useful volume of 258 liters. A relatively small freezer with a volume of 57 liters is placed on top. It is equipped with a separate access door, is capable of freezing up to 3 kg of fresh food per day, and also boasts an extremely low maintained temperature — down to -32 °C. The volume of the refrigerating chamber Gunter&Hauer FN 275 R is 201 liters. The manufacturer provides support for the automatic defrost function, which eliminates the need for the owner to turn off and defrost the refrigerator manually. Also pay attention to the fact that the model has been assigned an A ++ energy class, and the average energy consumption claimed by the manufacturer per year is 197 kWh.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1736623.jpg",
+    "https://mzimg.com/big/k1/gblo91qnlk1.jpg",
+    "https://mzimg.com/big/w1/gblo926vlw1.jpg",
+    "https://mzimg.com/big/l1/gblo92osxl1.jpg",
+    "https://mzimg.com/big/11/gblo9381y11.jpg",
+    "https://mzimg.com/big/y1/gblo93s7my1.jpg",
+    "https://mzimg.com/big/c1/gblo948h5c1.jpg",
+    "https://s.ek.ua/jpg/1736623.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 7": "22 999 ₴ Buy! Холодильник Gunter&Hauer FN 275 R Kitchen-sinks.com.ua 6 year with us Delivery: to Dnipro from Kyiv Report add to list my lists add to comparison",
+      "Colour Total capacity 258 L Number of chambers 2 Number of cooling circuits 1 Number of compressors 1 Features More features retro design Refrigeration chamber Refrigerator capacity 201 L Auto-defrost Freezer chamber Freezer compartment top Freezer capacity 57 L Freezer temperature -32 °C Autonomy time 17 h Freeze capacity 3 kg/day": "February 2020",
+      "Total capacity": "258 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "More features": "retro design",
+      "Refrigerator capacity": "201 L",
+      "Freezer compartment": "top",
+      "Freezer capacity": "57 L",
+      "Freezer temperature": "-32 °C",
+      "Autonomy time": "17 h",
+      "Freeze capacity": "3 kg/day",
+      "Controls": "rotary knobs",
+      "Energy class": "A++",
+      "Energy consumption per year": "197 kWh",
+      "Climate class": "N, ST (+16...+38 °С)",
+      "Noise level": "39 dB",
+      "Dimensions (HxWxD)": "172.5x56x63 cm",
+      "Weight": "50 kg",
+      "Official Website": "gunter-hauer.ua",
+      "Added to E-Catalog": "February 2020",
+      "Auto-defrost": "yes"
+    },
+    "Price for Gunter&Hauer FN 275 R": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\gunter_hauer_fn_275_r\\images\\01.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_275_r\\images\\02.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_275_r\\images\\03.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_275_r\\images\\04.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_275_r\\images\\05.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_275_r\\images\\06.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_275_r\\images\\07.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_275_r\\images\\08.jpg"
+  ]
+}

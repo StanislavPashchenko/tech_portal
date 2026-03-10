@@ -1,0 +1,144 @@
+{
+  "source": {
+    "url": "https://ek.ua/ELECTROLUX-LNT-8MC36-X3.htm",
+    "actual_url": "https://ek.ua/ELECTROLUX-LNT-8MC36-X3.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Electrolux",
+    "model": "LNT 8MC36 X3 нержавейка (925 993 491)",
+    "title": "Холодильник Electrolux LNT 8MC36 X3 нержавейка (925 993 491)",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 367,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 266,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 101,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 10,
+    "freezing_capacity_kg_per_day": 8
+  },
+  "general": {
+    "control": "сенсорное внутреннее",
+    "energy_class_new": "C",
+    "annual_energy_consumption_kwh": 160,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 36,
+    "dimensions_cm": {
+      "height": 201.0,
+      "width": 59.5,
+      "depth": 65.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Electrolux LNT 8MC36 X3 нержавейка (925 993 491) по цене от 46782 до 46782 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2458922.jpg",
+    "https://mzimg.com/big/01/hefrcgjmd01.jpg",
+    "https://mzimg.com/big/e1/hefrcgnmve1.jpg",
+    "https://mzimg.com/big/b1/hefrcgtxqb1.jpg",
+    "https://mzimg.com/big/f1/hefrcgza9f1.jpg",
+    "https://mzimg.com/big/51/hefrch4lf51.jpg",
+    "https://s.ek.ua/jpg/2458922.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 6": "46 782 грн. Купить! Холодильник Electrolux LNT8MC36X3 inSale.com.ua Менее года Доставка: в Днепр из Киева Гарантия: 12 мес. Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Общий объем 367 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 Инверторный компрессор No Frost морозильная / холодильная камеры Функции и возможности Функции режим отпуска защита от детей LED дисплей индикатор закрытия дверцы перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 266 л Полок 4 шт Отсеки для хранения зона свежести зона влажности Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "925 993 491",
+      "Общий объем": "367 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "режим отпуска защита от детей LED дисплей индикатор закрытия дверцы перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "266 л",
+      "Полок": "4 шт",
+      "Отсеки для хранения": "зона свежести зона влажности",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "101 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Время сохранения холода": "10 ч",
+      "Мощность замораживания": "8 кг/сутки",
+      "Управление": "сенсорное внутреннее",
+      "Класс энергопотребления (new)": "C",
+      "Потребление энергии в год": "160 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Класс шумности": "C",
+      "Уровень шума": "36 дБ",
+      "Габариты (ВхШхГ)": "201x59.5x65 см",
+      "Официальный сайт": "electrolux.pl",
+      "Дата добавления на E-Katalog": "май 2023",
+      "Маркировка производителя": "925 993 491",
+      "Инверторный компрессор": "да",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\electrolux_lnt_8mc36_x3\\images\\01.jpg",
+    "missing_refrigerators\\electrolux_lnt_8mc36_x3\\images\\02.jpg",
+    "missing_refrigerators\\electrolux_lnt_8mc36_x3\\images\\03.jpg",
+    "missing_refrigerators\\electrolux_lnt_8mc36_x3\\images\\04.jpg",
+    "missing_refrigerators\\electrolux_lnt_8mc36_x3\\images\\05.jpg",
+    "missing_refrigerators\\electrolux_lnt_8mc36_x3\\images\\06.jpg",
+    "missing_refrigerators\\electrolux_lnt_8mc36_x3\\images\\07.jpg"
+  ]
+}

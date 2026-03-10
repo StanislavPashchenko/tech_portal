@@ -1,0 +1,157 @@
+{
+  "source": {
+    "url": "https://ek.ua/ELEYUS-MRNW-2201EO60-WH.htm",
+    "actual_url": "https://ek.ua/ELEYUS-MRNW-2201EO60-WH.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "ELEYUS",
+    "model": "MRNW 2201EO60 WH белый",
+    "title": "Холодильник ELEYUS MRNW 2201EO60 WH белый",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 17
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 339,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 254,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 85,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 9,
+    "freezing_capacity_kg_per_day": 4
+  },
+  "general": {
+    "control": "сенсорное внешнее",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 205,
+    "climate_class": [
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 41,
+    "dimensions_cm": {
+      "height": 201.0,
+      "width": 59.5,
+      "depth": 63.5
+    },
+    "weight_kg": 63.0,
+    "country_of_origin": "Китай"
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник ELEYUS MRNW 2201EO60 WH белый по цене от 23281 до 26711 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2811554.jpg",
+    "https://mzimg.com/big/v1/hw815g9cpv1.jpg",
+    "https://mzimg.com/big/j1/hw815g9yrj1.jpg",
+    "https://mzimg.com/big/g1/hw815gup7g1.jpg",
+    "https://mzimg.com/big/71/hw815h0mj71.jpg",
+    "https://mzimg.com/big/41/hw815hhfy41.jpg",
+    "https://mzimg.com/big/u1/hw815hjdxu1.jpg",
+    "https://mzimg.com/big/31/hw815i1cm31.jpg",
+    "https://mzimg.com/big/31/hw815i7qy31.jpg",
+    "https://mzimg.com/big/r1/hw815jb45r1.jpg",
+    "https://mzimg.com/big/p1/hw815jc7wp1.jpg",
+    "https://mzimg.com/big/s1/hw815jsels1.jpg",
+    "https://s.ek.ua/jpg/2811554.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 19": "25 619 грн.",
+      "Pro100market.com.ua →": "25 619 грн.",
+      "Vodogreyka.com.ua →": "24 851 грн.",
+      "ТЕХНОточка →": "24 851 грн.",
+      "Comtrading.ua →": "25 619 грн.",
+      "Eldom.com.ua →": "25 619 грн.",
+      "Цвет Общий объем 339 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 No Frost морозильная / холодильная камеры Функции и возможности Функции LED дисплей индикатор закрытия дверцы перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 254 л Полок 4 шт Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "декабрь 2024",
+      "Общий объем": "339 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "LED дисплей индикатор закрытия дверцы перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "254 л",
+      "Полок": "4 шт",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "85 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Время сохранения холода": "9 ч",
+      "Мощность замораживания": "3.89 кг/сутки",
+      "Управление": "сенсорное внешнее",
+      "Класс энергопотребления": "A++",
+      "Потребление энергии в год": "205 кВт*ч",
+      "Климатический класс": "N, ST (+16...+38 °С)",
+      "Уровень шума": "41 дБ",
+      "Габариты (ВхШхГ)": "201х59.5х63.5 см",
+      "Вес": "63 кг",
+      "Страна производства": "Китай",
+      "Официальный сайт": "eleyus.com",
+      "Дата добавления на E-Katalog": "декабрь 2024",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\eleyus_mrnw_2201eo60_wh\\images\\01.jpg",
+    "missing_refrigerators\\eleyus_mrnw_2201eo60_wh\\images\\02.jpg",
+    "missing_refrigerators\\eleyus_mrnw_2201eo60_wh\\images\\03.jpg",
+    "missing_refrigerators\\eleyus_mrnw_2201eo60_wh\\images\\04.jpg",
+    "missing_refrigerators\\eleyus_mrnw_2201eo60_wh\\images\\05.jpg",
+    "missing_refrigerators\\eleyus_mrnw_2201eo60_wh\\images\\06.jpg",
+    "missing_refrigerators\\eleyus_mrnw_2201eo60_wh\\images\\07.jpg",
+    "missing_refrigerators\\eleyus_mrnw_2201eo60_wh\\images\\08.jpg",
+    "missing_refrigerators\\eleyus_mrnw_2201eo60_wh\\images\\09.jpg",
+    "missing_refrigerators\\eleyus_mrnw_2201eo60_wh\\images\\10.jpg",
+    "missing_refrigerators\\eleyus_mrnw_2201eo60_wh\\images\\11.jpg",
+    "missing_refrigerators\\eleyus_mrnw_2201eo60_wh\\images\\12.jpg",
+    "missing_refrigerators\\eleyus_mrnw_2201eo60_wh\\images\\13.jpg"
+  ]
+}

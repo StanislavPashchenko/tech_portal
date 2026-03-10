@@ -1,0 +1,156 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/LG-GB-V3100CEP.htm",
+    "actual_url": "https://ek.ua/en/LG-GB-V3100CEP.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "LG",
+    "model": "GB-V3100CEP black",
+    "title": "LG GB-V3100CEP black",
+    "category": "E-Katalog category 200",
+    "year": 171,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 3
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": false,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "internal touch controls",
+    "energy_class_new": "C",
+    "annual_energy_consumption_kwh": 171,
+    "climate_class": [
+      "T",
+      "C"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 186.0,
+      "width": 59.5,
+      "depth": 67.5
+    },
+    "weight_kg": 73.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general",
+      "Price for LG GB-V3100CEP"
+    ]
+  },
+  "description": "Fridge LG GB-V3100CEP black at a price from 29096 to 32518 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2589628.jpg",
+    "https://mzimg.com/big/a1/hkldwm7cna1.jpg",
+    "https://mzimg.com/big/e1/hkldwmaf8e1.jpg",
+    "https://mzimg.com/big/l1/hkldwmhjql1.jpg",
+    "https://mzimg.com/big/q1/hkldwmk0gq1.jpg",
+    "https://mzimg.com/big/y1/hkldwmtfhy1.jpg",
+    "https://mzimg.com/big/t1/hkldwmw82t1.jpg",
+    "https://mzimg.com/big/x1/hkldwn43ex1.jpg",
+    "https://mzimg.com/big/t1/hkldwn7v4t1.jpg",
+    "https://mzimg.com/big/w1/hkldwng4gw1.jpg",
+    "https://mzimg.com/big/b1/hkldwnkgob1.jpg",
+    "https://mzimg.com/big/01/hkldwnq2y01.jpg",
+    "https://s.ek.ua/jpg/2589628.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Hi-tech.com.ua →": "32 518 ₴",
+      "Colour Total capacity 344 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 Inverter compressor No Frost freezer / refrigerator compartments Features Features door alarm reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 190 L Number of shelves 3 Storage compartments fresh zone humidity zone Fresh zone (zero chamber) 44 L Fast cool Dynamic air cooling Auto-defrost LED lighting": "December 2023",
+      "Total capacity": "344 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "door alarm reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "190 L",
+      "Number of shelves": "3",
+      "Storage compartments": "fresh zone humidity zone",
+      "Fresh zone (zero chamber)": "44 L",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "110 L",
+      "Freezer drawers": "3",
+      "Freezer temperature": "-23 °C",
+      "Controls": "internal touch controls",
+      "Energy class (new)": "C",
+      "Energy consumption per year": "171 kWh",
+      "Climate class": "tropical T (+18...+43 °C)",
+      "Noise class": "B",
+      "Noise level": "35 dB",
+      "Dimensions (HxWxD)": "186x59.5x67.5 cm",
+      "Weight": "73 kg",
+      "Official Website": "lg.com",
+      "Added to E-Catalog": "December 2023",
+      "Inverter compressor": "yes",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    },
+    "Price for LG GB-V3100CEP": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\lg_gb_v3100cep\\images\\01.jpg",
+    "missing_refrigerators\\lg_gb_v3100cep\\images\\02.jpg",
+    "missing_refrigerators\\lg_gb_v3100cep\\images\\03.jpg",
+    "missing_refrigerators\\lg_gb_v3100cep\\images\\04.jpg",
+    "missing_refrigerators\\lg_gb_v3100cep\\images\\05.jpg",
+    "missing_refrigerators\\lg_gb_v3100cep\\images\\06.jpg",
+    "missing_refrigerators\\lg_gb_v3100cep\\images\\07.jpg",
+    "missing_refrigerators\\lg_gb_v3100cep\\images\\08.jpg",
+    "missing_refrigerators\\lg_gb_v3100cep\\images\\09.jpg",
+    "missing_refrigerators\\lg_gb_v3100cep\\images\\10.jpg",
+    "missing_refrigerators\\lg_gb_v3100cep\\images\\11.jpg",
+    "missing_refrigerators\\lg_gb_v3100cep\\images\\12.jpg",
+    "missing_refrigerators\\lg_gb_v3100cep\\images\\13.jpg"
+  ]
+}

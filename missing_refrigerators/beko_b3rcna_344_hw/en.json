@@ -1,0 +1,153 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/BEKO-B3RCNA-344-HW.htm",
+    "actual_url": "https://ek.ua/en/BEKO-B3RCNA-344-HW.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Beko",
+    "model": "B3RCNA 344 HW white (7525020002)",
+    "title": "Beko B3RCNA 344 HW white (7525020002)",
+    "category": "E-Katalog category 200",
+    "year": 241,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 5
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "external touch controls",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 241,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 180.0,
+      "width": 59.5,
+      "depth": 66.5
+    },
+    "weight_kg": 64.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general",
+      "Price for Beko B3RCNA 344 HW"
+    ]
+  },
+  "description": "Fridge Beko B3RCNA 344 HW white (7525020002) at a price from 23598 to 27082 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2438758.jpg",
+    "https://mzimg.com/big/u1/hdi7l2b1nu1.jpg",
+    "https://mzimg.com/big/v1/hdi7l2blmv1.jpg",
+    "https://mzimg.com/big/v1/hdi7l2ktqv1.jpg",
+    "https://mzimg.com/big/s1/hdi7l2mzfs1.jpg",
+    "https://mzimg.com/big/v1/hdi7l2w8rv1.jpg",
+    "https://mzimg.com/big/o1/hdi7l2yfto1.jpg",
+    "https://mzimg.com/big/01/hdi7l370101.jpg",
+    "https://mzimg.com/big/u1/hdi7l39y4u1.jpg",
+    "https://s.ek.ua/jpg/2438758.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Tendo.com.ua →": "24 647 ₴",
+      "Novateh.com.ua →": "27 082 ₴",
+      "Colour Total capacity 301 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 No Frost freezer / refrigerator compartments Features Features holiday mode door alarm reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 209 L Number of shelves 4 Fast cool Dynamic air cooling Auto-defrost LED lighting": "7525020002",
+      "Total capacity": "301 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "holiday mode door alarm reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "209 L",
+      "Number of shelves": "4",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "92 L",
+      "Freezer drawers": "3",
+      "Freezer temperature": "-24 °C",
+      "Autonomy time": "11 h",
+      "Freeze capacity": "4.2 kg/day",
+      "Controls": "external touch controls",
+      "Energy class (new)": "E",
+      "Energy consumption per year": "241 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Noise class": "C",
+      "Noise level": "37 dB",
+      "Dimensions (HxWxD)": "180x59.5x66.5 cm",
+      "Weight": "64 kg",
+      "Official Website": "beko.com",
+      "Added to E-Catalog": "April 2023",
+      "P/N": "7525020002",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    },
+    "Price for Beko B3RCNA 344 HW": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\beko_b3rcna_344_hw\\images\\01.jpg",
+    "missing_refrigerators\\beko_b3rcna_344_hw\\images\\02.jpg",
+    "missing_refrigerators\\beko_b3rcna_344_hw\\images\\03.jpg",
+    "missing_refrigerators\\beko_b3rcna_344_hw\\images\\04.jpg",
+    "missing_refrigerators\\beko_b3rcna_344_hw\\images\\05.jpg",
+    "missing_refrigerators\\beko_b3rcna_344_hw\\images\\06.jpg",
+    "missing_refrigerators\\beko_b3rcna_344_hw\\images\\07.jpg",
+    "missing_refrigerators\\beko_b3rcna_344_hw\\images\\08.jpg",
+    "missing_refrigerators\\beko_b3rcna_344_hw\\images\\09.jpg",
+    "missing_refrigerators\\beko_b3rcna_344_hw\\images\\10.jpg"
+  ]
+}

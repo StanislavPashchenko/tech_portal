@@ -1,0 +1,156 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/GORENJE-NRK-61-CS2XL4.htm",
+    "actual_url": "https://ek.ua/ua/GORENJE-NRK-61-CS2XL4.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Gorenje",
+    "model": "NRK 61 CS2XL4 нержавіюча сталь (742878)",
+    "title": "Холодильник Gorenje NRK 61 CS2XL4 нержавіюча сталь (742878)",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 300,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 204,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 96,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 10,
+    "freezing_capacity_kg_per_day": 11
+  },
+  "general": {
+    "control": "сенсорне внутрішнє",
+    "energy_class_new": "C",
+    "annual_energy_consumption_kwh": 155,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 35,
+    "dimensions_cm": {
+      "height": 185.0,
+      "width": 60.0,
+      "depth": 59.2
+    },
+    "weight_kg": 57.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Gorenje NRK 61 CS2XL4 нержавіюча сталь (742878) за ціною від 35473 до 35473 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2842040.jpg",
+    "https://mzimg.com/big/e1/hyb5l5f17e1.jpg",
+    "https://mzimg.com/big/b1/hyb5l5fmhb1.jpg",
+    "https://mzimg.com/big/51/hyb5l5nq951.jpg",
+    "https://mzimg.com/big/m1/hyb5l5q5gm1.jpg",
+    "https://mzimg.com/big/71/hyb5l5yjv71.jpg",
+    "https://mzimg.com/big/71/hyb5l5zij71.jpg",
+    "https://mzimg.com/big/e1/hyb5l6aipe1.jpg",
+    "https://mzimg.com/big/z1/hyb5l6b47z1.jpg",
+    "https://mzimg.com/big/t1/hyb5l6s3jt1.jpg",
+    "https://mzimg.com/big/f1/hyb5l6svcf1.jpg",
+    "https://mzimg.com/big/w1/hyb5l73c6w1.jpg",
+    "https://s.ek.ua/jpg/2842040.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 17": "35 473 грн. Купити! Холодильник Gorenje NRK61CS2XL4 inSale.com.ua Менше року Доставка: у Дніпро з Києва Гарантія: 12 міс. Поскаржитись в список мої списки додати до порівняння 2 260 zł 25 312 грн. 633 £ 34 950 грн.",
+      "Колір Загальний об'єм 300 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 Інверторний компресор No Frost морозильна / холодильна камери Функції та можливості Функції індикатор закриття дверцят Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 204 л Полиць 4 шт Динамічне охолодження Автоматичне розморожування LED освітлення Морозильне відділення Морозильна камера знизу Об'єм морозильної камери 96 л Відділень морозильної камери 3 шт Температура морозилки -22 °C Час збереження холоду 10 год Потужність заморожування 11 кг/добу Швидке заморожування": "742878",
+      "Загальний об'єм": "300 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "індикатор закриття дверцят",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "204 л",
+      "Полиць": "4 шт",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "96 л",
+      "Відділень морозильної камери": "3 шт",
+      "Температура морозилки": "-22 °C",
+      "Час збереження холоду": "10 год",
+      "Потужність заморожування": "11 кг/добу",
+      "Управління": "сенсорне внутрішнє",
+      "Клас енергоспоживання (new)": "C",
+      "Споживання енергії в рік": "155 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Клас гучності": "B",
+      "Рівень шуму": "35 дБ",
+      "Габарити (ВхШхГ)": "185х60х59.2 см",
+      "Вага": "57 кг",
+      "Офіційний сайт": "sk.gorenje.com",
+      "Дата додавання на E-Katalog": "лютий 2025",
+      "Маркування виробника": "742878",
+      "Інверторний компресор": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\gorenje_nrk_61_cs2xl4\\images\\01.jpg",
+    "missing_refrigerators\\gorenje_nrk_61_cs2xl4\\images\\02.jpg",
+    "missing_refrigerators\\gorenje_nrk_61_cs2xl4\\images\\03.jpg",
+    "missing_refrigerators\\gorenje_nrk_61_cs2xl4\\images\\04.jpg",
+    "missing_refrigerators\\gorenje_nrk_61_cs2xl4\\images\\05.jpg",
+    "missing_refrigerators\\gorenje_nrk_61_cs2xl4\\images\\06.jpg",
+    "missing_refrigerators\\gorenje_nrk_61_cs2xl4\\images\\07.jpg",
+    "missing_refrigerators\\gorenje_nrk_61_cs2xl4\\images\\08.jpg",
+    "missing_refrigerators\\gorenje_nrk_61_cs2xl4\\images\\09.jpg",
+    "missing_refrigerators\\gorenje_nrk_61_cs2xl4\\images\\10.jpg",
+    "missing_refrigerators\\gorenje_nrk_61_cs2xl4\\images\\11.jpg",
+    "missing_refrigerators\\gorenje_nrk_61_cs2xl4\\images\\12.jpg",
+    "missing_refrigerators\\gorenje_nrk_61_cs2xl4\\images\\13.jpg"
+  ]
+}

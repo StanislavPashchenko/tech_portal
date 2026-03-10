@@ -1,0 +1,130 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/SNAIGE-CC31SM-T1CBFE.htm",
+    "actual_url": "https://ek.ua/en/SNAIGE-CC31SM-T1CBFE.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Snaige",
+    "model": "CC31SM-T1CBFE stainless steel",
+    "title": "Snaige CC31SM-T1CBFE stainless steel",
+    "category": "E-Katalog category 200",
+    "year": 108,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 6
+  },
+  "freezer_compartment": {
+    "location": "in absent",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knobs",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 108,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 41,
+    "dimensions_cm": {
+      "height": 163.0,
+      "width": 60.0,
+      "depth": 65.0
+    },
+    "weight_kg": 52.0,
+    "country_of_origin": "Lithuania"
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Snaige CC31SM-T1CBFE stainless steel at a price from 19672 to 26610 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2811614.jpg",
+    "https://mzimg.com/big/k1/hw84a9ugxk1.jpg",
+    "https://mzimg.com/big/q1/hw84a9vfcq1.jpg",
+    "https://mzimg.com/big/i1/hw84aaeyri1.jpg",
+    "https://mzimg.com/big/31/hw84aageg31.jpg",
+    "https://s.ek.ua/jpg/2811614.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 5": "21 999 ₴",
+      "Pro100market.com.ua →": "22 264 ₴",
+      "Xfrost.net.ua →": "21 298 ₴",
+      "Stylus.ua →": "20 911 ₴",
+      "Vodogreyka.com.ua →": "21 999 ₴",
+      "Elmag.ua →": "21 999 ₴",
+      "Colour Total capacity 309 L Number of chambers 1 Number of cooling circuits 1 Number of compressors 1 Features Features reversible door Refrigeration chamber Refrigerator capacity 309 L Number of shelves 6 Auto-defrost LED lighting": "December 2024",
+      "Total capacity": "309 L",
+      "Number of chambers": "1",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "Features": "reversible door",
+      "Refrigerator capacity": "309 L",
+      "Number of shelves": "6",
+      "Freezer compartment": "in absent",
+      "Controls": "rotary knobs",
+      "Energy class": "A++",
+      "Energy consumption per year": "108 kWh",
+      "Noise level": "41 dB",
+      "Dimensions (HxWxD)": "163х60х65 cm",
+      "Weight": "52 kg",
+      "Country of origin": "Lithuania",
+      "Added to E-Catalog": "December 2024",
+      "LED lighting": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\snaige_cc31sm_t1cbfe\\images\\01.jpg",
+    "missing_refrigerators\\snaige_cc31sm_t1cbfe\\images\\02.jpg",
+    "missing_refrigerators\\snaige_cc31sm_t1cbfe\\images\\03.jpg",
+    "missing_refrigerators\\snaige_cc31sm_t1cbfe\\images\\04.jpg",
+    "missing_refrigerators\\snaige_cc31sm_t1cbfe\\images\\05.jpg",
+    "missing_refrigerators\\snaige_cc31sm_t1cbfe\\images\\06.jpg"
+  ]
+}

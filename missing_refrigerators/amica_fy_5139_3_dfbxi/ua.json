@@ -1,0 +1,152 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/AMICA-FY-5139-3-DFBXI.htm",
+    "actual_url": "https://ek.ua/ua/AMICA-FY-5139-3-DFBXI.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Amica",
+    "model": "FY 5139.3 DFBXI графіт",
+    "title": "Холодильник Amica FY 5139.3 DFBXI графіт",
+    "category": "E-Katalog category 200",
+    "year": 2021,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "Side-by-side",
+    "total_volume_l": 559,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 356,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "збоку",
+    "volume_l": 203,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 10,
+    "freezing_capacity_kg_per_day": 8
+  },
+  "general": {
+    "control": null,
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 323,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 177.0,
+      "width": 91.2,
+      "depth": 70.4
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Amica FY 5139.3 DFBXI графіт за ціною від 45522 до 45522 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2075337.jpg",
+    "https://mzimg.com/big/j1/gtkylqz8yj1.jpg",
+    "https://mzimg.com/big/h1/gtkyls0znh1.jpg",
+    "https://mzimg.com/big/61/gtkylr3yc61.jpg",
+    "https://mzimg.com/big/21/gtkylrxrs21.jpg",
+    "https://mzimg.com/big/21/gtkylslbb21.jpg",
+    "https://mzimg.com/big/v1/gtkylsqwhv1.jpg",
+    "https://mzimg.com/big/41/gtkylt5pp41.jpg",
+    "https://mzimg.com/big/11/gtkyltds911.jpg",
+    "https://mzimg.com/big/21/gtkyltrvd21.jpg",
+    "https://mzimg.com/big/s1/gtkyltyw9s1.jpg",
+    "https://s.ek.ua/jpg/2075337.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 11": "від 45 522 грн. Купити! Холодильник Amica FY5139.3DFBXI Full No Frost 177cm диспенсер для води Black Inox FY51393DFB Novateh.com.ua Менше року Доставка: у Дніпро з Новояворівська Поскаржитись в список мої списки додати до порівняння",
+      "Колір Тип Side-by-side Загальний об'єм 559 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 Інверторний компресор No Frost морозильна / холодильна камери Функції та можливості Функції режим відпустки захист від дітей LED дисплей індикатор закриття дверцят Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 356 л Полиць 4 шт Диспенсер холодної води зовнішній Швидке охолодження Динамічне охолодження Автоматичне розморожування LED освітлення": "серпень 2021",
+      "Тип": "Side-by-side",
+      "Загальний об'єм": "559 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "режим відпустки захист від дітей LED дисплей індикатор закриття дверцят",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "356 л",
+      "Полиць": "4 шт",
+      "Диспенсер холодної води": "зовнішній",
+      "Морозильна камера": "збоку",
+      "Об'єм морозильної камери": "203 л",
+      "Час збереження холоду": "10 год",
+      "Потужність заморожування": "7.8 кг/добу",
+      "Льодогенератор": "внутрішній",
+      "Клас енергоспоживання (new)": "E",
+      "Споживання енергії в рік": "323 кВт*год",
+      "Кліматичний клас": "SN, N, ST (+10...+38 °С)",
+      "Клас гучності": "C",
+      "Рівень шуму": "39 дБ",
+      "Габарити (ВхШхГ)": "177x91.2x70.4 см",
+      "Офіційний сайт": "amica.pl",
+      "Дата додавання на E-Katalog": "серпень 2021",
+      "Інверторний компресор": "так",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\amica_fy_5139_3_dfbxi\\images\\01.jpg",
+    "missing_refrigerators\\amica_fy_5139_3_dfbxi\\images\\02.jpg",
+    "missing_refrigerators\\amica_fy_5139_3_dfbxi\\images\\03.jpg",
+    "missing_refrigerators\\amica_fy_5139_3_dfbxi\\images\\04.jpg",
+    "missing_refrigerators\\amica_fy_5139_3_dfbxi\\images\\05.jpg",
+    "missing_refrigerators\\amica_fy_5139_3_dfbxi\\images\\06.jpg",
+    "missing_refrigerators\\amica_fy_5139_3_dfbxi\\images\\07.jpg",
+    "missing_refrigerators\\amica_fy_5139_3_dfbxi\\images\\08.jpg",
+    "missing_refrigerators\\amica_fy_5139_3_dfbxi\\images\\09.jpg",
+    "missing_refrigerators\\amica_fy_5139_3_dfbxi\\images\\10.jpg",
+    "missing_refrigerators\\amica_fy_5139_3_dfbxi\\images\\11.jpg",
+    "missing_refrigerators\\amica_fy_5139_3_dfbxi\\images\\12.jpg"
+  ]
+}

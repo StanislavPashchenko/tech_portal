@@ -1,0 +1,140 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/GORENJE-ONRK-193-R.htm",
+    "actual_url": "https://ek.ua/ua/GORENJE-ONRK-193-R.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Gorenje",
+    "model": "ONRK 193 R бордовий",
+    "title": "Холодильник Gorenje ONRK 193 R бордовий",
+    "category": "E-Katalog category 200",
+    "year": 2017,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 307,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": false,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 222,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 85,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 18,
+    "freezing_capacity_kg_per_day": 8
+  },
+  "general": {
+    "control": "сенсорне внутрішнє",
+    "energy_class_new": "A+++",
+    "annual_energy_consumption_kwh": 168,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 38,
+    "dimensions_cm": {
+      "height": 194.0,
+      "width": 60.0,
+      "depth": 67.0
+    },
+    "weight_kg": 71.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Gorenje ONRK 193 R бордовий за ціною від 70994 до 70994 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1217089.jpg",
+    "https://mzimg.com/big/11/fk3tzahev11.jpg",
+    "https://mzimg.com/big/y1/fk3tzb0pqy1.jpg",
+    "https://mzimg.com/big/v1/fk3tzbdikv1.jpg",
+    "https://mzimg.com/big/n1/fk3tzbxfon1.jpg",
+    "https://s.ek.ua/jpg/1217089.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 5": "70 994 грн. Купити! Холодильник Gorenje ONRK193R inSale.com.ua Менше року Доставка: у Дніпро з Києва Гарантія: 12 міс. Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 307 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 No Frost морозильна / холодильна камери Функції та можливості Функції LED дисплей індикатор закриття дверцят Додатково ретро дизайн Холодильне відділення Об'єм холодильної камери 222 л Відсіки для зберігання зона свіжості зона вологості полиця для пляшок Швидке охолодження Динамічне охолодження Автоматичне розморожування Дезодоратор LED освітлення": "жовтень 2017",
+      "Загальний об'єм": "307 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "LED дисплей індикатор закриття дверцят",
+      "Додатково": "ретро дизайн",
+      "Об'єм холодильної камери": "222 л",
+      "Відсіки для зберігання": "зона свіжості зона вологості полиця для пляшок",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "85 л",
+      "Температура морозилки": "-24 °C",
+      "Час збереження холоду": "18 год",
+      "Потужність заморожування": "8 кг/добу",
+      "Управління": "сенсорне внутрішнє",
+      "Клас енергоспоживання": "A+++",
+      "Споживання енергії в рік": "168 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Рівень шуму": "38 дБ",
+      "Габарити (ВхШхГ)": "194x60x67 см",
+      "Вага": "71 кг",
+      "Офіційний сайт": "gorenje.ua",
+      "Дата додавання на E-Katalog": "жовтень 2017",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так",
+      "Дезодоратор": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\gorenje_onrk_193_r\\images\\01.jpg",
+    "missing_refrigerators\\gorenje_onrk_193_r\\images\\02.jpg",
+    "missing_refrigerators\\gorenje_onrk_193_r\\images\\03.jpg",
+    "missing_refrigerators\\gorenje_onrk_193_r\\images\\04.jpg",
+    "missing_refrigerators\\gorenje_onrk_193_r\\images\\05.jpg",
+    "missing_refrigerators\\gorenje_onrk_193_r\\images\\06.jpg"
+  ]
+}

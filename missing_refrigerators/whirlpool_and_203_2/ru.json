@@ -1,0 +1,109 @@
+{
+  "source": {
+    "url": "https://ek.ua/WHIRLPOOL-AND-203-2.htm",
+    "actual_url": "https://ek.ua/WHIRLPOOL-AND-203-2.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Whirlpool",
+    "model": "AND 203/2 нержавейка",
+    "title": "Холодильник Whirlpool AND 203/2 нержавейка",
+    "category": "E-Katalog category 200",
+    "year": 2015,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "холодильная витрина",
+    "total_volume_l": 350,
+    "cameras_count": 1,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 350,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "отсутствует",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": null,
+    "annual_energy_consumption_kwh": null,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 173.0,
+      "width": 60.0,
+      "depth": 60.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Whirlpool AND 203/2 нержавейка по цене от 32311 до 44691 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg/570539.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Whirlpool-shop.com.ua →": "32 311 грн.",
+      "Цифра →": "44 691 грн.",
+      "Цвет Тип холодильная витрина Общий объем 350 л Количество камер 1 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Функции защита от детей перевешивание дверей": "апрель 2015",
+      "Тип": "холодильная витрина",
+      "Общий объем": "350 л",
+      "Количество камер": "1",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Функции": "защита от детей перевешивание дверей",
+      "Объем холодильной камеры": "350 л",
+      "Морозильная камера": "отсутствует",
+      "Управление": "поворотные переключатели",
+      "Габариты (ВхШхГ)": "173х60х60 см",
+      "Дата добавления на E-Katalog": "апрель 2015"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\whirlpool_and_203_2\\images\\01.jpg"
+  ]
+}

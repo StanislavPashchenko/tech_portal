@@ -1,0 +1,126 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/AMICA-FM-140-4X.htm",
+    "actual_url": "https://ek.ua/en/AMICA-FM-140-4X.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Amica",
+    "model": "FM 140.4X stainless steel",
+    "title": "Amica FM 140.4X stainless steel",
+    "category": "E-Katalog category 200",
+    "year": 145,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 2
+  },
+  "freezer_compartment": {
+    "location": "top",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knobs",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 145,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 82.5,
+      "width": 54.0,
+      "depth": 59.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Amica FM 140.4X stainless steel at a price from 12997 to 14876 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2579394.jpg",
+    "https://mzimg.com/big/q1/hk25hhc8kq1.jpg",
+    "https://mzimg.com/big/81/hk25hhdjy81.jpg",
+    "https://s.ek.ua/jpg/2579394.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 3": "12 997 ₴",
+      "Semtech.com.ua →": "12 997 ₴",
+      "Colour Total capacity 121 L Number of chambers 2 Number of cooling circuits 1 Number of compressors 1 Features Features reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 104 L Number of shelves 2 Auto-defrost LED lighting": "November 2023",
+      "Total capacity": "121 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "Features": "reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "104 L",
+      "Number of shelves": "2",
+      "Freezer compartment": "top",
+      "Freezer capacity": "17 L",
+      "Autonomy time": "6 h",
+      "Freeze capacity": "2.6 kg/day",
+      "Controls": "rotary knobs",
+      "Energy class (new)": "E",
+      "Energy consumption per year": "145 kWh",
+      "Noise class": "C",
+      "Noise level": "40 dB",
+      "Dimensions (HxWxD)": "82.5x54x59 cm",
+      "Official Website": "amica.pl",
+      "Added to E-Catalog": "November 2023",
+      "LED lighting": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\amica_fm_140_4x\\images\\01.jpg",
+    "missing_refrigerators\\amica_fm_140_4x\\images\\02.jpg",
+    "missing_refrigerators\\amica_fm_140_4x\\images\\03.jpg",
+    "missing_refrigerators\\amica_fm_140_4x\\images\\04.jpg"
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "source": {
+    "url": "https://ek.ua/ELEYUS-HRDW-2137M48T-SV.htm",
+    "actual_url": "https://ek.ua/ELEYUS-HRDW-2137M48T-SV.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "ELEYUS",
+    "model": "HRDW 2137M48T SV серебристый",
+    "title": "Холодильник ELEYUS HRDW 2137M48T SV серебристый",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 12
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 138,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 93,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "сверху",
+    "volume_l": 45,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 15,
+    "freezing_capacity_kg_per_day": 2
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": "A",
+    "annual_energy_consumption_kwh": 219,
+    "climate_class": [
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 42,
+    "dimensions_cm": {
+      "height": 137.0,
+      "width": 50.0,
+      "depth": 48.0
+    },
+    "weight_kg": 31.0,
+    "country_of_origin": "Китай"
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general",
+      "Цены на ELEYUS HRDW 2137M48T SV"
+    ]
+  },
+  "description": "Холодильник ELEYUS HRDW 2137M48T SV серебристый по цене от 8599 до 11383 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2907702.jpg",
+    "https://mzimg.com/big/51/i216xr87051.jpg",
+    "https://mzimg.com/big/s1/i216xr8sgs1.jpg",
+    "https://mzimg.com/big/x1/i216xro02x1.jpg",
+    "https://mzimg.com/big/t1/i216xromut1.jpg",
+    "https://mzimg.com/big/j1/i216xs3wkj1.jpg",
+    "https://mzimg.com/big/e1/i216xs4jbe1.jpg",
+    "https://mzimg.com/big/o1/i216xsj29o1.jpg",
+    "https://mzimg.com/big/x1/i216xsl19x1.jpg",
+    "https://mzimg.com/big/s1/i216xt3vrs1.jpg",
+    "https://mzimg.com/big/g1/i216xt53dg1.jpg",
+    "https://mzimg.com/big/b1/i216xtpnab1.jpg",
+    "https://s.ek.ua/jpg/2907702.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 16": "9 159 грн.",
+      "Pro100market.com.ua →": "9 159 грн.",
+      "Vodogreyka.com.ua →": "8 885 грн.",
+      "ТЕХНОточка →": "8 885 грн.",
+      "Comtrading.ua →": "9 159 грн.",
+      "Eldom.com.ua →": "9 159 грн.",
+      "Цвет Общий объем 138 л Количество камер 2 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Функции перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 93 л Полок 3 шт Автоматическая разморозка LED освещение": "июнь 2025",
+      "Общий объем": "138 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Функции": "перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "93 л",
+      "Полок": "3 шт",
+      "Морозильная камера": "сверху",
+      "Объем морозильной камеры": "45 л",
+      "Время сохранения холода": "15 ч",
+      "Мощность замораживания": "2 кг/сутки",
+      "Управление": "поворотные переключатели",
+      "Класс энергопотребления": "A",
+      "Потребление энергии в год": "219 кВт*ч",
+      "Климатический класс": "субтропический ST (+18...+38 °С)",
+      "Уровень шума": "42 дБ",
+      "Габариты (ВхШхГ)": "137х50х48 см",
+      "Вес": "31 кг",
+      "Страна производства": "Китай",
+      "Официальный сайт": "eleyus.com",
+      "Дата добавления на E-Katalog": "июнь 2025",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    },
+    "Цены на ELEYUS HRDW 2137M48T SV": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\eleyus_hrdw_2137m48t_sv\\images\\01.jpg",
+    "missing_refrigerators\\eleyus_hrdw_2137m48t_sv\\images\\02.jpg",
+    "missing_refrigerators\\eleyus_hrdw_2137m48t_sv\\images\\03.jpg",
+    "missing_refrigerators\\eleyus_hrdw_2137m48t_sv\\images\\04.jpg",
+    "missing_refrigerators\\eleyus_hrdw_2137m48t_sv\\images\\05.jpg",
+    "missing_refrigerators\\eleyus_hrdw_2137m48t_sv\\images\\06.jpg",
+    "missing_refrigerators\\eleyus_hrdw_2137m48t_sv\\images\\07.jpg",
+    "missing_refrigerators\\eleyus_hrdw_2137m48t_sv\\images\\08.jpg",
+    "missing_refrigerators\\eleyus_hrdw_2137m48t_sv\\images\\09.jpg",
+    "missing_refrigerators\\eleyus_hrdw_2137m48t_sv\\images\\10.jpg",
+    "missing_refrigerators\\eleyus_hrdw_2137m48t_sv\\images\\11.jpg",
+    "missing_refrigerators\\eleyus_hrdw_2137m48t_sv\\images\\12.jpg",
+    "missing_refrigerators\\eleyus_hrdw_2137m48t_sv\\images\\13.jpg"
+  ]
+}

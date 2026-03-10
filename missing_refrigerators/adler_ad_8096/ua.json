@@ -1,0 +1,147 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/ADLER-AD-8096.htm",
+    "actual_url": "https://ek.ua/ua/ADLER-AD-8096.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Adler",
+    "model": "AD 8096",
+    "title": "Холодильник Adler AD 8096",
+    "category": "E-Katalog category 200",
+    "year": 2026,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 45,
+    "cameras_count": 1,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 45,
+    "shelves_count": 1
+  },
+  "freezer_compartment": {
+    "location": "немає",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "поворотні перемикачі",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 80,
+    "climate_class": [
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 51.0,
+      "width": 45.0,
+      "depth": 45.0
+    },
+    "weight_kg": 13.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Adler AD 8096 за ціною від 4497 до 5554 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/3047013.jpg",
+    "https://mzimg.com/big/a1/iaf2tjqvsa1.jpg",
+    "https://mzimg.com/big/c1/iaf2tof1ic1.jpg",
+    "https://mzimg.com/big/51/iaf2tpmoi51.jpg",
+    "https://mzimg.com/big/v1/iaf2tjsd1v1.jpg",
+    "https://mzimg.com/big/u1/iaf2tkm5cu1.jpg",
+    "https://mzimg.com/big/s1/iaf2tkqyrs1.jpg",
+    "https://mzimg.com/big/c1/iaf2tlpjxc1.jpg",
+    "https://mzimg.com/big/51/iaf2tn2qf51.jpg",
+    "https://mzimg.com/big/v1/iaf2tn3r5v1.jpg",
+    "https://mzimg.com/big/b1/iaf2toge0b1.jpg",
+    "https://mzimg.com/big/j1/iaf2tqniqj1.jpg",
+    "https://s.ek.ua/jpg/3047013.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Denika.ua →": "5 554 грн.",
+      "Rozetka.ua →": "4 689 грн.",
+      "Колір Загальний об'єм 45 л Кількість камер 1 Контурів охолодження 1 Компресорів 1 Функції та можливості Функції перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 45 л Полиць 1 шт Відсіки для зберігання низькотемпературний відсік Автоматичне розморожування LED освітлення": "лютий 2026",
+      "Загальний об'єм": "45 л",
+      "Кількість камер": "1",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "Функції": "перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "45 л",
+      "Полиць": "1 шт",
+      "Відсіки для зберігання": "низькотемпературний відсік",
+      "Морозильна камера": "немає",
+      "Управління": "поворотні перемикачі",
+      "Клас енергоспоживання (new)": "E",
+      "Споживання енергії в рік": "80 кВт*год",
+      "Кліматичний клас": "N, ST (+16...+38 °С)",
+      "Клас гучності": "C",
+      "Рівень шуму": "39 дБ",
+      "Габарити (ВхШхГ)": "51х45х45 см",
+      "Вага": "13 кг",
+      "Офіційний сайт": "adler.com.pl",
+      "Дата додавання на E-Katalog": "лютий 2026",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\adler_ad_8096\\images\\01.jpg",
+    "missing_refrigerators\\adler_ad_8096\\images\\02.jpg",
+    "missing_refrigerators\\adler_ad_8096\\images\\03.jpg",
+    "missing_refrigerators\\adler_ad_8096\\images\\04.jpg",
+    "missing_refrigerators\\adler_ad_8096\\images\\05.jpg",
+    "missing_refrigerators\\adler_ad_8096\\images\\06.jpg",
+    "missing_refrigerators\\adler_ad_8096\\images\\07.jpg",
+    "missing_refrigerators\\adler_ad_8096\\images\\08.jpg",
+    "missing_refrigerators\\adler_ad_8096\\images\\09.jpg",
+    "missing_refrigerators\\adler_ad_8096\\images\\10.jpg",
+    "missing_refrigerators\\adler_ad_8096\\images\\11.jpg",
+    "missing_refrigerators\\adler_ad_8096\\images\\12.jpg",
+    "missing_refrigerators\\adler_ad_8096\\images\\13.jpg"
+  ]
+}

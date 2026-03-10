@@ -1,0 +1,152 @@
+{
+  "source": {
+    "url": "https://ek.ua/LIEBHERR-PEAK-SRBBSC-529I.htm",
+    "actual_url": "https://ek.ua/LIEBHERR-PEAK-SRBBSC-529I.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liebherr",
+    "model": "Peak SRBbsc 529i графит",
+    "title": "Холодильник Liebherr Peak SRBbsc 529i графит",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 20
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 378,
+    "cameras_count": 1,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 378,
+    "shelves_count": 5
+  },
+  "freezer_compartment": {
+    "location": "отсутствует",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "сенсорное внутреннее",
+    "energy_class_new": "C",
+    "annual_energy_consumption_kwh": 90,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 36,
+    "dimensions_cm": {
+      "height": 185.5,
+      "width": 59.7,
+      "depth": 67.5
+    },
+    "weight_kg": 81.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Liebherr Peak SRBbsc 529i графит по цене от 117747 до 138200 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2706544.jpg",
+    "https://mzimg.com/big/e1/hqkf9sdfke1.jpg",
+    "https://mzimg.com/big/61/hqkf9sqfo61.jpg",
+    "https://mzimg.com/big/l1/hqkf9srzdl1.jpg",
+    "https://mzimg.com/big/91/hqkf9t59j91.jpg",
+    "https://mzimg.com/big/51/hqkf9t6su51.jpg",
+    "https://mzimg.com/big/q1/hqkf9tie9q1.jpg",
+    "https://mzimg.com/big/k1/hqkf9tulrk1.jpg",
+    "https://mzimg.com/big/a1/hqkf9sbuja1.jpg",
+    "https://mzimg.com/big/a1/hqkf9tlf9a1.jpg",
+    "https://s.ek.ua/jpg/2706544.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 10": "138 200 грн.",
+      "Viyar.ua →": "124 380 грн.",
+      "Kitchen-sinks.com.ua →": "124 006 грн.",
+      "FOXTROT.UA →": "117 747 грн.",
+      "Liebherr Україна →": "124 629 грн.",
+      "Elmag.ua →": "138 200 грн.",
+      "Цвет Общий объем 378 л Количество камер 1 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Функции режим отпуска управление со смартфона (Wi-Fi) защита от детей TFT дисплей индикатор закрытия дверцы перевешивание дверей Холодильное отделение Объем холодильной камеры 378 л Полок 5 шт Отсеки для хранения зона свежести зона влажности Диспенсер холодной воды внутренний Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка Дезодоратор LED освещение Телескопические направляющие": "июнь 2024",
+      "Общий объем": "378 л",
+      "Количество камер": "1",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Функции": "режим отпуска управление со смартфона (Wi-Fi) защита от детей TFT дисплей индикатор закрытия дверцы перевешивание дверей",
+      "Объем холодильной камеры": "378 л",
+      "Полок": "5 шт",
+      "Отсеки для хранения": "зона свежести зона влажности",
+      "Диспенсер холодной воды": "внутренний",
+      "Морозильная камера": "отсутствует",
+      "Управление": "сенсорное внутреннее",
+      "Класс энергопотребления (new)": "C",
+      "Потребление энергии в год": "90 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Класс шумности": "B",
+      "Уровень шума": "36 дБ",
+      "Габариты (ВхШхГ)": "185.5x59.7x67.5 см",
+      "Вес": "81 кг",
+      "Официальный сайт": "home.liebherr.com",
+      "Дата добавления на E-Katalog": "июнь 2024",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да",
+      "Дезодоратор": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\liebherr_peak_srbbsc_529i\\images\\01.jpg",
+    "missing_refrigerators\\liebherr_peak_srbbsc_529i\\images\\02.jpg",
+    "missing_refrigerators\\liebherr_peak_srbbsc_529i\\images\\03.jpg",
+    "missing_refrigerators\\liebherr_peak_srbbsc_529i\\images\\04.jpg",
+    "missing_refrigerators\\liebherr_peak_srbbsc_529i\\images\\05.jpg",
+    "missing_refrigerators\\liebherr_peak_srbbsc_529i\\images\\06.jpg",
+    "missing_refrigerators\\liebherr_peak_srbbsc_529i\\images\\07.jpg",
+    "missing_refrigerators\\liebherr_peak_srbbsc_529i\\images\\08.jpg",
+    "missing_refrigerators\\liebherr_peak_srbbsc_529i\\images\\09.jpg",
+    "missing_refrigerators\\liebherr_peak_srbbsc_529i\\images\\10.jpg",
+    "missing_refrigerators\\liebherr_peak_srbbsc_529i\\images\\11.jpg"
+  ]
+}

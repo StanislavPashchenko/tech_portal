@@ -1,0 +1,136 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/VESTFROST-CNF-289-X.htm",
+    "actual_url": "https://ek.ua/en/VESTFROST-CNF-289-X.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Vestfrost",
+    "model": "CNF 289 X stainless steel",
+    "title": "Vestfrost CNF 289 X stainless steel",
+    "category": "E-Katalog category 200",
+    "year": 261,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knobs",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": 261,
+    "climate_class": [
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 42,
+    "dimensions_cm": {
+      "height": 180.0,
+      "width": 54.0,
+      "depth": 59.5
+    },
+    "weight_kg": 52.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Vestfrost CNF 289 X stainless steel at a price from 17888 to 17888 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1786226.jpg",
+    "https://mzimg.com/big/q1/ge526ayb0q1.jpg",
+    "https://mzimg.com/big/i1/ge523bkobi1.jpg",
+    "https://s.ek.ua/jpg/1786226.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 3": "17 888 ₴ Buy! Vestfrost CNF289XB COMFY.ua With us more than 10 years Delivery: in Dnipro Warranty: manufacturer Report add to list my lists add to comparison",
+      "Colour Total capacity 268 L Number of chambers 2 Number of cooling circuits 1 Number of compressors 1 No Frost freezer / refrigerator compartments Features Features door alarm reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 194 L Number of shelves 4 Fast cool Dynamic air cooling Auto-defrost LED lighting": "April 2020",
+      "Total capacity": "268 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "door alarm reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "194 L",
+      "Number of shelves": "4",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "74 L",
+      "Freezer drawers": "3",
+      "Autonomy time": "11 h",
+      "Freeze capacity": "4 kg/day",
+      "Controls": "rotary knobs",
+      "Energy class": "A+",
+      "Energy consumption per year": "261 kWh",
+      "Climate class": "N, ST, T (+16...+43 °С)",
+      "Noise level": "42 dB",
+      "Dimensions (HxWxD)": "180x54x59.5 cm",
+      "Weight": "52 kg",
+      "Official Website": "vestfrost.ua",
+      "Added to E-Catalog": "April 2020",
+      "Useful Review? Yes 0 No 0": "16 December 2024",
+      "good model, like it": "16 December 2024",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\vestfrost_cnf_289_x\\images\\01.jpg",
+    "missing_refrigerators\\vestfrost_cnf_289_x\\images\\02.jpg",
+    "missing_refrigerators\\vestfrost_cnf_289_x\\images\\03.jpg",
+    "missing_refrigerators\\vestfrost_cnf_289_x\\images\\04.jpg"
+  ]
+}

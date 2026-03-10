@@ -1,0 +1,142 @@
+{
+  "source": {
+    "url": "https://ek.ua/SIEMENS-KG49NAIBT.htm",
+    "actual_url": "https://ek.ua/SIEMENS-KG49NAIBT.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Siemens",
+    "model": "KG49NAIBT нержавейка",
+    "title": "Холодильник Siemens KG49NAIBT нержавейка",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 440,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 311,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 129,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 21,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "сенсорное внешнее",
+    "energy_class_new": "B",
+    "annual_energy_consumption_kwh": 142,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 35,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 70.0,
+      "depth": 72.0
+    },
+    "weight_kg": 111.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Достаточно продвинутый и удобный в использовании двухкамерный холодильник с раздельными контурами охлаждения рабочих камер, представленный на рынке популярным брендом Siemens в 2023 году. Для наружной отделки модели использована нержавеющая сталь с защитным покрытием EasyClean. За распределение холода внутри рабочих камер отвечает система многопоточного охлаждения MultiAirflow. Контур циркуляции является двойным, благодаря чему потоки холода между зонами охлаждения и заморозки не смешиваются. Доступна зона свежести HyperFresh 0С, которая создана для более длительного хранения свежих овощей и фруктов. Двухкамерный холодильник Siemens KG49NAIBT имеет улучшенную боковую подсветку, что делает камеру охлаждения более комфортной. Для полок и ящиков используется эффектная окантовка из нержавеющей стали — металлические накладки способствуют стабилизации температурного режима, а также улучшают эстетику интерьера. Дверца камеры охлаждения снабжена наружным экраном, который автоматически активируется при открывании створки. Данный холодильник поддерживает монтаж с нулевым зазором. Модель допустимо монтировать в нишу, ее можно безопасно размещать под стенами и рядом с мебелью. Для камеры заморозки доступен режим –24 °C. Морозильная камера способна автономно сохранять холод в течении 21 ч.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2408723.jpg",
+    "https://mzimg.com/big/k1/hc7zokcu3k1.jpg",
+    "https://mzimg.com/big/l1/hc7zokdezl1.jpg",
+    "https://mzimg.com/big/b1/hc7zokoknb1.jpg",
+    "https://mzimg.com/big/m1/hc7zokphym1.jpg",
+    "https://mzimg.com/big/d1/hc7zokyhed1.jpg",
+    "https://mzimg.com/big/z1/hc7zokzdlz1.jpg",
+    "https://mzimg.com/big/v1/hc7zol8shv1.jpg",
+    "https://s.ek.ua/jpg/2408723.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 8": "54 762 грн.",
+      "Tendo.com.ua →": "48 240 грн.",
+      "Novateh.com.ua →": "54 762 грн.",
+      "Цвет Общий объем 440 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 No Frost морозильная / холодильная камеры Функции и возможности Функции режим отпуска индикатор закрытия дверцы перевешивание дверей Холодильное отделение Объем холодильной камеры 311 л Полок 4 шт Отсеки для хранения зона свежести зона влажности полка для бутылок Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "март 2023",
+      "Общий объем": "440 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "режим отпуска индикатор закрытия дверцы перевешивание дверей",
+      "Объем холодильной камеры": "311 л",
+      "Полок": "4 шт",
+      "Отсеки для хранения": "зона свежести зона влажности полка для бутылок",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "129 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Температура морозилки": "-24 °C",
+      "Время сохранения холода": "21 ч",
+      "Управление": "сенсорное внешнее",
+      "Класс энергопотребления (new)": "B",
+      "Потребление энергии в год": "142 кВт*ч",
+      "Класс шумности": "B",
+      "Уровень шума": "35 дБ",
+      "Габариты (ВхШхГ)": "203x70x72 см",
+      "Вес": "111 кг",
+      "Официальный сайт": "siemens-home.bsh-group.com",
+      "Дата добавления на E-Katalog": "март 2023",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\siemens_kg49naibt\\images\\01.jpg",
+    "missing_refrigerators\\siemens_kg49naibt\\images\\02.jpg",
+    "missing_refrigerators\\siemens_kg49naibt\\images\\03.jpg",
+    "missing_refrigerators\\siemens_kg49naibt\\images\\04.jpg",
+    "missing_refrigerators\\siemens_kg49naibt\\images\\05.jpg",
+    "missing_refrigerators\\siemens_kg49naibt\\images\\06.jpg",
+    "missing_refrigerators\\siemens_kg49naibt\\images\\07.jpg",
+    "missing_refrigerators\\siemens_kg49naibt\\images\\08.jpg",
+    "missing_refrigerators\\siemens_kg49naibt\\images\\09.jpg"
+  ]
+}

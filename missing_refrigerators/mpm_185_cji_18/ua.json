@@ -1,0 +1,134 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/MPM-185-CJI-18.htm",
+    "actual_url": "https://ek.ua/ua/MPM-185-CJI-18.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "MPM",
+    "model": "185-CJI-18 білий",
+    "title": "Холодильник MPM 185-CJI-18 білий",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 181,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 167,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "зверху",
+    "volume_l": 14,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 7,
+    "freezing_capacity_kg_per_day": 2
+  },
+  "general": {
+    "control": "кнопкове внутрішнє",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 146,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 123.0,
+      "width": 54.0,
+      "depth": 54.0
+    },
+    "weight_kg": 36.0,
+    "country_of_origin": "Польща"
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник MPM 185-CJI-18 білий за ціною від 13680 до 17704 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2788683.jpg",
+    "https://mzimg.com/big/h1/huxqnhxwyh1.jpg",
+    "https://mzimg.com/big/r1/huxqnic3br1.jpg",
+    "https://mzimg.com/big/u1/huxqv0do0u1.jpg",
+    "https://s.ek.ua/jpg/2788683.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 4": "14 999 грн.",
+      "FOXTROT.UA →": "13 680 грн.",
+      "Stylus.ua →": "17 550 грн.",
+      "Semtech.com.ua →": "14 999 грн.",
+      "Колір Загальний об'єм 181 л Кількість камер 2 Контурів охолодження 1 Компресорів 1 Функції та можливості Функції перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 167 л Полиць 3 шт LED освітлення": "жовтень 2024",
+      "Загальний об'єм": "181 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "Функції": "перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "167 л",
+      "Полиць": "3 шт",
+      "Морозильна камера": "зверху",
+      "Об'єм морозильної камери": "14 л",
+      "Час збереження холоду": "7 год",
+      "Потужність заморожування": "2 кг/добу",
+      "Управління": "кнопкове внутрішнє",
+      "Клас енергоспоживання (new)": "E",
+      "Споживання енергії в рік": "146 кВт*год",
+      "Кліматичний клас": "SN, N, ST (+10...+38 °С)",
+      "Рівень шуму": "39 дБ",
+      "Габарити (ВхШхГ)": "123х54х54 см",
+      "Вага": "36 кг",
+      "Країна виробництва": "Польща",
+      "Дата додавання на E-Katalog": "жовтень 2024",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\mpm_185_cji_18\\images\\01.jpg",
+    "missing_refrigerators\\mpm_185_cji_18\\images\\02.jpg",
+    "missing_refrigerators\\mpm_185_cji_18\\images\\03.jpg",
+    "missing_refrigerators\\mpm_185_cji_18\\images\\04.jpg",
+    "missing_refrigerators\\mpm_185_cji_18\\images\\05.jpg"
+  ]
+}

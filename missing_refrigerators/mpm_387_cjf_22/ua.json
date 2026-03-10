@@ -1,0 +1,150 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/MPM-387-CJF-22.htm",
+    "actual_url": "https://ek.ua/ua/MPM-387-CJF-22.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "MPM",
+    "model": "387-CJF-22 нержавіюча сталь",
+    "title": "Холодильник MPM 387-CJF-22 нержавіюча сталь",
+    "category": "E-Katalog category 200",
+    "year": 2022,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 20
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 359,
+    "cameras_count": 1,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 359,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "немає",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "сенсорне зовнішнє",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 118,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 40,
+    "dimensions_cm": {
+      "height": null,
+      "width": null,
+      "depth": null
+    },
+    "weight_kg": 64.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник MPM 387-CJF-22 нержавіюча сталь за ціною від 25705 до 31844 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2198097.jpg",
+    "https://mzimg.com/big/l1/h24tdrgd6l1.jpg",
+    "https://mzimg.com/big/f1/h24tdrrb2f1.jpg",
+    "https://mzimg.com/big/61/h24tdrynn61.jpg",
+    "https://mzimg.com/big/i1/h24tds2eai1.jpg",
+    "https://mzimg.com/big/61/h24tdsbu361.jpg",
+    "https://mzimg.com/big/e1/h24tdsetke1.jpg",
+    "https://mzimg.com/big/61/h24tdso2d61.jpg",
+    "https://mzimg.com/big/t1/h24tdspykt1.jpg",
+    "https://mzimg.com/big/31/h24tdt0ww31.jpg",
+    "https://mzimg.com/big/a1/h24tdt2cxa1.jpg",
+    "https://mzimg.com/big/21/h24tdtcmf21.jpg",
+    "https://s.ek.ua/jpg/2198097.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 14": "27 583 грн.",
+      "Xfrost.net.ua →": "27 999 грн.",
+      "Stylus.ua →": "25 705 грн.",
+      "Itbox.ua →": "25 919 грн.",
+      "Brain.com.ua →": "27 999 грн.",
+      "ТЕХНОточка →": "27 583 грн.",
+      "Колір Загальний об'єм 359 л Кількість камер 1 Контурів охолодження 1 Компресорів 1 Інверторний компресор No Frost холодильна камера Функції та можливості Функції захист від дітей LED дисплей індикатор закриття дверцят перевішування дверей Холодильне відділення Об'єм холодильної камери 359 л Полиць 4 шт Відсіки для зберігання зона вологості полиця для пляшок Швидке охолодження Динамічне охолодження Автоматичне розморожування LED освітлення": "травень 2022",
+      "Загальний об'єм": "359 л",
+      "Кількість камер": "1",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "No Frost": "холодильна камера",
+      "Функції": "захист від дітей LED дисплей індикатор закриття дверцят перевішування дверей",
+      "Об'єм холодильної камери": "359 л",
+      "Полиць": "4 шт",
+      "Відсіки для зберігання": "зона вологості полиця для пляшок",
+      "Морозильна камера": "немає",
+      "Управління": "сенсорне зовнішнє",
+      "Клас енергоспоживання (new)": "E",
+      "Споживання енергії в рік": "118 кВт*год",
+      "Клас гучності": "C",
+      "Рівень шуму": "40 дБ",
+      "Габарити (ВхШхГ)": "185x60cx70 см",
+      "Вага": "64 кг",
+      "Офіційний сайт": "mpm.pl",
+      "Дата додавання на E-Katalog": "травень 2022",
+      "Інверторний компресор": "так",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\mpm_387_cjf_22\\images\\01.jpg",
+    "missing_refrigerators\\mpm_387_cjf_22\\images\\02.jpg",
+    "missing_refrigerators\\mpm_387_cjf_22\\images\\03.jpg",
+    "missing_refrigerators\\mpm_387_cjf_22\\images\\04.jpg",
+    "missing_refrigerators\\mpm_387_cjf_22\\images\\05.jpg",
+    "missing_refrigerators\\mpm_387_cjf_22\\images\\06.jpg",
+    "missing_refrigerators\\mpm_387_cjf_22\\images\\07.jpg",
+    "missing_refrigerators\\mpm_387_cjf_22\\images\\08.jpg",
+    "missing_refrigerators\\mpm_387_cjf_22\\images\\09.jpg",
+    "missing_refrigerators\\mpm_387_cjf_22\\images\\10.jpg",
+    "missing_refrigerators\\mpm_387_cjf_22\\images\\11.jpg",
+    "missing_refrigerators\\mpm_387_cjf_22\\images\\12.jpg",
+    "missing_refrigerators\\mpm_387_cjf_22\\images\\13.jpg"
+  ]
+}

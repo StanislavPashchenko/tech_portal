@@ -1,0 +1,154 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/MIDEA-MDRB-470-MGF33OM.htm",
+    "actual_url": "https://ek.ua/ua/MIDEA-MDRB-470-MGF33OM.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Midea",
+    "model": "MDRB 470 MGF33OM бежевий",
+    "title": "Холодильник Midea MDRB 470 MGF33OM бежевий",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 14
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 320,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 216,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 104,
+    "sections_count": 3,
+    "sections_details": "3 шт / 2 ящики, 1 полиця /",
+    "cold_storage_time_h": 15,
+    "freezing_capacity_kg_per_day": 14
+  },
+  "general": {
+    "control": "сенсорне зовнішнє",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": 316,
+    "climate_class": [
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 42,
+    "dimensions_cm": {
+      "height": 185.0,
+      "width": 59.5,
+      "depth": 66.0
+    },
+    "weight_kg": 66.0,
+    "country_of_origin": "Китай"
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Midea MDRB 470 MGF33OM бежевий за ціною від 19999 до 22606 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2856921.jpg",
+    "https://mzimg.com/big/p1/hz46dwlyap1.jpg",
+    "https://mzimg.com/big/21/hz46dwmk521.jpg",
+    "https://mzimg.com/big/41/hz46dwvde41.jpg",
+    "https://mzimg.com/big/p1/hz46dwxjwp1.jpg",
+    "https://mzimg.com/big/l1/hz46dxu1ml1.jpg",
+    "https://mzimg.com/big/q1/hz46dxuysq1.jpg",
+    "https://mzimg.com/big/01/hz46dy88v01.jpg",
+    "https://mzimg.com/big/l1/hz46dy8u9l1.jpg",
+    "https://mzimg.com/big/u1/hz46dyjbyu1.jpg",
+    "https://s.ek.ua/jpg/2856921.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 10": "21 224 грн.",
+      "FOXTROT.UA →": "20 485 грн.",
+      "Цифра →": "21 012 грн.",
+      "ТЕХНОточка →": "19 999 грн.",
+      "Zhuk.ua →": "20 466 грн.",
+      "Midea Україна →": "21 224 грн.",
+      "Колір Загальний об'єм 320 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 No Frost морозильна / холодильна камери Функції та можливості Функції режим відпустки захист від дітей LED дисплей індикатор закриття дверцят перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 216 л Полиць 3 шт Швидке охолодження Динамічне охолодження Автоматичне розморожування LED освітлення": "березень 2025",
+      "Загальний об'єм": "320 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "режим відпустки захист від дітей LED дисплей індикатор закриття дверцят перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "216 л",
+      "Полиць": "3 шт",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "104 л",
+      "Відділень морозильної камери": "3 шт / 2 ящики, 1 полиця /",
+      "Температура морозилки": "-24 °C",
+      "Час збереження холоду": "15 год",
+      "Потужність заморожування": "14 кг/добу",
+      "Управління": "сенсорне зовнішнє",
+      "Клас енергоспоживання": "A+",
+      "Споживання енергії в рік": "316 кВт*год",
+      "Кліматичний клас": "N, ST, T (+16...+43 °С)",
+      "Рівень шуму": "42 дБ",
+      "Габарити (ВхШхГ)": "185х59.5х66 см",
+      "Вага": "66 кг",
+      "Країна виробництва": "Китай",
+      "Дата додавання на E-Katalog": "березень 2025",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\midea_mdrb_470_mgf33om\\images\\01.jpg",
+    "missing_refrigerators\\midea_mdrb_470_mgf33om\\images\\02.jpg",
+    "missing_refrigerators\\midea_mdrb_470_mgf33om\\images\\03.jpg",
+    "missing_refrigerators\\midea_mdrb_470_mgf33om\\images\\04.jpg",
+    "missing_refrigerators\\midea_mdrb_470_mgf33om\\images\\05.jpg",
+    "missing_refrigerators\\midea_mdrb_470_mgf33om\\images\\06.jpg",
+    "missing_refrigerators\\midea_mdrb_470_mgf33om\\images\\07.jpg",
+    "missing_refrigerators\\midea_mdrb_470_mgf33om\\images\\08.jpg",
+    "missing_refrigerators\\midea_mdrb_470_mgf33om\\images\\09.jpg",
+    "missing_refrigerators\\midea_mdrb_470_mgf33om\\images\\10.jpg",
+    "missing_refrigerators\\midea_mdrb_470_mgf33om\\images\\11.jpg"
+  ]
+}

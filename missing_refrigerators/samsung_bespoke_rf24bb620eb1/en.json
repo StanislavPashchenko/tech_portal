@@ -1,0 +1,145 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/SAMSUNG-BESPOKE-RF24BB620EB1.htm",
+    "actual_url": "https://ek.ua/en/SAMSUNG-BESPOKE-RF24BB620EB1.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Samsung",
+    "model": "BeSpoke RF24BB620EB1 graphite",
+    "title": "Samsung BeSpoke RF24BB620EB1 graphite",
+    "category": "E-Katalog category 200",
+    "year": 338,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "French door",
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "bottom (retractable)",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "internal touch controls",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 338,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 38,
+    "dimensions_cm": {
+      "height": 177.8,
+      "width": 90.8,
+      "depth": 73.0
+    },
+    "weight_kg": 136.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "A really large and roomy French-door refrigerator, introduced to the market by the popular Samsung brand in 2024 and positioned by the manufacturer in the upper price segment. The total useful capacity of the device is 674 liters. The model belongs to the BeSpoke design line. The door trim is replaceable, while the manufacturer offers many options for facade shades that can be used in various combinations. The cooling zone is equipped with an AutoFill water dispenser, the removable jug has a filter for loading fruit pieces. The roomy Samsung BeSpoke RF24BB620EB1 refrigerator is additionally equipped with a combined Dual Ice Maker ice generator, which allows you to create both large and small cubes. Ice is dosed with a spatula. The freezing chamber is a separate pull-out drawer with a capacity of 187 liters. The refrigeration chamber has a volume of 487 liters. There is a SmartThings remote control and management system. Advanced Twin Cooling Plus technology is used to supply cold. The operating noise of the refrigerator does not exceed 38 dB. Energy consumption is at the level of 338 kWh per year.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2668939.jpg",
+    "https://mzimg.com/big/t1/hoso7vbebt1.jpg",
+    "https://mzimg.com/big/01/hoso7vcxf01.jpg",
+    "https://mzimg.com/big/r1/hoso3znnsr1.jpg",
+    "https://mzimg.com/big/g1/hoso3zp5ng1.jpg",
+    "https://mzimg.com/big/u1/hoso405x2u1.jpg",
+    "https://mzimg.com/big/g1/hoso407gmg1.jpg",
+    "https://mzimg.com/big/41/hoso40qt841.jpg",
+    "https://mzimg.com/big/k1/hoso40smtk1.jpg",
+    "https://s.ek.ua/jpg/2668939.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Dimtehnik.com.ua →": "82 485 ₴",
+      "Colour Type French door Total capacity 674 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 Inverter compressor No Frost freezer / refrigerator compartments Features Features control via smartphone (Wi-Fi) LED display door alarm More features hidden door handles customizable panels Refrigeration chamber Refrigerator capacity 487 L Number of shelves 3 Foldable shelf Storage compartments humidity zone Cold water dispenser gPS module Fast cool Dynamic air cooling Auto-defrost LED lighting": "April 2024",
+      "Type": "French door",
+      "Total capacity": "674 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "control via smartphone (Wi-Fi) LED display door alarm",
+      "More features": "hidden door handles customizable panels",
+      "Refrigerator capacity": "487 L",
+      "Number of shelves": "3",
+      "Storage compartments": "humidity zone",
+      "Cold water dispenser": "gPS module",
+      "Freezer compartment": "bottom (retractable)",
+      "Freezer capacity": "187 L",
+      "Freezer temperature": "-23 °C",
+      "Freeze capacity": "12 kg/day",
+      "Ice maker": "internal",
+      "Controls": "internal touch controls",
+      "Energy class (new)": "E",
+      "Energy consumption per year": "338 kWh",
+      "Noise level": "38 dB",
+      "Dimensions (HxWxD)": "177.8x90.8x73 cm",
+      "Weight": "136 kg",
+      "Official Website": "samsung.com",
+      "Added to E-Catalog": "April 2024",
+      "Inverter compressor": "yes",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\samsung_bespoke_rf24bb620eb1\\images\\01.jpg",
+    "missing_refrigerators\\samsung_bespoke_rf24bb620eb1\\images\\02.jpg",
+    "missing_refrigerators\\samsung_bespoke_rf24bb620eb1\\images\\03.jpg",
+    "missing_refrigerators\\samsung_bespoke_rf24bb620eb1\\images\\04.jpg",
+    "missing_refrigerators\\samsung_bespoke_rf24bb620eb1\\images\\05.jpg",
+    "missing_refrigerators\\samsung_bespoke_rf24bb620eb1\\images\\06.jpg",
+    "missing_refrigerators\\samsung_bespoke_rf24bb620eb1\\images\\07.jpg",
+    "missing_refrigerators\\samsung_bespoke_rf24bb620eb1\\images\\08.jpg",
+    "missing_refrigerators\\samsung_bespoke_rf24bb620eb1\\images\\09.jpg",
+    "missing_refrigerators\\samsung_bespoke_rf24bb620eb1\\images\\10.jpg"
+  ]
+}

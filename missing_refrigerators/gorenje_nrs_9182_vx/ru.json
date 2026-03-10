@@ -1,0 +1,149 @@
+{
+  "source": {
+    "url": "https://ek.ua/GORENJE-NRS-9182-VX.htm",
+    "actual_url": "https://ek.ua/GORENJE-NRS-9182-VX.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Gorenje",
+    "model": "NRS 9182 VX нержавейка (733127)",
+    "title": "Холодильник Gorenje NRS 9182 VX нержавейка (733127)",
+    "category": "E-Katalog category 200",
+    "year": 2020,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "Side-by-side",
+    "total_volume_l": 535,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 368,
+    "shelves_count": 5
+  },
+  "freezer_compartment": {
+    "location": "сбоку",
+    "volume_l": 167,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 8,
+    "freezing_capacity_kg_per_day": 13
+  },
+  "general": {
+    "control": "сенсорное внешнее",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 344,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 42,
+    "dimensions_cm": {
+      "height": 179.3,
+      "width": 91.0,
+      "depth": 68.7
+    },
+    "weight_kg": 108.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Этот холодильник смог объединить в себе отменную вместительность, производительность и внушительные функциональные возможности. Агрегат оснащен свободным пространством в 535 л. Ключевой особенностью модели стало интегрирование в дверцу морозильника диспенсера и генератора льда. Работа диспенсера является автономной, холодильник Gorenje NRS 9182 VX не нужно подключать к водопроводу. Генератор льда способен готовить как кубики, так и ледяную кашу. Это яркий представитель холодильных агрегатов Side-by-side. Удобные распашные дверцы обеспечивают легкий доступ ко всем полкам и ящикам хранилища. Рабочее пространство модели использует концепцию XtraSpace. Теперь загрузка и выгрузка продуктов стала как никогда быстрой и безопасной. Подсветка LedLight позволит сразу находить искомое. Роль системы охлаждения выполняет технология MultiFlow 360°. С этой опцией каждая полка и каждый ящик подвергаются охлаждению в отдельности. Холодильный агрегат использует инверторный компрессор. Это тихая и мощная силовая установка, способная без лишних хлопот создавать идеальный микроклимат для хранения всего перечня продуктов.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1859197.jpg",
+    "https://mzimg.com/big/q1/gi4nrdmqaq1.jpg",
+    "https://mzimg.com/big/v1/gi4nrdnwrv1.jpg",
+    "https://mzimg.com/big/21/gi4nrdz1g21.jpg",
+    "https://mzimg.com/big/q1/gi4nre162q1.jpg",
+    "https://mzimg.com/big/a1/gi4nredyha1.jpg",
+    "https://mzimg.com/big/p1/gi4nref3ep1.jpg",
+    "https://s.ek.ua/jpg/1859197.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Hi-tech.com.ua →": "66 771 грн.",
+      "Цвет Тип Side-by-side Общий объем 535 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 Инверторный компрессор No Frost морозильная / холодильная камеры Функции и возможности Функции LED дисплей индикатор закрытия дверцы Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 368 л Полок 5 шт Отсеки для хранения полка для бутылок Диспенсер холодной воды внешний Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "733127",
+      "Тип": "Side-by-side",
+      "Общий объем": "535 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "LED дисплей индикатор закрытия дверцы",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "368 л",
+      "Полок": "5 шт",
+      "Отсеки для хранения": "полка для бутылок",
+      "Диспенсер холодной воды": "внешний",
+      "Морозильная камера": "сбоку",
+      "Объем морозильной камеры": "167 л",
+      "Температура морозилки": "-24 °C",
+      "Время сохранения холода": "8 ч",
+      "Мощность замораживания": "13 кг/сутки",
+      "Ледогенератор": "внешний диспенсер",
+      "Управление": "сенсорное внешнее",
+      "Класс энергопотребления": "A++",
+      "Потребление энергии в год": "344 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Уровень шума": "42 дБ",
+      "Габариты (ВхШхГ)": "179.3x91x68.7 см",
+      "Вес": "108 кг",
+      "Официальный сайт": "gorenje.pl",
+      "Дата добавления на E-Katalog": "август 2020",
+      "Маркировка производителя": "733127",
+      "Инверторный компрессор": "да",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\gorenje_nrs_9182_vx\\images\\01.jpg",
+    "missing_refrigerators\\gorenje_nrs_9182_vx\\images\\02.jpg",
+    "missing_refrigerators\\gorenje_nrs_9182_vx\\images\\03.jpg",
+    "missing_refrigerators\\gorenje_nrs_9182_vx\\images\\04.jpg",
+    "missing_refrigerators\\gorenje_nrs_9182_vx\\images\\05.jpg",
+    "missing_refrigerators\\gorenje_nrs_9182_vx\\images\\06.jpg",
+    "missing_refrigerators\\gorenje_nrs_9182_vx\\images\\07.jpg",
+    "missing_refrigerators\\gorenje_nrs_9182_vx\\images\\08.jpg"
+  ]
+}

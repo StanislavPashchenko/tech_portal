@@ -1,0 +1,151 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/LIEBHERR-CBNSTE-8872.htm",
+    "actual_url": "https://ek.ua/en/LIEBHERR-CBNSTE-8872.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liebherr",
+    "model": "CBNste 8872 stainless steel",
+    "title": "Liebherr CBNste 8872 stainless steel",
+    "category": "E-Katalog category 200",
+    "year": 328,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "French door",
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "bottom (retractable)",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "internal touch controls",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 328,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 202.7,
+      "width": 91.0,
+      "depth": 61.5
+    },
+    "weight_kg": 167.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "The French-door refrigerator by Liebherr is a flagship solution ideal for large families, owners of spacious kitchens, and the most demanding users. The model includes a NoFrost system in the freezer compartment, eliminating the need for manual defrosting. Another standout feature of the unit is the BioFresh compartment, a freshness zone with two pull-out drawers in the refrigeration chamber. One drawer can provide optimal conditions for storing meat and dairy products (Meat & Dairy), while the other is for vegetables and fruits (Fruit & Vegetable). The Liebherr CBNste 8872 refrigerator features an internal MagicEye touch control with a display and flexible settings — from temperature and various mode selections (such as vacation mode) to child safety lock. The freezer is located in the lower part of the body and is split between two separate pull-out containers with practical telescopic slides. One of these drawers contains an ice maker for producing ice cubes. In these two compartments, it's possible to freeze about 10 kg of food per day, and in case of power failures, the cold can be maintained for a total of up to 17 hours. The refrigerator compartment houses four wide open shelves and six door pockets — three on each door. Notable features also include the relatively noisy operation (up to 42 dB), large dimensions (91 cm wide, 203 cm high), and substantial weight (over 100 kg). <b>Key highlights:</b> NoFrost technology and BioFresh zone optimize storage, MagicEye control offers flexibility, and the unit provides significant freezing capacity even during power outages.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2787986.jpg",
+    "https://mzimg.com/big/11/huwfbzuhk11.jpg",
+    "https://mzimg.com/big/w1/huwfbzw5uw1.jpg",
+    "https://mzimg.com/big/q1/huwfc0d23q1.jpg",
+    "https://mzimg.com/big/21/huwfc0gz721.jpg",
+    "https://mzimg.com/big/c1/huwfc0y3ec1.jpg",
+    "https://mzimg.com/big/b1/huwfc13ymb1.jpg",
+    "https://mzimg.com/big/91/huwfc1izw91.jpg",
+    "https://s.ek.ua/jpg/2787986.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 8": "273 572 ₴",
+      "Tendo.com.ua →": "321 900 ₴",
+      "Elmag.ua →": "321 899 ₴",
+      "PermyCo →": "273 572 ₴",
+      "Colour Type French door Total capacity 523 L Number of chambers 3 Number of cooling circuits 2 Number of compressors 1 No Frost freezer location Features Features child lock LED display door alarm Refrigeration chamber Refrigerator capacity 363 L Number of shelves 4 Storage compartments fresh zone Fast cool Dynamic air cooling Auto-defrost LED lighting Telescopic rails": "October 2024",
+      "Type": "French door",
+      "Total capacity": "523 L",
+      "Number of chambers": "3",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer location",
+      "Features": "child lock LED display door alarm",
+      "Refrigerator capacity": "363 L",
+      "Number of shelves": "4",
+      "Storage compartments": "fresh zone",
+      "Freezer compartment": "bottom (retractable)",
+      "Freezer capacity": "160 L",
+      "Freezer temperature": "-27 °C",
+      "Autonomy time": "17 h",
+      "Freeze capacity": "10 kg/day",
+      "Ice maker": "internal",
+      "Controls": "internal touch controls",
+      "Energy class (new)": "E",
+      "Energy consumption per year": "328 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Noise class": "D",
+      "Noise level": "42 dB",
+      "Dimensions (HxWxD)": "202.7х91х61.5 cm",
+      "Weight": "167 kg",
+      "Official Website": "liebherr.com",
+      "Added to E-Catalog": "October 2024",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\liebherr_cbnste_8872\\images\\01.jpg",
+    "missing_refrigerators\\liebherr_cbnste_8872\\images\\02.jpg",
+    "missing_refrigerators\\liebherr_cbnste_8872\\images\\03.jpg",
+    "missing_refrigerators\\liebherr_cbnste_8872\\images\\04.jpg",
+    "missing_refrigerators\\liebherr_cbnste_8872\\images\\05.jpg",
+    "missing_refrigerators\\liebherr_cbnste_8872\\images\\06.jpg",
+    "missing_refrigerators\\liebherr_cbnste_8872\\images\\07.jpg",
+    "missing_refrigerators\\liebherr_cbnste_8872\\images\\08.jpg",
+    "missing_refrigerators\\liebherr_cbnste_8872\\images\\09.jpg"
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "source": {
+    "url": "https://ek.ua/INDESIT-LI7-SN1E-X.htm",
+    "actual_url": "https://ek.ua/INDESIT-LI7-SN1E-X.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Indesit",
+    "model": "LI7 SN1E X нержавейка",
+    "title": "Холодильник Indesit LI7 SN1E X нержавейка",
+    "category": "E-Katalog category 200",
+    "year": 2021,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 295,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 197,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 98,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 16,
+    "freezing_capacity_kg_per_day": 6
+  },
+  "general": {
+    "control": "сенсорное внутреннее",
+    "energy_class_new": "F",
+    "annual_energy_consumption_kwh": 301,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 40,
+    "dimensions_cm": {
+      "height": 176.3,
+      "width": 59.5,
+      "depth": 65.5
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general",
+      "Цены на Indesit LI7 SN1E X"
+    ]
+  },
+  "description": "Холодильник Indesit LI7 SN1E X нержавейка по цене от 16222 до 18627 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2016864.jpg",
+    "https://mzimg.com/big/r1/gqfogan1er1.jpg",
+    "https://mzimg.com/big/u1/gqfogaoelu1.jpg",
+    "https://mzimg.com/big/61/gqfoee0a661.jpg",
+    "https://mzimg.com/big/41/gqfoiasxc41.jpg",
+    "https://s.ek.ua/jpg/2016864.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 5": "18 627 грн.",
+      "BT-Shop.com.ua →": "18 627 грн.",
+      "Цвет Общий объем 295 л Количество камер 2 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Функции перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 197 л Полок 4 шт Автоматическая разморозка LED освещение": "май 2021",
+      "Общий объем": "295 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Функции": "перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "197 л",
+      "Полок": "4 шт",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "98 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Время сохранения холода": "16 ч",
+      "Мощность замораживания": "6.5 кг/сутки",
+      "Управление": "сенсорное внутреннее",
+      "Класс энергопотребления (new)": "F",
+      "Потребление энергии в год": "301 кВт*ч",
+      "Класс шумности": "C",
+      "Уровень шума": "40 дБ",
+      "Габариты (ВхШхГ)": "176.3x59.5x65.5 см",
+      "Официальный сайт": "indesit.pl",
+      "Дата добавления на E-Katalog": "май 2021",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    },
+    "Цены на Indesit LI7 SN1E X": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\indesit_li7_sn1e_x\\images\\01.jpg",
+    "missing_refrigerators\\indesit_li7_sn1e_x\\images\\02.jpg",
+    "missing_refrigerators\\indesit_li7_sn1e_x\\images\\03.jpg",
+    "missing_refrigerators\\indesit_li7_sn1e_x\\images\\04.jpg",
+    "missing_refrigerators\\indesit_li7_sn1e_x\\images\\05.jpg",
+    "missing_refrigerators\\indesit_li7_sn1e_x\\images\\06.jpg"
+  ]
+}

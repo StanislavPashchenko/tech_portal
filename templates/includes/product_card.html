@@ -1,0 +1,17 @@
+{% load portal_tags %}
+<article class="card product-card">
+    {% if product.primary_image %}
+    <a href="{{ product.get_absolute_url }}" class="card-image card-image--contain">
+        <img src="{{ product.primary_image }}" alt="{{ product.display_name }}" loading="lazy">
+    </a>
+    {% endif %}
+    <div class="card-body">
+        <span class="eyebrow">{{ product.display_appliance_type }} / {{ product.display_brand_name }}</span>
+        <h3><a href="{{ product.get_absolute_url }}">{{ product.display_name }}</a></h3>
+        <p>{{ product.display_product_description|truncatechars:150 }}</p>
+        <div class="card-meta">
+            <span>{{ product.repair_model.error_codes.count }} {% ui 'error_codes' %}</span>
+            <span>{{ product.views }} {% ui 'views' %}</span>
+        </div>
+    </div>
+</article>

@@ -1,0 +1,155 @@
+{
+  "source": {
+    "url": "https://ek.ua/LG-GB-B71PZEMN.htm",
+    "actual_url": "https://ek.ua/LG-GB-B71PZEMN.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "LG",
+    "model": "GB-B71PZEMN серебристый",
+    "title": "Холодильник LG GB-B71PZEMN серебристый",
+    "category": "E-Katalog category 200",
+    "year": 2020,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 341,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 234,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 107,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 16,
+    "freezing_capacity_kg_per_day": 12
+  },
+  "general": {
+    "control": "сенсорное внутреннее",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 273,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 36,
+    "dimensions_cm": {
+      "height": 186.0,
+      "width": 59.5,
+      "depth": 68.2
+    },
+    "weight_kg": 70.0,
+    "country_of_origin": "Польша"
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник LG GB-B71PZEMN серебристый по цене от 27131 до 27131 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1929519.jpg",
+    "https://mzimg.com/big/71/gltjyf1qf71.jpg",
+    "https://mzimg.com/big/c1/gltjyfxazc1.jpg",
+    "https://mzimg.com/big/v1/gltjyg69lv1.jpg",
+    "https://mzimg.com/big/c1/gltjyg9xhc1.jpg",
+    "https://mzimg.com/big/s1/gltjygj90s1.jpg",
+    "https://mzimg.com/big/o1/gltjygmhzo1.jpg",
+    "https://mzimg.com/big/91/gltjyf34791.jpg",
+    "https://mzimg.com/big/p1/gltjyffy8p1.jpg",
+    "https://mzimg.com/big/v1/gltjyfihgv1.jpg",
+    "https://mzimg.com/big/h1/gltjyfswah1.jpg",
+    "https://s.ek.ua/jpg/1929519.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 11": "27 131 грн. Купить! Холодильник LG GBB71PZEMN inSale.com.ua Менее года Доставка: в Днепр из Киева Гарантия: 12 мес. Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Общий объем 341 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 Инверторный компрессор No Frost морозильная / холодильная камеры Функции и возможности Функции индикатор закрытия дверцы перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 234 л Полок 3 шт Отсеки для хранения зона свежести зона влажности Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "декабрь 2020",
+      "Общий объем": "341 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "индикатор закрытия дверцы перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "234 л",
+      "Полок": "3 шт",
+      "Отсеки для хранения": "зона свежести зона влажности",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "107 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Температура морозилки": "-24 °C",
+      "Время сохранения холода": "16 ч",
+      "Мощность замораживания": "12 кг/сутки",
+      "Управление": "сенсорное внутреннее",
+      "Класс энергопотребления": "A++",
+      "Потребление энергии в год": "273 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Уровень шума": "36 дБ",
+      "Габариты (ВхШхГ)": "186x59.5x68.2 см",
+      "Вес": "70 кг",
+      "Страна производства": "Польша",
+      "Официальный сайт": "lg.com",
+      "Дата добавления на E-Katalog": "декабрь 2020",
+      "Инверторный компрессор": "да",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\lg_gb_b71pzemn\\images\\01.jpg",
+    "missing_refrigerators\\lg_gb_b71pzemn\\images\\02.jpg",
+    "missing_refrigerators\\lg_gb_b71pzemn\\images\\03.jpg",
+    "missing_refrigerators\\lg_gb_b71pzemn\\images\\04.jpg",
+    "missing_refrigerators\\lg_gb_b71pzemn\\images\\05.jpg",
+    "missing_refrigerators\\lg_gb_b71pzemn\\images\\06.jpg",
+    "missing_refrigerators\\lg_gb_b71pzemn\\images\\07.jpg",
+    "missing_refrigerators\\lg_gb_b71pzemn\\images\\08.jpg",
+    "missing_refrigerators\\lg_gb_b71pzemn\\images\\09.jpg",
+    "missing_refrigerators\\lg_gb_b71pzemn\\images\\10.jpg",
+    "missing_refrigerators\\lg_gb_b71pzemn\\images\\11.jpg",
+    "missing_refrigerators\\lg_gb_b71pzemn\\images\\12.jpg"
+  ]
+}

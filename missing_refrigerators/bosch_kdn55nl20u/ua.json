@@ -1,0 +1,133 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/BOSCH-KDN55NL20U.htm",
+    "actual_url": "https://ek.ua/ua/BOSCH-KDN55NL20U.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Bosch",
+    "model": "KDN55NL20U нержавіюча сталь",
+    "title": "Холодильник Bosch KDN55NL20U нержавіюча сталь",
+    "category": "E-Katalog category 200",
+    "year": 2021,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 453,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 335,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "зверху",
+    "volume_l": 118,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 14,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "поворотні перемикачі",
+    "energy_class_new": null,
+    "annual_energy_consumption_kwh": 336,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 186.0,
+      "width": 70.0,
+      "depth": 74.5
+    },
+    "weight_kg": 76.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Bosch KDN55NL20U нержавіюча сталь за ціною від 30968 до 30968 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2077228.jpg",
+    "https://mzimg.com/big/k1/gtt110km8k1.jpg",
+    "https://mzimg.com/big/t1/gtt110id7t1.jpg",
+    "https://mzimg.com/big/s1/gtt1118u6s1.jpg",
+    "https://mzimg.com/big/f1/gtt111agff1.jpg",
+    "https://mzimg.com/big/a1/gtt111xuta1.jpg",
+    "https://s.ek.ua/jpg/2077228.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 6": "30 968 грн. Купити! Холодильник Bosch KDN55NL20U inSale.com.ua Менше року Доставка: у Дніпро з Києва Гарантія: 12 міс. Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 453 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 No Frost морозильна / холодильна камери Функції та можливості Функції режим відпустки індикатор закриття дверцят перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 335 л Полиць 4 шт Відсіки для зберігання зона свіжості Динамічне охолодження Автоматичне розморожування": "серпень 2021",
+      "Загальний об'єм": "453 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "режим відпустки індикатор закриття дверцят перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "335 л",
+      "Полиць": "4 шт",
+      "Відсіки для зберігання": "зона свіжості",
+      "Морозильна камера": "зверху",
+      "Об'єм морозильної камери": "118 л",
+      "Відділень морозильної камери": "3 шт",
+      "Температура морозилки": "-24 °C",
+      "Час збереження холоду": "14 год",
+      "Управління": "поворотні перемикачі",
+      "Споживання енергії в рік": "336 кВт*год",
+      "Клас гучності": "C",
+      "Габарити (ВхШхГ)": "186x70x74.5 см",
+      "Вага": "76 кг",
+      "Офіційний сайт": "bosch-home.com",
+      "Дата додавання на E-Katalog": "серпень 2021",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\bosch_kdn55nl20u\\images\\01.jpg",
+    "missing_refrigerators\\bosch_kdn55nl20u\\images\\02.jpg",
+    "missing_refrigerators\\bosch_kdn55nl20u\\images\\03.jpg",
+    "missing_refrigerators\\bosch_kdn55nl20u\\images\\04.jpg",
+    "missing_refrigerators\\bosch_kdn55nl20u\\images\\05.jpg",
+    "missing_refrigerators\\bosch_kdn55nl20u\\images\\06.jpg",
+    "missing_refrigerators\\bosch_kdn55nl20u\\images\\07.jpg"
+  ]
+}

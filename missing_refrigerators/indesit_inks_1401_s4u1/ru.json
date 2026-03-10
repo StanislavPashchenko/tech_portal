@@ -1,0 +1,146 @@
+{
+  "source": {
+    "url": "https://ek.ua/INDESIT-INKS-1401-S4U1.htm",
+    "actual_url": "https://ek.ua/INDESIT-INKS-1401-S4U1.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Indesit",
+    "model": "INKS 1401 S4U1 серебристый",
+    "title": "Холодильник Indesit INKS 1401 S4U1 серебристый",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 16
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 386,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 266,
+    "shelves_count": 5
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 120,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 24,
+    "freezing_capacity_kg_per_day": 6
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 247,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 38,
+    "dimensions_cm": {
+      "height": 202.5,
+      "width": 59.5,
+      "depth": 67.0
+    },
+    "weight_kg": 75.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Дебютант 2025 года от торговой марки Indesit — это среднебюджетный 2-камерный холодильник с нижним расположением морозильной камеры. Модель способна заинтересовать даже большие семьи, так как ее суммарный полезный объем достигает 386 литров. При этом высота корпуса составляет 202 см, а ширина — вполне стандартные 59.5 см. Оба отделения агрегата предусматривают статическую систему охлаждения, что среди прочего предполагает необходимость периодической ручной разморозки. Холодильник Indesit INKS 1401 S4U1 получил 120-литровую морозильную камеру с тремя выдвижными боксами для организации хранения продуктов и скромной производительностью замораживания на уровне 6 кг в сутки. При отсутствии электричества холод здесь должен сохраняться до 24 часов. В холодильном отделении на 266 литров находятся 5 открытых полок, которые выполнены из надежного закаленного стекла — должны выдержать серьезную нагрузку (вплоть до 100 кг каждая). Еще здесь имеется выдвижной овощной ящик и четверка корзин на всю ширину дверцы. Из других особенностей стоит выделить простые органы управления — поворотный переключатель для настройки температуры в холодильном отделении, скрытую дверную ручку, умеренный уровень шума (до 38 дБ) и энергопотребление класса A++: за год работы прибор «накрутит» на счетчике 247 кВт*ч.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2908342.jpg",
+    "https://mzimg.com/big/x1/i23a0ui0qx1.jpg",
+    "https://mzimg.com/big/v1/i23a0uitav1.jpg",
+    "https://mzimg.com/big/71/i23a0uxp071.jpg",
+    "https://mzimg.com/big/b1/i23a0uybqb1.jpg",
+    "https://mzimg.com/big/71/i23a0v7r971.jpg",
+    "https://mzimg.com/big/w1/i23a0v9c2w1.jpg",
+    "https://mzimg.com/big/11/i23a0vkzg11.jpg",
+    "https://s.ek.ua/jpg/2908342.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 8": "16 399 грн.",
+      "Openshop.ua →": "16 236 грн.",
+      "575.in.ua →": "16 400 грн.",
+      "Tehnomart.com →": "17 800 грн.",
+      "TEHNOS.UA →": "17 799 грн.",
+      "Tehnomaster.com →": "16 399 грн.",
+      "Цвет Общий объем 386 л Количество камер 2 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Функции перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 266 л Полок 5 шт Автоматическая разморозка LED освещение": "июнь 2025",
+      "Общий объем": "386 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Функции": "перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "266 л",
+      "Полок": "5 шт",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "120 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Время сохранения холода": "24 ч",
+      "Мощность замораживания": "6 кг/сутки",
+      "Управление": "поворотные переключатели",
+      "Класс энергопотребления": "A++",
+      "Потребление энергии в год": "247 кВт*ч",
+      "Климатический класс": "SN, N, ST (+10...+38 °С)",
+      "Уровень шума": "38 дБ",
+      "Габариты (ВхШхГ)": "202.5х59.5х67 см",
+      "Вес": "75 кг",
+      "Официальный сайт": "indesit.com.ua",
+      "Дата добавления на E-Katalog": "июнь 2025",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\indesit_inks_1401_s4u1\\images\\01.jpg",
+    "missing_refrigerators\\indesit_inks_1401_s4u1\\images\\02.jpg",
+    "missing_refrigerators\\indesit_inks_1401_s4u1\\images\\03.jpg",
+    "missing_refrigerators\\indesit_inks_1401_s4u1\\images\\04.jpg",
+    "missing_refrigerators\\indesit_inks_1401_s4u1\\images\\05.jpg",
+    "missing_refrigerators\\indesit_inks_1401_s4u1\\images\\06.jpg",
+    "missing_refrigerators\\indesit_inks_1401_s4u1\\images\\07.jpg",
+    "missing_refrigerators\\indesit_inks_1401_s4u1\\images\\08.jpg",
+    "missing_refrigerators\\indesit_inks_1401_s4u1\\images\\09.jpg"
+  ]
+}

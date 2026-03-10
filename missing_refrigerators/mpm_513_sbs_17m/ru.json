@@ -1,0 +1,132 @@
+{
+  "source": {
+    "url": "https://ek.ua/MPM-513-SBS-17M.htm",
+    "actual_url": "https://ek.ua/MPM-513-SBS-17M.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "MPM",
+    "model": "513-SBS-17M серебристый",
+    "title": "Холодильник MPM 513-SBS-17M серебристый",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 5
+  },
+  "summary": {
+    "type": "Side-by-side",
+    "total_volume_l": 513,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 344,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "сбоку",
+    "volume_l": 169,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": 12
+  },
+  "general": {
+    "control": "сенсорное внешнее",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 306,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 177.0,
+      "width": 90.0,
+      "depth": 67.0
+    },
+    "weight_kg": 92.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник MPM 513-SBS-17M серебристый по цене от 38557 до 48124 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2533374.jpg",
+    "https://mzimg.com/big/w1/hhu2xrlhpw1.jpg",
+    "https://s.ek.ua/jpg/2533374.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Цифра →": "38 628 грн.",
+      "Elmag.ua →": "39 270 грн.",
+      "Denika.ua →": "39 270 грн.",
+      "COMFY.ua →": "48 124 грн.",
+      "Rozetka.ua →": "42 419 грн.",
+      "Цвет Тип Side-by-side Общий объем 513 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 No Frost морозильная / холодильная камеры Функции и возможности Функции защита от детей LED дисплей индикатор закрытия дверцы Холодильное отделение Объем холодильной камеры 344 л Полок 4 шт Отсеки для хранения полка для бутылок Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "сентябрь 2023",
+      "Тип": "Side-by-side",
+      "Общий объем": "513 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "защита от детей LED дисплей индикатор закрытия дверцы",
+      "Объем холодильной камеры": "344 л",
+      "Полок": "4 шт",
+      "Отсеки для хранения": "полка для бутылок",
+      "Морозильная камера": "сбоку",
+      "Объем морозильной камеры": "169 л",
+      "Температура морозилки": "-22 °C",
+      "Мощность замораживания": "12 кг/сутки",
+      "Управление": "сенсорное внешнее",
+      "Класс энергопотребления (new)": "E",
+      "Потребление энергии в год": "306 кВт*ч",
+      "Класс шумности": "C",
+      "Уровень шума": "39 дБ",
+      "Габариты (ВхШхГ)": "177x90x67 см",
+      "Вес": "92 кг",
+      "Официальный сайт": "mpm.pl",
+      "Дата добавления на E-Katalog": "сентябрь 2023",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\mpm_513_sbs_17m\\images\\01.jpg",
+    "missing_refrigerators\\mpm_513_sbs_17m\\images\\02.jpg",
+    "missing_refrigerators\\mpm_513_sbs_17m\\images\\03.jpg"
+  ]
+}

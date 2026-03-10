@@ -1,0 +1,149 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/BOSCH-KGN362LDF.htm",
+    "actual_url": "https://ek.ua/en/BOSCH-KGN362LDF.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Bosch",
+    "model": "KGN362LDF stainless steel",
+    "title": "Bosch KGN362LDF stainless steel",
+    "category": "E-Katalog category 200",
+    "year": 199,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "internal touch controls",
+    "energy_class_new": "D",
+    "annual_energy_consumption_kwh": 199,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 186.0,
+      "width": 60.0,
+      "depth": 66.5
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "The refrigerator from the famous German manufacturer Bosch is a classic two-chamber model with a total volume of 321 liters. Of this, 218 liters are in the refrigerator compartment, and 103 liters are in the freezer compartment located at the bottom of the device. The Multi Airflow cooling system ensures consistent humidity and temperature throughout the entire cooling zone, from door drawers to back nooks, for long-lasting food storage. And No Frost technology prevents the formation of ice and frost, thereby eliminating the need to manually defrost the refrigerator. Two separate cooling circuits allow you to independently regulate the temperature in the refrigerator and freezer compartments. At the same time, a convenient touch panel is provided for control. Bosch KGN362LDF offers everything you need to organize your products correctly. The refrigerator compartment has several height-adjustable shelves, side shelves, a large VitaFresh pull-out container with an optimal level of humidity for vegetables, fruits and herbs, a zero-temperature container for meat and fish, and a special chrome shelf for placing bottles. The Super Cool function lowers the temperature for a short period of time to quickly cool fresh food. The freezer is divided into 3 compartments and has a Super Freeze function for quickly freezing added food. The freezer is capable of freezing about 10 kg of food per day and maintaining the optimal temperature for 14 hours in the event of a power outage. Also among the advantages of the refrigerator are fairly quiet operation (noise level does not exceed 35 dB), LED lighting in the refrigerator compartment, the ability to hang the doors on the right and left sides, and a signal that notifies you of an open door or other problems.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2279342.jpg",
+    "https://mzimg.com/big/m1/h6fpzl4osm1.jpg",
+    "https://mzimg.com/big/r1/h6fpzl5brr1.jpg",
+    "https://mzimg.com/big/71/h6fpzlhe171.jpg",
+    "https://mzimg.com/big/o1/h6fpzlkjto1.jpg",
+    "https://mzimg.com/big/21/h6fpzlu6o21.jpg",
+    "https://mzimg.com/big/g1/h6fpzlxxlg1.jpg",
+    "https://mzimg.com/big/u1/h6fpzm89cu1.jpg",
+    "https://mzimg.com/big/w1/h6fpzmce2w1.jpg",
+    "https://s.ek.ua/jpg/2279342.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 9": "from 36 945 ₴ Buy! Холодильник Bosch KGN362LDF Denika.ua With us more than 10 years Delivery: to Dnipro from Kharkiv Warranty: 12 month Report add to list my lists add to comparison 2 299 zł 25 749 ₴ 699 £ 38 564 ₴",
+      "Colour Total capacity 321 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 No Frost freezer / refrigerator compartments Features Features door alarm reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 218 L Number of shelves 3 Storage compartments fresh zone humidity zone bottle rack Fast cool Dynamic air cooling Auto-defrost LED lighting": "September 2022",
+      "Total capacity": "321 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "door alarm reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "218 L",
+      "Number of shelves": "3",
+      "Storage compartments": "fresh zone humidity zone bottle rack",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "103 L",
+      "Freezer drawers": "3",
+      "Freezer temperature": "-24 °C",
+      "Autonomy time": "14 h",
+      "Freeze capacity": "10 kg/day",
+      "Controls": "internal touch controls",
+      "Energy class (new)": "D",
+      "Energy consumption per year": "199 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Noise class": "B",
+      "Noise level": "35 dB",
+      "Dimensions (HxWxD)": "186x60x66.5 cm",
+      "Official Website": "bosch-home.pl",
+      "Added to E-Catalog": "September 2022",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\bosch_kgn362ldf\\images\\01.jpg",
+    "missing_refrigerators\\bosch_kgn362ldf\\images\\02.jpg",
+    "missing_refrigerators\\bosch_kgn362ldf\\images\\03.jpg",
+    "missing_refrigerators\\bosch_kgn362ldf\\images\\04.jpg",
+    "missing_refrigerators\\bosch_kgn362ldf\\images\\05.jpg",
+    "missing_refrigerators\\bosch_kgn362ldf\\images\\06.jpg",
+    "missing_refrigerators\\bosch_kgn362ldf\\images\\07.jpg",
+    "missing_refrigerators\\bosch_kgn362ldf\\images\\08.jpg",
+    "missing_refrigerators\\bosch_kgn362ldf\\images\\09.jpg",
+    "missing_refrigerators\\bosch_kgn362ldf\\images\\10.jpg"
+  ]
+}

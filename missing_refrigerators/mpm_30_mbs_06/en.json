@@ -1,0 +1,115 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/MPM-30-MBS-06.htm",
+    "actual_url": "https://ek.ua/en/MPM-30-MBS-06.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "MPM",
+    "model": "30-MBS-06 black",
+    "title": "MPM 30-MBS-06 black",
+    "category": "E-Katalog category 200",
+    "year": 86,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 2
+  },
+  "freezer_compartment": {
+    "location": "in absent",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knobs",
+    "energy_class_new": "F",
+    "annual_energy_consumption_kwh": 86,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 53.0,
+      "width": 40.0,
+      "depth": 43.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge MPM 30-MBS-06 black at a price from 7710 to 9744 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2198025.jpg",
+    "https://s.ek.ua/jpg/2198025.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Denika.ua →": "9 473 ₴",
+      "Novateh.com.ua →": "8 725 ₴",
+      "Rozetka.ua →": "8 580 ₴",
+      "Colour Total capacity 29 L Number of chambers 1 Number of cooling circuits 1 Number of compressors 1 Features Features reversible door More features hidden door handles": "May 2022",
+      "Total capacity": "29 L",
+      "Number of chambers": "1",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "Features": "reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "29 L",
+      "Number of shelves": "2",
+      "Freezer compartment": "in absent",
+      "Controls": "rotary knobs",
+      "Energy class (new)": "F",
+      "Energy consumption per year": "86 kWh",
+      "Dimensions (HxWxD)": "53x40x43 cm",
+      "Added to E-Catalog": "May 2022"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\mpm_30_mbs_06\\images\\01.jpg",
+    "missing_refrigerators\\mpm_30_mbs_06\\images\\02.jpg"
+  ]
+}

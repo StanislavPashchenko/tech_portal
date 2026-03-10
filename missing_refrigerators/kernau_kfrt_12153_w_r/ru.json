@@ -1,0 +1,129 @@
+{
+  "source": {
+    "url": "https://ek.ua/KERNAU-KFRT-12153-W-R.htm",
+    "actual_url": "https://ek.ua/KERNAU-KFRT-12153-W-R.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Kernau",
+    "model": "KFRT 12153 W R белый",
+    "title": "Холодильник Kernau KFRT 12153 W R белый",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 151,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 112,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "сверху",
+    "volume_l": 39,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 14,
+    "freezing_capacity_kg_per_day": 2
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 177,
+    "climate_class": [
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 40,
+    "dimensions_cm": {
+      "height": 122.0,
+      "width": 50.0,
+      "depth": 58.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Kernau KFRT 12153 W R белый по цене от 10495 до 10495 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2891616.jpg",
+    "https://mzimg.com/big/s1/i14zzxllys1.jpg",
+    "https://mzimg.com/big/u1/i14zzxm80u1.jpg",
+    "https://s.ek.ua/jpg/2891616.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 3": "10 495 грн. Купить! Холодильник Kernau KFRT 12153 W R Tendo.com.ua С нами 9 лет Доставка: в Днепр из Киева Гарантия: 12 мес. Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Общий объем 151 л Количество камер 2 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Функции перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 112 л Полок 3 шт Автоматическая разморозка LED освещение": "май 2025",
+      "Общий объем": "151 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Функции": "перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "112 л",
+      "Полок": "3 шт",
+      "Морозильная камера": "сверху",
+      "Объем морозильной камеры": "39 л",
+      "Время сохранения холода": "14 ч",
+      "Мощность замораживания": "2.4 кг/сутки",
+      "Управление": "поворотные переключатели",
+      "Класс энергопотребления (new)": "E",
+      "Потребление энергии в год": "177 кВт*ч",
+      "Климатический класс": "N, ST (+16...+38 °С)",
+      "Класс шумности": "C",
+      "Уровень шума": "40 дБ",
+      "Габариты (ВхШхГ)": "122х50х58 см",
+      "Официальный сайт": "kernau.com",
+      "Дата добавления на E-Katalog": "май 2025",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\kernau_kfrt_12153_w_r\\images\\01.jpg",
+    "missing_refrigerators\\kernau_kfrt_12153_w_r\\images\\02.jpg",
+    "missing_refrigerators\\kernau_kfrt_12153_w_r\\images\\03.jpg",
+    "missing_refrigerators\\kernau_kfrt_12153_w_r\\images\\04.jpg"
+  ]
+}

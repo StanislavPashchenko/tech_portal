@@ -1,0 +1,150 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/GRIFON-DFN-185X.htm",
+    "actual_url": "https://ek.ua/ua/GRIFON-DFN-185X.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Grifon",
+    "model": "DFN-185X нержавіюча сталь",
+    "title": "Холодильник Grifon DFN-185X нержавіюча сталь",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 20
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 310,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 224,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 86,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 17,
+    "freezing_capacity_kg_per_day": 6
+  },
+  "general": {
+    "control": "поворотні перемикачі",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": 292,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 41,
+    "dimensions_cm": {
+      "height": 188.0,
+      "width": 59.5,
+      "depth": 63.0
+    },
+    "weight_kg": 40.0,
+    "country_of_origin": "Китай"
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general",
+      "Ціни на Grifon DFN-185X"
+    ]
+  },
+  "description": "Холодильник Grifon DFN-185X нержавіюча сталь за ціною від 13675 до 19219 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2445275.jpg",
+    "https://mzimg.com/big/g1/hicf7ymkqg1.jpg",
+    "https://mzimg.com/big/r1/hicf7yncmr1.jpg",
+    "https://mzimg.com/big/o1/hicf7yvaqo1.jpg",
+    "https://mzimg.com/big/v1/hicf7yx0cv1.jpg",
+    "https://mzimg.com/big/k1/hicf7z58tk1.jpg",
+    "https://mzimg.com/big/g1/hicf7z60sg1.jpg",
+    "https://mzimg.com/big/v1/hicf7ze2wv1.jpg",
+    "https://mzimg.com/big/d1/hicf7zfmed1.jpg",
+    "https://mzimg.com/big/d1/hicf7zmgdd1.jpg",
+    "https://mzimg.com/big/x1/hicf7zn6ex1.jpg",
+    "https://s.ek.ua/jpg/2445275.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 11": "15 499 грн.",
+      "Click.ua →": "13 675 грн.",
+      "Elmag.ua →": "14 442 грн.",
+      "Tehnomart.com →": "15 499 грн.",
+      "Tehnomaster.com →": "14 576 грн.",
+      "Denika.ua →": "15 499 грн.",
+      "Колір Загальний об'єм 310 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 Функції та можливості Функції перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 224 л Полиць 3 шт Автоматичне розморожування LED освітлення": "травень 2023",
+      "Загальний об'єм": "310 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "Функції": "перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "224 л",
+      "Полиць": "3 шт",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "86 л",
+      "Відділень морозильної камери": "3 шт",
+      "Час збереження холоду": "17 год",
+      "Потужність заморожування": "6 кг/добу",
+      "Управління": "поворотні перемикачі",
+      "Клас енергоспоживання": "A+",
+      "Споживання енергії в рік": "292 кВт*год",
+      "Рівень шуму": "41 дБ",
+      "Габарити (ВхШхГ)": "188x59.5x63 см",
+      "Вага": "40 кг",
+      "Країна виробництва": "Китай",
+      "Офіційний сайт": "grifon.ua",
+      "Дата додавання на E-Katalog": "травень 2023",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    },
+    "Ціни на Grifon DFN-185X": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\grifon_dfn_185x\\images\\01.jpg",
+    "missing_refrigerators\\grifon_dfn_185x\\images\\02.jpg",
+    "missing_refrigerators\\grifon_dfn_185x\\images\\03.jpg",
+    "missing_refrigerators\\grifon_dfn_185x\\images\\04.jpg",
+    "missing_refrigerators\\grifon_dfn_185x\\images\\05.jpg",
+    "missing_refrigerators\\grifon_dfn_185x\\images\\06.jpg",
+    "missing_refrigerators\\grifon_dfn_185x\\images\\07.jpg",
+    "missing_refrigerators\\grifon_dfn_185x\\images\\08.jpg",
+    "missing_refrigerators\\grifon_dfn_185x\\images\\09.jpg",
+    "missing_refrigerators\\grifon_dfn_185x\\images\\10.jpg",
+    "missing_refrigerators\\grifon_dfn_185x\\images\\11.jpg",
+    "missing_refrigerators\\grifon_dfn_185x\\images\\12.jpg"
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/MPM-434-SBF-17-D.htm",
+    "actual_url": "https://ek.ua/en/MPM-434-SBF-17-D.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "MPM",
+    "model": "434-SBF-17/D black",
+    "title": "MPM 434-SBF-17/D black",
+    "category": "E-Katalog category 200",
+    "year": 224,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 5
+  },
+  "summary": {
+    "type": "French door",
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 6,
+    "sections_details": "6 / 4 drawers, 2 shelves /",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "external touch controls",
+    "energy_class_new": "D",
+    "annual_energy_consumption_kwh": 224,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 180.0,
+      "width": 79.0,
+      "depth": 70.0
+    },
+    "weight_kg": 88.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general",
+      "Price for MPM 434-SBF-17/D"
+    ]
+  },
+  "description": "Fridge MPM 434-SBF-17/D black at a price from 33214 to 46823 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/3033929.jpg",
+    "https://mzimg.com/big/h1/i9pekebj5h1.jpg",
+    "https://mzimg.com/big/i1/i9pejaakqi1.jpg",
+    "https://s.ek.ua/jpg/3033929.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Elmag.ua →": "33 549 ₴",
+      "Tehnomaster.com →": "46 823 ₴",
+      "Colour Type French door Total capacity 421 L Number of chambers 3 Number of cooling circuits 2 Number of compressors 1 No Frost freezer / refrigerator compartments Features Features holiday mode child lock LED display door alarm More features glass door panel hidden door handles Refrigeration chamber Refrigerator capacity 271 L Number of shelves 3 Storage compartments fresh zone humidity zone bottle rack Dynamic air cooling Auto-defrost LED lighting": "January 2026",
+      "Type": "French door",
+      "Total capacity": "421 L",
+      "Number of chambers": "3",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "holiday mode child lock LED display door alarm",
+      "More features": "glass door panel hidden door handles",
+      "Refrigerator capacity": "271 L",
+      "Number of shelves": "3",
+      "Storage compartments": "fresh zone humidity zone bottle rack",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "150 L",
+      "Freezer drawers": "6 / 4 drawers, 2 shelves /",
+      "Freezer temperature": "-22 °C",
+      "Autonomy time": "15 h",
+      "Freeze capacity": "10 kg/day",
+      "Controls": "external touch controls",
+      "Energy class (new)": "D",
+      "Energy consumption per year": "224 kWh",
+      "Climate class": "SN, N, ST (+10...+38 °С)",
+      "Noise class": "C",
+      "Noise level": "39 dB",
+      "Dimensions (HxWxD)": "180х79х70 cm",
+      "Weight": "88 kg",
+      "Official Website": "mpm.pl",
+      "Added to E-Catalog": "January 2026",
+      "LED lighting": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    },
+    "Price for MPM 434-SBF-17/D": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\mpm_434_sbf_17_d\\images\\01.jpg",
+    "missing_refrigerators\\mpm_434_sbf_17_d\\images\\02.jpg",
+    "missing_refrigerators\\mpm_434_sbf_17_d\\images\\03.jpg",
+    "missing_refrigerators\\mpm_434_sbf_17_d\\images\\04.jpg"
+  ]
+}

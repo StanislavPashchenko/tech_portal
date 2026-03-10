@@ -1,0 +1,132 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/MPM-215-KB-39.htm",
+    "actual_url": "https://ek.ua/en/MPM-215-KB-39.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "MPM",
+    "model": "215-KB-39 stainless steel",
+    "title": "MPM 215-KB-39 stainless steel",
+    "category": "E-Katalog category 200",
+    "year": 256,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knobs",
+    "energy_class_new": "F",
+    "annual_energy_consumption_kwh": 256,
+    "climate_class": [
+      "N"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 150.0,
+      "width": 55.0,
+      "depth": 58.0
+    },
+    "weight_kg": 44.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "A simple and relatively inexpensive full-size two-chamber household refrigerator with an exclusively classic set of functions and capabilities. The model was introduced to the market by the MPM brand in 2023. This is a two-door model with a total useful volume of 207 liters. The 69-liter freezer is located below. It has three containers with a transparent front wall, the minimum freezing temperature reaches -18 ° C. The cooling zone has 138 liters of free space and is equipped with three shelves, an additional pull-out container and three more door trays. LED backlighting is provided. The MPM 215-KB-39 refrigerator uses an automatic defrosting system. A traditional push-button control unit is used to set the cooling temperature. The compressor system makes noise at a level of no more than 40 W. The annual energy consumption of the model reaches 256 kW * h. If necessary, you can change the direction of the door leaves, you just need to rehang the hinges. The door leaf handles have a hidden design.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2411282.jpg",
+    "https://mzimg.com/big/91/hcb3e4z8291.jpg",
+    "https://s.ek.ua/jpg/2411282.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Xfrost.net.ua →": "12 999 ₴",
+      "Цифра →": "12 670 ₴",
+      "Itbox.ua →": "12 741 ₴",
+      "Brain.com.ua →": "12 999 ₴",
+      "ТЕХНОточка →": "13 460 ₴",
+      "Colour Total capacity 207 L Number of chambers 2 Number of cooling circuits 1 Number of compressors 1 Features Features reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 138 L Number of shelves 3 Auto-defrost LED lighting Freezer chamber Freezer compartment bottom Freezer capacity 69 L Freezer drawers 3 Freezer temperature -18 °C Freeze capacity 3.2 kg/day": "March 2023",
+      "Total capacity": "207 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "Features": "reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "138 L",
+      "Number of shelves": "3",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "69 L",
+      "Freezer drawers": "3",
+      "Freezer temperature": "-18 °C",
+      "Freeze capacity": "3.2 kg/day",
+      "Controls": "rotary knobs",
+      "Energy class (new)": "F",
+      "Energy consumption per year": "256 kWh",
+      "Climate class": "normal N (+16...+32 °С)",
+      "Noise class": "C",
+      "Noise level": "40 dB",
+      "Dimensions (HxWxD)": "150x55x58 cm",
+      "Weight": "44 kg",
+      "Official Website": "mpm.pl",
+      "Added to E-Catalog": "March 2023",
+      "LED lighting": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\mpm_215_kb_39\\images\\01.jpg",
+    "missing_refrigerators\\mpm_215_kb_39\\images\\02.jpg",
+    "missing_refrigerators\\mpm_215_kb_39\\images\\03.jpg"
+  ]
+}

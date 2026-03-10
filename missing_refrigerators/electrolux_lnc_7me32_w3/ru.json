@@ -1,0 +1,141 @@
+{
+  "source": {
+    "url": "https://ek.ua/ELECTROLUX-LNC-7ME32-W3.htm",
+    "actual_url": "https://ek.ua/ELECTROLUX-LNC-7ME32-W3.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Electrolux",
+    "model": "LNC 7ME32 W3 белый",
+    "title": "Холодильник Electrolux LNC 7ME32 W3 белый",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 3
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 331,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 230,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 101,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 18,
+    "freezing_capacity_kg_per_day": 8
+  },
+  "general": {
+    "control": "сенсорное внешнее",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 250,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 38,
+    "dimensions_cm": {
+      "height": 186.0,
+      "width": 59.5,
+      "depth": 65.0
+    },
+    "weight_kg": 69.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general",
+      "Цены на Electrolux LNC 7ME32 W3"
+    ]
+  },
+  "description": "Холодильник Electrolux LNC 7ME32 W3 белый по цене от 29700 до 29824 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2469544.jpg",
+    "https://mzimg.com/big/s1/hewvy1ic5s1.jpg",
+    "https://mzimg.com/big/i1/hewvy1k8xi1.jpg",
+    "https://mzimg.com/big/z1/hewvy1thkz1.jpg",
+    "https://mzimg.com/big/x1/hewvy1vsbx1.jpg",
+    "https://mzimg.com/big/u1/hewvy23cwu1.jpg",
+    "https://mzimg.com/big/e1/hewvy25y6e1.jpg",
+    "https://s.ek.ua/jpg/2469544.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 7": "29 824 грн.",
+      "Hi-tech.com.ua →": "29 824 грн.",
+      "Цвет Общий объем 331 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 No Frost морозильная / холодильная камеры Функции и возможности Функции режим отпуска LED дисплей перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 230 л Полок 3 шт Отсеки для хранения зона свежести зона влажности Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "июнь 2023",
+      "Общий объем": "331 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "режим отпуска LED дисплей перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "230 л",
+      "Полок": "3 шт",
+      "Отсеки для хранения": "зона свежести зона влажности",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "101 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Время сохранения холода": "18 ч",
+      "Мощность замораживания": "7.7 кг/сутки",
+      "Управление": "сенсорное внешнее",
+      "Класс энергопотребления (new)": "E",
+      "Потребление энергии в год": "250 кВт*ч",
+      "Класс шумности": "C",
+      "Уровень шума": "38 дБ",
+      "Габариты (ВхШхГ)": "186x59.5x65 см",
+      "Вес": "69 кг",
+      "Дата добавления на E-Katalog": "июнь 2023",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    },
+    "Цены на Electrolux LNC 7ME32 W3": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\electrolux_lnc_7me32_w3\\images\\01.jpg",
+    "missing_refrigerators\\electrolux_lnc_7me32_w3\\images\\02.jpg",
+    "missing_refrigerators\\electrolux_lnc_7me32_w3\\images\\03.jpg",
+    "missing_refrigerators\\electrolux_lnc_7me32_w3\\images\\04.jpg",
+    "missing_refrigerators\\electrolux_lnc_7me32_w3\\images\\05.jpg",
+    "missing_refrigerators\\electrolux_lnc_7me32_w3\\images\\06.jpg",
+    "missing_refrigerators\\electrolux_lnc_7me32_w3\\images\\07.jpg",
+    "missing_refrigerators\\electrolux_lnc_7me32_w3\\images\\08.jpg"
+  ]
+}

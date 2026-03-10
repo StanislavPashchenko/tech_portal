@@ -1,0 +1,153 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/BEKO-B5RCNA-406-HXBR1.htm",
+    "actual_url": "https://ek.ua/ua/BEKO-B5RCNA-406-HXBR1.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Beko",
+    "model": "B5RCNA 406 HXBR1 графіт",
+    "title": "Холодильник Beko B5RCNA 406 HXBR1 графіт",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 355,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": false,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 216,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 106,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 11,
+    "freezing_capacity_kg_per_day": 6
+  },
+  "general": {
+    "control": "сенсорне внутрішнє",
+    "energy_class_new": "C",
+    "annual_energy_consumption_kwh": 170,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 35,
+    "dimensions_cm": {
+      "height": 203.5,
+      "width": 59.5,
+      "depth": 66.3
+    },
+    "weight_kg": 76.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Beko B5RCNA 406 HXBR1 графіт за ціною від 35114 до 35114 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2876915.jpg",
+    "https://mzimg.com/big/71/i0887ps5w71.jpg",
+    "https://mzimg.com/big/81/i0887pt2h81.jpg",
+    "https://mzimg.com/big/p1/i0887q2gvp1.jpg",
+    "https://mzimg.com/big/a1/i0887q5lqa1.jpg",
+    "https://mzimg.com/big/d1/i0887qf0nd1.jpg",
+    "https://mzimg.com/big/j1/i0887qjsgj1.jpg",
+    "https://mzimg.com/big/m1/i0887qt3sm1.jpg",
+    "https://mzimg.com/big/81/i0887r14a81.jpg",
+    "https://mzimg.com/big/61/i0887r9br61.jpg",
+    "https://s.ek.ua/jpg/2876915.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 10": "від 35 114 грн. Купити! Холодильник Beko bPro500 B5RCNA406HXBR1 Full No Frost 203,5 см Dark Inox B5RCNA46B1 Novateh.com.ua Менше року Доставка: у Дніпро з Новояворівська Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 355 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 Інверторний компресор No Frost морозильна камера Функції та можливості Функції режим відпустки захист від дітей LED дисплей індикатор закриття дверцят перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 216 л Полиць 4 шт Відсіки для зберігання зона свіжості Зона свіжості (нульова камера) 33 л Динамічне охолодження Автоматичне розморожування LED освітлення": "квітень 2025",
+      "Загальний об'єм": "355 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна камера",
+      "Функції": "режим відпустки захист від дітей LED дисплей індикатор закриття дверцят перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "216 л",
+      "Полиць": "4 шт",
+      "Відсіки для зберігання": "зона свіжості",
+      "Зона свіжості (нульова камера)": "33 л",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "106 л",
+      "Відділень морозильної камери": "3 шт",
+      "Температура морозилки": "-24 °C",
+      "Час збереження холоду": "11 год",
+      "Потужність заморожування": "6 кг/добу",
+      "Управління": "сенсорне внутрішнє",
+      "Клас енергоспоживання (new)": "C",
+      "Споживання енергії в рік": "170 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Клас гучності": "B",
+      "Рівень шуму": "35 дБ",
+      "Габарити (ВхШхГ)": "203.5х59.5х66.3 см",
+      "Вага": "76 кг",
+      "Офіційний сайт": "beko.com",
+      "Дата додавання на E-Katalog": "квітень 2025",
+      "Інверторний компресор": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\beko_b5rcna_406_hxbr1\\images\\01.jpg",
+    "missing_refrigerators\\beko_b5rcna_406_hxbr1\\images\\02.jpg",
+    "missing_refrigerators\\beko_b5rcna_406_hxbr1\\images\\03.jpg",
+    "missing_refrigerators\\beko_b5rcna_406_hxbr1\\images\\04.jpg",
+    "missing_refrigerators\\beko_b5rcna_406_hxbr1\\images\\05.jpg",
+    "missing_refrigerators\\beko_b5rcna_406_hxbr1\\images\\06.jpg",
+    "missing_refrigerators\\beko_b5rcna_406_hxbr1\\images\\07.jpg",
+    "missing_refrigerators\\beko_b5rcna_406_hxbr1\\images\\08.jpg",
+    "missing_refrigerators\\beko_b5rcna_406_hxbr1\\images\\09.jpg",
+    "missing_refrigerators\\beko_b5rcna_406_hxbr1\\images\\10.jpg",
+    "missing_refrigerators\\beko_b5rcna_406_hxbr1\\images\\11.jpg"
+  ]
+}

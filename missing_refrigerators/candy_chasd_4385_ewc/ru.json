@@ -1,0 +1,135 @@
+{
+  "source": {
+    "url": "https://ek.ua/CANDY-CHASD-4385-EWC.htm",
+    "actual_url": "https://ek.ua/CANDY-CHASD-4385-EWC.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Candy",
+    "model": "CHASD 4385 EWC белый (34005389)",
+    "title": "Холодильник Candy CHASD 4385 EWC белый (34005389)",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 90,
+    "cameras_count": 1,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 90,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "отсутствует",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 85,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 37,
+    "dimensions_cm": {
+      "height": 85.0,
+      "width": 44.5,
+      "depth": 47.5
+    },
+    "weight_kg": 21.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general",
+      "Цены на Candy CHASD 4385 EWC"
+    ]
+  },
+  "description": "Холодильник Candy CHASD 4385 EWC белый (34005389) по цене от 7142 до 8178 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2875483.jpg",
+    "https://mzimg.com/big/s1/i01epje3ps1.jpg",
+    "https://mzimg.com/big/81/i01epjf1381.jpg",
+    "https://mzimg.com/big/11/hqtv04q5g11.jpg",
+    "https://mzimg.com/big/h1/hqtv04qs5h1.jpg",
+    "https://mzimg.com/big/u1/hqtv053fxu1.jpg",
+    "https://s.ek.ua/jpg/2875483.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Tendo.com.ua →": "7 142 грн.",
+      "Цвет Общий объем 90 л Количество камер 1 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 90 л Полок 3 шт Автоматическая разморозка": "34005389",
+      "Общий объем": "90 л",
+      "Количество камер": "1",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "90 л",
+      "Полок": "3 шт",
+      "Морозильная камера": "отсутствует",
+      "Управление": "поворотные переключатели",
+      "Класс энергопотребления (new)": "E",
+      "Потребление энергии в год": "85 кВт*ч",
+      "Климатический класс": "SN, N, ST (+10...+38 °С)",
+      "Класс шумности": "C",
+      "Уровень шума": "37 дБ",
+      "Габариты (ВхШхГ)": "85х44.5х47.5 см",
+      "Вес": "21 кг",
+      "Официальный сайт": "candy-home.com",
+      "Дата добавления на E-Katalog": "апрель 2025",
+      "Маркировка производителя": "34005389",
+      "Автоматическая разморозка": "да"
+    },
+    "Цены на Candy CHASD 4385 EWC": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\candy_chasd_4385_ewc\\images\\01.jpg",
+    "missing_refrigerators\\candy_chasd_4385_ewc\\images\\02.jpg",
+    "missing_refrigerators\\candy_chasd_4385_ewc\\images\\03.jpg",
+    "missing_refrigerators\\candy_chasd_4385_ewc\\images\\04.jpg",
+    "missing_refrigerators\\candy_chasd_4385_ewc\\images\\05.jpg",
+    "missing_refrigerators\\candy_chasd_4385_ewc\\images\\06.jpg",
+    "missing_refrigerators\\candy_chasd_4385_ewc\\images\\07.jpg"
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/BOSCH-KGN392LDFG.htm",
+    "actual_url": "https://ek.ua/en/BOSCH-KGN392LDFG.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Bosch",
+    "model": "KGN392LDFG silver",
+    "title": "Bosch KGN392LDFG silver",
+    "category": "E-Katalog category 200",
+    "year": 203,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "internal touch controls",
+    "energy_class_new": "D",
+    "annual_energy_consumption_kwh": 203,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 60.0,
+      "depth": 66.5
+    },
+    "weight_kg": 70.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "A two-compartment, dual-circuit refrigerator from the brand Bosch is an advanced class solution with a useful capacity of 363 liters. The appliance is suitable for medium and some large families, featuring standard dimensions of 203x60x66.5 cm. The model features internal sensor control with an intuitive selection of temperature modes and the ability to activate additional options, including rapid cooling or freezing. The unit belongs to the Full No Frost category of devices, meaning that in both compartments, a fan ensures air circulation and removes excess moisture, eliminating the need for manual defrosting. The Bosch KGN392LDFG refrigerator includes a 103-liter freezer compartment optimally placed at the bottom of the body. Here, there are three pull-out transparent boxes and an included ice tray. The freezing capacity is 10 kg per day, and the autonomous cold preservation period (during power issues) lasts up to 15 hours. In the 260-liter fridge compartment, there are four open sections, a suspended bottle shelf, and two VitaFresh drawers, including a container for vegetables and fruits, as well as a fresh zone where the temperature is maintained at around 0 degrees Celsius (primarily recommended for meat and fish). Worth special mention is the inverter compressor, which enhances the accuracy of temperature settings, is more reliable, quieter (with a noise level of up to 35 dB in this case), and more economical — class D with a consumption of 203 kWh.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2410860.jpg",
+    "https://mzimg.com/big/21/hca1zk56o21.jpg",
+    "https://mzimg.com/big/s1/hca1zk8jis1.jpg",
+    "https://mzimg.com/big/s1/hca1zkf0ms1.jpg",
+    "https://mzimg.com/big/11/hca1zklay11.jpg",
+    "https://mzimg.com/big/j1/hca1zkqpwj1.jpg",
+    "https://mzimg.com/big/o1/hca1zkusfo1.jpg",
+    "https://mzimg.com/big/t1/hca1zl1v3t1.jpg",
+    "https://s.ek.ua/jpg/2410860.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 8": "39 897 ₴ Buy! Холодильник з морозильною камерою Bosch KGN392LDF Denika.ua With us more than 10 years Delivery: to Dnipro from Kharkiv Warranty: 12 month Report add to list my lists add to comparison",
+      "Colour Total capacity 363 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 No Frost freezer / refrigerator compartments Features Features door alarm reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 260 L Number of shelves 4 Storage compartments fresh zone bottle rack Fast cool Dynamic air cooling Auto-defrost LED lighting": "March 2023",
+      "Total capacity": "363 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "door alarm reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "260 L",
+      "Number of shelves": "4",
+      "Storage compartments": "fresh zone bottle rack",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "103 L",
+      "Freezer drawers": "3",
+      "Freezer temperature": "-24 °C",
+      "Autonomy time": "15 h",
+      "Freeze capacity": "10 kg/day",
+      "Controls": "internal touch controls",
+      "Energy class (new)": "D",
+      "Energy consumption per year": "203 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Noise class": "B",
+      "Noise level": "35 dB",
+      "Dimensions (HxWxD)": "203x60x66.5 cm",
+      "Weight": "70 kg",
+      "Official Website": "bosch-home.co.uk",
+      "Added to E-Catalog": "March 2023",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\bosch_kgn392ldfg\\images\\01.jpg",
+    "missing_refrigerators\\bosch_kgn392ldfg\\images\\02.jpg",
+    "missing_refrigerators\\bosch_kgn392ldfg\\images\\03.jpg",
+    "missing_refrigerators\\bosch_kgn392ldfg\\images\\04.jpg",
+    "missing_refrigerators\\bosch_kgn392ldfg\\images\\05.jpg",
+    "missing_refrigerators\\bosch_kgn392ldfg\\images\\06.jpg",
+    "missing_refrigerators\\bosch_kgn392ldfg\\images\\07.jpg",
+    "missing_refrigerators\\bosch_kgn392ldfg\\images\\08.jpg",
+    "missing_refrigerators\\bosch_kgn392ldfg\\images\\09.jpg"
+  ]
+}

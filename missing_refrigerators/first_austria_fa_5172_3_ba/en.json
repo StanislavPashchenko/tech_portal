@@ -1,0 +1,128 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/FIRST-AUSTRIA-FA-5172-3-BA.htm",
+    "actual_url": "https://ek.ua/en/FIRST-AUSTRIA-FA-5172-3-BA.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "FIRST",
+    "model": "Austria FA-5172-3-BA black",
+    "title": "FIRST Austria FA-5172-3-BA black",
+    "category": "E-Katalog category 200",
+    "year": 77,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 2
+  },
+  "freezer_compartment": {
+    "location": "in absent",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knobs",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 77,
+    "climate_class": [
+      "N"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 56.2,
+      "width": 41.0,
+      "depth": 44.5
+    },
+    "weight_kg": 13.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge FIRST Austria FA-5172-3-BA black at a price from 8840 to 8840 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2970302.jpg",
+    "https://mzimg.com/big/o1/i5r6y930do1.jpg",
+    "https://mzimg.com/big/y1/i5r6y93lty1.jpg",
+    "https://mzimg.com/big/61/i5r6y9eri61.jpg",
+    "https://mzimg.com/big/z1/i5r6y9ipaz1.jpg",
+    "https://s.ek.ua/jpg/2970302.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 5": "8 840 ₴ Buy! Холодильник-мінібар ретро FIRST Austria FA-5172-3 (564043) компресор TU-FA-5172-3 Tehnopostavka.com.ua 5 year with us Delivery: to Dnipro from Odesa Report add to list my lists add to comparison 890 zł 9 968 ₴ 160 £ 8 824 ₴",
+      "Colour Total capacity 34 L Number of chambers 1 Number of cooling circuits 1 Number of compressors 1 Features More features retro design Refrigeration chamber Refrigerator capacity 34 L Number of shelves 2 LED lighting": "September 2025",
+      "Total capacity": "34 L",
+      "Number of chambers": "1",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "More features": "retro design",
+      "Refrigerator capacity": "34 L",
+      "Number of shelves": "2",
+      "Freezer compartment": "in absent",
+      "Controls": "rotary knobs",
+      "Energy class (new)": "E",
+      "Energy consumption per year": "77 kWh",
+      "Climate class": "normal N (+16...+32 °С)",
+      "Noise class": "A",
+      "Noise level": "22 dB",
+      "Dimensions (HxWxD)": "56.2x41x44.5 cm",
+      "Weight": "13 kg",
+      "Official Website": "firstaustria.com",
+      "Added to E-Catalog": "September 2025",
+      "LED lighting": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\first_austria_fa_5172_3_ba\\images\\01.jpg",
+    "missing_refrigerators\\first_austria_fa_5172_3_ba\\images\\02.jpg",
+    "missing_refrigerators\\first_austria_fa_5172_3_ba\\images\\03.jpg",
+    "missing_refrigerators\\first_austria_fa_5172_3_ba\\images\\04.jpg",
+    "missing_refrigerators\\first_austria_fa_5172_3_ba\\images\\05.jpg",
+    "missing_refrigerators\\first_austria_fa_5172_3_ba\\images\\06.jpg"
+  ]
+}

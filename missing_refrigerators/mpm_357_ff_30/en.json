@@ -1,0 +1,129 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/MPM-357-FF-30.htm",
+    "actual_url": "https://ek.ua/en/MPM-357-FF-30.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "MPM",
+    "model": "357-FF-30 stainless steel",
+    "title": "MPM 357-FF-30 stainless steel",
+    "category": "E-Katalog category 200",
+    "year": 2021,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "external touch controls",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": null,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 41,
+    "dimensions_cm": {
+      "height": 185.0,
+      "width": 60.0,
+      "depth": 69.0
+    },
+    "weight_kg": 74.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge MPM 357-FF-30 stainless steel at a price from 24706 to 24706 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2055888.jpg",
+    "https://mzimg.com/big/j1/gsjxwgvzfj1.jpg",
+    "https://mzimg.com/big/f1/gsjxwgyzrf1.jpg",
+    "https://s.ek.ua/jpg/2055888.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 3": "from 24 706 ₴ Buy! Холодильник MPM 357-FF-30/AA Full No Frost 185cm Dark Inox MPM357F30A Novateh.com.ua Less than year Delivery: to Dnipro from Novoyavorivsk Report add to list my lists add to comparison",
+      "Colour Total capacity 315 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 No Frost freezer / refrigerator compartments Features Features holiday mode child lock LED display reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 218 L Number of shelves 3 Storage compartments fresh zone Dynamic air cooling Auto-defrost LED lighting": "July 2021",
+      "Total capacity": "315 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "holiday mode child lock LED display reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "218 L",
+      "Number of shelves": "3",
+      "Storage compartments": "fresh zone",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "97 L",
+      "Freezer drawers": "3",
+      "Freezer temperature": "-18 °C",
+      "Autonomy time": "20 h",
+      "Freeze capacity": "15 kg/day",
+      "Controls": "external touch controls",
+      "Energy class": "A+",
+      "Noise level": "41 dB",
+      "Dimensions (HxWxD)": "185x60x69 cm",
+      "Weight": "74 kg",
+      "Official Website": "mpm.pl",
+      "Added to E-Catalog": "July 2021",
+      "LED lighting": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\mpm_357_ff_30\\images\\01.jpg",
+    "missing_refrigerators\\mpm_357_ff_30\\images\\02.jpg",
+    "missing_refrigerators\\mpm_357_ff_30\\images\\03.jpg",
+    "missing_refrigerators\\mpm_357_ff_30\\images\\04.jpg"
+  ]
+}

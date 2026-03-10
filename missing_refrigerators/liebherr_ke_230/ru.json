@@ -1,0 +1,129 @@
+{
+  "source": {
+    "url": "https://ek.ua/LIEBHERR-KE-230.htm",
+    "actual_url": "https://ek.ua/LIEBHERR-KE-230.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liebherr",
+    "model": "Ke 230 белый",
+    "title": "Холодильник Liebherr Ke 230 белый",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 214,
+    "cameras_count": 1,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 214,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "отсутствует",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": null,
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 101,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 38,
+    "dimensions_cm": {
+      "height": 114.0,
+      "width": 55.0,
+      "depth": 63.0
+    },
+    "weight_kg": 42.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Liebherr Ke 230 белый по цене от 23401 до 29761 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2697341.jpg",
+    "https://mzimg.com/big/61/hq44mtoox61.jpg",
+    "https://mzimg.com/big/i1/hq44mtqari1.jpg",
+    "https://mzimg.com/big/61/hq44mu6ai61.jpg",
+    "https://s.ek.ua/jpg/2697341.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Semtech.com.ua →": "26 007 грн.",
+      "Цвет Общий объем 214 л Количество камер 1 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Функции перевешивание дверей Холодильное отделение Объем холодильной камеры 214 л Полок 4 шт Отсеки для хранения полка для бутылок Автоматическая разморозка LED освещение": "май 2024",
+      "Общий объем": "214 л",
+      "Количество камер": "1",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Функции": "перевешивание дверей",
+      "Объем холодильной камеры": "214 л",
+      "Полок": "4 шт",
+      "Отсеки для хранения": "полка для бутылок",
+      "Морозильная камера": "отсутствует",
+      "Класс энергопотребления (new)": "E",
+      "Потребление энергии в год": "101 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Класс шумности": "C",
+      "Уровень шума": "38 дБ",
+      "Габариты (ВхШхГ)": "114x55x63 см",
+      "Вес": "42 кг",
+      "Дата добавления на E-Katalog": "май 2024",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\liebherr_ke_230\\images\\01.jpg",
+    "missing_refrigerators\\liebherr_ke_230\\images\\02.jpg",
+    "missing_refrigerators\\liebherr_ke_230\\images\\03.jpg",
+    "missing_refrigerators\\liebherr_ke_230\\images\\04.jpg",
+    "missing_refrigerators\\liebherr_ke_230\\images\\05.jpg"
+  ]
+}

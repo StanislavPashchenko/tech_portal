@@ -1,0 +1,140 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/GORENJE-ONRK-193-R.htm",
+    "actual_url": "https://ek.ua/en/GORENJE-ONRK-193-R.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Gorenje",
+    "model": "ONRK 193 R burgundy",
+    "title": "Gorenje ONRK 193 R burgundy",
+    "category": "E-Katalog category 200",
+    "year": 168,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "internal touch controls",
+    "energy_class_new": "A+++",
+    "annual_energy_consumption_kwh": 168,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 38,
+    "dimensions_cm": {
+      "height": 194.0,
+      "width": 60.0,
+      "depth": 67.0
+    },
+    "weight_kg": 71.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Gorenje ONRK 193 R burgundy at a price from 70994 to 70994 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1217089.jpg",
+    "https://mzimg.com/big/11/fk3tzahev11.jpg",
+    "https://mzimg.com/big/y1/fk3tzb0pqy1.jpg",
+    "https://mzimg.com/big/v1/fk3tzbdikv1.jpg",
+    "https://mzimg.com/big/n1/fk3tzbxfon1.jpg",
+    "https://s.ek.ua/jpg/1217089.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 5": "70 994 ₴ Buy! Холодильник Gorenje ONRK193R inSale.com.ua Less than year Delivery: to Dnipro from Kyiv Warranty: 12 month Report add to list my lists add to comparison",
+      "Colour Total capacity 307 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 No Frost freezer / refrigerator compartments Features Features LED display door alarm More features retro design Refrigeration chamber Refrigerator capacity 222 L Storage compartments fresh zone humidity zone bottle rack Fast cool Dynamic air cooling Auto-defrost Deodorizer LED lighting": "October 2017",
+      "Total capacity": "307 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "LED display door alarm",
+      "More features": "retro design",
+      "Refrigerator capacity": "222 L",
+      "Storage compartments": "fresh zone humidity zone bottle rack",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "85 L",
+      "Freezer temperature": "-24 °C",
+      "Autonomy time": "18 h",
+      "Freeze capacity": "8 kg/day",
+      "Controls": "internal touch controls",
+      "Energy class": "A+++",
+      "Energy consumption per year": "168 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Noise level": "38 dB",
+      "Dimensions (HxWxD)": "194x60x67 cm",
+      "Weight": "71 kg",
+      "Official Website": "gorenje.ua",
+      "Added to E-Catalog": "October 2017",
+      "LED lighting": "yes",
+      "Deodorizer": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\gorenje_onrk_193_r\\images\\01.jpg",
+    "missing_refrigerators\\gorenje_onrk_193_r\\images\\02.jpg",
+    "missing_refrigerators\\gorenje_onrk_193_r\\images\\03.jpg",
+    "missing_refrigerators\\gorenje_onrk_193_r\\images\\04.jpg",
+    "missing_refrigerators\\gorenje_onrk_193_r\\images\\05.jpg",
+    "missing_refrigerators\\gorenje_onrk_193_r\\images\\06.jpg"
+  ]
+}

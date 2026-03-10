@@ -1,0 +1,153 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/LG-GB-V7280DPY.htm",
+    "actual_url": "https://ek.ua/ua/LG-GB-V7280DPY.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "LG",
+    "model": "GB-V7280DPY сріблястий",
+    "title": "Холодильник LG GB-V7280DPY сріблястий",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 387,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": false,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 233,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 110,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "сенсорне внутрішнє",
+    "energy_class_new": "D",
+    "annual_energy_consumption_kwh": 217,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 35,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 59.5,
+      "depth": 68.2
+    },
+    "weight_kg": 78.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник LG GB-V7280DPY сріблястий за ціною від 29925 до 37716 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2535756.jpg",
+    "https://mzimg.com/big/l1/hhxm8zni6l1.jpg",
+    "https://mzimg.com/big/a1/hhxm8zpz4a1.jpg",
+    "https://mzimg.com/big/51/hhxm8zzle51.jpg",
+    "https://mzimg.com/big/r1/hhxm901qvr1.jpg",
+    "https://mzimg.com/big/w1/hhxm909r3w1.jpg",
+    "https://mzimg.com/big/11/hhxm90ina11.jpg",
+    "https://mzimg.com/big/d1/hhxm90mzqd1.jpg",
+    "https://mzimg.com/big/o1/hhxm90u20o1.jpg",
+    "https://mzimg.com/big/11/hhxm90xzw11.jpg",
+    "https://mzimg.com/big/q1/hhxm915roq1.jpg",
+    "https://mzimg.com/big/91/hhxm919sf91.jpg",
+    "https://s.ek.ua/jpg/2535756.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Luxmedia.com.ua →": "30 000 грн.",
+      "TEHNOS.UA →": "32 783 грн.",
+      "Smartmag.biz.ua →": "37 716 грн.",
+      "inSale.com.ua →": "31 793 грн.",
+      "Колір Загальний об'єм 387 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 Інверторний компресор No Frost морозильна / холодильна камери Функції та можливості Функції індикатор закриття дверцят перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 233 л Полиць 4 шт Складана полиця Відсіки для зберігання зона свіжості зона вологості полиця для пляшок Зона свіжості (нульова камера) 44 л Швидке охолодження Динамічне охолодження Автоматичне розморожування LED освітлення": "вересень 2023",
+      "Загальний об'єм": "387 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "індикатор закриття дверцят перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "233 л",
+      "Полиць": "4 шт",
+      "Відсіки для зберігання": "зона свіжості зона вологості полиця для пляшок",
+      "Зона свіжості (нульова камера)": "44 л",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "110 л",
+      "Відділень морозильної камери": "3 шт",
+      "Температура морозилки": "-23 °C",
+      "Управління": "сенсорне внутрішнє",
+      "Клас енергоспоживання (new)": "D",
+      "Споживання енергії в рік": "217 кВт*год",
+      "Клас гучності": "B",
+      "Рівень шуму": "35 дБ",
+      "Габарити (ВхШхГ)": "203x59.5x68.2 см",
+      "Вага": "78 кг",
+      "Офіційний сайт": "lg.com",
+      "Дата додавання на E-Katalog": "вересень 2023",
+      "Інверторний компресор": "так",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\lg_gb_v7280dpy\\images\\01.jpg",
+    "missing_refrigerators\\lg_gb_v7280dpy\\images\\02.jpg",
+    "missing_refrigerators\\lg_gb_v7280dpy\\images\\03.jpg",
+    "missing_refrigerators\\lg_gb_v7280dpy\\images\\04.jpg",
+    "missing_refrigerators\\lg_gb_v7280dpy\\images\\05.jpg",
+    "missing_refrigerators\\lg_gb_v7280dpy\\images\\06.jpg",
+    "missing_refrigerators\\lg_gb_v7280dpy\\images\\07.jpg",
+    "missing_refrigerators\\lg_gb_v7280dpy\\images\\08.jpg",
+    "missing_refrigerators\\lg_gb_v7280dpy\\images\\09.jpg",
+    "missing_refrigerators\\lg_gb_v7280dpy\\images\\10.jpg",
+    "missing_refrigerators\\lg_gb_v7280dpy\\images\\11.jpg",
+    "missing_refrigerators\\lg_gb_v7280dpy\\images\\12.jpg",
+    "missing_refrigerators\\lg_gb_v7280dpy\\images\\13.jpg"
+  ]
+}

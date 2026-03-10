@@ -1,0 +1,142 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/BOSCH-KGN86AI30.htm",
+    "actual_url": "https://ek.ua/ua/BOSCH-KGN86AI30.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Bosch",
+    "model": "KGN86AI30 нержавіюча сталь",
+    "title": "Холодильник Bosch KGN86AI30 нержавіюча сталь",
+    "category": "E-Katalog category 200",
+    "year": 2017,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 619,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 479,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 140,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 30,
+    "freezing_capacity_kg_per_day": 20
+  },
+  "general": {
+    "control": "сенсорне зовнішнє",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 378,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 42,
+    "dimensions_cm": {
+      "height": 186.0,
+      "width": 86.0,
+      "depth": 81.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Двокамерний холодильник, представляє лінійку комфорт-класу 6 Serie компанії Bosch, належить до моделей із збільшеною шириною корпусу (86 см), що робить її оптимальним вибором для просторих кухонь і великих сімей. Корисний об'єм приладу досягає 619 літрів, з яких 140 л припадають на морозилку. Остання передбачає два висувні ящики різних розмірів, характеризується потужним заморожуванням (до 20 кг за добу) і тривалим збереженням холоду при перебої електроенергії (до 30 годин). 479-літрова холодильна камера отримала 4 відкритих полиці і четвірку висувних ящиків зони свіжості VitaFresh plus, де можна зберігати різні продукти, починаючи від риби або м'яса і закінчуючи овочами та фруктами. Для зручності управління і контролю температури у холодильнику Bosch KGN86AI30 передбачено два контуру охолодження і зовнішня сенсорна панель. Тут можна увімкнути швидке заморожування або охолодження, активувати режим відпустки або заблокувати органи управління для захисту від дітей. До інших особливостей відноситься система автоматичного розморожування Full No Frost, економне енергоспоживання клас A++), а також помірна гучність (до 42 дБ).",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1087736.jpg",
+    "https://mzimg.com/big/y1/fmpy61y2ey1.jpg",
+    "https://mzimg.com/big/g1/gi3216xwbg1.jpg",
+    "https://mzimg.com/big/31/gi3216z3231.jpg",
+    "https://mzimg.com/big/e1/gi3217b1ke1.jpg",
+    "https://mzimg.com/big/k1/gi3217cnuk1.jpg",
+    "https://s.ek.ua/jpg/1087736.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 6": "53 850 грн. Купити! bosch KGN86AI30U Hi-tech.com.ua З нами більше 10-ти років Доставка: у Дніпро з Києва Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 619 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 No Frost морозильна / холодильна камери Функції та можливості Функції режим відпустки захист від дітей LED дисплей індикатор закриття дверцят перевішування дверей Холодильне відділення Об'єм холодильної камери 479 л Полиць 4 шт Відсіки для зберігання зона свіжості зона вологості Швидке охолодження Динамічне охолодження Автоматичне розморожування LED освітлення": "квітень 2017",
+      "Загальний об'єм": "619 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "режим відпустки захист від дітей LED дисплей індикатор закриття дверцят перевішування дверей",
+      "Об'єм холодильної камери": "479 л",
+      "Полиць": "4 шт",
+      "Відсіки для зберігання": "зона свіжості зона вологості",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "140 л",
+      "Температура морозилки": "-24 °C",
+      "Час збереження холоду": "30 год",
+      "Потужність заморожування": "20 кг/добу",
+      "Управління": "сенсорне зовнішнє",
+      "Клас енергоспоживання": "A++",
+      "Споживання енергії в рік": "378 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Рівень шуму": "42 дБ",
+      "Габарити (ВхШхГ)": "186x86x81 см",
+      "Офіційний сайт": "bosch-home.com.ua",
+      "Дата додавання на E-Katalog": "квітень 2017",
+      "Відгук корисний? Так 3 Ні 0": "31 серпня 2017",
+      "хороша модель, сподобалося": "31 серпня 2017",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\bosch_kgn86ai30\\images\\01.jpg",
+    "missing_refrigerators\\bosch_kgn86ai30\\images\\02.jpg",
+    "missing_refrigerators\\bosch_kgn86ai30\\images\\03.jpg",
+    "missing_refrigerators\\bosch_kgn86ai30\\images\\04.jpg",
+    "missing_refrigerators\\bosch_kgn86ai30\\images\\05.jpg",
+    "missing_refrigerators\\bosch_kgn86ai30\\images\\06.jpg",
+    "missing_refrigerators\\bosch_kgn86ai30\\images\\07.jpg"
+  ]
+}

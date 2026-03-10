@@ -1,0 +1,135 @@
+{
+  "source": {
+    "url": "https://ek.ua/LIEBHERR-KPE-290.htm",
+    "actual_url": "https://ek.ua/LIEBHERR-KPE-290.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liebherr",
+    "model": "KPe 290 белый",
+    "title": "Холодильник Liebherr KPe 290 белый",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 290
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 251,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 230,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "сверху",
+    "volume_l": 21,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 8,
+    "freezing_capacity_kg_per_day": 4
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 158,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 38,
+    "dimensions_cm": {
+      "height": 140.2,
+      "width": 55.0,
+      "depth": 63.0
+    },
+    "weight_kg": 47.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general",
+      "Цены на Liebherr KPe 290"
+    ]
+  },
+  "description": "Холодильник Liebherr KPe 290 белый по цене от 29910 до 29910 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2692021.jpg",
+    "https://mzimg.com/big/s1/hpw9oeq5is1.jpg",
+    "https://mzimg.com/big/r1/hpw9oes67r1.jpg",
+    "https://mzimg.com/big/11/hpw9of2pp11.jpg",
+    "https://mzimg.com/big/s1/hpw9of7d5s1.jpg",
+    "https://s.ek.ua/jpg/2692021.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 5": "от 29 910 грн. Купить! Холодильник Liebherr Comfort KPe290-26 140.2 см white Novateh.com.ua Менее года Доставка: в Днепр из Новояворовска Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Общий объем 251 л Количество камер 2 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Функции перевешивание дверей Холодильное отделение Объем холодильной камеры 230 л Полок 4 шт Отсеки для хранения полка для бутылок LED освещение": "май 2024",
+      "Общий объем": "251 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Функции": "перевешивание дверей",
+      "Объем холодильной камеры": "230 л",
+      "Полок": "4 шт",
+      "Отсеки для хранения": "полка для бутылок",
+      "Морозильная камера": "сверху",
+      "Объем морозильной камеры": "21 л",
+      "Время сохранения холода": "8 ч",
+      "Мощность замораживания": "4.5 кг/сутки",
+      "Управление": "поворотные переключатели",
+      "Класс энергопотребления (new)": "E",
+      "Потребление энергии в год": "158 кВт*ч",
+      "Климатический класс": "SN, N, ST (+10...+38 °С)",
+      "Класс шумности": "C",
+      "Уровень шума": "38 дБ",
+      "Габариты (ВхШхГ)": "140.2x55x63 см",
+      "Вес": "47 кг",
+      "Дата добавления на E-Katalog": "май 2024",
+      "LED освещение": "да"
+    },
+    "Цены на Liebherr KPe 290": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\liebherr_kpe_290\\images\\01.jpg",
+    "missing_refrigerators\\liebherr_kpe_290\\images\\02.jpg",
+    "missing_refrigerators\\liebherr_kpe_290\\images\\03.jpg",
+    "missing_refrigerators\\liebherr_kpe_290\\images\\04.jpg",
+    "missing_refrigerators\\liebherr_kpe_290\\images\\05.jpg",
+    "missing_refrigerators\\liebherr_kpe_290\\images\\06.jpg"
+  ]
+}

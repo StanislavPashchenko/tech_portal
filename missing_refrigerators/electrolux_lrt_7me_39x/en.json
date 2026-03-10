@@ -1,0 +1,143 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/ELECTROLUX-LRT-7ME-39X.htm",
+    "actual_url": "https://ek.ua/en/ELECTROLUX-LRT-7ME-39X.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Electrolux",
+    "model": "LRT 7ME 39X stainless steel",
+    "title": "Electrolux LRT 7ME 39X stainless steel",
+    "category": "E-Katalog category 200",
+    "year": 121,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 5
+  },
+  "freezer_compartment": {
+    "location": "in absent",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "internal touch controls",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 121,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 186.0,
+      "width": 59.5,
+      "depth": 65.0
+    },
+    "weight_kg": 62.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Electrolux LRT 7ME 39X stainless steel at a price from 29670 to 40318 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2826484.jpg",
+    "https://mzimg.com/big/a1/hxcblex91a1.jpg",
+    "https://mzimg.com/big/t1/hxcblexu6t1.jpg",
+    "https://mzimg.com/big/81/hxcblf7c581.jpg",
+    "https://mzimg.com/big/e1/hxcblfckfe1.jpg",
+    "https://mzimg.com/big/f1/hxcblfl2mf1.jpg",
+    "https://mzimg.com/big/81/hxcblfqa181.jpg",
+    "https://s.ek.ua/jpg/2826484.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 7": "31 754 ₴",
+      "Pro100market.com.ua →": "35 199 ₴",
+      "Electrolux Україна →": "30 586 ₴",
+      "Elmag.ua →": "35 199 ₴",
+      "ТЕХНОточка →": "34 736 ₴",
+      "Tehnomart.com →": "31 754 ₴",
+      "Colour Total capacity 390 L Number of chambers 1 Number of cooling circuits 1 Number of compressors 1 Inverter compressor Features Features reversible door Refrigeration chamber Refrigerator capacity 390 L Number of shelves 5 Storage compartments bottle rack Dynamic air cooling Auto-defrost LED lighting": "January 2025",
+      "Total capacity": "390 L",
+      "Number of chambers": "1",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "Features": "reversible door",
+      "Refrigerator capacity": "390 L",
+      "Number of shelves": "5",
+      "Storage compartments": "bottle rack",
+      "Freezer compartment": "in absent",
+      "Controls": "internal touch controls",
+      "Energy class (new)": "E",
+      "Energy consumption per year": "121 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Noise class": "C",
+      "Noise level": "40 dB",
+      "Dimensions (HxWxD)": "186х59.5х65 cm",
+      "Weight": "62 kg",
+      "Added to E-Catalog": "January 2025",
+      "Inverter compressor": "yes",
+      "LED lighting": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\electrolux_lrt_7me_39x\\images\\01.jpg",
+    "missing_refrigerators\\electrolux_lrt_7me_39x\\images\\02.jpg",
+    "missing_refrigerators\\electrolux_lrt_7me_39x\\images\\03.jpg",
+    "missing_refrigerators\\electrolux_lrt_7me_39x\\images\\04.jpg",
+    "missing_refrigerators\\electrolux_lrt_7me_39x\\images\\05.jpg",
+    "missing_refrigerators\\electrolux_lrt_7me_39x\\images\\06.jpg",
+    "missing_refrigerators\\electrolux_lrt_7me_39x\\images\\07.jpg",
+    "missing_refrigerators\\electrolux_lrt_7me_39x\\images\\08.jpg"
+  ]
+}

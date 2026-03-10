@@ -1,0 +1,157 @@
+{
+  "source": {
+    "url": "https://ek.ua/LG-GB-B62PZ5CN1.htm",
+    "actual_url": "https://ek.ua/LG-GB-B62PZ5CN1.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "LG",
+    "model": "GB-B62PZ5CN1 нержавейка",
+    "title": "Холодильник LG GB-B62PZ5CN1 нержавейка",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 384,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 277,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 107,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 9,
+    "freezing_capacity_kg_per_day": 10
+  },
+  "general": {
+    "control": "сенсорное внешнее",
+    "energy_class_new": "C",
+    "annual_energy_consumption_kwh": 172,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 35,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 59.5,
+      "depth": 67.5
+    },
+    "weight_kg": 79.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник LG GB-B62PZ5CN1 нержавейка по цене от 30722 до 30722 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2497833.jpg",
+    "https://mzimg.com/big/x1/hg2mqv29wx1.jpg",
+    "https://mzimg.com/big/d1/hg2mqv7oxd1.jpg",
+    "https://mzimg.com/big/n1/hg2mqvcyqn1.jpg",
+    "https://mzimg.com/big/a1/hg2mqviiwa1.jpg",
+    "https://mzimg.com/big/71/hg2mqvmut71.jpg",
+    "https://mzimg.com/big/x1/hg2mqvtm5x1.jpg",
+    "https://mzimg.com/big/x1/hg2mqvyrgx1.jpg",
+    "https://mzimg.com/big/d1/hg2mqw52kd1.jpg",
+    "https://mzimg.com/big/q1/hg2mqwb73q1.jpg",
+    "https://mzimg.com/big/f1/hg2mqwiccf1.jpg",
+    "https://mzimg.com/big/t1/hg2mqwofit1.jpg",
+    "https://s.ek.ua/jpg/2497833.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 13": "30 722 грн. Купить! Холодильник LG GBB62PZ5CN1 inSale.com.ua Менее года Доставка: в Днепр из Киева Гарантия: 12 мес. Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Общий объем 384 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 Инверторный компрессор No Frost морозильная / холодильная камеры Функции и возможности Функции управление со смартфона (Wi-Fi) защита от детей перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 277 л Полок 4 шт Отсеки для хранения зона свежести зона влажности полка для бутылок Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "июль 2023",
+      "Общий объем": "384 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "управление со смартфона (Wi-Fi) защита от детей перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "277 л",
+      "Полок": "4 шт",
+      "Отсеки для хранения": "зона свежести зона влажности полка для бутылок",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "107 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Температура морозилки": "-23 °C",
+      "Время сохранения холода": "9 ч",
+      "Мощность замораживания": "10 кг/сутки",
+      "Управление": "сенсорное внешнее",
+      "Класс энергопотребления (new)": "C",
+      "Потребление энергии в год": "172 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Класс шумности": "B",
+      "Уровень шума": "35 дБ",
+      "Габариты (ВхШхГ)": "203x59.5x67.5 см",
+      "Вес": "79 кг",
+      "Официальный сайт": "lg.com",
+      "Дата добавления на E-Katalog": "июль 2023",
+      "Инверторный компрессор": "да",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\lg_gb_b62pz5cn1\\images\\01.jpg",
+    "missing_refrigerators\\lg_gb_b62pz5cn1\\images\\02.jpg",
+    "missing_refrigerators\\lg_gb_b62pz5cn1\\images\\03.jpg",
+    "missing_refrigerators\\lg_gb_b62pz5cn1\\images\\04.jpg",
+    "missing_refrigerators\\lg_gb_b62pz5cn1\\images\\05.jpg",
+    "missing_refrigerators\\lg_gb_b62pz5cn1\\images\\06.jpg",
+    "missing_refrigerators\\lg_gb_b62pz5cn1\\images\\07.jpg",
+    "missing_refrigerators\\lg_gb_b62pz5cn1\\images\\08.jpg",
+    "missing_refrigerators\\lg_gb_b62pz5cn1\\images\\09.jpg",
+    "missing_refrigerators\\lg_gb_b62pz5cn1\\images\\10.jpg",
+    "missing_refrigerators\\lg_gb_b62pz5cn1\\images\\11.jpg",
+    "missing_refrigerators\\lg_gb_b62pz5cn1\\images\\12.jpg",
+    "missing_refrigerators\\lg_gb_b62pz5cn1\\images\\13.jpg"
+  ]
+}

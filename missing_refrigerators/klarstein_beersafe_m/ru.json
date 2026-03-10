@@ -1,0 +1,140 @@
+{
+  "source": {
+    "url": "https://ek.ua/KLARSTEIN-BEERSAFE-M.htm",
+    "actual_url": "https://ek.ua/KLARSTEIN-BEERSAFE-M.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Klarstein",
+    "model": "Beersafe M",
+    "title": "Холодильник Klarstein Beersafe M",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "холодильная витрина",
+    "total_volume_l": 33,
+    "cameras_count": 1,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 33,
+    "shelves_count": 2
+  },
+  "freezer_compartment": {
+    "location": "отсутствует",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": "C",
+    "annual_energy_consumption_kwh": 48,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 42,
+    "dimensions_cm": {
+      "height": 54.0,
+      "width": 40.5,
+      "depth": 44.0
+    },
+    "weight_kg": 16.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Klarstein Beersafe M по цене от 10690 до 11900 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2959045.jpg",
+    "https://mzimg.com/big/v1/i51yfogbdv1.jpg",
+    "https://mzimg.com/big/l1/i51yz96z2l1.jpg",
+    "https://mzimg.com/big/w1/i51z2p5vmw1.jpg",
+    "https://mzimg.com/big/k1/i51yc137ek1.jpg",
+    "https://mzimg.com/big/y1/i51yfohdby1.jpg",
+    "https://mzimg.com/big/w1/i51yfoxmew1.jpg",
+    "https://mzimg.com/big/41/i51yfp0yf41.jpg",
+    "https://mzimg.com/big/41/i51yz97rv41.jpg",
+    "https://mzimg.com/big/n1/i51z2p6tfn1.jpg",
+    "https://mzimg.com/big/a1/i51z2pjmja1.jpg",
+    "https://mzimg.com/big/g1/i51z2po74g1.jpg",
+    "https://s.ek.ua/jpg/2959045.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Rozetka.ua →": "10 690 грн.",
+      "Цвет Тип холодильная витрина Общий объем 33 л Количество камер 1 Контуров охлаждения 1 Компрессоров 1 Холодильное отделение Объем холодильной камеры 33 л Полок 2 шт LED освещение": "10033119 10034847 10039423 Еще ↓ 10039425",
+      "Тип": "холодильная витрина",
+      "Общий объем": "33 л",
+      "Количество камер": "1",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Объем холодильной камеры": "33 л",
+      "Полок": "2 шт",
+      "Морозильная камера": "отсутствует",
+      "Управление": "поворотные переключатели",
+      "Класс энергопотребления (new)": "C",
+      "Потребление энергии в год": "48 кВт*ч",
+      "Класс шумности": "D",
+      "Уровень шума": "42 дБ",
+      "Габариты (ВхШхГ)": "54х40.5х44 см",
+      "Вес": "16 кг",
+      "Официальный сайт": "klarstein.co.uk",
+      "Дата добавления на E-Katalog": "сентябрь 2025",
+      "Маркировка производителя": "10033119 10034847 10039423 Еще ↓ 10039425",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\klarstein_beersafe_m\\images\\01.jpg",
+    "missing_refrigerators\\klarstein_beersafe_m\\images\\02.jpg",
+    "missing_refrigerators\\klarstein_beersafe_m\\images\\03.jpg",
+    "missing_refrigerators\\klarstein_beersafe_m\\images\\04.jpg",
+    "missing_refrigerators\\klarstein_beersafe_m\\images\\05.jpg",
+    "missing_refrigerators\\klarstein_beersafe_m\\images\\06.jpg",
+    "missing_refrigerators\\klarstein_beersafe_m\\images\\07.jpg",
+    "missing_refrigerators\\klarstein_beersafe_m\\images\\08.jpg",
+    "missing_refrigerators\\klarstein_beersafe_m\\images\\09.jpg",
+    "missing_refrigerators\\klarstein_beersafe_m\\images\\10.jpg",
+    "missing_refrigerators\\klarstein_beersafe_m\\images\\11.jpg",
+    "missing_refrigerators\\klarstein_beersafe_m\\images\\12.jpg",
+    "missing_refrigerators\\klarstein_beersafe_m\\images\\13.jpg"
+  ]
+}

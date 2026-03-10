@@ -1,0 +1,155 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/HAIER-HTW-5620CNMP.htm",
+    "actual_url": "https://ek.ua/en/HAIER-HTW-5620CNMP.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Haier",
+    "model": "HTW-5620CNMP graphite (34005155)",
+    "title": "Haier HTW-5620CNMP graphite (34005155)",
+    "category": "E-Katalog category 200",
+    "year": 181,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "bottom (retractable)",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "external touch controls",
+    "energy_class_new": "C",
+    "annual_energy_consumption_kwh": 181,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 200.5,
+      "width": 59.5,
+      "depth": 66.7
+    },
+    "weight_kg": 97.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Haier HTW-5620CNMP graphite (34005155) at a price from 58532 to 58532 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2646848.jpg",
+    "https://mzimg.com/big/h1/hnqmd4vxwh1.jpg",
+    "https://mzimg.com/big/91/hnqmd4xc391.jpg",
+    "https://mzimg.com/big/k1/hnqmd57brk1.jpg",
+    "https://mzimg.com/big/k1/hnqmd595ck1.jpg",
+    "https://mzimg.com/big/q1/hnqmd5zk0q1.jpg",
+    "https://mzimg.com/big/f1/hnqmd620lf1.jpg",
+    "https://mzimg.com/big/e1/hnqmd6ck4e1.jpg",
+    "https://mzimg.com/big/t1/hnqmd5m7it1.jpg",
+    "https://mzimg.com/big/j1/hnqmd5n3aj1.jpg",
+    "https://mzimg.com/big/p1/hnqmd6eo6p1.jpg",
+    "https://mzimg.com/big/y1/hnqmd6lzcy1.jpg",
+    "https://s.ek.ua/jpg/2646848.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 12": "58 532 ₴ Buy! Холодильник Haier Series 5 HTW5620CNMP Full No Frost, 205 см Dark Inox HTW5620CNM Novateh.com.ua Less than year Delivery: to Dnipro from Novoyavorivsk Report add to list my lists add to comparison",
+      "Colour Total capacity 414 L Number of chambers 3 Number of cooling circuits 2 Number of compressors 1 Inverter compressor No Frost freezer / refrigerator compartments Features Features control via smartphone (Wi-Fi) child lock LED display reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 289 L Number of shelves 4 Foldable shelf Storage compartments fresh zone humidity zone bottle rack Fast cool Dynamic air cooling Auto-defrost LED lighting": "34005155",
+      "Total capacity": "414 L",
+      "Number of chambers": "3",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "control via smartphone (Wi-Fi) child lock LED display reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "289 L",
+      "Number of shelves": "4",
+      "Storage compartments": "fresh zone humidity zone bottle rack",
+      "Freezer compartment": "bottom (retractable)",
+      "Freezer capacity": "125 L",
+      "Autonomy time": "13 h",
+      "Controls": "external touch controls",
+      "Energy class (new)": "C",
+      "Energy consumption per year": "181 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Noise class": "B",
+      "Noise level": "35 dB",
+      "Dimensions (HxWxD)": "200.5x59.5x66.7 cm",
+      "Weight": "97 kg",
+      "Official Website": "haier-europe.com",
+      "Added to E-Catalog": "March 2024",
+      "P/N": "34005155",
+      "Inverter compressor": "yes",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\haier_htw_5620cnmp\\images\\01.jpg",
+    "missing_refrigerators\\haier_htw_5620cnmp\\images\\02.jpg",
+    "missing_refrigerators\\haier_htw_5620cnmp\\images\\03.jpg",
+    "missing_refrigerators\\haier_htw_5620cnmp\\images\\04.jpg",
+    "missing_refrigerators\\haier_htw_5620cnmp\\images\\05.jpg",
+    "missing_refrigerators\\haier_htw_5620cnmp\\images\\06.jpg",
+    "missing_refrigerators\\haier_htw_5620cnmp\\images\\07.jpg",
+    "missing_refrigerators\\haier_htw_5620cnmp\\images\\08.jpg",
+    "missing_refrigerators\\haier_htw_5620cnmp\\images\\09.jpg",
+    "missing_refrigerators\\haier_htw_5620cnmp\\images\\10.jpg",
+    "missing_refrigerators\\haier_htw_5620cnmp\\images\\11.jpg",
+    "missing_refrigerators\\haier_htw_5620cnmp\\images\\12.jpg",
+    "missing_refrigerators\\haier_htw_5620cnmp\\images\\13.jpg"
+  ]
+}

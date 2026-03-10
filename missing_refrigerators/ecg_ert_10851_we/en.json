@@ -1,0 +1,139 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/ECG-ERT-10851-WE.htm",
+    "actual_url": "https://ek.ua/en/ECG-ERT-10851-WE.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "ECG",
+    "model": "ERT 10851 WE white",
+    "title": "ECG ERT 10851 WE white",
+    "category": "E-Katalog category 200",
+    "year": 106,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 2
+  },
+  "freezer_compartment": {
+    "location": "top",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knobs",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 106,
+    "climate_class": [
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 83.8,
+      "width": 48.0,
+      "depth": 56.0
+    },
+    "weight_kg": 26.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge ECG ERT 10851 WE white at a price from 8850 to 11399 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2842047.jpg",
+    "https://mzimg.com/big/p1/hyax452qqp1.jpg",
+    "https://mzimg.com/big/z1/hyax454q8z1.jpg",
+    "https://mzimg.com/big/h1/hyax45c4hh1.jpg",
+    "https://mzimg.com/big/m1/hyax45hdam1.jpg",
+    "https://mzimg.com/big/w1/hyax45s1kw1.jpg",
+    "https://mzimg.com/big/s1/hyax45ubts1.jpg",
+    "https://s.ek.ua/jpg/2842047.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Elmag.ua →": "8 939 ₴",
+      "Denika.ua →": "8 939 ₴",
+      "Rozetka.ua →": "11 399 ₴",
+      "Colour Total capacity 82 L Number of chambers 2 Number of cooling circuits 1 Number of compressors 1 Features Features reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 74 L Number of shelves 2 Auto-defrost LED lighting": "February 2025",
+      "Total capacity": "82 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "Features": "reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "74 L",
+      "Number of shelves": "2",
+      "Freezer compartment": "top",
+      "Freezer capacity": "8 L",
+      "Controls": "rotary knobs",
+      "Energy class (new)": "E",
+      "Energy consumption per year": "106 kWh",
+      "Climate class": "N, ST, T (+16...+43 °С)",
+      "Noise class": "C",
+      "Noise level": "41 dB",
+      "Dimensions (HxWxD)": "83.8х48х56 cm",
+      "Weight": "26 kg",
+      "Official Website": "ecg-electro.eu",
+      "Added to E-Catalog": "February 2025",
+      "LED lighting": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\ecg_ert_10851_we\\images\\01.jpg",
+    "missing_refrigerators\\ecg_ert_10851_we\\images\\02.jpg",
+    "missing_refrigerators\\ecg_ert_10851_we\\images\\03.jpg",
+    "missing_refrigerators\\ecg_ert_10851_we\\images\\04.jpg",
+    "missing_refrigerators\\ecg_ert_10851_we\\images\\05.jpg",
+    "missing_refrigerators\\ecg_ert_10851_we\\images\\06.jpg",
+    "missing_refrigerators\\ecg_ert_10851_we\\images\\07.jpg",
+    "missing_refrigerators\\ecg_ert_10851_we\\images\\08.jpg"
+  ]
+}

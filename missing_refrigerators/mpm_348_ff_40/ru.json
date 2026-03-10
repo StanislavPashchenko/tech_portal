@@ -1,0 +1,132 @@
+{
+  "source": {
+    "url": "https://ek.ua/MPM-348-FF-40.htm",
+    "actual_url": "https://ek.ua/MPM-348-FF-40.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "MPM",
+    "model": "348-FF-40 черный",
+    "title": "Холодильник MPM 348-FF-40 черный",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 20
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 326,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 243,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 83,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "сенсорное внутреннее",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 231,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 40,
+    "dimensions_cm": {
+      "height": 201.0,
+      "width": 60.0,
+      "depth": 60.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник MPM 348-FF-40 черный по цене от 19499 до 24954 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2535486.jpg",
+    "https://mzimg.com/big/c1/hhxbz5821c1.jpg",
+    "https://mzimg.com/big/e1/hhxbrxxq5e1.jpg",
+    "https://s.ek.ua/jpg/2535486.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 3": "20 091 грн.",
+      "Pro100market.com.ua →": "19 559 грн.",
+      "FOXTROT.UA →": "19 981 грн.",
+      "Vodogreyka.com.ua →": "19 944 грн.",
+      "Elmag.ua →": "20 499 грн.",
+      "ТЕХНОточка →": "20 091 грн.",
+      "Цвет Общий объем 326 л Количество камер 2 Контуров охлаждения 1 Компрессоров 1 No Frost морозильная / холодильная камеры Функции и возможности Функции перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 243 л Полок 4 шт Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "сентябрь 2023",
+      "Общий объем": "326 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "243 л",
+      "Полок": "4 шт",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "83 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Управление": "сенсорное внутреннее",
+      "Класс энергопотребления (new)": "E",
+      "Потребление энергии в год": "231 кВт*ч",
+      "Класс шумности": "C",
+      "Уровень шума": "40 дБ",
+      "Габариты (ВхШхГ)": "201x60x60 см",
+      "Официальный сайт": "mpm.pl",
+      "Дата добавления на E-Katalog": "сентябрь 2023",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\mpm_348_ff_40\\images\\01.jpg",
+    "missing_refrigerators\\mpm_348_ff_40\\images\\02.jpg",
+    "missing_refrigerators\\mpm_348_ff_40\\images\\03.jpg",
+    "missing_refrigerators\\mpm_348_ff_40\\images\\04.jpg"
+  ]
+}

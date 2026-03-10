@@ -1,0 +1,139 @@
+{
+  "source": {
+    "url": "https://ek.ua/ELECTROLUX-LXB-1SE11-W0.htm",
+    "actual_url": "https://ek.ua/ELECTROLUX-LXB-1SE11-W0.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Electrolux",
+    "model": "LXB 1SE11 W0 белый (923 421 153)",
+    "title": "Холодильник Electrolux LXB 1SE11 W0 белый (923 421 153)",
+    "category": "E-Katalog category 200",
+    "year": 2021,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 119,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 107,
+    "shelves_count": 2
+  },
+  "freezer_compartment": {
+    "location": "сверху",
+    "volume_l": 13,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": 4
+  },
+  "general": {
+    "control": "сенсорное внутреннее",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 139,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 38,
+    "dimensions_cm": {
+      "height": 84.5,
+      "width": 56.0,
+      "depth": 65.0
+    },
+    "weight_kg": 30.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Electrolux LXB 1SE11 W0 белый (923 421 153) по цене от 16251 до 16415 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2027025.jpg",
+    "https://mzimg.com/big/g1/gqw8aux73g1.jpg",
+    "https://mzimg.com/big/41/gqw8auygs41.jpg",
+    "https://mzimg.com/big/w1/gqw8av8vjw1.jpg",
+    "https://mzimg.com/big/h1/gqw8avbu5h1.jpg",
+    "https://s.ek.ua/jpg/2027025.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 5": "16 415 грн.",
+      "Elmag.ua →": "16 415 грн.",
+      "Цвет Общий объем 119 л Количество камер 2 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Функции перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 107 л Полок 2 шт Автоматическая разморозка LED освещение Морозильное отделение Морозильная камера сверху Объем морозильной камеры 13 л Температура морозилки -18 °C Мощность замораживания 3.9 кг/сутки Быстрая заморозка": "923 421 153",
+      "Общий объем": "119 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Функции": "перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "107 л",
+      "Полок": "2 шт",
+      "Морозильная камера": "сверху",
+      "Объем морозильной камеры": "13 л",
+      "Температура морозилки": "-18 °C",
+      "Мощность замораживания": "3.9 кг/сутки",
+      "Управление": "сенсорное внутреннее",
+      "Класс энергопотребления (new)": "E",
+      "Потребление энергии в год": "139 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Класс шумности": "C",
+      "Уровень шума": "38 дБ",
+      "Габариты (ВхШхГ)": "84.5x56x65 см",
+      "Вес": "30 кг",
+      "Официальный сайт": "electrolux.pl",
+      "Дата добавления на E-Katalog": "май 2021",
+      "Маркировка производителя": "923 421 153",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да",
+      "Быстрая заморозка": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\electrolux_lxb_1se11_w0\\images\\01.jpg",
+    "missing_refrigerators\\electrolux_lxb_1se11_w0\\images\\02.jpg",
+    "missing_refrigerators\\electrolux_lxb_1se11_w0\\images\\03.jpg",
+    "missing_refrigerators\\electrolux_lxb_1se11_w0\\images\\04.jpg",
+    "missing_refrigerators\\electrolux_lxb_1se11_w0\\images\\05.jpg",
+    "missing_refrigerators\\electrolux_lxb_1se11_w0\\images\\06.jpg"
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "source": {
+    "url": "https://ek.ua/GUNTER-HAUER-FN-109-B.htm",
+    "actual_url": "https://ek.ua/GUNTER-HAUER-FN-109-B.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Gunter&Hauer",
+    "model": "FN 109 B бежевый",
+    "title": "Холодильник Gunter&Hauer FN 109 B бежевый",
+    "category": "E-Katalog category 200",
+    "year": 2021,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 127,
+    "cameras_count": 1,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": false,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 127,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "отсутствует",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": 114,
+    "climate_class": [
+      "N"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 38,
+    "dimensions_cm": {
+      "height": 88.5,
+      "width": 56.0,
+      "depth": 60.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Gunter&Hauer FN 109 B бежевый по цене от 34999 до 34999 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2070428.jpg",
+    "https://mzimg.com/big/p1/gtapjp9v0p1.jpg",
+    "https://mzimg.com/big/u1/gtapjpb66u1.jpg",
+    "https://mzimg.com/big/j1/gtapjpmvrj1.jpg",
+    "https://mzimg.com/big/51/gtappv8y151.jpg",
+    "https://mzimg.com/big/y1/gtappvbgqy1.jpg",
+    "https://mzimg.com/big/f1/gtappvn1xf1.jpg",
+    "https://mzimg.com/big/u1/gtappvoo9u1.jpg",
+    "https://mzimg.com/big/p1/gtappw0ubp1.jpg",
+    "https://mzimg.com/big/t1/gtappw2fpt1.jpg",
+    "https://mzimg.com/big/i1/gtappwdali1.jpg",
+    "https://s.ek.ua/jpg/2070428.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 11": "34 999 грн. Купить! Холодильник Gunter&Hauer FN 109 B Kitchen-sinks.com.ua С нами 6 лет Доставка: в Днепр из Киева Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Общий объем 127 л Количество камер 1 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Дополнительно ретро дизайн Холодильное отделение Объем холодильной камеры 127 л Полок 3 шт": "август 2021",
+      "Общий объем": "127 л",
+      "Количество камер": "1",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Дополнительно": "ретро дизайн",
+      "Объем холодильной камеры": "127 л",
+      "Полок": "3 шт",
+      "Морозильная камера": "отсутствует",
+      "Управление": "поворотные переключатели",
+      "Класс энергопотребления": "A+",
+      "Потребление энергии в год": "114 кВт*ч",
+      "Климатический класс": "нормальный N (+16...+32 °С)",
+      "Уровень шума": "38 дБ",
+      "Габариты (ВхШхГ)": "88.5x56x60 см",
+      "Дата добавления на E-Katalog": "август 2021"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\gunter_hauer_fn_109_b\\images\\01.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_109_b\\images\\02.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_109_b\\images\\03.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_109_b\\images\\04.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_109_b\\images\\05.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_109_b\\images\\06.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_109_b\\images\\07.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_109_b\\images\\08.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_109_b\\images\\09.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_109_b\\images\\10.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_109_b\\images\\11.jpg",
+    "missing_refrigerators\\gunter_hauer_fn_109_b\\images\\12.jpg"
+  ]
+}

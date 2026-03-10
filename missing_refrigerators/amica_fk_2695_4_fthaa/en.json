@@ -1,0 +1,144 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/AMICA-FK-2695-4-FTHAA.htm",
+    "actual_url": "https://ek.ua/en/AMICA-FK-2695-4-FTHAA.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Amica",
+    "model": "FK 2695.4 FTHAA stainless steel",
+    "title": "Amica FK 2695.4 FTHAA stainless steel",
+    "category": "E-Katalog category 200",
+    "year": 197,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "internal touch controls",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 197,
+    "climate_class": [
+      "ST",
+      "C"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 42,
+    "dimensions_cm": {
+      "height": 170.0,
+      "width": 54.0,
+      "depth": 57.6
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Amica FK 2695.4 FTHAA stainless steel at a price from 24706 to 28991 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1896898.jpg",
+    "https://mzimg.com/big/i1/gk7lxwqw0i1.jpg",
+    "https://mzimg.com/big/f1/gk7lxwthhf1.jpg",
+    "https://mzimg.com/big/91/gk7lxxe2691.jpg",
+    "https://mzimg.com/big/w1/gk7lxxhe4w1.jpg",
+    "https://mzimg.com/big/11/gk7lxy2ca11.jpg",
+    "https://mzimg.com/big/h1/gk7lxy660h1.jpg",
+    "https://mzimg.com/big/91/gk7lxyqb391.jpg",
+    "https://s.ek.ua/jpg/1896898.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 8": "28 991 ₴",
+      "Novateh.com.ua →": "28 991 ₴",
+      "Colour Total capacity 231 L Number of chambers 2 Number of cooling circuits 1 Number of compressors 1 No Frost freezer / refrigerator compartments Features Features reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 161 L Number of shelves 4 Storage compartments humidity zone bottle rack Fast cool Dynamic air cooling Auto-defrost LED lighting": "October 2020",
+      "Total capacity": "231 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "161 L",
+      "Number of shelves": "4",
+      "Storage compartments": "humidity zone bottle rack",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "70 L",
+      "Freezer drawers": "3",
+      "Autonomy time": "15 h",
+      "Freeze capacity": "3.5 kg/day",
+      "Controls": "internal touch controls",
+      "Energy class": "A++",
+      "Energy consumption per year": "197 kWh",
+      "Climate class": "subtropical ST (+18...+38 °C)",
+      "Noise level": "42 dB",
+      "Dimensions (HxWxD)": "170x54x57.6 cm",
+      "Official Website": "amica.pl",
+      "Added to E-Catalog": "October 2020",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\amica_fk_2695_4_fthaa\\images\\01.jpg",
+    "missing_refrigerators\\amica_fk_2695_4_fthaa\\images\\02.jpg",
+    "missing_refrigerators\\amica_fk_2695_4_fthaa\\images\\03.jpg",
+    "missing_refrigerators\\amica_fk_2695_4_fthaa\\images\\04.jpg",
+    "missing_refrigerators\\amica_fk_2695_4_fthaa\\images\\05.jpg",
+    "missing_refrigerators\\amica_fk_2695_4_fthaa\\images\\06.jpg",
+    "missing_refrigerators\\amica_fk_2695_4_fthaa\\images\\07.jpg",
+    "missing_refrigerators\\amica_fk_2695_4_fthaa\\images\\08.jpg",
+    "missing_refrigerators\\amica_fk_2695_4_fthaa\\images\\09.jpg"
+  ]
+}

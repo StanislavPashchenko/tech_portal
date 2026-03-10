@@ -1,0 +1,124 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/AMICA-FM-135-4-E.htm",
+    "actual_url": "https://ek.ua/ua/AMICA-FM-135-4-E.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Amica",
+    "model": "FM 135.4(E) білий",
+    "title": "Холодильник Amica FM 135.4(E) білий",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 88,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 77,
+    "shelves_count": 2
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 11,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "поворотні перемикачі",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 108,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 41,
+    "dimensions_cm": {
+      "height": 82.1,
+      "width": 48.0,
+      "depth": 50.0
+    },
+    "weight_kg": 23.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Amica FM 135.4(E) білий за ціною від 12997 до 12997 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2692014.jpg",
+    "https://mzimg.com/big/m1/hpw14ync2m1.jpg",
+    "https://mzimg.com/big/91/hpw14youh91.jpg",
+    "https://s.ek.ua/jpg/2692014.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 3": "12 997 грн. Купити! Холодильник Amica FM135.4(E) 82,1 см white FM135.4E Novateh.com.ua Менше року Доставка: у Дніпро з Новояворівська Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 88 л Кількість камер 2 Контурів охолодження 1 Компресорів 1 Функції та можливості Функції перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 77 л Полиць 2 шт Автоматичне розморожування LED освітлення": "травень 2024",
+      "Загальний об'єм": "88 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "Функції": "перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "77 л",
+      "Полиць": "2 шт",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "11 л",
+      "Управління": "поворотні перемикачі",
+      "Клас енергоспоживання (new)": "E",
+      "Споживання енергії в рік": "108 кВт*год",
+      "Клас гучності": "C",
+      "Рівень шуму": "41 дБ",
+      "Габарити (ВхШхГ)": "82.1x48x50 см",
+      "Вага": "23 кг",
+      "Офіційний сайт": "amica.pl",
+      "Дата додавання на E-Katalog": "травень 2024",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\amica_fm_135_4_e\\images\\01.jpg",
+    "missing_refrigerators\\amica_fm_135_4_e\\images\\02.jpg",
+    "missing_refrigerators\\amica_fm_135_4_e\\images\\03.jpg",
+    "missing_refrigerators\\amica_fm_135_4_e\\images\\04.jpg"
+  ]
+}

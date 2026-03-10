@@ -1,0 +1,138 @@
+{
+  "source": {
+    "url": "https://ek.ua/SNAIGE-FR27SM-PRJ30E.htm",
+    "actual_url": "https://ek.ua/SNAIGE-FR27SM-PRJ30E.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Snaige",
+    "model": "FR27SM-PRJ30E черный",
+    "title": "Холодильник Snaige FR27SM-PRJ30E черный",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 20
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 258,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": false,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 201,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "сверху",
+    "volume_l": 57,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 17,
+    "freezing_capacity_kg_per_day": 3
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 196,
+    "climate_class": [
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 172.5,
+      "width": 56.0,
+      "depth": 63.0
+    },
+    "weight_kg": 50.0,
+    "country_of_origin": "Литва"
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general",
+      "Цены на Snaige FR27SM-PRJ30E"
+    ]
+  },
+  "description": "Холодильник Snaige FR27SM-PRJ30E черный по цене от 19672 до 26586 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2471643.jpg",
+    "https://mzimg.com/big/71/hf06vq0j071.jpg",
+    "https://mzimg.com/big/x1/hf06vq1q3x1.jpg",
+    "https://mzimg.com/big/w1/hf06vqcdzw1.jpg",
+    "https://s.ek.ua/jpg/2471643.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 4": "21 999 грн.",
+      "Viyar.ua →": "19 772 грн.",
+      "Moyo.ua →": "20 910 грн.",
+      "Tendo.com.ua →": "20 999 грн.",
+      "Openshop.ua →": "21 999 грн.",
+      "Vodogreyka.com.ua →": "21 999 грн.",
+      "Цвет Общий объем 258 л Количество камер 2 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Дополнительно ретро дизайн Холодильное отделение Объем холодильной камеры 201 л Полок 4 шт Автоматическая разморозка LED освещение Морозильное отделение Морозильная камера сверху Объем морозильной камеры 57 л Температура морозилки -18 °C Время сохранения холода 17 ч Мощность замораживания 3 кг/сутки": "июнь 2023",
+      "Общий объем": "258 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Дополнительно": "ретро дизайн",
+      "Объем холодильной камеры": "201 л",
+      "Полок": "4 шт",
+      "Морозильная камера": "сверху",
+      "Объем морозильной камеры": "57 л",
+      "Температура морозилки": "-18 °C",
+      "Время сохранения холода": "17 ч",
+      "Мощность замораживания": "3 кг/сутки",
+      "Управление": "поворотные переключатели",
+      "Класс энергопотребления (new)": "E",
+      "Потребление энергии в год": "196 кВт*ч",
+      "Климатический класс": "N, ST (+16...+38 °С)",
+      "Уровень шума": "39 дБ",
+      "Габариты (ВхШхГ)": "172.5x56x63 см",
+      "Вес": "50 кг",
+      "Страна производства": "Литва",
+      "Дата добавления на E-Katalog": "июнь 2023",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    },
+    "Цены на Snaige FR27SM-PRJ30E": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\snaige_fr27sm_prj30e\\images\\01.jpg",
+    "missing_refrigerators\\snaige_fr27sm_prj30e\\images\\02.jpg",
+    "missing_refrigerators\\snaige_fr27sm_prj30e\\images\\03.jpg",
+    "missing_refrigerators\\snaige_fr27sm_prj30e\\images\\04.jpg",
+    "missing_refrigerators\\snaige_fr27sm_prj30e\\images\\05.jpg"
+  ]
+}

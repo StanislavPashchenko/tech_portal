@@ -1,0 +1,151 @@
+{
+  "source": {
+    "url": "https://ek.ua/LG-GB-P32DSLZN.htm",
+    "actual_url": "https://ek.ua/LG-GB-P32DSLZN.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "LG",
+    "model": "GB-P32DSLZN серебристый",
+    "title": "Холодильник LG GB-P32DSLZN серебристый",
+    "category": "E-Katalog category 200",
+    "year": 2020,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 384,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 277,
+    "shelves_count": 5
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 107,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 16,
+    "freezing_capacity_kg_per_day": 12
+  },
+  "general": {
+    "control": "сенсорное внутреннее",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 268,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 36,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 59.5,
+      "depth": 67.5
+    },
+    "weight_kg": 78.0,
+    "country_of_origin": "Польша"
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Двухкамерный бытовой холодильник среднего уровня, который может похвастаться надежным, энергоэффективным и тихим инверторным компрессором, а также раздельными контурами охлаждения для рабочих камер. Модель была представлена на рынке в 2020 году и позиционируется производителем в средний ценовой диапазон. Прежде всего важно обратить внимание на то, что при стандартной высоте корпуса в 2 м устройство может похвастаться увеличенной до 384 л вместительностью, благодаря чему может послужить хорошим выбором, в том числе и для большого семейства из 3-4 человек. Поддержка технологии No Frost избавляет пользователя от необходимости периодически размораживать устройство, поскольку лед и иней на стенках этой модели попросту не образовываются. Система динамического охлаждения в сочетании с системой охлаждения двери Door Cooling+ обеспечивают максимально равномерное распределение холодного воздуха внутрь устройства, в том числе и при частом открытии дверей. Холодильное отделение на 277 л может похвастаться пятью полочками из закаленного стекла, а также специальной зоной свежести для овощей и фруктов. А мощностей морозилки на 107 л вполне достаточно для того, чтобы за стуки замораживать до 12 кг продуктов. Среди прочего холодильник отличается практичным минималистичным дизайном, низким уровнем шумов (не выше 36 дБ), а также хорошей энергоэффективностью (соответствует классу А++).",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1884318.jpg",
+    "https://mzimg.com/big/r1/gji8ejndvr1.jpg",
+    "https://mzimg.com/big/51/gji8ekm4151.jpg",
+    "https://mzimg.com/big/p1/gji8ekzg2p1.jpg",
+    "https://mzimg.com/big/p1/gji8el14vp1.jpg",
+    "https://mzimg.com/big/81/gji8elgaj81.jpg",
+    "https://mzimg.com/big/w1/gji8eltn4w1.jpg",
+    "https://mzimg.com/big/v1/gji8eluymv1.jpg",
+    "https://mzimg.com/big/01/gji8em5vx01.jpg",
+    "https://mzimg.com/big/z1/gji8ejm24z1.jpg",
+    "https://mzimg.com/big/p1/gji8ek422p1.jpg",
+    "https://mzimg.com/big/u1/gji8ek5eku1.jpg",
+    "https://s.ek.ua/jpg/1884318.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 15": "30 115 грн.",
+      "Luxmedia.com.ua →": "30 115 грн.",
+      "Цвет Общий объем 384 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 Инверторный компрессор No Frost морозильная / холодильная камеры Функции и возможности Функции индикатор закрытия дверцы перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 277 л Полок 5 шт Отсеки для хранения зона свежести Динамическое охлаждение Автоматическая разморозка LED освещение": "октябрь 2020",
+      "Общий объем": "384 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "индикатор закрытия дверцы перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "277 л",
+      "Полок": "5 шт",
+      "Отсеки для хранения": "зона свежести",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "107 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Температура морозилки": "-24 °C",
+      "Время сохранения холода": "16 ч",
+      "Мощность замораживания": "12 кг/сутки",
+      "Управление": "сенсорное внутреннее",
+      "Класс энергопотребления": "A++",
+      "Потребление энергии в год": "268 кВт*ч",
+      "Уровень шума": "36 дБ",
+      "Габариты (ВхШхГ)": "203x59.5x67.5 см",
+      "Вес": "78 кг",
+      "Страна производства": "Польша",
+      "Официальный сайт": "lg.com",
+      "Дата добавления на E-Katalog": "октябрь 2020",
+      "Инверторный компрессор": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\lg_gb_p32dslzn\\images\\01.jpg",
+    "missing_refrigerators\\lg_gb_p32dslzn\\images\\02.jpg",
+    "missing_refrigerators\\lg_gb_p32dslzn\\images\\03.jpg",
+    "missing_refrigerators\\lg_gb_p32dslzn\\images\\04.jpg",
+    "missing_refrigerators\\lg_gb_p32dslzn\\images\\05.jpg",
+    "missing_refrigerators\\lg_gb_p32dslzn\\images\\06.jpg",
+    "missing_refrigerators\\lg_gb_p32dslzn\\images\\07.jpg",
+    "missing_refrigerators\\lg_gb_p32dslzn\\images\\08.jpg",
+    "missing_refrigerators\\lg_gb_p32dslzn\\images\\09.jpg",
+    "missing_refrigerators\\lg_gb_p32dslzn\\images\\10.jpg",
+    "missing_refrigerators\\lg_gb_p32dslzn\\images\\11.jpg",
+    "missing_refrigerators\\lg_gb_p32dslzn\\images\\12.jpg",
+    "missing_refrigerators\\lg_gb_p32dslzn\\images\\13.jpg"
+  ]
+}

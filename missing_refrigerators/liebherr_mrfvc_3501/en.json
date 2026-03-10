@@ -1,0 +1,124 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/LIEBHERR-MRFVC-3501.htm",
+    "actual_url": "https://ek.ua/en/LIEBHERR-MRFVC-3501.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liebherr",
+    "model": "MRFvc 3501 white",
+    "title": "Liebherr MRFvc 3501 white",
+    "category": "E-Katalog category 200",
+    "year": 2022,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "in absent",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knobs",
+    "energy_class_new": null,
+    "annual_energy_consumption_kwh": null,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 50,
+    "dimensions_cm": {
+      "height": 168.4,
+      "width": 59.7,
+      "depth": 65.4
+    },
+    "weight_kg": 57.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Liebherr MRFvc 3501 white at a price from 40700 to 42899 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2197255.jpg",
+    "https://mzimg.com/big/k1/h22aux0juk1.jpg",
+    "https://mzimg.com/big/31/h22aux4f931.jpg",
+    "https://mzimg.com/big/b1/h22auxc0ib1.jpg",
+    "https://s.ek.ua/jpg/2197255.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 4": "40 960 ₴",
+      "Tendo.com.ua →": "40 700 ₴",
+      "Denika.ua →": "40 960 ₴",
+      "Colour Total capacity 250 L Number of chambers 1 Number of cooling circuits 1 Number of compressors 1 Features Features reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 250 L Number of shelves 4 Dynamic air cooling Auto-defrost": "May 2022",
+      "Total capacity": "250 L",
+      "Number of chambers": "1",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "Features": "reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "250 L",
+      "Number of shelves": "4",
+      "Freezer compartment": "in absent",
+      "Controls": "rotary knobs",
+      "Noise level": "50 dB",
+      "Dimensions (HxWxD)": "168.4x59.7x65.4 cm",
+      "Weight": "57 kg",
+      "Official Website": "home.liebherr.com",
+      "Added to E-Catalog": "May 2022",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\liebherr_mrfvc_3501\\images\\01.jpg",
+    "missing_refrigerators\\liebherr_mrfvc_3501\\images\\02.jpg",
+    "missing_refrigerators\\liebherr_mrfvc_3501\\images\\03.jpg",
+    "missing_refrigerators\\liebherr_mrfvc_3501\\images\\04.jpg",
+    "missing_refrigerators\\liebherr_mrfvc_3501\\images\\05.jpg"
+  ]
+}

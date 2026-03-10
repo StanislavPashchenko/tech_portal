@@ -1,0 +1,139 @@
+{
+  "source": {
+    "url": "https://ek.ua/GORENJE-NRK-619-EAXL4WD.htm",
+    "actual_url": "https://ek.ua/GORENJE-NRK-619-EAXL4WD.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Gorenje",
+    "model": "NRK 619 EAXL4WD нержавейка (20008034)",
+    "title": "Холодильник Gorenje NRK 619 EAXL4WD нержавейка (20008034)",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 12
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 304,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 207,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 97,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 10,
+    "freezing_capacity_kg_per_day": 6
+  },
+  "general": {
+    "control": "сенсорное внешнее",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 243,
+    "climate_class": [
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 186.0,
+      "width": 59.0,
+      "depth": 59.5
+    },
+    "weight_kg": 60.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Gorenje NRK 619 EAXL4WD нержавейка (20008034) по цене от 19881 до 25097 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2612346.jpg",
+    "https://mzimg.com/big/91/hm3x9r49g91.jpg",
+    "https://s.ek.ua/jpg/2612346.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Tendo.com.ua →": "23 364 грн.",
+      "Gorenje Україна →": "20 681 грн.",
+      "Itbox.ua →": "21 881 грн.",
+      "ТЕХНОточка →": "22 918 грн.",
+      "Comtrading.ua →": "23 365 грн.",
+      "Цвет Общий объем 304 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 No Frost морозильная / холодильная камеры Функции и возможности Функции LED дисплей индикатор закрытия дверцы перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 207 л Полок 3 шт Отсеки для хранения зона свежести зона влажности Диспенсер холодной воды внешний Динамическое охлаждение Автоматическая разморозка Дезодоратор LED освещение": "20008034",
+      "Общий объем": "304 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "LED дисплей индикатор закрытия дверцы перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "207 л",
+      "Полок": "3 шт",
+      "Отсеки для хранения": "зона свежести зона влажности",
+      "Диспенсер холодной воды": "внешний",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "97 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Время сохранения холода": "10 ч",
+      "Мощность замораживания": "6 кг/сутки",
+      "Управление": "сенсорное внешнее",
+      "Класс энергопотребления (new)": "E",
+      "Потребление энергии в год": "243 кВт*ч",
+      "Климатический класс": "N, ST (+16...+38 °С)",
+      "Класс шумности": "C",
+      "Уровень шума": "39 дБ",
+      "Габариты (ВхШхГ)": "186x59x59.5 см",
+      "Вес": "60 кг",
+      "Официальный сайт": "pl.gorenje.com",
+      "Дата добавления на E-Katalog": "январь 2024",
+      "Маркировка производителя": "20008034",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да",
+      "Дезодоратор": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\gorenje_nrk_619_eaxl4wd\\images\\01.jpg",
+    "missing_refrigerators\\gorenje_nrk_619_eaxl4wd\\images\\02.jpg",
+    "missing_refrigerators\\gorenje_nrk_619_eaxl4wd\\images\\03.jpg"
+  ]
+}

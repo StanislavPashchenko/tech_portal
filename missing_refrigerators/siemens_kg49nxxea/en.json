@@ -1,0 +1,144 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/SIEMENS-KG49NXXEA.htm",
+    "actual_url": "https://ek.ua/en/SIEMENS-KG49NXXEA.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Siemens",
+    "model": "KG49NXXEA stainless steel",
+    "title": "Siemens KG49NXXEA stainless steel",
+    "category": "E-Katalog category 200",
+    "year": 259,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "external touch controls",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 259,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 70.0,
+      "depth": 67.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "A two-chamber refrigerator in the BlackSteel color (dark stainless steel) has expanded the iQ300 line of the Siemens brand in 2022. Although the series combines standard-class models, the unit can be attributed to advanced solutions. The corresponding status is confirmed by visual external touch control, as well as the presence of two cooling circuits, thanks to which it is possible to independently regulate the temperature regimes in two compartments. Also, the chips of the device include the Full No Frost system, which contributes to both a more even distribution of cold inside, and simple maintenance (no manual defrosting is required). With dimensions of 203x70x67 cm, the Siemens KG49NXXEA refrigerator holds 438 liters, which can satisfy the needs of even large families. The freezer for 108 liters is located below, it is divided into 3 drawers and is characterized by good performance (up to 12 kg per day). And when there is a power outage, spoilage of products in the freezer does not threaten within 16 hours. The 330-litre fridge compartment has freshness (for meat and fish) and humidity (for fruits and vegetables) zones, as well as 4 open shelves and door pockets, a hanging bottle holder. Among other chips, it is worth highlighting the door closing indicator, moderate noise (class C - up to 40 dB) and energy consumption E (similar to A + according to the usual marking).",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2188722.jpg",
+    "https://mzimg.com/big/o1/h0tg5k4tao1.jpg",
+    "https://mzimg.com/big/v1/h0tg5k7swv1.jpg",
+    "https://mzimg.com/big/71/h0tg5l3jg71.jpg",
+    "https://mzimg.com/big/g1/h0tg5l46bg1.jpg",
+    "https://s.ek.ua/jpg/2188722.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Tendo.com.ua →": "43 945 ₴",
+      "Stylus.ua →": "41 276 ₴",
+      "Hi-tech.com.ua →": "41 619 ₴",
+      "Denika.ua →": "41 266 ₴",
+      "Colour Total capacity 438 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 No Frost freezer / refrigerator compartments Features Features door alarm reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 330 L Number of shelves 4 Storage compartments fresh zone humidity zone bottle rack Fast cool Dynamic air cooling Auto-defrost LED lighting": "March 2022",
+      "Total capacity": "438 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "door alarm reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "330 L",
+      "Number of shelves": "4",
+      "Storage compartments": "fresh zone humidity zone bottle rack",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "108 L",
+      "Freezer drawers": "3",
+      "Freezer temperature": "-24 °C",
+      "Autonomy time": "16 h",
+      "Freeze capacity": "12 kg/day",
+      "Controls": "external touch controls",
+      "Energy class (new)": "E",
+      "Energy consumption per year": "259 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Noise class": "C",
+      "Noise level": "40 dB",
+      "Dimensions (HxWxD)": "203x70x67 cm",
+      "Official Website": "siemens-home.bsh-group.com",
+      "Added to E-Catalog": "March 2022",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\siemens_kg49nxxea\\images\\01.jpg",
+    "missing_refrigerators\\siemens_kg49nxxea\\images\\02.jpg",
+    "missing_refrigerators\\siemens_kg49nxxea\\images\\03.jpg",
+    "missing_refrigerators\\siemens_kg49nxxea\\images\\04.jpg",
+    "missing_refrigerators\\siemens_kg49nxxea\\images\\05.jpg",
+    "missing_refrigerators\\siemens_kg49nxxea\\images\\06.jpg"
+  ]
+}

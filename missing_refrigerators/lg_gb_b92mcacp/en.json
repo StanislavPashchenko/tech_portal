@@ -1,0 +1,157 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/LG-GB-B92MCACP.htm",
+    "actual_url": "https://ek.ua/en/LG-GB-B92MCACP.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "LG",
+    "model": "GB-B92MCACP black",
+    "title": "LG GB-B92MCACP black",
+    "category": "E-Katalog category 200",
+    "year": 172,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "external touch controls",
+    "energy_class_new": "C",
+    "annual_energy_consumption_kwh": 172,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 59.5,
+      "depth": 68.2
+    },
+    "weight_kg": 79.0,
+    "country_of_origin": "Poland"
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "This model, first of all, is distinguished by a stylish case design with an external touch control panel, which looks as organic as possible against the background of the refrigerator door. However, the internal equipment of the model is not inferior to its design and also deserves the closest attention. At the heart of the device is a reliable, energy-efficient and quiet inverter compressor, and each of the chambers received a separate cooling circuit, which allows them to be completely independently regulated. The cooling system provides support for dynamic cooling technology and DoorCooling + technology, which ensures uniform and fast cooling of all shelves and baskets, including door ones. According to the manufacturer, the cooling rate is 32% faster than models without this technology. The total useful volume of the LG GB-B92MCACP refrigerator is 384 liters, of which 277 liters are in the refrigerator compartment, and 107 liters in the freezer. The equipment of the refrigerator compartment includes special FRESHBalancer humidity and FRESHConverter freshness zones, as well as a shelf for bottles. Freezer capacity reaches 10 kg/day. Thanks to Full No Frost technology, there is no need to periodically defrost the chamber to clear frost. The level of noise generated during operation does not exceed 35 dB, which allows us to rank the model among the quietest refrigerators on the market at the time the device was released.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2050645.jpg",
+    "https://mzimg.com/big/01/gs7fyyy3p01.jpg",
+    "https://mzimg.com/big/p1/gs7fyzpnbp1.jpg",
+    "https://mzimg.com/big/01/gs7fyztkt01.jpg",
+    "https://mzimg.com/big/u1/gs7fz03rzu1.jpg",
+    "https://mzimg.com/big/01/gs7fz06a901.jpg",
+    "https://mzimg.com/big/a1/gs7fz0hlla1.jpg",
+    "https://mzimg.com/big/j1/gs7fz0sqoj1.jpg",
+    "https://mzimg.com/big/g1/gs7fyyzklg1.jpg",
+    "https://mzimg.com/big/21/gs7fyzcqq21.jpg",
+    "https://mzimg.com/big/u1/gs7fyzf4nu1.jpg",
+    "https://mzimg.com/big/e1/gs7fz0jfee1.jpg",
+    "https://s.ek.ua/jpg/2050645.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 13": "36 868 ₴",
+      "Tendo.com.ua →": "33 999 ₴",
+      "Megadom.net →": "35 120 ₴",
+      "TEHNOS.UA →": "36 869 ₴",
+      "inSale.com.ua →": "35 620 ₴",
+      "Luckylink.kiev.ua →": "36 868 ₴",
+      "Colour Total capacity 384 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 Inverter compressor No Frost freezer / refrigerator compartments Features Features control via smartphone (Wi-Fi) / SmartThinQ / child lock LED display door alarm reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 277 L Number of shelves 4 Storage compartments fresh zone humidity zone bottle rack Fast cool Dynamic air cooling Auto-defrost LED lighting": "July 2021",
+      "Total capacity": "384 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "control via smartphone (Wi-Fi) / SmartThinQ / child lock LED display door alarm reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "277 L",
+      "Number of shelves": "4",
+      "Storage compartments": "fresh zone humidity zone bottle rack",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "107 L",
+      "Freezer drawers": "3",
+      "Freezer temperature": "-24 °C",
+      "Autonomy time": "9 h",
+      "Freeze capacity": "10 kg/day",
+      "Controls": "external touch controls",
+      "Energy class (new)": "C",
+      "Energy consumption per year": "172 kWh",
+      "Noise class": "B",
+      "Noise level": "35 dB",
+      "Dimensions (HxWxD)": "203x59.5x68.2 cm",
+      "Weight": "79 kg",
+      "Country of origin": "Poland",
+      "Official Website": "lg.com",
+      "Added to E-Catalog": "July 2021",
+      "Inverter compressor": "yes",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\lg_gb_b92mcacp\\images\\01.jpg",
+    "missing_refrigerators\\lg_gb_b92mcacp\\images\\02.jpg",
+    "missing_refrigerators\\lg_gb_b92mcacp\\images\\03.jpg",
+    "missing_refrigerators\\lg_gb_b92mcacp\\images\\04.jpg",
+    "missing_refrigerators\\lg_gb_b92mcacp\\images\\05.jpg",
+    "missing_refrigerators\\lg_gb_b92mcacp\\images\\06.jpg",
+    "missing_refrigerators\\lg_gb_b92mcacp\\images\\07.jpg",
+    "missing_refrigerators\\lg_gb_b92mcacp\\images\\08.jpg",
+    "missing_refrigerators\\lg_gb_b92mcacp\\images\\09.jpg",
+    "missing_refrigerators\\lg_gb_b92mcacp\\images\\10.jpg",
+    "missing_refrigerators\\lg_gb_b92mcacp\\images\\11.jpg",
+    "missing_refrigerators\\lg_gb_b92mcacp\\images\\12.jpg",
+    "missing_refrigerators\\lg_gb_b92mcacp\\images\\13.jpg"
+  ]
+}

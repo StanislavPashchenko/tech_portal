@@ -1,0 +1,127 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/MILANO-MTD-205-S.htm",
+    "actual_url": "https://ek.ua/en/MILANO-MTD-205-S.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Milano",
+    "model": "MTD 205 S silver",
+    "title": "Milano MTD 205 S silver",
+    "category": "E-Katalog category 200",
+    "year": 215,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 23
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "top",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knobs",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": 215,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 42,
+    "dimensions_cm": {
+      "height": 143.0,
+      "width": 55.0,
+      "depth": 55.0
+    },
+    "weight_kg": 38.0,
+    "country_of_origin": "China"
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general",
+      "Price for Milano MTD 205 S"
+    ]
+  },
+  "description": "Fridge Milano MTD 205 S silver at a price from 8748 to 10433 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2550002.jpg",
+    "https://mzimg.com/big/b1/hg3jmmvfrb1.jpg",
+    "https://s.ek.ua/jpg/2550002.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "FOXTROT.UA →": "10 433 ₴",
+      "Elmag.ua →": "9 072 ₴",
+      "Zhuk.ua →": "9 072 ₴",
+      "Comtrading.ua →": "8 748 ₴",
+      "Tv-mir.com.ua →": "8 868 ₴",
+      "Colour Total capacity 205 L Number of chambers 2 Number of cooling circuits 1 Number of compressors 1 Features Features reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 168 L Number of shelves 4 Auto-defrost LED lighting": "October 2023",
+      "Total capacity": "205 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "Features": "reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "168 L",
+      "Number of shelves": "4",
+      "Freezer compartment": "top",
+      "Freezer capacity": "37 L",
+      "Controls": "rotary knobs",
+      "Energy class": "A+",
+      "Energy consumption per year": "215 kWh",
+      "Noise level": "42 dB",
+      "Dimensions (HxWxD)": "143x55x55 cm",
+      "Weight": "38 kg",
+      "Country of origin": "China",
+      "Added to E-Catalog": "October 2023",
+      "LED lighting": "yes",
+      "Auto-defrost": "yes"
+    },
+    "Price for Milano MTD 205 S": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\milano_mtd_205_s\\images\\01.jpg",
+    "missing_refrigerators\\milano_mtd_205_s\\images\\02.jpg",
+    "missing_refrigerators\\milano_mtd_205_s\\images\\03.jpg"
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "source": {
+    "url": "https://ek.ua/SMEG-FAB50RCR.htm",
+    "actual_url": "https://ek.ua/SMEG-FAB50RCR.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Smeg",
+    "model": "FAB50RCR бежевый",
+    "title": "Холодильник Smeg FAB50RCR бежевый",
+    "category": "E-Katalog category 200",
+    "year": 2011,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 6
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 412,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": false,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 315,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "сверху",
+    "volume_l": 97,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 10,
+    "freezing_capacity_kg_per_day": 6
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 300,
+    "climate_class": [
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 44,
+    "dimensions_cm": {
+      "height": 187.0,
+      "width": 80.0,
+      "depth": 74.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general",
+      "Цены на Smeg FAB50RCR"
+    ]
+  },
+  "description": "Холодильник Smeg FAB50RCR бежевый по цене от 158600 до 158600 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/166722.jpg",
+    "https://mzimg.com/big/y1/fv94wm61fy1.jpg",
+    "https://mzimg.com/big/d1/g052p6r7gd1.jpg",
+    "https://mzimg.com/big/o1/g052p708ho1.jpg",
+    "https://mzimg.com/big/r1/g052pvci0r1.jpg",
+    "https://s.ek.ua/jpg/166722.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Видео 1 Фото 5": "158 600 грн.",
+      "Viyar.ua →": "158 600 грн.",
+      "Viyar.ua → (2)": "158 600 грн.",
+      "Ktc.ua →": "158 600 грн.",
+      "Цвет Общий объем 412 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 No Frost морозильная / холодильная камеры Функции и возможности Дополнительно ретро дизайн Холодильное отделение Объем холодильной камеры 315 л Отсеки для хранения зона свежести Динамическое охлаждение Автоматическая разморозка LED освещение": "декабрь 2011",
+      "Общий объем": "412 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Дополнительно": "ретро дизайн",
+      "Объем холодильной камеры": "315 л",
+      "Отсеки для хранения": "зона свежести",
+      "Морозильная камера": "сверху",
+      "Объем морозильной камеры": "97 л",
+      "Время сохранения холода": "10 ч",
+      "Мощность замораживания": "6 кг/сутки",
+      "Ледогенератор": "внутренний",
+      "Управление": "поворотные переключатели",
+      "Класс энергопотребления": "A++",
+      "Потребление энергии в год": "300 кВт*ч",
+      "Климатический класс": "N, ST, T (+16...+43 °С)",
+      "Уровень шума": "44 дБ",
+      "Габариты (ВхШхГ)": "187х80х74 см / глубина с ручкой: 78 см /",
+      "Официальный сайт": "smeg.ua",
+      "Дата добавления на E-Katalog": "декабрь 2011",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    },
+    "Цены на Smeg FAB50RCR": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\smeg_fab50rcr\\images\\01.jpg",
+    "missing_refrigerators\\smeg_fab50rcr\\images\\02.jpg",
+    "missing_refrigerators\\smeg_fab50rcr\\images\\03.jpg",
+    "missing_refrigerators\\smeg_fab50rcr\\images\\04.jpg",
+    "missing_refrigerators\\smeg_fab50rcr\\images\\05.jpg",
+    "missing_refrigerators\\smeg_fab50rcr\\images\\06.jpg"
+  ]
+}

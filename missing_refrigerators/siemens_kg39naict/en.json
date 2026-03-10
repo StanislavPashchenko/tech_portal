@@ -1,0 +1,146 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/SIEMENS-KG39NAICT.htm",
+    "actual_url": "https://ek.ua/en/SIEMENS-KG39NAICT.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Siemens",
+    "model": "KG39NAICT stainless steel",
+    "title": "Siemens KG39NAICT stainless steel",
+    "category": "E-Katalog category 200",
+    "year": 162,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "external touch controls",
+    "energy_class_new": "C",
+    "annual_energy_consumption_kwh": 162,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 60.0,
+      "depth": 66.5
+    },
+    "weight_kg": 74.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Siemens KG39NAICT stainless steel at a price from 51869 to 51960 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2339521.jpg",
+    "https://mzimg.com/big/c1/h9bw6edfec1.jpg",
+    "https://mzimg.com/big/m1/h9bw6eek1m1.jpg",
+    "https://mzimg.com/big/61/h9bw6eqst61.jpg",
+    "https://mzimg.com/big/11/h9bw6eug111.jpg",
+    "https://mzimg.com/big/v1/h9bw6f2lbv1.jpg",
+    "https://mzimg.com/big/c1/h9bw6f79qc1.jpg",
+    "https://mzimg.com/big/u1/h9bw6ffcqu1.jpg",
+    "https://mzimg.com/big/d1/h9bw6fivad1.jpg",
+    "https://mzimg.com/big/r1/h9bw6fs88r1.jpg",
+    "https://mzimg.com/big/i1/h9bw6fuj9i1.jpg",
+    "https://s.ek.ua/jpg/2339521.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 11": "51 869 ₴",
+      "Hi-tech.com.ua →": "51 869 ₴",
+      "Colour Total capacity 363 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 No Frost freezer / refrigerator compartments Features Features control via smartphone (Wi-Fi) door alarm reversible door Refrigeration chamber Refrigerator capacity 260 L Number of shelves 4 Storage compartments fresh zone bottle rack Fast cool Dynamic air cooling Auto-defrost LED lighting": "December 2022",
+      "Total capacity": "363 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "control via smartphone (Wi-Fi) door alarm reversible door",
+      "Refrigerator capacity": "260 L",
+      "Number of shelves": "4",
+      "Storage compartments": "fresh zone bottle rack",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "103 L",
+      "Freezer drawers": "3",
+      "Freezer temperature": "-24 °C",
+      "Controls": "external touch controls",
+      "Energy class (new)": "C",
+      "Energy consumption per year": "162 kWh",
+      "Noise class": "B",
+      "Noise level": "35 dB",
+      "Dimensions (HxWxD)": "203x60x66.5 cm",
+      "Weight": "74 kg",
+      "Official Website": "siemens-home.bsh-group.com",
+      "Added to E-Catalog": "December 2022",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\siemens_kg39naict\\images\\01.jpg",
+    "missing_refrigerators\\siemens_kg39naict\\images\\02.jpg",
+    "missing_refrigerators\\siemens_kg39naict\\images\\03.jpg",
+    "missing_refrigerators\\siemens_kg39naict\\images\\04.jpg",
+    "missing_refrigerators\\siemens_kg39naict\\images\\05.jpg",
+    "missing_refrigerators\\siemens_kg39naict\\images\\06.jpg",
+    "missing_refrigerators\\siemens_kg39naict\\images\\07.jpg",
+    "missing_refrigerators\\siemens_kg39naict\\images\\08.jpg",
+    "missing_refrigerators\\siemens_kg39naict\\images\\09.jpg",
+    "missing_refrigerators\\siemens_kg39naict\\images\\10.jpg",
+    "missing_refrigerators\\siemens_kg39naict\\images\\11.jpg",
+    "missing_refrigerators\\siemens_kg39naict\\images\\12.jpg"
+  ]
+}

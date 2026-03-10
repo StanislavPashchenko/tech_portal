@@ -1,0 +1,152 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/KAISER-KK-60825-EM.htm",
+    "actual_url": "https://ek.ua/en/KAISER-KK-60825-EM.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Kaiser",
+    "model": "KK 60825 Em black",
+    "title": "Kaiser KK 60825 Em black",
+    "category": "E-Katalog category 200",
+    "year": 157,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 7
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "internal touch controls",
+    "energy_class_new": "C",
+    "annual_energy_consumption_kwh": 157,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 199.0,
+      "width": 60.0,
+      "depth": 72.5
+    },
+    "weight_kg": 65.0,
+    "country_of_origin": "Germany"
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general",
+      "Price for Kaiser KK 60825 Em"
+    ]
+  },
+  "description": "Fridge Kaiser KK 60825 Em black at a price from 95956 to 104299 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2990494.jpg",
+    "https://mzimg.com/big/x1/i6ufs5hkex1.jpg",
+    "https://mzimg.com/big/o1/i6ug77091o1.jpg",
+    "https://mzimg.com/big/l1/i6ug771qll1.jpg",
+    "https://mzimg.com/big/51/i6ug77i8j51.jpg",
+    "https://mzimg.com/big/l1/i6ug77su5l1.jpg",
+    "https://mzimg.com/big/k1/i6ug780rjk1.jpg",
+    "https://mzimg.com/big/g1/i6ugj6zzeg1.jpg",
+    "https://mzimg.com/big/k1/i6ugj70pek1.jpg",
+    "https://s.ek.ua/jpg/2990494.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Kaiser.com.ua →": "104 299 ₴",
+      "Royko.com.ua →": "99 086 ₴",
+      "ТЕХНОточка →": "95 956 ₴",
+      "Colour Total capacity 330 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 Inverter compressor No Frost freezer location Features Features LED display More features retro design Refrigeration chamber Refrigerator capacity 234 L Number of shelves 4 Storage compartments bottle rack Fast cool Dynamic air cooling Auto-defrost LED lighting": "October 2025",
+      "Total capacity": "330 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer location",
+      "Features": "LED display",
+      "More features": "retro design",
+      "Refrigerator capacity": "234 L",
+      "Number of shelves": "4",
+      "Storage compartments": "bottle rack",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "96 L",
+      "Freezer drawers": "3",
+      "Controls": "internal touch controls",
+      "Energy class (new)": "C",
+      "Energy consumption per year": "157 kWh",
+      "Climate class": "SN, N, ST (+10...+38 °С)",
+      "Noise class": "C",
+      "Noise level": "38 dB",
+      "Dimensions (HxWxD)": "199х60х72.5 cm",
+      "Weight": "65 kg",
+      "Country of origin": "Germany",
+      "Official Website": "kaiser.com.ua",
+      "Added to E-Catalog": "October 2025",
+      "Inverter compressor": "yes",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    },
+    "Price for Kaiser KK 60825 Em": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\kaiser_kk_60825_em\\images\\01.jpg",
+    "missing_refrigerators\\kaiser_kk_60825_em\\images\\02.jpg",
+    "missing_refrigerators\\kaiser_kk_60825_em\\images\\03.jpg",
+    "missing_refrigerators\\kaiser_kk_60825_em\\images\\04.jpg",
+    "missing_refrigerators\\kaiser_kk_60825_em\\images\\05.jpg",
+    "missing_refrigerators\\kaiser_kk_60825_em\\images\\06.jpg",
+    "missing_refrigerators\\kaiser_kk_60825_em\\images\\07.jpg",
+    "missing_refrigerators\\kaiser_kk_60825_em\\images\\08.jpg",
+    "missing_refrigerators\\kaiser_kk_60825_em\\images\\09.jpg",
+    "missing_refrigerators\\kaiser_kk_60825_em\\images\\10.jpg"
+  ]
+}

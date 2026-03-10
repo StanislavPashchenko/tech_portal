@@ -1,0 +1,152 @@
+{
+  "source": {
+    "url": "https://ek.ua/ECG-ERB-21500-WF.htm",
+    "actual_url": "https://ek.ua/ECG-ERB-21500-WF.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "ECG",
+    "model": "ERB 21500 WF белый",
+    "title": "Холодильник ECG ERB 21500 WF белый",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 174,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 115,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 59,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 6,
+    "freezing_capacity_kg_per_day": 2
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": "F",
+    "annual_energy_consumption_kwh": 244,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 150.0,
+      "width": 47.0,
+      "depth": 51.0
+    },
+    "weight_kg": 34.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник ECG ERB 21500 WF белый по цене от 13063 до 13305 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2605115.jpg",
+    "https://mzimg.com/big/f1/hlnkol599f1.jpg",
+    "https://mzimg.com/big/m1/hlnkol626m1.jpg",
+    "https://mzimg.com/big/j1/hlnkoljcvj1.jpg",
+    "https://mzimg.com/big/31/hlnkollk631.jpg",
+    "https://mzimg.com/big/l1/hlnkolusol1.jpg",
+    "https://mzimg.com/big/i1/hlnkom0ryi1.jpg",
+    "https://mzimg.com/big/w1/hlnkomb0cw1.jpg",
+    "https://mzimg.com/big/c1/hlnkomfskc1.jpg",
+    "https://mzimg.com/big/d1/hlnkompagd1.jpg",
+    "https://mzimg.com/big/j1/hlnkomuzhj1.jpg",
+    "https://mzimg.com/big/h1/hlnkon5ioh1.jpg",
+    "https://s.ek.ua/jpg/2605115.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 12": "13 063 грн.",
+      "Palladium.ua →": "13 063 грн.",
+      "Цвет Общий объем 174 л Количество камер 2 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Функции перевешивание дверей Холодильное отделение Объем холодильной камеры 115 л Полок 3 шт Автоматическая разморозка LED освещение Морозильное отделение Морозильная камера снизу Объем морозильной камеры 59 л Отделений морозильной камеры 3 шт Температура морозилки -18 °C Время сохранения холода 6 ч Мощность замораживания 2 кг/сутки": "январь 2024",
+      "Общий объем": "174 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Функции": "перевешивание дверей",
+      "Объем холодильной камеры": "115 л",
+      "Полок": "3 шт",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "59 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Температура морозилки": "-18 °C",
+      "Время сохранения холода": "6 ч",
+      "Мощность замораживания": "2 кг/сутки",
+      "Управление": "поворотные переключатели",
+      "Класс энергопотребления (new)": "F",
+      "Потребление энергии в год": "244 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Класс шумности": "C",
+      "Уровень шума": "39 дБ",
+      "Габариты (ВхШхГ)": "150x47x51 см",
+      "Вес": "34 кг",
+      "Официальный сайт": "ecg-electro.eu",
+      "Дата добавления на E-Katalog": "январь 2024",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\ecg_erb_21500_wf\\images\\01.jpg",
+    "missing_refrigerators\\ecg_erb_21500_wf\\images\\02.jpg",
+    "missing_refrigerators\\ecg_erb_21500_wf\\images\\03.jpg",
+    "missing_refrigerators\\ecg_erb_21500_wf\\images\\04.jpg",
+    "missing_refrigerators\\ecg_erb_21500_wf\\images\\05.jpg",
+    "missing_refrigerators\\ecg_erb_21500_wf\\images\\06.jpg",
+    "missing_refrigerators\\ecg_erb_21500_wf\\images\\07.jpg",
+    "missing_refrigerators\\ecg_erb_21500_wf\\images\\08.jpg",
+    "missing_refrigerators\\ecg_erb_21500_wf\\images\\09.jpg",
+    "missing_refrigerators\\ecg_erb_21500_wf\\images\\10.jpg",
+    "missing_refrigerators\\ecg_erb_21500_wf\\images\\11.jpg",
+    "missing_refrigerators\\ecg_erb_21500_wf\\images\\12.jpg",
+    "missing_refrigerators\\ecg_erb_21500_wf\\images\\13.jpg"
+  ]
+}

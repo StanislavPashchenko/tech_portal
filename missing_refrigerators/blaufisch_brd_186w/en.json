@@ -1,0 +1,138 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/BLAUFISCH-BRD-186W.htm",
+    "actual_url": "https://ek.ua/en/BLAUFISCH-BRD-186W.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Blaufisch",
+    "model": "BRD-186W white",
+    "title": "Blaufisch BRD-186W white",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 8
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knobs",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": null,
+    "climate_class": [
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 42,
+    "dimensions_cm": {
+      "height": 186.0,
+      "width": 60.0,
+      "depth": 59.5
+    },
+    "weight_kg": 56.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general",
+      "Price for Blaufisch BRD-186W"
+    ]
+  },
+  "description": "Fridge Blaufisch BRD-186W white at a price from 12984 to 14999 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2889747.jpg",
+    "https://mzimg.com/big/o1/i114s3eluo1.jpg",
+    "https://mzimg.com/big/y1/i114s3f7zy1.jpg",
+    "https://mzimg.com/big/61/iadvml0bi61.jpg",
+    "https://s.ek.ua/jpg/2889747.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 4": "14 479 ₴",
+      "Elmag.ua →": "13 486 ₴",
+      "Tehnomaster.com →": "14 999 ₴",
+      "Tehnomarket.ua →": "14 999 ₴",
+      "Enko.com.ua →": "14 156 ₴",
+      "Elmir.ua →": "14 479 ₴",
+      "Colour Total capacity 312 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 Features More features hidden door handles Refrigeration chamber Refrigerator capacity 223 L Number of shelves 4 Auto-defrost LED lighting Freezer chamber Freezer compartment bottom Freezer capacity 89 L Freezer drawers 3 Freezer temperature -18 °C Autonomy time 13 h Freeze capacity 4 kg/day": "May 2025",
+      "Total capacity": "312 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "223 L",
+      "Number of shelves": "4",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "89 L",
+      "Freezer drawers": "3",
+      "Freezer temperature": "-18 °C",
+      "Autonomy time": "13 h",
+      "Freeze capacity": "4 kg/day",
+      "Controls": "rotary knobs",
+      "Energy class": "A+",
+      "Climate class": "N, ST (+16...+38 °С)",
+      "Noise level": "42 dB",
+      "Dimensions (HxWxD)": "186х60х59.5 cm",
+      "Weight": "56 kg",
+      "Official Website": "blaufisch.com.ua",
+      "Added to E-Catalog": "May 2025",
+      "LED lighting": "yes",
+      "Auto-defrost": "yes"
+    },
+    "Price for Blaufisch BRD-186W": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\blaufisch_brd_186w\\images\\01.jpg",
+    "missing_refrigerators\\blaufisch_brd_186w\\images\\02.jpg",
+    "missing_refrigerators\\blaufisch_brd_186w\\images\\03.jpg",
+    "missing_refrigerators\\blaufisch_brd_186w\\images\\04.jpg",
+    "missing_refrigerators\\blaufisch_brd_186w\\images\\05.jpg"
+  ]
+}

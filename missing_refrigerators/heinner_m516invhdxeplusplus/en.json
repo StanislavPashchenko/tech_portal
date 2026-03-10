@@ -1,0 +1,136 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/HEINNER-M516INVHDXEPLUSPLUS.htm",
+    "actual_url": "https://ek.ua/en/HEINNER-M516INVHDXEPLUSPLUS.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Heinner",
+    "model": "M516INVHDXE++ graphite",
+    "title": "Heinner M516INVHDXE++ graphite",
+    "category": "E-Katalog category 200",
+    "year": 306,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "French door",
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 3,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "bottom (retractable)",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "external touch controls",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 306,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 189.8,
+      "width": 83.3,
+      "depth": 65.3
+    },
+    "weight_kg": 100.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Heinner M516INVHDXE++ graphite at a price from 35999 to 35999 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/3045864.jpg",
+    "https://mzimg.com/big/y1/iadq0x1b0y1.jpg",
+    "https://s.ek.ua/jpg/3045864.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "FOXTROT.UA →": "35 999 ₴",
+      "Colour Type French door Total capacity 516 L Number of chambers 3 Number of cooling circuits 3 Number of compressors 1 Inverter compressor No Frost freezer location Features Features child lock LED display door alarm More features hidden door handles Refrigeration chamber Refrigerator capacity 347 L Number of shelves 3 Storage compartments fresh zone Fast cool Dynamic air cooling Auto-defrost LED lighting": "February 2026",
+      "Type": "French door",
+      "Total capacity": "516 L",
+      "Number of chambers": "3",
+      "Number of cooling circuits": "3",
+      "Number of compressors": "1",
+      "No Frost": "freezer location",
+      "Features": "child lock LED display door alarm",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "347 L",
+      "Number of shelves": "3",
+      "Storage compartments": "fresh zone",
+      "Freezer compartment": "bottom (retractable)",
+      "Freezer capacity": "169 L",
+      "Freezer temperature": "-24 °C",
+      "Freeze capacity": "12 kg/day",
+      "Controls": "external touch controls",
+      "Energy class (new)": "E",
+      "Energy consumption per year": "306 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Noise class": "B",
+      "Noise level": "35 dB",
+      "Dimensions (HxWxD)": "189.8х83.3х65.3 cm",
+      "Weight": "100 kg",
+      "Official Website": "heinner.com",
+      "Added to E-Catalog": "February 2026",
+      "Inverter compressor": "yes",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\heinner_m516invhdxeplusplus\\images\\01.jpg",
+    "missing_refrigerators\\heinner_m516invhdxeplusplus\\images\\02.jpg",
+    "missing_refrigerators\\heinner_m516invhdxeplusplus\\images\\03.jpg"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "source": {
+    "url": "https://ek.ua/EDLER-ED-90DTW.htm",
+    "actual_url": "https://ek.ua/EDLER-ED-90DTW.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "EDLER",
+    "model": "ED-90DTW белый",
+    "title": "Холодильник EDLER ED-90DTW белый",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 84,
+    "cameras_count": 1,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 84,
+    "shelves_count": 2
+  },
+  "freezer_compartment": {
+    "location": "отсутствует",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": 109,
+    "climate_class": [
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 40,
+    "dimensions_cm": {
+      "height": 85.3,
+      "width": 47.4,
+      "depth": 44.6
+    },
+    "weight_kg": 23.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник EDLER ED-90DTW белый по цене от 6991 до 7061 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2618894.jpg",
+    "https://mzimg.com/big/w1/hmebumapiw1.jpg",
+    "https://s.ek.ua/jpg/2618894.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Elmag.ua →": "7 061 грн.",
+      "Цвет Общий объем 84 л Количество камер 1 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 84 л Полок 2 шт Отсеки для хранения низкотемпературный отсек": "февраль 2024",
+      "Общий объем": "84 л",
+      "Количество камер": "1",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "84 л",
+      "Полок": "2 шт",
+      "Отсеки для хранения": "низкотемпературный отсек",
+      "Морозильная камера": "отсутствует",
+      "Управление": "поворотные переключатели",
+      "Класс энергопотребления": "A+",
+      "Потребление энергии в год": "109 кВт*ч",
+      "Климатический класс": "N, ST (+16...+38 °С)",
+      "Уровень шума": "40 дБ",
+      "Габариты (ВхШхГ)": "85.3x47.4x44.6 см",
+      "Вес": "23 кг",
+      "Дата добавления на E-Katalog": "февраль 2024"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\edler_ed_90dtw\\images\\01.jpg",
+    "missing_refrigerators\\edler_ed_90dtw\\images\\02.jpg",
+    "missing_refrigerators\\edler_ed_90dtw\\images\\03.jpg"
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "source": {
+    "url": "https://ek.ua/MIDEA-MDRS-791-MIE33.htm",
+    "actual_url": "https://ek.ua/MIDEA-MDRS-791-MIE33.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Midea",
+    "model": "MDRS 791 MIE33 бежевый",
+    "title": "Холодильник Midea MDRS 791 MIE33 бежевый",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "Side-by-side",
+    "total_volume_l": 592,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 379,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "сбоку",
+    "volume_l": 213,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "сенсорное внешнее",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": 332,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 179.3,
+      "width": 91.0,
+      "depth": 69.8
+    },
+    "weight_kg": 86.0,
+    "country_of_origin": "Китай"
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Midea MDRS 791 MIE33 бежевый по цене от 34399 до 34399 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2610104.jpg",
+    "https://mzimg.com/big/91/hlyzr4dq591.jpg",
+    "https://mzimg.com/big/01/hlyzr4ec901.jpg",
+    "https://mzimg.com/big/p1/hlyzr4p7ap1.jpg",
+    "https://mzimg.com/big/81/hlyzr4pqd81.jpg",
+    "https://mzimg.com/big/s1/hlyzr4yqjs1.jpg",
+    "https://s.ek.ua/jpg/2610104.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 6": "34 399 грн. Купить! MIDEA MDRS791MIE33 575.in.ua С нами 5 лет Доставка: в Днепр из Киева Гарантия: от производителя Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Тип Side-by-side Общий объем 592 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 Инверторный компрессор No Frost морозильная / холодильная камеры Функции и возможности Функции управление со смартфона (Wi-Fi) защита от детей LED дисплей индикатор закрытия дверцы Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 379 л Полок 4 шт Отсеки для хранения полка для бутылок Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "январь 2024",
+      "Тип": "Side-by-side",
+      "Общий объем": "592 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "управление со смартфона (Wi-Fi) защита от детей LED дисплей индикатор закрытия дверцы",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "379 л",
+      "Полок": "4 шт",
+      "Отсеки для хранения": "полка для бутылок",
+      "Морозильная камера": "сбоку",
+      "Объем морозильной камеры": "213 л",
+      "Температура морозилки": "-24 °C",
+      "Управление": "сенсорное внешнее",
+      "Класс энергопотребления": "A+",
+      "Потребление энергии в год": "332 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Габариты (ВхШхГ)": "179.3х91х69.8 см",
+      "Вес": "86 кг",
+      "Страна производства": "Китай",
+      "Дата добавления на E-Katalog": "январь 2024",
+      "Инверторный компрессор": "да",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\midea_mdrs_791_mie33\\images\\01.jpg",
+    "missing_refrigerators\\midea_mdrs_791_mie33\\images\\02.jpg",
+    "missing_refrigerators\\midea_mdrs_791_mie33\\images\\03.jpg",
+    "missing_refrigerators\\midea_mdrs_791_mie33\\images\\04.jpg",
+    "missing_refrigerators\\midea_mdrs_791_mie33\\images\\05.jpg",
+    "missing_refrigerators\\midea_mdrs_791_mie33\\images\\06.jpg",
+    "missing_refrigerators\\midea_mdrs_791_mie33\\images\\07.jpg"
+  ]
+}

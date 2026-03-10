@@ -1,0 +1,154 @@
+{
+  "source": {
+    "url": "https://ek.ua/LIEBHERR-CN-4813.htm",
+    "actual_url": "https://ek.ua/LIEBHERR-CN-4813.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liebherr",
+    "model": "CN 4813 белый",
+    "title": "Холодильник Liebherr CN 4813 белый",
+    "category": "E-Katalog category 200",
+    "year": 2017,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 4813
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 338,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 243,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 95,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 26,
+    "freezing_capacity_kg_per_day": 9
+  },
+  "general": {
+    "control": "кнопочное внутреннее",
+    "energy_class_new": "A++",
+    "annual_energy_consumption_kwh": 228,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 42,
+    "dimensions_cm": {
+      "height": 201.0,
+      "width": 60.0,
+      "depth": 66.0
+    },
+    "weight_kg": 69.0,
+    "country_of_origin": "Болгария"
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general",
+      "Цены на Liebherr CN 4813"
+    ]
+  },
+  "description": "На первый взгляд, модель не выбивается из отряда себе подобных двухкамерных холодильников. Но её секреты кроются в деталях. Так, интегрированные ручки во всю высоту дверей обеспечивают удобный доступ к содержимому, интуитивная панель управления, сочетающая кнопки и цифровой дисплей, позволяет быстро установить режим работы устройства, а сменный уплотнитель двери с антибактериальным покрытием предотвращает проникновение внутрь Liebherr CN 4813 микробов. В оснащении устройства имеется две раздельных камеры, полезный объём которых равен 95 л для морозилки и 243 л для холодильного отделения. Температура в каждой камере устанавливается независимо от другой. Показания температуры в морозилке опускаются до -24°С в обычном режиме её функционирования и кратковременно переваливают за отметку -30°С при выборе программы быстрого замораживания SuperFrost. Вдобавок холодильник не расточителен в плане потребления электроэнергии — при соответствии классу А++ за год он «наматывает» всего 242 кВт света.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/1071432.jpg",
+    "https://mzimg.com/big/41/fdp0l76qj41.jpg",
+    "https://mzimg.com/big/m1/fdp0lc6j4m1.jpg",
+    "https://mzimg.com/big/s1/fdp0lccays1.jpg",
+    "https://mzimg.com/big/o1/fdp0lciu0o1.jpg",
+    "https://mzimg.com/big/p1/fdp0ldvv2p1.jpg",
+    "https://mzimg.com/big/e1/fdp0le1jhe1.jpg",
+    "https://mzimg.com/big/p1/fdp0lebgip1.jpg",
+    "https://s.ek.ua/jpg/1071432.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Видео 2 Фото 8": "49 362 грн. Купить! Холодильник Liebherr CN 4813 inSale.com.ua Менее года Доставка: в Днепр из Киева Гарантия: 12 мес. Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Общий объем 338 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 No Frost морозильная камера Функции и возможности Функции защита от детей LED дисплей индикатор закрытия дверцы перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 243 л Полок 4 шт Динамическое охлаждение Автоматическая разморозка LED освещение": "март 2017",
+      "Общий объем": "338 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная камера",
+      "Функции": "защита от детей LED дисплей индикатор закрытия дверцы перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "243 л",
+      "Полок": "4 шт",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "95 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Температура морозилки": "-24 °C",
+      "Время сохранения холода": "26 ч",
+      "Мощность замораживания": "9 кг/сутки",
+      "Управление": "кнопочное внутреннее",
+      "Класс энергопотребления": "A++",
+      "Потребление энергии в год": "228 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Уровень шума": "42 дБ",
+      "Габариты (ВхШхГ)": "201x60x66 см",
+      "Вес": "69 кг",
+      "Страна производства": "Болгария",
+      "Дата добавления на E-Katalog": "март 2017",
+      "Отзывы 4 Написать отзыв →": "1 0 2 1",
+      "Отзыв полезен? Да 1 Нет 0": "7 октября 2019",
+      "отличная модель, очень понравилось": "7 октября 2019",
+      "Отзыв полезен? Да 2 Нет 0": "9 ноября 2017",
+      "модель с серьезными недостатками": "9 ноября 2017",
+      "Отзыв полезен? Да 2 Нет 0 (2)": "29 августа 2017",
+      "хорошая модель, понравилось": "29 августа 2017",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    },
+    "Цены на Liebherr CN 4813": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\liebherr_cn_4813\\images\\01.jpg",
+    "missing_refrigerators\\liebherr_cn_4813\\images\\02.jpg",
+    "missing_refrigerators\\liebherr_cn_4813\\images\\03.jpg",
+    "missing_refrigerators\\liebherr_cn_4813\\images\\04.jpg",
+    "missing_refrigerators\\liebherr_cn_4813\\images\\05.jpg",
+    "missing_refrigerators\\liebherr_cn_4813\\images\\06.jpg",
+    "missing_refrigerators\\liebherr_cn_4813\\images\\07.jpg",
+    "missing_refrigerators\\liebherr_cn_4813\\images\\08.jpg",
+    "missing_refrigerators\\liebherr_cn_4813\\images\\09.jpg"
+  ]
+}

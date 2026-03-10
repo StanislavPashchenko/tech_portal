@@ -1,0 +1,130 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/SMEG-FQ55FXDE.htm",
+    "actual_url": "https://ek.ua/ua/SMEG-FQ55FXDE.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Smeg",
+    "model": "FQ55FXDE нержавіюча сталь",
+    "title": "Холодильник Smeg FQ55FXDE нержавіюча сталь",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "French-door (розпашний)",
+    "total_volume_l": 539,
+    "cameras_count": 3,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 387,
+    "shelves_count": null
+  },
+  "freezer_compartment": {
+    "location": "знизу (висувна)",
+    "volume_l": 152,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 19,
+    "freezing_capacity_kg_per_day": 10
+  },
+  "general": {
+    "control": "сенсорне зовнішнє",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 302,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 35,
+    "dimensions_cm": {
+      "height": 182.5,
+      "width": 84.0,
+      "depth": 78.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Smeg FQ55FXDE нержавіюча сталь за ціною від 146250 до 146250 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2623374.jpg",
+    "https://s.ek.ua/jpg/2623374.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Колір Тип French-door (розпашний) Загальний об'єм 539 л Кількість камер 3 Контурів охолодження 2 Компресорів 1 Інверторний компресор No Frost морозильна / холодильна камери Функції та можливості Функції режим відпустки захист від дітей LED дисплей індикатор закриття дверцят Холодильне відділення Об'єм холодильної камери 387 л Відсіки для зберігання зона свіжості Швидке охолодження Динамічне охолодження Автоматичне розморожування Дезодоратор LED освітлення": "лютий 2024",
+      "Тип": "French-door (розпашний)",
+      "Загальний об'єм": "539 л",
+      "Кількість камер": "3",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "режим відпустки захист від дітей LED дисплей індикатор закриття дверцят",
+      "Об'єм холодильної камери": "387 л",
+      "Відсіки для зберігання": "зона свіжості",
+      "Морозильна камера": "знизу (висувна)",
+      "Об'єм морозильної камери": "152 л",
+      "Температура морозилки": "-24 °C",
+      "Час збереження холоду": "19 год",
+      "Потужність заморожування": "10 кг/добу",
+      "Управління": "сенсорне зовнішнє",
+      "Клас енергоспоживання (new)": "E",
+      "Споживання енергії в рік": "302 кВт*год",
+      "Кліматичний клас": "SN, N, ST (+10...+38 °С)",
+      "Клас гучності": "D",
+      "Рівень шуму": "35 дБ",
+      "Габарити (ВхШхГ)": "182.5x84x78 см",
+      "Дата додавання на E-Katalog": "лютий 2024",
+      "Інверторний компресор": "так",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так",
+      "Дезодоратор": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\smeg_fq55fxde\\images\\01.jpg",
+    "missing_refrigerators\\smeg_fq55fxde\\images\\02.jpg"
+  ]
+}

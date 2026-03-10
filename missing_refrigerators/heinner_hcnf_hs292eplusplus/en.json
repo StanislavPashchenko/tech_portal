@@ -1,0 +1,138 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/HEINNER-HCNF-HS292EPLUSPLUS.htm",
+    "actual_url": "https://ek.ua/en/HEINNER-HCNF-HS292EPLUSPLUS.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Heinner",
+    "model": "HCNF-HS292E++ white",
+    "title": "Heinner HCNF-HS292E++ white",
+    "category": "E-Katalog category 200",
+    "year": 235,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3 / 2 drawers, 1 shelf /",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "internal touch controls",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 235,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 178.5,
+      "width": 59.5,
+      "depth": 59.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Heinner HCNF-HS292E++ white at a price from 15919 to 17999 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2842049.jpg",
+    "https://mzimg.com/big/l1/hy9t95hj7l1.jpg",
+    "https://mzimg.com/big/q1/hy9t95iqzq1.jpg",
+    "https://s.ek.ua/jpg/2842049.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 3": "16 139 ₴",
+      "FOXTROT.UA →": "16 632 ₴",
+      "ТЕХНОточка →": "17 039 ₴",
+      "Венкон →": "16 990 ₴",
+      "Tehnomaster.com →": "17 305 ₴",
+      "Enko.com.ua →": "16 139 ₴",
+      "Colour Total capacity 292 L Number of chambers 2 Number of cooling circuits 1 Number of compressors 1 No Frost freezer / refrigerator compartments Features Features holiday mode More features hidden door handles Refrigeration chamber Refrigerator capacity 207 L Number of shelves 4 Fast cool Dynamic air cooling Auto-defrost LED lighting": "February 2025",
+      "Total capacity": "292 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "holiday mode",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "207 L",
+      "Number of shelves": "4",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "85 L",
+      "Freezer drawers": "3 / 2 drawers, 1 shelf /",
+      "Freeze capacity": "5 kg/day",
+      "Controls": "internal touch controls",
+      "Energy class (new)": "E",
+      "Energy consumption per year": "235 kWh",
+      "Climate class": "SN, N, ST (+10...+38 °С)",
+      "Noise class": "C",
+      "Noise level": "39 dB",
+      "Dimensions (HxWxD)": "178.5х59.5х59 cm",
+      "Official Website": "heinner.com",
+      "Added to E-Catalog": "February 2025",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\heinner_hcnf_hs292eplusplus\\images\\01.jpg",
+    "missing_refrigerators\\heinner_hcnf_hs292eplusplus\\images\\02.jpg",
+    "missing_refrigerators\\heinner_hcnf_hs292eplusplus\\images\\03.jpg",
+    "missing_refrigerators\\heinner_hcnf_hs292eplusplus\\images\\04.jpg"
+  ]
+}

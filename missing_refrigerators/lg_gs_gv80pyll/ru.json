@@ -1,0 +1,153 @@
+{
+  "source": {
+    "url": "https://ek.ua/LG-GS-GV80PYLL.htm",
+    "actual_url": "https://ek.ua/LG-GS-GV80PYLL.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "LG",
+    "model": "GS-GV80PYLL серебристый",
+    "title": "Холодильник LG GS-GV80PYLL серебристый",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "Side-by-side",
+    "total_volume_l": 635,
+    "cameras_count": 3,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": false,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 416,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "сбоку",
+    "volume_l": 219,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": 12
+  },
+  "general": {
+    "control": "сенсорное внутреннее",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 350,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 36,
+    "dimensions_cm": {
+      "height": 179.0,
+      "width": 91.3,
+      "depth": 73.5
+    },
+    "weight_kg": 138.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник LG GS-GV80PYLL серебристый по цене от 81599 до 91057 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2848426.jpg",
+    "https://mzimg.com/big/31/hynrkgu2931.jpg",
+    "https://mzimg.com/big/71/hynrkhu0b71.jpg",
+    "https://mzimg.com/big/f1/hynrki0qef1.jpg",
+    "https://mzimg.com/big/c1/hynrkgwx8c1.jpg",
+    "https://mzimg.com/big/w1/hynrkh6bfw1.jpg",
+    "https://mzimg.com/big/b1/hynrkhejqb1.jpg",
+    "https://mzimg.com/big/a1/hynrkhm5ta1.jpg",
+    "https://mzimg.com/big/j1/hynrki4fij1.jpg",
+    "https://mzimg.com/big/w1/hynrkidizw1.jpg",
+    "https://mzimg.com/big/41/hynrkifdq41.jpg",
+    "https://mzimg.com/big/v1/hynrkiphzv1.jpg",
+    "https://s.ek.ua/jpg/2848426.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 17": "91 057 грн.",
+      "PermyCo →": "91 057 грн.",
+      "Цвет Тип Side-by-side Общий объем 635 л Количество камер 3 Контуров охлаждения 2 Компрессоров 1 Инверторный компрессор No Frost морозильная / холодильная камеры Функции и возможности Функции управление со смартфона (Wi-Fi) защита от детей LED дисплей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 416 л Полок 4 шт Отсеки для хранения полка для бутылок Диспенсер холодной воды внешний Быстрый доступ (мини-бар) / InstaView / Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "февраль 2025",
+      "Тип": "Side-by-side",
+      "Общий объем": "635 л",
+      "Количество камер": "3",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "управление со смартфона (Wi-Fi) защита от детей LED дисплей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "416 л",
+      "Полок": "4 шт",
+      "Отсеки для хранения": "полка для бутылок",
+      "Диспенсер холодной воды": "внешний",
+      "Быстрый доступ (мини-бар)": "/ InstaView /",
+      "Морозильная камера": "сбоку",
+      "Объем морозильной камеры": "219 л",
+      "Мощность замораживания": "12 кг/сутки",
+      "Ледогенератор": "внешний диспенсер",
+      "Управление": "сенсорное внутреннее",
+      "Класс энергопотребления (new)": "E",
+      "Потребление энергии в год": "350 кВт*ч",
+      "Класс шумности": "C",
+      "Уровень шума": "36 дБ",
+      "Габариты (ВхШхГ)": "179х91.3х73.5 см",
+      "Вес": "138 кг",
+      "Официальный сайт": "lg.com",
+      "Дата добавления на E-Katalog": "февраль 2025",
+      "Инверторный компрессор": "да",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\lg_gs_gv80pyll\\images\\01.jpg",
+    "missing_refrigerators\\lg_gs_gv80pyll\\images\\02.jpg",
+    "missing_refrigerators\\lg_gs_gv80pyll\\images\\03.jpg",
+    "missing_refrigerators\\lg_gs_gv80pyll\\images\\04.jpg",
+    "missing_refrigerators\\lg_gs_gv80pyll\\images\\05.jpg",
+    "missing_refrigerators\\lg_gs_gv80pyll\\images\\06.jpg",
+    "missing_refrigerators\\lg_gs_gv80pyll\\images\\07.jpg",
+    "missing_refrigerators\\lg_gs_gv80pyll\\images\\08.jpg",
+    "missing_refrigerators\\lg_gs_gv80pyll\\images\\09.jpg",
+    "missing_refrigerators\\lg_gs_gv80pyll\\images\\10.jpg",
+    "missing_refrigerators\\lg_gs_gv80pyll\\images\\11.jpg",
+    "missing_refrigerators\\lg_gs_gv80pyll\\images\\12.jpg",
+    "missing_refrigerators\\lg_gs_gv80pyll\\images\\13.jpg"
+  ]
+}

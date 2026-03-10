@@ -1,0 +1,148 @@
+{
+  "source": {
+    "url": "https://ek.ua/BEKO-GNO-5322-XPN.htm",
+    "actual_url": "https://ek.ua/BEKO-GNO-5322-XPN.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Beko",
+    "model": "GNO 5322 XPN нержавейка",
+    "title": "Холодильник Beko GNO 5322 XPN нержавейка",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "Side-by-side",
+    "total_volume_l": 532,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 347,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "сбоку",
+    "volume_l": 185,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": 14
+  },
+  "general": {
+    "control": "сенсорное внешнее",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 313,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 39,
+    "dimensions_cm": {
+      "height": 177.0,
+      "width": 90.0,
+      "depth": 66.0
+    },
+    "weight_kg": 89.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Большой и вместительный холодильник Side-by-side, объединяющий в одном корпусе два полноразмерных отделения для охлаждения и заморозки продуктов. Модель была представлена на рынке брендом Beko в 2023 году, позиционируется производителем в верхний сегмент среднего ценового диапазона и может послужить отличным выбором для больших семейств. Общая полезная вместительность модели составляет 532 л. За дверцей холодильной камеры предусмотрено 347 л свободного пространства, а в морозилку помещается до 185 л. Модель использует компрессор с запатентованной инверторной технологией ProSmart. Такой компрессор обеспечивает бесступенчатую регулировку производительности, снижая при этом рабочий шум и энергопотребление. Холодильник Beko GNO 5322 XPN во время работы создают шум не выше 39 дБ. Модель снабжена системой автоматического размораживания. Холодильник имеет два контура циркуляции, что расширяет возможности для тонкой настройки температурного режима в зонах охлаждения и заморозки. Есть экономичный режим Eco, доступна и отдельная программа «Отпуск». Панель управления имеет систему блокировки от детей, а рабочие параметры устройства отображаются на LED-экране. При неплотно закрытой дверце сработает звуковое оповещение. Для дверных створок используются аккуратные скрытые ручки.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2579151.jpg",
+    "https://mzimg.com/big/k1/hk20gvy6xk1.jpg",
+    "https://mzimg.com/big/t1/hk20gw1tht1.jpg",
+    "https://mzimg.com/big/41/hk20gw9f041.jpg",
+    "https://mzimg.com/big/m1/hk20gweilm1.jpg",
+    "https://mzimg.com/big/41/hk20gwmdj41.jpg",
+    "https://mzimg.com/big/d1/hk20gwpyud1.jpg",
+    "https://mzimg.com/big/41/hk20gwxe041.jpg",
+    "https://mzimg.com/big/p1/hk20gx1skp1.jpg",
+    "https://s.ek.ua/jpg/2579151.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 9": "от 40 318 грн. Купить! Холодильник Beko Gno5322xpn Повний мороз 177 см Novateh.com.ua Менее года Доставка: в Днепр из Новояворовска Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Тип Side-by-side Общий объем 532 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 Инверторный компрессор No Frost морозильная / холодильная камеры Функции и возможности Функции режим отпуска защита от детей LED дисплей индикатор закрытия дверцы Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 347 л Полок 4 шт Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "ноябрь 2023",
+      "Тип": "Side-by-side",
+      "Общий объем": "532 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "режим отпуска защита от детей LED дисплей индикатор закрытия дверцы",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "347 л",
+      "Полок": "4 шт",
+      "Морозильная камера": "сбоку",
+      "Объем морозильной камеры": "185 л",
+      "Температура морозилки": "-22 °C",
+      "Мощность замораживания": "14 кг/сутки",
+      "Управление": "сенсорное внешнее",
+      "Класс энергопотребления (new)": "E",
+      "Потребление энергии в год": "313 кВт*ч",
+      "Климатический класс": "SN, N, ST (+10...+38 °С)",
+      "Класс шумности": "C",
+      "Уровень шума": "39 дБ",
+      "Габариты (ВхШхГ)": "177x90x66 см",
+      "Вес": "89 кг",
+      "Официальный сайт": "beko.com",
+      "Дата добавления на E-Katalog": "ноябрь 2023",
+      "Инверторный компрессор": "да",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\beko_gno_5322_xpn\\images\\01.jpg",
+    "missing_refrigerators\\beko_gno_5322_xpn\\images\\02.jpg",
+    "missing_refrigerators\\beko_gno_5322_xpn\\images\\03.jpg",
+    "missing_refrigerators\\beko_gno_5322_xpn\\images\\04.jpg",
+    "missing_refrigerators\\beko_gno_5322_xpn\\images\\05.jpg",
+    "missing_refrigerators\\beko_gno_5322_xpn\\images\\06.jpg",
+    "missing_refrigerators\\beko_gno_5322_xpn\\images\\07.jpg",
+    "missing_refrigerators\\beko_gno_5322_xpn\\images\\08.jpg",
+    "missing_refrigerators\\beko_gno_5322_xpn\\images\\09.jpg",
+    "missing_refrigerators\\beko_gno_5322_xpn\\images\\10.jpg"
+  ]
+}

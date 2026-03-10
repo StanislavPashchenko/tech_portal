@@ -1,0 +1,158 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/AMICA-FK-3706D-5-DFXCM-D.htm",
+    "actual_url": "https://ek.ua/ua/AMICA-FK-3706D-5-DFXCM-D.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Amica",
+    "model": "FK 3706D.5 DFXCM (D) чорний (1195276)",
+    "title": "Холодильник Amica FK 3706D.5 DFXCM (D) чорний (1195276)",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 405,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 285,
+    "shelves_count": 5
+  },
+  "freezer_compartment": {
+    "location": "знизу",
+    "volume_l": 120,
+    "sections_count": 3,
+    "sections_details": "3 шт / 2 ящики, 1 полиця /",
+    "cold_storage_time_h": 8,
+    "freezing_capacity_kg_per_day": 6
+  },
+  "general": {
+    "control": "сенсорне зовнішнє",
+    "energy_class_new": "D",
+    "annual_energy_consumption_kwh": 223,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 37,
+    "dimensions_cm": {
+      "height": 200.0,
+      "width": 59.5,
+      "depth": 66.0
+    },
+    "weight_kg": 67.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Amica FK 3706D.5 DFXCM (D) чорний (1195276) за ціною від 36415 до 36415 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2939175.jpg",
+    "https://mzimg.com/big/g1/i3v4wf0e1g1.jpg",
+    "https://mzimg.com/big/11/i3v4wf1k311.jpg",
+    "https://mzimg.com/big/h1/i3v4wfjxhh1.jpg",
+    "https://mzimg.com/big/c1/i3v4wfv3ic1.jpg",
+    "https://mzimg.com/big/r1/i3v4wg8tjr1.jpg",
+    "https://mzimg.com/big/41/i3v4wgenr41.jpg",
+    "https://mzimg.com/big/o1/i3v4wgx0ko1.jpg",
+    "https://mzimg.com/big/t1/i3v4wh4dkt1.jpg",
+    "https://mzimg.com/big/d1/i3v4whisnd1.jpg",
+    "https://mzimg.com/big/q1/i3v4whs5vq1.jpg",
+    "https://mzimg.com/big/k1/i3v4wia07k1.jpg",
+    "https://s.ek.ua/jpg/2939175.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 19": "36 415 грн. Купити! Холодильник Amica FK3706D.5DFXCM (D) Full No Frost 200 см black Inox FK3706D5DD Novateh.com.ua Менше року Доставка: у Дніпро з Новояворівська Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 405 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 Інверторний компресор No Frost морозильна / холодильна камери Функції та можливості Функції захист від дітей LED дисплей індикатор закриття дверцят перевішування дверей Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 285 л Полиць 5 шт Складана полиця Відсіки для зберігання зона свіжості зона вологості Швидке охолодження Динамічне охолодження Автоматичне розморожування LED освітлення": "1195276",
+      "Загальний об'єм": "405 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "захист від дітей LED дисплей індикатор закриття дверцят перевішування дверей",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "285 л",
+      "Полиць": "5 шт",
+      "Відсіки для зберігання": "зона свіжості зона вологості",
+      "Морозильна камера": "знизу",
+      "Об'єм морозильної камери": "120 л",
+      "Відділень морозильної камери": "3 шт / 2 ящики, 1 полиця /",
+      "Температура морозилки": "-24 °C",
+      "Час збереження холоду": "8 год",
+      "Потужність заморожування": "5.5 кг/добу",
+      "Управління": "сенсорне зовнішнє",
+      "Клас енергоспоживання (new)": "D",
+      "Споживання енергії в рік": "223 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Клас гучності": "C",
+      "Рівень шуму": "37 дБ",
+      "Габарити (ВхШхГ)": "200х59.5х66 см",
+      "Вага": "67 кг",
+      "Офіційний сайт": "amica.pl",
+      "Дата додавання на E-Katalog": "липень 2025",
+      "Маркування виробника": "1195276",
+      "Інверторний компресор": "так",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\amica_fk_3706d_5_dfxcm_d\\images\\01.jpg",
+    "missing_refrigerators\\amica_fk_3706d_5_dfxcm_d\\images\\02.jpg",
+    "missing_refrigerators\\amica_fk_3706d_5_dfxcm_d\\images\\03.jpg",
+    "missing_refrigerators\\amica_fk_3706d_5_dfxcm_d\\images\\04.jpg",
+    "missing_refrigerators\\amica_fk_3706d_5_dfxcm_d\\images\\05.jpg",
+    "missing_refrigerators\\amica_fk_3706d_5_dfxcm_d\\images\\06.jpg",
+    "missing_refrigerators\\amica_fk_3706d_5_dfxcm_d\\images\\07.jpg",
+    "missing_refrigerators\\amica_fk_3706d_5_dfxcm_d\\images\\08.jpg",
+    "missing_refrigerators\\amica_fk_3706d_5_dfxcm_d\\images\\09.jpg",
+    "missing_refrigerators\\amica_fk_3706d_5_dfxcm_d\\images\\10.jpg",
+    "missing_refrigerators\\amica_fk_3706d_5_dfxcm_d\\images\\11.jpg",
+    "missing_refrigerators\\amica_fk_3706d_5_dfxcm_d\\images\\12.jpg",
+    "missing_refrigerators\\amica_fk_3706d_5_dfxcm_d\\images\\13.jpg"
+  ]
+}

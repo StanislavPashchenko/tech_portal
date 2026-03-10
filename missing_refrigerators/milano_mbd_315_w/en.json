@@ -1,0 +1,121 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/MILANO-MBD-315-W.htm",
+    "actual_url": "https://ek.ua/en/MILANO-MBD-315-W.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Milano",
+    "model": "MBD 315 W white",
+    "title": "Milano MBD 315 W white",
+    "category": "E-Katalog category 200",
+    "year": 273,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knobs",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": 273,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 42,
+    "dimensions_cm": {
+      "height": 185.0,
+      "width": 60.0,
+      "depth": 60.0
+    },
+    "weight_kg": 58.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Milano MBD 315 W white at a price from 13213 to 15499 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2760028.jpg",
+    "https://s.ek.ua/jpg/2760028.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Tendo.com.ua →": "13 860 ₴",
+      "ТЕХНОточка →": "13 716 ₴",
+      "Tehnomaster.com →": "13 500 ₴",
+      "MAUDAU →": "13 273 ₴",
+      "Rozetka.ua →": "14 771 ₴",
+      "Colour Total capacity 310 L Number of chambers 2 Number of cooling circuits 1 Number of compressors 1 Features More features hidden door handles Refrigeration chamber Refrigerator capacity 223 L Number of shelves 3 Auto-defrost": "September 2024",
+      "Total capacity": "310 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "223 L",
+      "Number of shelves": "3",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "87 L",
+      "Freezer drawers": "3",
+      "Controls": "rotary knobs",
+      "Energy class": "A+",
+      "Energy consumption per year": "273 kWh",
+      "Noise level": "42 dB",
+      "Dimensions (HxWxD)": "185х60х60 cm",
+      "Weight": "58 kg",
+      "Added to E-Catalog": "September 2024",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\milano_mbd_315_w\\images\\01.jpg",
+    "missing_refrigerators\\milano_mbd_315_w\\images\\02.jpg"
+  ]
+}

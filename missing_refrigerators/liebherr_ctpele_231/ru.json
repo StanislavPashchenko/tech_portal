@@ -1,0 +1,137 @@
+{
+  "source": {
+    "url": "https://ek.ua/LIEBHERR-CTPELE-231.htm",
+    "actual_url": "https://ek.ua/LIEBHERR-CTPELE-231.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liebherr",
+    "model": "CTPele 231 нержавейка",
+    "title": "Холодильник Liebherr CTPele 231 нержавейка",
+    "category": "E-Katalog category 200",
+    "year": 2024,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 234,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 190,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "сверху",
+    "volume_l": 44,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 17,
+    "freezing_capacity_kg_per_day": 2
+  },
+  "general": {
+    "control": "поворотные переключатели",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 181,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 37,
+    "dimensions_cm": {
+      "height": 140.1,
+      "width": 55.0,
+      "depth": 63.0
+    },
+    "weight_kg": 49.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Liebherr CTPele 231 нержавейка по цене от 22843 до 27568 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2692012.jpg",
+    "https://mzimg.com/big/s1/hpw8tgcjps1.jpg",
+    "https://mzimg.com/big/p1/hpw8tgf5ap1.jpg",
+    "https://mzimg.com/big/f1/hpw8tgp53f1.jpg",
+    "https://mzimg.com/big/d1/hpw8tgurdd1.jpg",
+    "https://mzimg.com/big/e1/hpw8th4ufe1.jpg",
+    "https://s.ek.ua/jpg/2692012.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 6": "22 843 грн.",
+      "Novateh.com.ua →": "22 843 грн.",
+      "Цвет Общий объем 234 л Количество камер 2 Контуров охлаждения 1 Компрессоров 1 Функции и возможности Функции перевешивание дверей Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 190 л Полок 3 шт Автоматическая разморозка LED освещение": "май 2024",
+      "Общий объем": "234 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "Функции": "перевешивание дверей",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "190 л",
+      "Полок": "3 шт",
+      "Морозильная камера": "сверху",
+      "Объем морозильной камеры": "44 л",
+      "Время сохранения холода": "17 ч",
+      "Мощность замораживания": "2.5 кг/сутки",
+      "Управление": "поворотные переключатели",
+      "Класс энергопотребления (new)": "E",
+      "Потребление энергии в год": "181 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Уровень шума": "37 дБ",
+      "Габариты (ВхШхГ)": "140.1x55x63 см",
+      "Вес": "49 кг",
+      "Дата добавления на E-Katalog": "май 2024",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\liebherr_ctpele_231\\images\\01.jpg",
+    "missing_refrigerators\\liebherr_ctpele_231\\images\\02.jpg",
+    "missing_refrigerators\\liebherr_ctpele_231\\images\\03.jpg",
+    "missing_refrigerators\\liebherr_ctpele_231\\images\\04.jpg",
+    "missing_refrigerators\\liebherr_ctpele_231\\images\\05.jpg",
+    "missing_refrigerators\\liebherr_ctpele_231\\images\\06.jpg",
+    "missing_refrigerators\\liebherr_ctpele_231\\images\\07.jpg"
+  ]
+}

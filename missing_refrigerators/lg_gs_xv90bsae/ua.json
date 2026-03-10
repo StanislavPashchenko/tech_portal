@@ -1,0 +1,152 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/LG-GS-XV90BSAE.htm",
+    "actual_url": "https://ek.ua/ua/LG-GS-XV90BSAE.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "LG",
+    "model": "GS-XV90BSAE нержавіюча сталь",
+    "title": "Холодильник LG GS-XV90BSAE нержавіюча сталь",
+    "category": "E-Katalog category 200",
+    "year": 2023,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "Side-by-side",
+    "total_volume_l": 635,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 416,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "збоку",
+    "volume_l": 219,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "сенсорне внутрішнє",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 348,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 36,
+    "dimensions_cm": {
+      "height": 179.1,
+      "width": 91.3,
+      "depth": 73.5
+    },
+    "weight_kg": 137.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник LG GS-XV90BSAE нержавіюча сталь за ціною від 79560 до 85784 грн. >>> E-Katalog - каталог порівняння цін та характеристик ✔ Відгуки, огляди, інструкції.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2369332.jpg",
+    "https://mzimg.com/big/81/haffzblhn81.jpg",
+    "https://mzimg.com/big/11/haffzbmtm11.jpg",
+    "https://mzimg.com/big/b1/haffzc18gb1.jpg",
+    "https://mzimg.com/big/p1/haffzc3o3p1.jpg",
+    "https://mzimg.com/big/x1/haffzcfgex1.jpg",
+    "https://mzimg.com/big/01/haffzchg101.jpg",
+    "https://mzimg.com/big/91/haffzcstu91.jpg",
+    "https://mzimg.com/big/q1/haffzcvn8q1.jpg",
+    "https://mzimg.com/big/41/haffzd5a141.jpg",
+    "https://mzimg.com/big/p1/haffzd7uop1.jpg",
+    "https://s.ek.ua/jpg/2369332.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 11": "85 784 грн.",
+      "Hi-tech.com.ua →": "85 784 грн.",
+      "Колір Тип Side-by-side Загальний об'єм 635 л Кількість камер 2 Контурів охолодження 2 Компресорів 1 Інверторний компресор No Frost морозильна / холодильна камери Функції та можливості Функції керування зі смартфона (Wi-Fi) захист від дітей LED дисплей індикатор закриття дверцят Додатково приховані ручки дверей Холодильне відділення Об'єм холодильної камери 416 л Полиць 4 шт Відсіки для зберігання зона свіжості полиця для пляшок Диспенсер холодної води зовнішній Швидкий доступ (міні-бар) / InstaView / Швидке охолодження Динамічне охолодження Автоматичне розморожування LED освітлення": "січень 2023",
+      "Тип": "Side-by-side",
+      "Загальний об'єм": "635 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "2",
+      "Компресорів": "1",
+      "No Frost": "морозильна / холодильна камери",
+      "Функції": "керування зі смартфона (Wi-Fi) захист від дітей LED дисплей індикатор закриття дверцят",
+      "Додатково": "приховані ручки дверей",
+      "Об'єм холодильної камери": "416 л",
+      "Полиць": "4 шт",
+      "Відсіки для зберігання": "зона свіжості полиця для пляшок",
+      "Диспенсер холодної води": "зовнішній",
+      "Швидкий доступ (міні-бар)": "/ InstaView /",
+      "Морозильна камера": "збоку",
+      "Об'єм морозильної камери": "219 л",
+      "Температура морозилки": "-23 °C",
+      "Льодогенератор": "зовнішній диспенсер",
+      "Управління": "сенсорне внутрішнє",
+      "Клас енергоспоживання (new)": "E",
+      "Споживання енергії в рік": "348 кВт*год",
+      "Кліматичний клас": "тропічний Т (+18...+43 °С)",
+      "Клас гучності": "C",
+      "Рівень шуму": "36 дБ",
+      "Габарити (ВхШхГ)": "179.1x91.3x73.5 см",
+      "Вага": "137 кг",
+      "Офіційний сайт": "lg.com",
+      "Дата додавання на E-Katalog": "січень 2023",
+      "Інверторний компресор": "так",
+      "Швидке охолодження": "так",
+      "Динамічне охолодження": "так",
+      "Автоматичне розморожування": "так",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\lg_gs_xv90bsae\\images\\01.jpg",
+    "missing_refrigerators\\lg_gs_xv90bsae\\images\\02.jpg",
+    "missing_refrigerators\\lg_gs_xv90bsae\\images\\03.jpg",
+    "missing_refrigerators\\lg_gs_xv90bsae\\images\\04.jpg",
+    "missing_refrigerators\\lg_gs_xv90bsae\\images\\05.jpg",
+    "missing_refrigerators\\lg_gs_xv90bsae\\images\\06.jpg",
+    "missing_refrigerators\\lg_gs_xv90bsae\\images\\07.jpg",
+    "missing_refrigerators\\lg_gs_xv90bsae\\images\\08.jpg",
+    "missing_refrigerators\\lg_gs_xv90bsae\\images\\09.jpg",
+    "missing_refrigerators\\lg_gs_xv90bsae\\images\\10.jpg",
+    "missing_refrigerators\\lg_gs_xv90bsae\\images\\11.jpg",
+    "missing_refrigerators\\lg_gs_xv90bsae\\images\\12.jpg"
+  ]
+}

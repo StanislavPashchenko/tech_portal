@@ -1,0 +1,148 @@
+{
+  "source": {
+    "url": "https://ek.ua/BOSCH-KGN39LBCF.htm",
+    "actual_url": "https://ek.ua/BOSCH-KGN39LBCF.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Bosch",
+    "model": "KGN39LBCF черный",
+    "title": "Холодильник Bosch KGN39LBCF черный",
+    "category": "E-Katalog category 200",
+    "year": 2022,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 363,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": true,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 260,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 103,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": 15,
+    "freezing_capacity_kg_per_day": 10
+  },
+  "general": {
+    "control": "сенсорное внутреннее",
+    "energy_class_new": "C",
+    "annual_energy_consumption_kwh": 162,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 35,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 60.0,
+      "depth": 66.5
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Стильный, удобный в использовании и функциональный двухкамерный холодильник от популярного бренда Bosch, представленный производителем в рамках линейки Serie 6 в 2022 году. Прежде всего устройство может похвастаться хорошей вместительностью и раздельными контурами охлаждения рабочих камер. Общая полезная вместительность модели составляет 363 л. Холодильное отделение имеет объем в 260 л и оснащена четырьмя полками из закаленного стекла, при этом одна из полок имеет складную конструкцию Flex Shelf. Вместо стандартной задней стенки применяется металлическая панель Metal Backwall, которая позволяет сделать внутреннюю температуру более равномерной и стабильной. Двухкамерный холодильник Bosch KGN39LBCF снабжен комплектом ящиков VitaFresh XXL, предназначенные для хранения рыбы, мяса и овощей с фруктами при температуре около 0 °C. Морозилка емкостью 103 л размещена снизу, ее мощностей вполне достаточно для того, чтобы полностью замораживать до 10 кг продуктов в сутки. Верхний порог создаваемого во время работы холодильника шума не превышает 35 дБ. Устройство расходует электроэнергию в пределах 162 кВт*ч в год. Модель получила изолированный пожаробезопасный корпус, что позволяет придвигать аппарат к стенам и мебели без зазора.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2221763.jpg",
+    "https://mzimg.com/big/j1/h3hfiuh3cj1.jpg",
+    "https://mzimg.com/big/m1/h3hfiuihtm1.jpg",
+    "https://mzimg.com/big/81/h3hfiutgr81.jpg",
+    "https://mzimg.com/big/l1/h3hfiux5el1.jpg",
+    "https://mzimg.com/big/m1/h3hfiv5ekm1.jpg",
+    "https://mzimg.com/big/t1/h3hfiv9a4t1.jpg",
+    "https://mzimg.com/big/o1/h3hfivh8no1.jpg",
+    "https://mzimg.com/big/z1/h3hfivnzxz1.jpg",
+    "https://s.ek.ua/jpg/2221763.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 9": "от 47 011 грн. Купить! Холодильник Bosch KGN39LBCF Denika.ua С нами более 10-ти лет Доставка: в Днепр из Харькова Гарантия: 12 мес. Пожаловаться в список мои списки добавить в сравнение",
+      "Цвет Общий объем 363 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 No Frost морозильная / холодильная камеры Функции и возможности Функции индикатор закрытия дверцы Дополнительно скрытые дверные ручки Холодильное отделение Объем холодильной камеры 260 л Полок 4 шт Складная полка Отсеки для хранения зона свежести полка для бутылок Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "июнь 2022",
+      "Общий объем": "363 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "индикатор закрытия дверцы",
+      "Дополнительно": "скрытые дверные ручки",
+      "Объем холодильной камеры": "260 л",
+      "Полок": "4 шт",
+      "Отсеки для хранения": "зона свежести полка для бутылок",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "103 л",
+      "Температура морозилки": "-24 °C",
+      "Время сохранения холода": "15 ч",
+      "Мощность замораживания": "10 кг/сутки",
+      "Управление": "сенсорное внутреннее",
+      "Класс энергопотребления (new)": "C",
+      "Потребление энергии в год": "162 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Класс шумности": "B",
+      "Уровень шума": "35 дБ",
+      "Габариты (ВхШхГ)": "203x60x66.5 см",
+      "Официальный сайт": "bosch-home.pl",
+      "Дата добавления на E-Katalog": "июнь 2022",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\bosch_kgn39lbcf\\images\\01.jpg",
+    "missing_refrigerators\\bosch_kgn39lbcf\\images\\02.jpg",
+    "missing_refrigerators\\bosch_kgn39lbcf\\images\\03.jpg",
+    "missing_refrigerators\\bosch_kgn39lbcf\\images\\04.jpg",
+    "missing_refrigerators\\bosch_kgn39lbcf\\images\\05.jpg",
+    "missing_refrigerators\\bosch_kgn39lbcf\\images\\06.jpg",
+    "missing_refrigerators\\bosch_kgn39lbcf\\images\\07.jpg",
+    "missing_refrigerators\\bosch_kgn39lbcf\\images\\08.jpg",
+    "missing_refrigerators\\bosch_kgn39lbcf\\images\\09.jpg",
+    "missing_refrigerators\\bosch_kgn39lbcf\\images\\10.jpg"
+  ]
+}

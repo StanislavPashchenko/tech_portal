@@ -1,0 +1,138 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/MIDEA-MDRF-632-FIF22.htm",
+    "actual_url": "https://ek.ua/en/MIDEA-MDRF-632-FIF22.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Midea",
+    "model": "MDRF 632 FIF22 black",
+    "title": "Midea MDRF 632 FIF22 black",
+    "category": "E-Katalog category 200",
+    "year": 369,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "French door",
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 6,
+    "sections_details": "6",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "external touch controls",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": 369,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 43,
+    "dimensions_cm": {
+      "height": 177.0,
+      "width": 83.3,
+      "depth": 64.8
+    },
+    "weight_kg": null,
+    "country_of_origin": "China"
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Midea MDRF 632 FIF22 black at a price from 29999 to 29999 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2610099.jpg",
+    "https://mzimg.com/big/j1/hlyz1zj6kj1.jpg",
+    "https://mzimg.com/big/r1/hlyz1zleqr1.jpg",
+    "https://mzimg.com/big/01/hlyz200d201.jpg",
+    "https://s.ek.ua/jpg/2610099.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 4": "29 999 ₴ Buy! MIDEA MDRF632FIF22 575.in.ua 5 year with us Delivery: to Dnipro from Kyiv Warranty: manufacturer Report add to list my lists add to comparison",
+      "Colour Type French door Total capacity 474 L Number of chambers 3 Number of cooling circuits 2 Number of compressors 1 Inverter compressor No Frost freezer / refrigerator compartments Features Features holiday mode control via smartphone (Wi-Fi) child lock LED display door alarm More features glass door panel hidden door handles Refrigeration chamber Refrigerator capacity 300 L Number of shelves 3 Storage compartments fresh zone Fast cool Dynamic air cooling Auto-defrost LED lighting": "January 2024",
+      "Type": "French door",
+      "Total capacity": "474 L",
+      "Number of chambers": "3",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "holiday mode control via smartphone (Wi-Fi) child lock LED display door alarm",
+      "More features": "glass door panel hidden door handles",
+      "Refrigerator capacity": "300 L",
+      "Number of shelves": "3",
+      "Storage compartments": "fresh zone",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "124 L",
+      "Freezer drawers": "6",
+      "Autonomy time": "18 h",
+      "Freeze capacity": "10 kg/day",
+      "Controls": "external touch controls",
+      "Energy class": "A+",
+      "Energy consumption per year": "369 kWh",
+      "Climate class": "SN, N, ST (+10...+38 °С)",
+      "Noise level": "43 dB",
+      "Dimensions (HxWxD)": "177x83.3x64.8 cm",
+      "Country of origin": "China",
+      "Added to E-Catalog": "January 2024",
+      "Inverter compressor": "yes",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\midea_mdrf_632_fif22\\images\\01.jpg",
+    "missing_refrigerators\\midea_mdrf_632_fif22\\images\\02.jpg",
+    "missing_refrigerators\\midea_mdrf_632_fif22\\images\\03.jpg",
+    "missing_refrigerators\\midea_mdrf_632_fif22\\images\\04.jpg",
+    "missing_refrigerators\\midea_mdrf_632_fif22\\images\\05.jpg"
+  ]
+}

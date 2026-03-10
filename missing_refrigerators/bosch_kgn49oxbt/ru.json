@@ -1,0 +1,148 @@
+{
+  "source": {
+    "url": "https://ek.ua/BOSCH-KGN49OXBT.htm",
+    "actual_url": "https://ek.ua/BOSCH-KGN49OXBT.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Bosch",
+    "model": "KGN49OXBT черный",
+    "title": "Холодильник Bosch KGN49OXBT черный",
+    "category": "E-Katalog category 200",
+    "year": 2025,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 440,
+    "cameras_count": 2,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": true
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 311,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "снизу",
+    "volume_l": 129,
+    "sections_count": 3,
+    "sections_details": "3 шт",
+    "cold_storage_time_h": 21,
+    "freezing_capacity_kg_per_day": 12
+  },
+  "general": {
+    "control": "сенсорное внутреннее",
+    "energy_class_new": "B",
+    "annual_energy_consumption_kwh": 142,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 35,
+    "dimensions_cm": {
+      "height": 203.0,
+      "width": 70.0,
+      "depth": 66.7
+    },
+    "weight_kg": 95.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник Bosch KGN49OXBT черный по цене от 75686 до 75686 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2890084.jpg",
+    "https://mzimg.com/big/01/i14p5cxa201.jpg",
+    "https://mzimg.com/big/41/i14p5cxzk41.jpg",
+    "https://mzimg.com/big/c1/i14p5d87ec1.jpg",
+    "https://mzimg.com/big/p1/i14p5dbrrp1.jpg",
+    "https://mzimg.com/big/81/i14p5dihy81.jpg",
+    "https://mzimg.com/big/o1/i14p5djzro1.jpg",
+    "https://mzimg.com/big/31/i14p5dtpq31.jpg",
+    "https://mzimg.com/big/l1/i14pdqs72l1.jpg",
+    "https://s.ek.ua/jpg/2890084.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 9": "75 686 грн. Купить! Холодильник Bosch KGN49OXBT inSale.com.ua Менее года Доставка: в Днепр из Киева Гарантия: 12 мес. Пожаловаться в список мои списки добавить в сравнение 7 723 zł 86 498 грн. 1 491 £ 82 258 грн.",
+      "Цвет Общий объем 440 л Количество камер 2 Контуров охлаждения 2 Компрессоров 1 No Frost морозильная / холодильная камеры Функции и возможности Функции индикатор закрытия дверцы перевешивание дверей Холодильное отделение Объем холодильной камеры 311 л Полок 4 шт Отсеки для хранения зона свежести полка для бутылок Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "май 2025",
+      "Общий объем": "440 л",
+      "Количество камер": "2",
+      "Контуров охлаждения": "2",
+      "Компрессоров": "1",
+      "No Frost": "морозильная / холодильная камеры",
+      "Функции": "индикатор закрытия дверцы перевешивание дверей",
+      "Объем холодильной камеры": "311 л",
+      "Полок": "4 шт",
+      "Отсеки для хранения": "зона свежести полка для бутылок",
+      "Морозильная камера": "снизу",
+      "Объем морозильной камеры": "129 л",
+      "Отделений морозильной камеры": "3 шт",
+      "Время сохранения холода": "21 ч",
+      "Мощность замораживания": "11.5 кг/сутки",
+      "Управление": "сенсорное внутреннее",
+      "Класс энергопотребления (new)": "B",
+      "Потребление энергии в год": "142 кВт*ч",
+      "Климатический класс": "SN, N, ST, T (+10...+43 °С)",
+      "Класс шумности": "B",
+      "Уровень шума": "35 дБ",
+      "Габариты (ВхШхГ)": "203x70x66.7 см",
+      "Вес": "95 кг",
+      "Официальный сайт": "bosch-home.co.uk",
+      "Дата добавления на E-Katalog": "май 2025",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\bosch_kgn49oxbt\\images\\01.jpg",
+    "missing_refrigerators\\bosch_kgn49oxbt\\images\\02.jpg",
+    "missing_refrigerators\\bosch_kgn49oxbt\\images\\03.jpg",
+    "missing_refrigerators\\bosch_kgn49oxbt\\images\\04.jpg",
+    "missing_refrigerators\\bosch_kgn49oxbt\\images\\05.jpg",
+    "missing_refrigerators\\bosch_kgn49oxbt\\images\\06.jpg",
+    "missing_refrigerators\\bosch_kgn49oxbt\\images\\07.jpg",
+    "missing_refrigerators\\bosch_kgn49oxbt\\images\\08.jpg",
+    "missing_refrigerators\\bosch_kgn49oxbt\\images\\09.jpg",
+    "missing_refrigerators\\bosch_kgn49oxbt\\images\\10.jpg"
+  ]
+}

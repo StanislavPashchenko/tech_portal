@@ -1,0 +1,138 @@
+{% extends "base.html" %}
+{% load portal_tags %}
+
+{% block content %}
+{% if show_product_filters %}
+<section class="content-with-sidebar">
+    <div>
+        <section class="section-block">
+            <div class="section-heading">
+                <h2>{% if product_filters_active %}{{ page_heading }}{% else %}{% ui 'latest_products' %}{% endif %}</h2>
+            </div>
+            <div class="card-grid">
+                {% for product in products %}
+                    {% include "includes/product_card.html" with product=product %}
+                {% empty %}
+                    <p class="empty-state">{% ui 'no_results' %}</p>
+                {% endfor %}
+            </div>
+            {% include "includes/pagination.html" with page_obj=page_obj %}
+        </section>
+        <section class="section-block">
+            <div class="section-heading">
+                <div>
+                    <h1>{{ page_heading }}</h1>
+                    <p>{{ page_intro }}</p>
+                </div>
+            </div>
+            {% if product_brands and not product_filters_active %}
+            <div class="card-grid">
+                {% for brand in product_brands %}
+                <article class="card">
+                    <div class="card-body">
+                        <span class="eyebrow">{{ appliance_type.display_name }}</span>
+                        <h3><a href="{% url 'portal:product_brand' type_slug=appliance_type.slug brand_slug=brand.slug %}">{{ brand.display_name }}</a></h3>
+                        {% if brand.display_description %}
+                        <p>{{ brand.display_description|truncatechars:140 }}</p>
+                        {% endif %}
+                        <div class="card-meta">
+                            <span>{{ brand.product_count }} {% ui 'items_in_section' %}</span>
+                        </div>
+                    </div>
+                </article>
+                {% endfor %}
+            </div>
+            {% endif %}
+        </section>
+    </div>
+
+    <aside class="sidebar">
+        <form class="filter-panel" method="get">
+            <div class="section-heading">
+                <h2>{% ui 'filters' %}</h2>
+            </div>
+            {% for group in product_filter_groups %}
+            <details class="filter-group" {% if selected_product_filters|get_item:group.key %}open{% endif %}>
+                <summary>{{ group.title }}</summary>
+                <div class="filter-options">
+                    {% for option in group.options %}
+                    <label class="filter-option">
+                        <input
+                            type="checkbox"
+                            name="{{ group.key }}"
+                            value="{{ option.value }}"
+                            {% if option.value in selected_product_filters|get_item:group.key %}checked{% endif %}
+                        >
+                        <span>{{ option.label }}</span>
+                    </label>
+                    {% endfor %}
+                </div>
+            </details>
+            {% endfor %}
+            <div class="filter-actions">
+                <button type="submit">{% ui 'apply_filters' %}</button>
+                <a class="button button--ghost" href="{{ request.path }}">{% ui 'reset_filters' %}</a>
+            </div>
+        </form>
+    </aside>
+</section>
+{% else %}
+<section class="section-block">
+    <div class="section-heading">
+        <div>
+            <h1>{{ page_heading }}</h1>
+            <p>{{ page_intro }}</p>
+        </div>
+    </div>
+    {% if product_brands %}
+    <div class="card-grid">
+        {% for brand in product_brands %}
+        <article class="card">
+            <div class="card-body">
+                <span class="eyebrow">{{ appliance_type.display_name }}</span>
+                <h3><a href="{% url 'portal:product_brand' type_slug=appliance_type.slug brand_slug=brand.slug %}">{{ brand.display_name }}</a></h3>
+                {% if brand.display_description %}
+                <p>{{ brand.display_description|truncatechars:140 }}</p>
+                {% endif %}
+                <div class="card-meta">
+                    <span>{{ brand.product_count }} {% ui 'items_in_section' %}</span>
+                </div>
+            </div>
+        </article>
+        {% endfor %}
+    </div>
+    {% endif %}
+    {% if product_appliance_types %}
+    <div class="card-grid">
+        {% for appliance_type in product_appliance_types %}
+        <article class="card">
+            <div class="card-body">
+                <span class="eyebrow">{% ui 'products' %}</span>
+                <h3><a href="{% url 'portal:product_type' type_slug=appliance_type.slug %}">{{ appliance_type.display_name }}</a></h3>
+                {% if appliance_type.display_description %}
+                <p>{{ appliance_type.display_description|truncatechars:140 }}</p>
+                {% endif %}
+                <div class="card-meta">
+                    <span>{{ appliance_type.product_count }} {% ui 'items_in_section' %}</span>
+                </div>
+            </div>
+        </article>
+        {% endfor %}
+    </div>
+    {% endif %}
+</section>
+<section class="section-block">
+    <div class="section-heading">
+        <h2>{% ui 'latest_products' %}</h2>
+    </div>
+    <div class="card-grid">
+        {% for product in products %}
+            {% include "includes/product_card.html" with product=product %}
+        {% empty %}
+            <p class="empty-state">{% ui 'no_results' %}</p>
+        {% endfor %}
+    </div>
+    {% include "includes/pagination.html" with page_obj=page_obj %}
+</section>
+{% endif %}
+{% endblock %}

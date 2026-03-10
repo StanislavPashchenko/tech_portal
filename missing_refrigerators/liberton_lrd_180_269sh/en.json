@@ -1,0 +1,131 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/LIBERTON-LRD-180-269SH.htm",
+    "actual_url": "https://ek.ua/en/LIBERTON-LRD-180-269SH.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liberton",
+    "model": "LRD 180-269SH silver",
+    "title": "Liberton LRD 180-269SH silver",
+    "category": "E-Katalog category 200",
+    "year": 2022,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 10
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "rotary knobs",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": null,
+    "climate_class": [
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 42,
+    "dimensions_cm": {
+      "height": 180.0,
+      "width": 55.0,
+      "depth": 56.0
+    },
+    "weight_kg": 50.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general",
+      "Price for Liberton LRD 180-269SH"
+    ]
+  },
+  "description": "Fridge Liberton LRD 180-269SH silver at a price from 12699 to 15375 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2339423.jpg",
+    "https://s.ek.ua/jpg/2339423.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "FOXTROT.UA →": "13 461 ₴",
+      "Enko.com.ua →": "12 699 ₴",
+      "MAUDAU →": "14 033 ₴",
+      "Rozetka.ua →": "15 375 ₴",
+      "Rozetka.ua → (2)": "15 041 ₴",
+      "Colour Total capacity 262 L Number of chambers 2 Number of cooling circuits 1 Number of compressors 1 Features Features reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 191 L Number of shelves 4 Auto-defrost LED lighting": "December 2022",
+      "Total capacity": "262 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "Features": "reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "191 L",
+      "Number of shelves": "4",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "71 L",
+      "Freezer drawers": "3",
+      "Autonomy time": "12 h",
+      "Freeze capacity": "3 kg/day",
+      "Controls": "rotary knobs",
+      "Energy class": "A+",
+      "Climate class": "N, ST (+16...+38 °С)",
+      "Noise level": "42 dB",
+      "Dimensions (HxWxD)": "180x55x56 cm",
+      "Weight": "50 kg",
+      "Official Website": "liberton.ua",
+      "Added to E-Catalog": "December 2022",
+      "LED lighting": "yes",
+      "Auto-defrost": "yes"
+    },
+    "Price for Liberton LRD 180-269SH": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\liberton_lrd_180_269sh\\images\\01.jpg",
+    "missing_refrigerators\\liberton_lrd_180_269sh\\images\\02.jpg"
+  ]
+}

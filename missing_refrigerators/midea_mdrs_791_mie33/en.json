@@ -1,0 +1,141 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/MIDEA-MDRS-791-MIE33.htm",
+    "actual_url": "https://ek.ua/en/MIDEA-MDRS-791-MIE33.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Midea",
+    "model": "MDRS 791 MIE33 beige",
+    "title": "Midea MDRS 791 MIE33 beige",
+    "category": "E-Katalog category 200",
+    "year": 332,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": "Side-by-side",
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "side",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "external touch controls",
+    "energy_class_new": "A+",
+    "annual_energy_consumption_kwh": 332,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 179.3,
+      "width": 91.0,
+      "depth": 69.8
+    },
+    "weight_kg": 86.0,
+    "country_of_origin": "China"
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Midea MDRS 791 MIE33 beige at a price from 34399 to 34399 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2610104.jpg",
+    "https://mzimg.com/big/91/hlyzr4dq591.jpg",
+    "https://mzimg.com/big/01/hlyzr4ec901.jpg",
+    "https://mzimg.com/big/p1/hlyzr4p7ap1.jpg",
+    "https://mzimg.com/big/81/hlyzr4pqd81.jpg",
+    "https://mzimg.com/big/s1/hlyzr4yqjs1.jpg",
+    "https://s.ek.ua/jpg/2610104.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 6": "34 399 ₴ Buy! MIDEA MDRS791MIE33 575.in.ua 5 year with us Delivery: to Dnipro from Kyiv Warranty: manufacturer Report add to list my lists add to comparison",
+      "Colour Type Side-by-side Total capacity 592 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 Inverter compressor No Frost freezer / refrigerator compartments Features Features control via smartphone (Wi-Fi) child lock LED display door alarm More features hidden door handles Refrigeration chamber Refrigerator capacity 379 L Number of shelves 4 Storage compartments bottle rack Fast cool Dynamic air cooling Auto-defrost LED lighting": "January 2024",
+      "Type": "Side-by-side",
+      "Total capacity": "592 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "control via smartphone (Wi-Fi) child lock LED display door alarm",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "379 L",
+      "Number of shelves": "4",
+      "Storage compartments": "bottle rack",
+      "Freezer compartment": "side",
+      "Freezer capacity": "213 L",
+      "Freezer temperature": "-24 °C",
+      "Controls": "external touch controls",
+      "Energy class": "A+",
+      "Energy consumption per year": "332 kWh",
+      "Climate class": "SN, N, ST, T (+10...+43 °С)",
+      "Dimensions (HxWxD)": "179.3х91х69.8 cm",
+      "Weight": "86 kg",
+      "Country of origin": "China",
+      "Added to E-Catalog": "January 2024",
+      "Inverter compressor": "yes",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\midea_mdrs_791_mie33\\images\\01.jpg",
+    "missing_refrigerators\\midea_mdrs_791_mie33\\images\\02.jpg",
+    "missing_refrigerators\\midea_mdrs_791_mie33\\images\\03.jpg",
+    "missing_refrigerators\\midea_mdrs_791_mie33\\images\\04.jpg",
+    "missing_refrigerators\\midea_mdrs_791_mie33\\images\\05.jpg",
+    "missing_refrigerators\\midea_mdrs_791_mie33\\images\\06.jpg",
+    "missing_refrigerators\\midea_mdrs_791_mie33\\images\\07.jpg"
+  ]
+}

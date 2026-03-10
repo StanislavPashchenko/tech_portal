@@ -1,0 +1,144 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/CANDY-CCH1T-518-FW.htm",
+    "actual_url": "https://ek.ua/en/CANDY-CCH1T-518-FW.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Candy",
+    "model": "CCH1T 518 FW white",
+    "title": "Candy CCH1T 518 FW white",
+    "category": "E-Katalog category 200",
+    "year": 275,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "bottom",
+    "volume_l": null,
+    "sections_count": 3,
+    "sections_details": "3",
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "internal touch controls",
+    "energy_class_new": "F",
+    "annual_energy_consumption_kwh": 275,
+    "climate_class": null,
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 40,
+    "dimensions_cm": {
+      "height": 180.0,
+      "width": 54.0,
+      "depth": 60.0
+    },
+    "weight_kg": 51.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Fridge Candy CCH1T 518 FW white at a price from 14999 to 15399 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2535443.jpg",
+    "https://mzimg.com/big/a1/hhtvicm7qa1.jpg",
+    "https://mzimg.com/big/x1/hhtvicq3ux1.jpg",
+    "https://mzimg.com/big/01/hhtvicw0l01.jpg",
+    "https://mzimg.com/big/l1/hhtvid1ihl1.jpg",
+    "https://mzimg.com/big/p1/hhtvid70pp1.jpg",
+    "https://mzimg.com/big/y1/hhtvidbo0y1.jpg",
+    "https://mzimg.com/big/51/hhtvidhg151.jpg",
+    "https://mzimg.com/big/p1/hhtvidn94p1.jpg",
+    "https://mzimg.com/big/q1/hhtvidsotq1.jpg",
+    "https://mzimg.com/big/x1/hhtvidxoqx1.jpg",
+    "https://s.ek.ua/jpg/2535443.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Photos 11": "14 999 ₴",
+      "575.in.ua →": "14 999 ₴",
+      "Colour Total capacity 253 L Number of chambers 2 Number of cooling circuits 1 Number of compressors 1 No Frost freezer / refrigerator compartments Features Features reversible door More features hidden door handles Refrigeration chamber Refrigerator capacity 182 L Number of shelves 3 Fast cool Dynamic air cooling Auto-defrost LED lighting": "September 2023",
+      "Total capacity": "253 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "1",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "reversible door",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "182 L",
+      "Number of shelves": "3",
+      "Freezer compartment": "bottom",
+      "Freezer capacity": "71 L",
+      "Freezer drawers": "3",
+      "Autonomy time": "9 h",
+      "Controls": "internal touch controls",
+      "Energy class (new)": "F",
+      "Energy consumption per year": "275 kWh",
+      "Noise level": "40 dB",
+      "Dimensions (HxWxD)": "180x54x60 cm",
+      "Weight": "51 kg",
+      "Added to E-Catalog": "September 2023",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\candy_cch1t_518_fw\\images\\01.jpg",
+    "missing_refrigerators\\candy_cch1t_518_fw\\images\\02.jpg",
+    "missing_refrigerators\\candy_cch1t_518_fw\\images\\03.jpg",
+    "missing_refrigerators\\candy_cch1t_518_fw\\images\\04.jpg",
+    "missing_refrigerators\\candy_cch1t_518_fw\\images\\05.jpg",
+    "missing_refrigerators\\candy_cch1t_518_fw\\images\\06.jpg",
+    "missing_refrigerators\\candy_cch1t_518_fw\\images\\07.jpg",
+    "missing_refrigerators\\candy_cch1t_518_fw\\images\\08.jpg",
+    "missing_refrigerators\\candy_cch1t_518_fw\\images\\09.jpg",
+    "missing_refrigerators\\candy_cch1t_518_fw\\images\\10.jpg",
+    "missing_refrigerators\\candy_cch1t_518_fw\\images\\11.jpg",
+    "missing_refrigerators\\candy_cch1t_518_fw\\images\\12.jpg"
+  ]
+}

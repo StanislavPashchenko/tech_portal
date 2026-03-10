@@ -1,0 +1,127 @@
+{
+  "source": {
+    "url": "https://ek.ua/ua/LIEBHERR-GKW-1455.htm",
+    "actual_url": "https://ek.ua/ua/LIEBHERR-GKW-1455.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Liebherr",
+    "model": "GKw 1455 білий",
+    "title": "Холодильник Liebherr GKw 1455 білий",
+    "category": "E-Katalog category 200",
+    "year": 2022,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 234,
+    "cameras_count": 2,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": false,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 190,
+    "shelves_count": 3
+  },
+  "freezer_compartment": {
+    "location": "зверху",
+    "volume_l": 44,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "поворотні перемикачі",
+    "energy_class_new": "F",
+    "annual_energy_consumption_kwh": 212,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST",
+      "T"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 37,
+    "dimensions_cm": {
+      "height": 140.1,
+      "width": 55.0,
+      "depth": 63.0
+    },
+    "weight_kg": 56.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ua",
+    "html_lang": "uk",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Простий і порівняно недорогий двокамерний холодильник з класичною компонуванням, представлений на ринку компанією Liebherr в 2022 році. Позиціонується виробником в доступний ціновий сегмент і головним чином орієнтований на користувачів, яким просто потрібен невеликий, але якісний холодильник. Може послужити хорошим вибором для сімейств з 1-2 чоловік, в якості рішення для дачі, а також для оснащення готельних номерів. Загальний корисний об'єм холодильника Liebherr GKw 1455 становить 234 л.виробником передбачені дві камери, при цьому кожна з них оснащена власною дверцятами доступу. Невелика морозика на 44 л розміщена зверху. Спеціальна технологія SmartFrost дозволяє зменшити кількість льоду та інею, яке утворюється на внутрішніх стінках камери. Завдяки цьому Користувачеві рідше доводиться розморожувати камеру для очищення. Ємність холодильного відділення становить 190 л, при цьому весь цей об'єм розділений між трьома полками і великим містким відділенням для овочів і фруктів. До всього іншого модель досить тиха-рівень створюваного шуму не перевищує 37 дБ.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2197215.jpg",
+    "https://mzimg.com/big/g1/h2295bkblg1.jpg",
+    "https://mzimg.com/big/e1/h2295bl12e1.jpg",
+    "https://s.ek.ua/jpg/2197215.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 3": "14 962 грн. Купити! Холодильник Liebherr GKw 1455-1 inSale.com.ua Менше року Доставка: у Дніпро з Києва Гарантія: 12 міс. Поскаржитись в список мої списки додати до порівняння",
+      "Колір Загальний об'єм 234 л Кількість камер 2 Контурів охолодження 1 Компресорів 1 Функції та можливості Функції перевішування дверей Холодильне відділення Об'єм холодильної камери 190 л Полиць 3 шт LED освітлення": "травень 2022",
+      "Загальний об'єм": "234 л",
+      "Кількість камер": "2",
+      "Контурів охолодження": "1",
+      "Компресорів": "1",
+      "Функції": "перевішування дверей",
+      "Об'єм холодильної камери": "190 л",
+      "Полиць": "3 шт",
+      "Морозильна камера": "зверху",
+      "Об'єм морозильної камери": "44 л",
+      "Управління": "поворотні перемикачі",
+      "Клас енергоспоживання (new)": "F",
+      "Споживання енергії в рік": "212 кВт*год",
+      "Кліматичний клас": "SN, N, ST, T (+10...+43 °С)",
+      "Клас гучності": "C",
+      "Рівень шуму": "37 дБ",
+      "Габарити (ВхШхГ)": "140.1x55x63 см",
+      "Вага": "56 кг",
+      "Дата додавання на E-Katalog": "травень 2022",
+      "LED освітлення": "так"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\liebherr_gkw_1455\\images\\01.jpg",
+    "missing_refrigerators\\liebherr_gkw_1455\\images\\02.jpg",
+    "missing_refrigerators\\liebherr_gkw_1455\\images\\03.jpg",
+    "missing_refrigerators\\liebherr_gkw_1455\\images\\04.jpg"
+  ]
+}

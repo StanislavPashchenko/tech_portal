@@ -1,0 +1,152 @@
+{
+  "source": {
+    "url": "https://ek.ua/en/HAIER-HSR-3918ENPB.htm",
+    "actual_url": "https://ek.ua/en/HAIER-HSR-3918ENPB.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "Haier",
+    "model": "HSR-3918ENPB black",
+    "title": "Haier HSR-3918ENPB black",
+    "category": "E-Katalog category 200",
+    "year": 317,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": 3
+  },
+  "summary": {
+    "type": "Side-by-side",
+    "total_volume_l": null,
+    "cameras_count": null,
+    "cooling_circuits": 2,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": null,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": null,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": null,
+    "auto_defrost": null,
+    "led_lighting": null,
+    "quick_freeze": null,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": null,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "side",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "external touch controls",
+    "energy_class_new": "E",
+    "annual_energy_consumption_kwh": 317,
+    "climate_class": [
+      "SN",
+      "C"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": null,
+    "dimensions_cm": {
+      "height": 177.5,
+      "width": 90.8,
+      "depth": 64.7
+    },
+    "weight_kg": 94.0,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "en",
+    "html_lang": "en",
+    "parsed_groups": [
+      "general",
+      "Price for Haier HSR-3918ENPB"
+    ]
+  },
+  "description": "Fridge Haier HSR-3918ENPB black at a price from 32749 to 46862 ₴ >>> E-Katalog - catalog prices comparison & specs ✔ User & media reviews, manuals.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/2037054.jpg",
+    "https://mzimg.com/big/k1/grd8d22i9k1.jpg",
+    "https://mzimg.com/big/91/grd8d23wh91.jpg",
+    "https://mzimg.com/big/91/grd8d2h5h91.jpg",
+    "https://mzimg.com/big/t1/grd8d2ilpt1.jpg",
+    "https://mzimg.com/big/i1/grd8d2v6ii1.jpg",
+    "https://mzimg.com/big/91/grd8d2wmj91.jpg",
+    "https://mzimg.com/big/71/grd8d37nu71.jpg",
+    "https://mzimg.com/big/q1/grd8d3924q1.jpg",
+    "https://mzimg.com/big/x1/grd8d3l62x1.jpg",
+    "https://mzimg.com/big/41/grd8d3mke41.jpg",
+    "https://s.ek.ua/jpg/2037054.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Tendo.com.ua →": "32 749 ₴",
+      "Colour Type Side-by-side Total capacity 528 L Number of chambers 2 Number of cooling circuits 2 Number of compressors 1 No Frost freezer / refrigerator compartments Features Features holiday mode child lock LED display door alarm More features hidden door handles Refrigeration chamber Refrigerator capacity 337 L Number of shelves 4 Fast cool Dynamic air cooling Auto-defrost LED lighting": "June 2021",
+      "Type": "Side-by-side",
+      "Total capacity": "528 L",
+      "Number of chambers": "2",
+      "Number of cooling circuits": "2",
+      "Number of compressors": "1",
+      "No Frost": "freezer / refrigerator compartments",
+      "Features": "holiday mode child lock LED display door alarm",
+      "More features": "hidden door handles",
+      "Refrigerator capacity": "337 L",
+      "Number of shelves": "4",
+      "Freezer compartment": "side",
+      "Freezer capacity": "191 L",
+      "Autonomy time": "5 h",
+      "Freeze capacity": "10 kg/day",
+      "Controls": "external touch controls",
+      "Energy class (new)": "E",
+      "Energy consumption per year": "317 kWh",
+      "Climate class": "subnormal SN (+10...+32 °C)",
+      "Noise class": "C",
+      "Noise level": "38 dB",
+      "Dimensions (HxWxD)": "177.5x90.8x64.7 cm",
+      "Weight": "94 kg",
+      "Official Website": "haier-europe.com",
+      "Added to E-Catalog": "June 2021",
+      "LED lighting": "yes",
+      "Fast cool": "yes",
+      "Dynamic air cooling": "yes",
+      "Auto-defrost": "yes"
+    },
+    "Price for Haier HSR-3918ENPB": {}
+  },
+  "local_images": [
+    "missing_refrigerators\\haier_hsr_3918enpb\\images\\01.jpg",
+    "missing_refrigerators\\haier_hsr_3918enpb\\images\\02.jpg",
+    "missing_refrigerators\\haier_hsr_3918enpb\\images\\03.jpg",
+    "missing_refrigerators\\haier_hsr_3918enpb\\images\\04.jpg",
+    "missing_refrigerators\\haier_hsr_3918enpb\\images\\05.jpg",
+    "missing_refrigerators\\haier_hsr_3918enpb\\images\\06.jpg",
+    "missing_refrigerators\\haier_hsr_3918enpb\\images\\07.jpg",
+    "missing_refrigerators\\haier_hsr_3918enpb\\images\\08.jpg",
+    "missing_refrigerators\\haier_hsr_3918enpb\\images\\09.jpg",
+    "missing_refrigerators\\haier_hsr_3918enpb\\images\\10.jpg",
+    "missing_refrigerators\\haier_hsr_3918enpb\\images\\11.jpg",
+    "missing_refrigerators\\haier_hsr_3918enpb\\images\\12.jpg"
+  ]
+}

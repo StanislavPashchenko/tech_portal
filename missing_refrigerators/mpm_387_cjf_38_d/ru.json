@@ -1,0 +1,138 @@
+{
+  "source": {
+    "url": "https://ek.ua/MPM-387-CJF-38-D.htm",
+    "actual_url": "https://ek.ua/MPM-387-CJF-38-D.htm",
+    "site": "E-Katalog",
+    "retrieved_on": "2026-03-09"
+  },
+  "product": {
+    "brand": "MPM",
+    "model": "387-CJF-38/D графит",
+    "title": "Холодильник MPM 387-CJF-38/D графит",
+    "category": "E-Katalog category 200",
+    "year": 2026,
+    "color": null
+  },
+  "pricing": {
+    "currency": "UAH",
+    "min_price": null,
+    "max_price": null,
+    "offers_count": null
+  },
+  "summary": {
+    "type": null,
+    "total_volume_l": 359,
+    "cameras_count": 1,
+    "cooling_circuits": 1,
+    "compressors_count": 1,
+    "no_frost": {
+      "fridge": true,
+      "freezer": null
+    }
+  },
+  "features": {
+    "display": null,
+    "door_open_indicator": true,
+    "hidden_door_handles": null,
+    "fresh_zone": null,
+    "dynamic_cooling": false,
+    "auto_defrost": false,
+    "led_lighting": true,
+    "quick_freeze": false,
+    "leak_protection": null,
+    "foam_control": null,
+    "imbalance_control": null,
+    "child_lock": null
+  },
+  "fridge_compartment": {
+    "volume_l": 359,
+    "shelves_count": 4
+  },
+  "freezer_compartment": {
+    "location": "отсутствует",
+    "volume_l": null,
+    "sections_count": null,
+    "sections_details": null,
+    "cold_storage_time_h": null,
+    "freezing_capacity_kg_per_day": null
+  },
+  "general": {
+    "control": "сенсорное внешнее",
+    "energy_class_new": "D",
+    "annual_energy_consumption_kwh": 94,
+    "climate_class": [
+      "SN",
+      "N",
+      "ST"
+    ],
+    "working_temperature_range_c": {
+      "min": null,
+      "max": null
+    },
+    "noise_level_db": 40,
+    "dimensions_cm": {
+      "height": 185.0,
+      "width": 60.0,
+      "depth": 70.0
+    },
+    "weight_kg": null,
+    "country_of_origin": null
+  },
+  "metadata": {
+    "language": "ru",
+    "html_lang": "ru",
+    "parsed_groups": [
+      "general"
+    ]
+  },
+  "description": "Холодильник MPM 387-CJF-38/D графит по цене от 23958 до 30951 грн. >>> E-Katalog - каталог сравнение цен и характеристик ✔ Отзывы, обзоры, инструкции.",
+  "images": [
+    "https://s.ek.ua/jpg_zoom1/3034977.jpg",
+    "https://mzimg.com/big/d1/i9pnx3wefd1.jpg",
+    "https://mzimg.com/big/m1/i9pnx36wrm1.jpg",
+    "https://mzimg.com/big/51/i9pnx391n51.jpg",
+    "https://mzimg.com/big/01/i9pnx3tev01.jpg",
+    "https://mzimg.com/big/t1/i9pnx4h1nt1.jpg",
+    "https://s.ek.ua/jpg/3034977.jpg"
+  ],
+  "raw_specs": {
+    "general": {
+      "Фото 6": "25 489 грн.",
+      "Elmag.ua →": "24 200 грн.",
+      "COMFY.ua →": "24 200 грн.",
+      "Novateh.com.ua →": "25 489 грн.",
+      "Цвет Общий объем 359 л Количество камер 1 Контуров охлаждения 1 Компрессоров 1 No Frost холодильная камера Функции и возможности Функции защита от детей LED дисплей индикатор закрытия дверцы перевешивание дверей Холодильное отделение Объем холодильной камеры 359 л Полок 4 шт Отсеки для хранения полка для бутылок Быстрое охлаждение Динамическое охлаждение Автоматическая разморозка LED освещение": "январь 2026",
+      "Общий объем": "359 л",
+      "Количество камер": "1",
+      "Контуров охлаждения": "1",
+      "Компрессоров": "1",
+      "No Frost": "холодильная камера",
+      "Функции": "защита от детей LED дисплей индикатор закрытия дверцы перевешивание дверей",
+      "Объем холодильной камеры": "359 л",
+      "Полок": "4 шт",
+      "Отсеки для хранения": "полка для бутылок",
+      "Морозильная камера": "отсутствует",
+      "Управление": "сенсорное внешнее",
+      "Класс энергопотребления (new)": "D",
+      "Потребление энергии в год": "94 кВт*ч",
+      "Климатический класс": "SN, N, ST (+10...+38 °С)",
+      "Класс шумности": "C",
+      "Уровень шума": "40 дБ",
+      "Габариты (ВхШхГ)": "185х60х70 см",
+      "Дата добавления на E-Katalog": "январь 2026",
+      "Быстрое охлаждение": "да",
+      "Динамическое охлаждение": "да",
+      "Автоматическая разморозка": "да",
+      "LED освещение": "да"
+    }
+  },
+  "local_images": [
+    "missing_refrigerators\\mpm_387_cjf_38_d\\images\\01.jpg",
+    "missing_refrigerators\\mpm_387_cjf_38_d\\images\\02.jpg",
+    "missing_refrigerators\\mpm_387_cjf_38_d\\images\\03.jpg",
+    "missing_refrigerators\\mpm_387_cjf_38_d\\images\\04.jpg",
+    "missing_refrigerators\\mpm_387_cjf_38_d\\images\\05.jpg",
+    "missing_refrigerators\\mpm_387_cjf_38_d\\images\\06.jpg",
+    "missing_refrigerators\\mpm_387_cjf_38_d\\images\\07.jpg"
+  ]
+}
